@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="en_US">
+  <string key="3100.name" hash="630446e017a1e3827e44656c2fde8c6b" maxlen="30">
+   <original>Gold Leaf</original>
+  </string>
+  <string key="3100.description" hash="3e2db41905996e3d32ed86c719cec1f8" maxlen="45">
+   <original>A small pile of Gold for premium activities.</original>
+  </string>
+  <string key="3101.name" hash="91f1cabc7e806009018aa12e17d330c5" maxlen="30">
+   <original>Gold Case</original>
+  </string>
+  <string key="3101.description" hash="a2e4d38db21d5ff36cd22a5d4927ff3e" maxlen="45">
+   <original>A small amount of Gold.</original>
+  </string>
+  <string key="3102.name" hash="2478ca1ca1ba1a4ba43d8c001c92f515" maxlen="30">
+   <original>Gold Sack</original>
+  </string>
+  <string key="3102.description" hash="7b93496625ca91ef1b5c7bdfaad345c5" maxlen="45">
+   <original>A moderate amount of Gold.</original>
+  </string>
+  <string key="3103.name" hash="3b14188ffbc8b9fdeb6e0184de79db78" maxlen="30">
+   <original>Fat Stack of Gold</original>
+  </string>
+  <string key="3103.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="3104.name" hash="70847a9bdd6f1872824cba3cb329b062" maxlen="30">
+   <original>Gold Rush Pack</original>
+  </string>
+  <string key="3104.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="3105.name" hash="807347336aabe492e607a9fd07fb910f" maxlen="30">
+   <original>Super Combo Pack</original>
+  </string>
+  <string key="3105.description" hash="21bb1455b55ce909affde86183df6589" maxlen="45">
+   <original>A Super Combo: 10 Gold; +5 Extra moves</original>
+  </string>
+  <string key="3106.name" hash="18a1a108c224afe2cff55be64cd86f5a" maxlen="30">
+   <original>Ultimate Combo Pack</original>
+  </string>
+  <string key="3106.description" hash="139c476e132d911435b0064fbd528e63" maxlen="45">
+   <original>55 Gold,3 Cake Pops,3 Double Spatula Powerups</original>
+  </string>
+  <string key="3107.name" hash="212717cd113a77cf4244b8b2ea5b694a" maxlen="30">
+   <original>Refill Lives</original>
+  </string>
+  <string key="3107.description" hash="eb155f6d6074f0a5b8606942839b7ca5" maxlen="45">
+   <original>1 hour of unlimited play, +6 Gold to the bank</original>
+  </string>
+  <string key="3108.name" hash="aae8a8da6f0a488148cada5da7e97b99" maxlen="30">
+   <original>Special Gold Pack Offer</original>
+  </string>
+  <string key="3108.description" hash="31e12e9ac8e475d80513a5b102f39265" maxlen="45">
+   <original>Adds 10 gold to your bank along with a gift</original>
+  </string>
+  <string key="3109.name" hash="aa73ea9e555b12c72d266d38e1055bc4" maxlen="30">
+   <original>Special Bigger Gold Pack Offer</original>
+  </string>
+  <string key="3109.description" hash="37337563d0e7bf3bc2c21fc3f28be320" maxlen="45">
+   <original>Adds 55 gold to your bank along with a gift</original>
+  </string>
+  <string key="3110.name" hash="97c7bca54aa3c248cc12245534247a50" maxlen="30">
+   <original>Special Gold Lover Pack Offer</original>
+  </string>
+  <string key="3110.description" hash="ca1648c1d8152b7f361cba2755fa1466" maxlen="45">
+   <original>Adds 110 gold to your bank along with a gift</original>
+  </string>
+  <string key="3111.name" hash="fda77d29c6af2b434614d30d2fe78deb" maxlen="30">
+   <original>Special Mega Gold Pack Offer</original>
+  </string>
+  <string key="3111.description" hash="9605030995b0fbee743bdd4ae5a9500e" maxlen="45">
+   <original>Adds 260 gold to your bank along with a gift</original>
+  </string>
+  <string key="3112.name" hash="7c861dd7506853d8d66f2117ce5adcb2" maxlen="30">
+   <original>Special Super Gold Pack Offer</original>
+  </string>
+  <string key="3112.description" hash="3dd92c2dc317e95833b8ab4ea01f5893" maxlen="45">
+   <original>Adds 510 gold to your bank along with a gift</original>
+  </string>
+  <string key="3113.name" hash="0adbfd70c8a271046a8747b796f82e26" maxlen="30">
+   <original>Special Gold Offer 1</original>
+  </string>
+  <string key="3113.description" hash="8a86f283c19070ae2c834de758914694" maxlen="45">
+   <original>Adds 20 gold and some gifts to your bank</original>
+  </string>
+  <string key="3114.name" hash="9aade356da7ae215a88237dfc60b87c4" maxlen="30">
+   <original>Special Gold Offer 2</original>
+  </string>
+  <string key="3114.description" hash="7be4009652789286e4ace611d004a32e" maxlen="45">
+   <original>Adds 30 gold and some gifts to your bank</original>
+  </string>
+  <string key="3115.name" hash="be9d6e465da16638bded91131354f277" maxlen="30">
+   <original>Special Gold Offer 3</original>
+  </string>
+  <string key="3115.description" hash="4a3b34c13b60c4386fc07915b62bb14a" maxlen="45">
+   <original>Adds 40 gold and some gifts to your bank</original>
+  </string>
+  <string key="3116.name" hash="5bdfc7c33d1c5dc02b722433d983cdec" maxlen="30">
+   <original>Special Gold Offer 4</original>
+  </string>
+  <string key="3116.description" hash="d4372031a1df0349d474548fcd792773" maxlen="45">
+   <original>Adds 66 gold and some gifts to your bank</original>
+  </string>
+  <string key="3117.name" hash="e96578146a5425cafdec4c5b95ccf4cd" maxlen="30">
+   <original>Special Gold Offer 5</original>
+  </string>
+  <string key="3117.description" hash="c47dbcb820b04716d1cc9d1705dea43f" maxlen="45">
+   <original>Adds 77 gold and some gifts to your bank</original>
+  </string>
+  <string key="3118.name" hash="f79847394a0efcaee57cbd1000a1ebb3" maxlen="30">
+   <original>Special Gold Offer 6</original>
+  </string>
+  <string key="3118.description" hash="f9a1cd411c2b8d3f0984e98e3520ea5a" maxlen="45">
+   <original>Adds 88 gold and some gifts to your bank</original>
+  </string>
+  <string key="3119.name" hash="1377c6aa2e43d799c7d77ad6f8c3b144" maxlen="30">
+   <original>Special Gold Offer 7</original>
+  </string>
+  <string key="3119.description" hash="59078c9f2127166f27995381c4e4dec4" maxlen="45">
+   <original>Adds 99 gold and some gifts to your bank</original>
+  </string>
+  <string key="3120.name" hash="f7a7e0868246e9eb9d55ab5a6e132442" maxlen="30">
+   <original>Special Gold Offer 8</original>
+  </string>
+  <string key="3120.description" hash="34bd21c3a354cb22e01c3193ddb406b5" maxlen="45">
+   <original>Adds 121 gold and some gifts to your bank</original>
+  </string>
+  <string key="3121.name" hash="535af1b5b17b44785b1062484775ade0" maxlen="30">
+   <original>Special Gold Offer 9</original>
+  </string>
+  <string key="3121.description" hash="209cec159f0d9e53d883922c52ed7cdd" maxlen="45">
+   <original>Adds 132 gold and some gifts to your bank</original>
+  </string>
+  <string key="3122.name" hash="3617eb79c488cd799a3be234057c354d" maxlen="30">
+   <original>Special Gold Offer 10</original>
+  </string>
+  <string key="3122.description" hash="41eeee3a8c9b8cdfc96d834dfc162260" maxlen="45">
+   <original>Adds 143 gold and some gifts to your bank</original>
+  </string>
+  <string key="3123.name" hash="38acb9cb88f40ae075d8ad2ab00c142e" maxlen="30">
+   <original>Special Gold Offer 11</original>
+  </string>
+  <string key="3123.description" hash="1d594fdd3a8e36a424a5c9337918285e" maxlen="45">
+   <original>Adds 154 gold and some gifts to your bank</original>
+  </string>
+  <string key="3124.name" hash="f9ce0b48d587ba888712af3a502b5831" maxlen="30">
+   <original>Special Gold Offer 12</original>
+  </string>
+  <string key="3124.description" hash="e7253ee212e3e74262b42eb426850ae2" maxlen="45">
+   <original>Adds 165 gold and some gifts to your bank</original>
+  </string>
+  <string key="3125.name" hash="3a2618e153013f88a2e64a15175ca93c" maxlen="30">
+   <original>Special Gold Offer 13</original>
+  </string>
+  <string key="3125.description" hash="45f90a77281b52e6664ca29a158b7295" maxlen="45">
+   <original>Adds 176 gold and some gifts to your bank</original>
+  </string>
+  <string key="3126.name" hash="09c1d10e4aac85f6bb19f6678eda7c25" maxlen="30">
+   <original>Special Gold Offer 14</original>
+  </string>
+  <string key="3126.description" hash="83cb282b8edd90f83fbcf2b4b0b21bb1" maxlen="45">
+   <original>Adds 187 gold and some gifts to your bank</original>
+  </string>
+  <string key="3127.name" hash="bdc9ebeaebc56f8efff4aafa398b8a00" maxlen="30">
+   <original>Special Gold Offer 15</original>
+  </string>
+  <string key="3127.description" hash="7ad224fd4d2076a18a62fba347b3b41d" maxlen="45">
+   <original>Adds 198 gold and some gifts to your bank</original>
+  </string>
+  <string key="3128.name" hash="5e7cf355cdab654ba84b3f3d0487d8d4" maxlen="30">
+   <original>Special Gold Offer 16</original>
+  </string>
+  <string key="3128.description" hash="ca743904a9f7b0b2b7ae7a71a8862187" maxlen="45">
+   <original>Adds 209 gold and some gifts to your bank</original>
+  </string>
+  <string key="3129.name" hash="b7df82e81787286f955b39ebe7450898" maxlen="30">
+   <original>Special Gold Offer 17</original>
+  </string>
+  <string key="3129.description" hash="1299369c62ea3653594e910bd4dfebdb" maxlen="45">
+   <original>Adds 220 gold and some gifts to your bank</original>
+  </string>
+  <string key="3130.name" hash="9b49ef49078b83507236c058bf31adfa" maxlen="30">
+   <original>Special Gold Offer 18</original>
+  </string>
+  <string key="3130.description" hash="6d6735bafc659baa86ad3bde326ace23" maxlen="45">
+   <original>Adds 273 gold and some gifts to your bank</original>
+  </string>
+  <string key="3131.name" hash="4cc9ff232fd91c6286c8a51eb83a48f8" maxlen="30">
+   <original>Special Gold Offer 19</original>
+  </string>
+  <string key="3131.description" hash="e23d1ce8cc6beac25947143f40bdfe43" maxlen="45">
+   <original>Adds 285 gold and some gifts to your bank</original>
+  </string>
+  <string key="3132.name" hash="bc39440b48ab4559b3379ca8eba5cada" maxlen="30">
+   <original>Special Gold Offer 20</original>
+  </string>
+  <string key="3132.description" hash="1d27f8d4afad0398ef9443398056f8ac" maxlen="45">
+   <original>Adds 298 gold and some gifts to your bank</original>
+  </string>
+  <string key="3133.name" hash="45e3791ec85ff9e63e15393e6da1dc05" maxlen="30">
+   <original>Special Gold Offer 21</original>
+  </string>
+  <string key="3133.description" hash="7132a585d513b37a9911d1534e806e89" maxlen="45">
+   <original>Adds 310 gold and some gifts to your bank</original>
+  </string>
+  <string key="3134.name" hash="7bf01d9dab80d80bed0208222cd6db18" maxlen="30">
+   <original>Special Gold Offer 22</original>
+  </string>
+  <string key="3134.description" hash="ee9ed1978116a3fa14a8026987e478cd" maxlen="45">
+   <original>Adds 322 gold and some gifts to your bank</original>
+  </string>
+  <string key="3135.name" hash="122d8f1c4622d744af1674ee0b4807b7" maxlen="30">
+   <original>Special Gold Offer 23</original>
+  </string>
+  <string key="3135.description" hash="75af2b781bd59ad85bd94e3819fb3657" maxlen="45">
+   <original>Adds 335 gold and some gifts to your bank</original>
+  </string>
+  <string key="3136.name" hash="6058461a181ecc1ae2efc389f8050c56" maxlen="30">
+   <original>Special Gold Offer 24</original>
+  </string>
+  <string key="3136.description" hash="b980820808f97d7b3c95d94fbd98b115" maxlen="45">
+   <original>Adds 347 gold and some gifts to your bank</original>
+  </string>
+  <string key="3137.name" hash="15dd083faad5a8e53ed972cf74882c83" maxlen="30">
+   <original>Special Gold Offer 25</original>
+  </string>
+  <string key="3137.description" hash="960346fa53d3ae721ab010c30342a6cd" maxlen="45">
+   <original>Adds 360 gold and some gifts to your bank</original>
+  </string>
+  <string key="3138.name" hash="e17b72053705e7d900f6b1f43d842e3a" maxlen="30">
+   <original>Special Offer 26</original>
+  </string>
+  <string key="3138.description" hash="07a86cc93ff869d1e5d709310810154c" maxlen="45">
+   <original>Adds 372 gold and some gifts to your bank</original>
+  </string>
+  <string key="3139.name" hash="95ebc0db619309ceac94dfb7166df0b5" maxlen="30">
+   <original>Special Gold Offer 27</original>
+  </string>
+  <string key="3139.description" hash="357ee6017b1f9642201f523a6957b69d" maxlen="45">
+   <original>Adds 384 gold and some gifts to your bank</original>
+  </string>
+  <string key="3140.name" hash="f77abb9b7ca97b668362969a0f533e2e" maxlen="30">
+   <original>Special Offer 28</original>
+  </string>
+  <string key="3140.description" hash="3b1f9baa3b881d987758285b61b1df5d" maxlen="45">
+   <original>Adds 397 gold and some gifts to your bank</original>
+  </string>
+  <string key="3141.name" hash="7f9d5d661916a2d619510e25cb8d4944" maxlen="30">
+   <original>Special Gold Offer 29</original>
+  </string>
+  <string key="3141.description" hash="ea87d528c35455c7009613da9a5ffbf2" maxlen="45">
+   <original>Adds 409 gold and some gifts to your bank</original>
+  </string>
+  <string key="3142.name" hash="94c3e9165e0ce63cb7d9f6f8bd87942f" maxlen="30">
+   <original>Special Gold Offer 31</original>
+  </string>
+  <string key="3142.description" hash="b26f5f1b45c4d6598214e83bfa9e577f" maxlen="45">
+   <original>Adds 434 gold and some gifts to your bank</original>
+  </string>
+  <string key="3143.name" hash="bee889c39d25ca1cbc538886b355ee77" maxlen="30">
+   <original>Special Gold Offer 32</original>
+  </string>
+  <string key="3143.description" hash="3af57c84eb71e7e0bc72cd2c3d920343" maxlen="45">
+   <original>Adds 446 gold and some gifts to your bank</original>
+  </string>
+  <string key="3144.name" hash="bc62df59e82bb2bb357331c5d6d344d3" maxlen="30">
+   <original>Special Gold Offer 33</original>
+  </string>
+  <string key="3144.description" hash="83ecb2fa6e0e9d1a41749bf030b7804a" maxlen="45">
+   <original>Adds 459 gold and some gifts to your bank</original>
+  </string>
+  <string key="3145.name" hash="4abda222328a9a5d918bc73e1d061f48" maxlen="30">
+   <original>Special Gold Offer 34</original>
+  </string>
+  <string key="3145.description" hash="fe81c866c2b2bd3738b674d3718ef36d" maxlen="45">
+   <original>Adds 471 gold and some gifts to your bank</original>
+  </string>
+  <string key="3146.name" hash="54f372981238bb5f17d85cfc94f64c89" maxlen="30">
+   <original>Special Gold Offer 35</original>
+  </string>
+  <string key="3146.description" hash="2e9797b222de74491fa62806e8ed3579" maxlen="45">
+   <original>Adds 510 gold and some gifts to your bank</original>
+  </string>
+  <string key="3147.name" hash="a8c3c30946cb7e7b71c7d13bc83ec219" maxlen="30">
+   <original>Special Gold Offer 36</original>
+  </string>
+  <string key="3147.description" hash="4bd8c6e2061731a13f6197953808f2bd" maxlen="45">
+   <original>Adds 523 gold and some gifts to your bank</original>
+  </string>
+  <string key="3148.name" hash="9867d9249c04337e3ca0e966e4f03588" maxlen="30">
+   <original>Special Gold Offer 37</original>
+  </string>
+  <string key="3148.description" hash="a5ca3bd23e2295fd5cdb3ae8f28a3ea6" maxlen="45">
+   <original>Adds 536 gold and some gifts to your bank</original>
+  </string>
+  <string key="3149.name" hash="b86502729071da6c21418584f4fb5cc9" maxlen="30">
+   <original>Special Gold Offer 38</original>
+  </string>
+  <string key="3149.description" hash="9404e682c5b49d14db2b33566cb925e5" maxlen="45">
+   <original>Adds 549 gold and some gifts to your bank</original>
+  </string>
+  <string key="3150.name" hash="2a00b50bbe9402544bfd27df9dbb8947" maxlen="30">
+   <original>Special Gold Offer 39</original>
+  </string>
+  <string key="3150.description" hash="9bcd68092e28a0ea0d6b58914886e285" maxlen="45">
+   <original>Adds 561 gold and some gifts to your bank</original>
+  </string>
+  <string key="3151.name" hash="d53b8fdf0e11894a5d3e49bd6248db40" maxlen="30">
+   <original>Special Gold Offer 40</original>
+  </string>
+  <string key="3151.description" hash="f37906d69a6193ca0eec98f56eaa02ee" maxlen="45">
+   <original>Adds 574 gold and some gifts to your bank</original>
+  </string>
+  <string key="3152.name" hash="341238f8c3ac358777e593a448d04b55" maxlen="30">
+   <original>Special Gold Offer 41</original>
+  </string>
+  <string key="3152.description" hash="0a498dc318c20fcd5f51367622877d42" maxlen="45">
+   <original>Adds 587 gold and some gifts to your bank</original>
+  </string>
+  <string key="3153.name" hash="01a24a15433d8e5b3c69bd756266687c" maxlen="30">
+   <original>Special Gold Offer 42</original>
+  </string>
+  <string key="3153.description" hash="37fec9eb25ceafec130b0e9997d3f5b1" maxlen="45">
+   <original>Adds 600 gold and some gifts to your bank</original>
+  </string>
+  <string key="3154.name" hash="518b0c79bf6f403b139208c7d9df93bb" maxlen="30">
+   <original>Special Gold Offer 43</original>
+  </string>
+  <string key="3154.description" hash="3ef6916ecf653ab714a711eb67b1624c" maxlen="45">
+   <original>Adds 612 gold and some gifts to your bank</original>
+  </string>
+  <string key="3155.name" hash="7b7601269d9fd4a9c7ef31d3d81c1a0c" maxlen="30">
+   <original>Special Gold Offer 44</original>
+  </string>
+  <string key="3155.description" hash="0f5d808f99e952b10e836725eb01c86c" maxlen="45">
+   <original>Adds 625 gold and some gifts to your bank</original>
+  </string>
+  <string key="3156.name" hash="eb317c70632dcc0000cf1ffba6d8bcc1" maxlen="30">
+   <original>Special Gold Offer 45</original>
+  </string>
+  <string key="3156.description" hash="9c0ea4bec8e38d62d37abf90910cd243" maxlen="45">
+   <original>Adds 638 gold and some gifts to your bank</original>
+  </string>
+  <string key="3157.name" hash="41d95ed8910339e45e9dc917ff9424f3" maxlen="30">
+   <original>Welcome Pack</original>
+  </string>
+  <string key="3157.description" hash="aca282f2f3398c404ed637ecd66e7e60" maxlen="45">
+   <original>15Gold,3CakePops&amp;Spatulas &amp; 30min Unltd Lives</original>
+  </string>
+  <string key="3158.name" hash="b4d0d7edab68613f77660c77e91709e7" maxlen="30">
+   <original>Special Gold Offer 30</original>
+  </string>
+  <string key="3158.description" hash="289be38753bd7b692bfd989578ace08c" maxlen="45">
+   <original>Adds a whopping 421 Gold and some gifts!</original>
+  </string>
+  <string key="3159.name" hash="4c937da555ce88314140809f3f76fa7e" maxlen="30">
+   <original>Sale Offer 1</original>
+  </string>
+  <string key="3159.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3160.name" hash="60f9640dc555d02951695263c58654c0" maxlen="30">
+   <original>Sale Offer 2</original>
+  </string>
+  <string key="3160.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3161.name" hash="5741f8cd71c1ac8dca27560e06fd7cde" maxlen="30">
+   <original>Sale Offer 3</original>
+  </string>
+  <string key="3161.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3162.name" hash="2eccc1a22f78fb7d233762f4ff572f61" maxlen="30">
+   <original>Sale Offer 4</original>
+  </string>
+  <string key="3162.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3163.name" hash="b7419acd80c22a66ddb8bfe450bd4d9d" maxlen="30">
+   <original>Sale Offer 5</original>
+  </string>
+  <string key="3163.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3164.name" hash="0d16d03beba1c1c65dadf7215b2fbdc7" maxlen="30">
+   <original>Sale Offer 6</original>
+  </string>
+  <string key="3164.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3165.name" hash="ee16779d5458b728aa8404341b77bb49" maxlen="30">
+   <original>Sale Offer 7</original>
+  </string>
+  <string key="3165.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3166.name" hash="8c16a908fdc6b212819baac5d71da83f" maxlen="30">
+   <original>Sale Offer 8</original>
+  </string>
+  <string key="3166.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3167.name" hash="1a946e7bd5913db99fcb9a98c26f4479" maxlen="30">
+   <original>Sale Offer 9</original>
+  </string>
+  <string key="3167.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3168.name" hash="6d34b47c9362f904f06c226384ba4f08" maxlen="30">
+   <original>Sale Offer 10</original>
+  </string>
+  <string key="3168.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3169.name" hash="6a2519cd883815dc76ac44c38d0ef897" maxlen="30">
+   <original>Sale Offer 11</original>
+  </string>
+  <string key="3169.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3170.name" hash="e36b201a1b8cd974e8d0cda92e0dc7b9" maxlen="30">
+   <original>Sale Offer 12</original>
+  </string>
+  <string key="3170.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3171.name" hash="2aebf2135a4549957c7a28bb6b6d0479" maxlen="30">
+   <original>Sale Offer 13</original>
+  </string>
+  <string key="3171.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3172.name" hash="cda4c9b155697a69125580efb671e574" maxlen="30">
+   <original>Sale Offer 14</original>
+  </string>
+  <string key="3172.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3173.name" hash="6521fe6e20a1137d9f661c9dd4f1dd1a" maxlen="30">
+   <original>Sale Offer 15</original>
+  </string>
+  <string key="3173.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3174.name" hash="84eb61e4fdbf905dd2aa5e3484545c9b" maxlen="30">
+   <original>Sale Offer 16</original>
+  </string>
+  <string key="3174.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3175.name" hash="71cbdd78e1e3558fcc5f78eb2066d040" maxlen="30">
+   <original>Sale Offer 17</original>
+  </string>
+  <string key="3175.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3176.name" hash="99d7487365837bf291b391b3f9f19b8a" maxlen="30">
+   <original>Sale Offer 18</original>
+  </string>
+  <string key="3176.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3177.name" hash="c2dfe26e0eee8df2f98bd36252f9fc54" maxlen="30">
+   <original>Sale Offer 19</original>
+  </string>
+  <string key="3177.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3178.name" hash="b9d0170660e2c98960c9d294633b51fe" maxlen="30">
+   <original>Sale Offer 20</original>
+  </string>
+  <string key="3178.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3179.name" hash="6ee96102978c81f688bddfc088fe87a3" maxlen="30">
+   <original>Sale Offer 21</original>
+  </string>
+  <string key="3179.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3180.name" hash="55d29af521c815f12bfd4422b7cb5340" maxlen="30">
+   <original>Sale Offer 22</original>
+  </string>
+  <string key="3180.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3181.name" hash="4fecfe7c81ee0c256a8852e51bda744d" maxlen="30">
+   <original>Sale Offer 23</original>
+  </string>
+  <string key="3181.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3182.name" hash="1d4f168f1681e676fe4d2c324f1f5b53" maxlen="30">
+   <original>Sale Offer 24</original>
+  </string>
+  <string key="3182.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3183.name" hash="f9e3c0598d528016ce024f77d45952ba" maxlen="30">
+   <original>Sale Offer 25</original>
+  </string>
+  <string key="3183.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3184.name" hash="2891a6c15c4a3d264c0e1215398f49a3" maxlen="30">
+   <original>Sale Offer 26</original>
+  </string>
+  <string key="3184.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3185.name" hash="453a5ecc765c8b566c61cec16c8c9303" maxlen="30">
+   <original>Sale Offer 27</original>
+  </string>
+  <string key="3185.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3186.name" hash="3a35a0dbf9bcc6c49c488e0c5499c105" maxlen="30">
+   <original>Sale Offer 28</original>
+  </string>
+  <string key="3186.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3187.name" hash="766d4d7c384e7082c3dd26cc0185bdd0" maxlen="30">
+   <original>Sale Offer 29</original>
+  </string>
+  <string key="3187.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3188.name" hash="2fefc01a81070142fbd40b5564d2ffaa" maxlen="30">
+   <original>Sale Offer 30</original>
+  </string>
+  <string key="3188.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3189.name" hash="d49a9d798756199533cf1cf3ce0cb61d" maxlen="30">
+   <original>Sale Offer 31</original>
+  </string>
+  <string key="3189.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3190.name" hash="b023586f5f98e793f206d401fae3e4a3" maxlen="30">
+   <original>Sale Offer 32</original>
+  </string>
+  <string key="3190.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3191.name" hash="100abe862b09f09e5646d5cf8382695d" maxlen="30">
+   <original>Sale Offer 33</original>
+  </string>
+  <string key="3191.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3192.name" hash="b61c79614f7f643acdd322e5ff177f56" maxlen="30">
+   <original>Sale Offer 34</original>
+  </string>
+  <string key="3192.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3193.name" hash="60f263e0c72636bf8f0a41df3b86e608" maxlen="30">
+   <original>Sale Offer 35</original>
+  </string>
+  <string key="3193.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3194.name" hash="70a9963e8e4451b858802e95b5e51d79" maxlen="30">
+   <original>Sale Offer 36</original>
+  </string>
+  <string key="3194.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3195.name" hash="c857a5f389676326c348ba4153b60aea" maxlen="30">
+   <original>Sale Offer 37</original>
+  </string>
+  <string key="3195.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3196.name" hash="db83dfd4c2efba30d793cd62be649d89" maxlen="30">
+   <original>Sale Offer 38</original>
+  </string>
+  <string key="3196.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3197.name" hash="155ac8dcae36c49f3d459ccb32e68a1e" maxlen="30">
+   <original>Sale Offer 40</original>
+  </string>
+  <string key="3197.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3198.name" hash="fae984b9f20aacb80a3b5333cbcd935e" maxlen="30">
+   <original>Sale Offer 39</original>
+  </string>
+  <string key="3198.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3199.name" hash="773407540942dab655efd7edae394962" maxlen="30">
+   <original>Sale Offer 41</original>
+  </string>
+  <string key="3199.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3200.name" hash="0d1d16be4c508c0a46701337dec20cae" maxlen="30">
+   <original>Sale Offer 42</original>
+  </string>
+  <string key="3200.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3201.name" hash="a2a8852b4dcb0f8c8adaf71b2d8429dd" maxlen="30">
+   <original>Sale Offer 43</original>
+  </string>
+  <string key="3201.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3202.name" hash="34c03af827152391d900bce4976f391f" maxlen="30">
+   <original>Sale Offer 44</original>
+  </string>
+  <string key="3202.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3203.name" hash="761c848486ead8968e95aa8fe66fdbe9" maxlen="30">
+   <original>Sale Offer 45</original>
+  </string>
+  <string key="3203.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3204.name" hash="cdfa3120974461c9b0ff3784f5e05ff1" maxlen="30">
+   <original>Sale Offer 46</original>
+  </string>
+  <string key="3204.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3205.name" hash="bc313b9194622e47a3c115d9d15677bf" maxlen="30">
+   <original>Sale Offer 47</original>
+  </string>
+  <string key="3205.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3206.name" hash="2264311c961b1d151596b4fedf94cc02" maxlen="30">
+   <original>Sale Offer 48</original>
+  </string>
+  <string key="3206.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3207.name" hash="c5505823978f96454e7e21a25acae9e0" maxlen="30">
+   <original>Sale Offer 49</original>
+  </string>
+  <string key="3207.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3208.name" hash="414a726cd9555cb23180827a170f69f3" maxlen="30">
+   <original>Sale Offer 50</original>
+  </string>
+  <string key="3208.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3209.name" hash="673722e49f6904cea7636bb8e1a03eae" maxlen="30">
+   <original>Gold Coins</original>
+  </string>
+  <string key="3209.description" hash="7127c5e94a10e56018313842648cedc5" maxlen="45">
+   <original>A tiny amount of Gold.</original>
+  </string>
+  <string key="3210.name" hash="ca622c691e630fd96c141a0b2fc00d35" maxlen="30">
+   <original>Gold Lover</original>
+  </string>
+  <string key="3210.description" hash="7127c5e94a10e56018313842648cedc5" maxlen="45">
+   <original>A tiny amount of Gold.</original>
+  </string>
+  <string key="3211.name" hash="b6b195134eb5e97f09af14cc3c5a6b13" maxlen="30">
+   <original>Gold Pouch</original>
+  </string>
+  <string key="3211.description" hash="a2e4d38db21d5ff36cd22a5d4927ff3e" maxlen="45">
+   <original>A small amount of Gold.</original>
+  </string>
+  <string key="3212.name" hash="2f6f4b5d2a65652d7eb15f46601e02e7" maxlen="30">
+   <original>Chest of Gold</original>
+  </string>
+  <string key="3212.description" hash="7b93496625ca91ef1b5c7bdfaad345c5" maxlen="45">
+   <original>A moderate amount of Gold.</original>
+  </string>
+  <string key="3213.name" hash="221b6548ad7ba857b8757eb07d74ff7b" maxlen="30">
+   <original>Stack of Gold</original>
+  </string>
+  <string key="3213.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="3214.name" hash="a02c009771b5702f799c67b3999b6b08" maxlen="30">
+   <original>Gold Miner's Pack</original>
+  </string>
+  <string key="3214.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="3215.name" hash="904a8d26c150d3663606e9408bff0b9f" maxlen="30">
+   <original>Gold Vault Pack</original>
+  </string>
+  <string key="3215.description" hash="50eb9cef4d7fc56fe0265aedfaa2c9c9" maxlen="45">
+   <original>A large amount of Gold.</original>
+  </string>
+  <string key="3216.name" hash="e4c2b96f10d54b11cb3343cd395d4644" maxlen="30">
+   <original>Midas Pack</original>
+  </string>
+  <string key="3216.description" hash="704af20f3e03f1442c4b45d9e39613a6" maxlen="45">
+   <original>A mountain of Gold. You've the golden touch!</original>
+  </string>
+  <string key="3217.name" hash="0675b55b6ef88cb283bf3491f829f457" maxlen="30">
+   <original>El Dorado Pack</original>
+  </string>
+  <string key="3217.description" hash="8461a6a0c996b39d8b41f6ac4de44364" maxlen="45">
+   <original>Enough Gold to become a Cake Swap Emperor!</original>
+  </string>
+  <string key="3218.name" hash="173f611b11038a60e38f974d1af71dce" maxlen="30">
+   <original>Welcome Package</original>
+  </string>
+  <string key="3218.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3219.name" hash="d5f6dc2528c64293816501fa46ea0ea7" maxlen="30">
+   <original>Welcoming Package</original>
+  </string>
+  <string key="3219.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="3341.name" hash="b4d0d7edab68613f77660c77e91709e7" maxlen="30">
+   <original>Special Gold Offer 30</original>
+  </string>
+  <string key="3341.description" hash="3bc50119da2af5dddd2aa16eb96c323f" maxlen="45">
+   <original>Adds 421 gold to your bank along with some gifts</original>
+  </string>
+  <string key="3342.name" hash="b4d0d7edab68613f77660c77e91709e7" maxlen="30">
+   <original>Special Gold Offer 30</original>
+  </string>
+  <string key="3342.description" hash="3bc50119da2af5dddd2aa16eb96c323f" maxlen="45">
+   <original>Adds 421 gold to your bank along with some gifts</original>
+  </string>
+  <string key="3343.name" hash="b4d0d7edab68613f77660c77e91709e7" maxlen="30">
+   <original>Special Gold Offer 30</original>
+  </string>
+  <string key="3343.description" hash="3bc50119da2af5dddd2aa16eb96c323f" maxlen="45">
+   <original>Adds 421 gold to your bank along with some gifts</original>
+  </string>
+  <string key="3344.name" hash="5e75a41650e5b189b63d5dcaf267d8ce" maxlen="30">
+   <original>solidgold</original>
+  </string>
+  <string key="3344.description" hash="29fd2573c7dc3254bb1bb7bae16667d7" maxlen="45">
+   <original>Bigger Gold Pack; Adds 55 gold to your bank</original>
+  </string>
+  <string key="3345.name" hash="b4d0d7edab68613f77660c77e91709e7" maxlen="30">
+   <original>Special Gold Offer 30</original>
+  </string>
+  <string key="3345.description" hash="3bc50119da2af5dddd2aa16eb96c323f" maxlen="45">
+   <original>Adds 421 gold to your bank along with some gifts</original>
+  </string>
+  <string key="4197.name" hash="ab0418183b4e550bd740929bb6195f19" maxlen="30">
+   <original>Great Savings Pack!</original>
+  </string>
+  <string key="4197.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4198.name" hash="c515055ce74194f0374e38ad68595464" maxlen="30">
+   <original>Master Swap Pack!</original>
+  </string>
+  <string key="4198.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4199.name" hash="451b91035168fa69c93163637ee0c14c" maxlen="30">
+   <original>Survival Pack!</original>
+  </string>
+  <string key="4199.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4200.name" hash="e8a2b065cdadb72e4b07e69c5c2c90f7" maxlen="30">
+   <original>Progress Pack!</original>
+  </string>
+  <string key="4200.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4201.name" hash="227446d0ada5a4ad6a5c0a560556dc71" maxlen="30">
+   <original>Great Savings Pack</original>
+  </string>
+  <string key="4201.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4202.name" hash="3c4acb3c1fba9981a98c214dd5704b06" maxlen="30">
+   <original>Master Swap Pack</original>
+  </string>
+  <string key="4202.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4203.name" hash="6239df3f08a36ff172ecf14cf32addcf" maxlen="30">
+   <original>Survival Pack</original>
+  </string>
+  <string key="4203.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4204.name" hash="045783b94f3c0ff63bde5c11d028eb39" maxlen="30">
+   <original>Progress Pack</original>
+  </string>
+  <string key="4204.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="4294.name" hash="3c4635d5c8052534c18a1bf5d79869cd" maxlen="30">
+   <original>Chef Deal: Gold Sack</original>
+  </string>
+  <string key="4294.description" hash="7b93496625ca91ef1b5c7bdfaad345c5" maxlen="45">
+   <original>A moderate amount of Gold.</original>
+  </string>
+  <string key="4295.name" hash="9767a27153b51bf213e6e64d859e7675" maxlen="30">
+   <original>Chef Deal: Gold Chest</original>
+  </string>
+  <string key="4295.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="4296.name" hash="cd0bbdd89c9c849e9fb1e62178333352" maxlen="30">
+   <original>Chef Deal: Gold Crate</original>
+  </string>
+  <string key="4296.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="4297.name" hash="637bac5e14d266ad227cf59377837f8c" maxlen="30">
+   <original>Chef deal: Gold Chest</original>
+  </string>
+  <string key="4297.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="4298.name" hash="3a542a29508149dad0f206581ca42010" maxlen="30">
+   <original>Chef deal: Gold crate</original>
+  </string>
+  <string key="4298.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="4299.name" hash="637bac5e14d266ad227cf59377837f8c" maxlen="30">
+   <original>Chef deal: Gold Chest</original>
+  </string>
+  <string key="4299.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="4300.name" hash="3a542a29508149dad0f206581ca42010" maxlen="30">
+   <original>Chef deal: Gold crate</original>
+  </string>
+  <string key="4300.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="4301.name" hash="637bac5e14d266ad227cf59377837f8c" maxlen="30">
+   <original>Chef deal: Gold Chest</original>
+  </string>
+  <string key="4301.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="4302.name" hash="3a542a29508149dad0f206581ca42010" maxlen="30">
+   <original>Chef deal: Gold crate</original>
+  </string>
+  <string key="4302.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="5448.name" hash="b6b195134eb5e97f09af14cc3c5a6b13" maxlen="30">
+   <original>Gold Pouch</original>
+  </string>
+  <string key="5448.description" hash="a2e4d38db21d5ff36cd22a5d4927ff3e" maxlen="45">
+   <original>A small amount of Gold.</original>
+  </string>
+  <string key="5449.name" hash="b6b195134eb5e97f09af14cc3c5a6b13" maxlen="30">
+   <original>Gold Pouch</original>
+  </string>
+  <string key="5449.description" hash="a2e4d38db21d5ff36cd22a5d4927ff3e" maxlen="45">
+   <original>A small amount of Gold.</original>
+  </string>
+  <string key="5450.name" hash="5244220fa212439547bf2e051295fcdf" maxlen="30">
+   <original>Starter pack</original>
+  </string>
+  <string key="5450.description" hash="1d1355dfec5e8e56454537967f2fb14d" maxlen="45">
+   <original>Enjoy your Cake Swap special treats!</original>
+  </string>
+  <string key="5451.name" hash="9767a27153b51bf213e6e64d859e7675" maxlen="30">
+   <original>Chef Deal: Gold Chest</original>
+  </string>
+  <string key="5451.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5452.name" hash="cd0bbdd89c9c849e9fb1e62178333352" maxlen="30">
+   <original>Chef Deal: Gold Crate</original>
+  </string>
+  <string key="5452.description" hash="e8c17a0b7d33f5d270da3cb567952d5f" maxlen="45">
+   <original>A sizable amount of Gold.</original>
+  </string>
+  <string key="5453.name" hash="5e75a41650e5b189b63d5dcaf267d8ce" maxlen="30">
+   <original>solidgold</original>
+  </string>
+  <string key="5453.description" hash="29fd2573c7dc3254bb1bb7bae16667d7" maxlen="45">
+   <original>Bigger Gold Pack; Adds 55 gold to your bank</original>
+  </string>
+  <string key="5519.name" hash="ba4cbe7be5f453ddfeed36e17b5d8b45" maxlen="30">
+   <original>Gold Case Offer</original>
+  </string>
+  <string key="5519.description" hash="0e54f0c3a03849face988619286f85be" maxlen="45">
+   <original>A 50% Offer on Gold Case</original>
+  </string>
+  <string key="5520.name" hash="e201bd8111d990ca696e1bc067312d94" maxlen="30">
+   <original>Gold Sack Offer</original>
+  </string>
+  <string key="5520.description" hash="813be6f7e0e4a88a90a9b772ad04132a" maxlen="45">
+   <original>A 50% Offer on Gold Sack</original>
+  </string>
+  <string key="5521.name" hash="38fe5251d3837abb94b7ae054cfe4daa" maxlen="30">
+   <original>Fat Stack of Gold Offer</original>
+  </string>
+  <string key="5521.description" hash="fee72294fb72528cfbbdf6ad12ca3264" maxlen="45">
+   <original>A 50% Offer on Full Stack of Gold</original>
+  </string>
+  <string key="5522.name" hash="d2d3ab3fda78803d23bd2808fb6cd11b" maxlen="30">
+   <original>Gold Rush Pack Offer</original>
+  </string>
+  <string key="5522.description" hash="44a133b097f0470cabf16593530e9472" maxlen="45">
+   <original>A 50% Offer on Gold Rush Pack</original>
+  </string>
+  <string key="5523.name" hash="ba4cbe7be5f453ddfeed36e17b5d8b45" maxlen="30">
+   <original>Gold Case Offer</original>
+  </string>
+  <string key="5523.description" hash="0e54f0c3a03849face988619286f85be" maxlen="45">
+   <original>A 50% Offer on Gold Case</original>
+  </string>
+  <string key="5524.name" hash="e201bd8111d990ca696e1bc067312d94" maxlen="30">
+   <original>Gold Sack Offer</original>
+  </string>
+  <string key="5524.description" hash="813be6f7e0e4a88a90a9b772ad04132a" maxlen="45">
+   <original>A 50% Offer on Gold Sack</original>
+  </string>
+  <string key="5525.name" hash="38fe5251d3837abb94b7ae054cfe4daa" maxlen="30">
+   <original>Fat Stack of Gold Offer</original>
+  </string>
+  <string key="5525.description" hash="fee72294fb72528cfbbdf6ad12ca3264" maxlen="45">
+   <original>A 50% Offer on Full Stack of Gold</original>
+  </string>
+  <string key="5526.name" hash="d2d3ab3fda78803d23bd2808fb6cd11b" maxlen="30">
+   <original>Gold Rush Pack Offer</original>
+  </string>
+  <string key="5526.description" hash="44a133b097f0470cabf16593530e9472" maxlen="45">
+   <original>A 50% Offer on Gold Rush Pack</original>
+  </string>
+  <string key="5527.name" hash="ba4cbe7be5f453ddfeed36e17b5d8b45" maxlen="30">
+   <original>Gold Case Offer</original>
+  </string>
+  <string key="5527.description" hash="0e54f0c3a03849face988619286f85be" maxlen="45">
+   <original>A 50% Offer on Gold Case</original>
+  </string>
+  <string key="5528.name" hash="e201bd8111d990ca696e1bc067312d94" maxlen="30">
+   <original>Gold Sack Offer</original>
+  </string>
+  <string key="5528.description" hash="813be6f7e0e4a88a90a9b772ad04132a" maxlen="45">
+   <original>A 50% Offer on Gold Sack</original>
+  </string>
+  <string key="5529.name" hash="38fe5251d3837abb94b7ae054cfe4daa" maxlen="30">
+   <original>Fat Stack of Gold Offer</original>
+  </string>
+  <string key="5529.description" hash="fee72294fb72528cfbbdf6ad12ca3264" maxlen="45">
+   <original>A 50% Offer on Full Stack of Gold</original>
+  </string>
+  <string key="5530.name" hash="d2d3ab3fda78803d23bd2808fb6cd11b" maxlen="30">
+   <original>Gold Rush Pack Offer</original>
+  </string>
+  <string key="5530.description" hash="44a133b097f0470cabf16593530e9472" maxlen="45">
+   <original>A 50% Offer on Gold Rush Pack</original>
+  </string>
+  <string key="5531.name" hash="ba4cbe7be5f453ddfeed36e17b5d8b45" maxlen="30">
+   <original>Gold Case Offer</original>
+  </string>
+  <string key="5531.description" hash="0e54f0c3a03849face988619286f85be" maxlen="45">
+   <original>A 50% Offer on Gold Case</original>
+  </string>
+  <string key="5532.name" hash="e201bd8111d990ca696e1bc067312d94" maxlen="30">
+   <original>Gold Sack Offer</original>
+  </string>
+  <string key="5532.description" hash="813be6f7e0e4a88a90a9b772ad04132a" maxlen="45">
+   <original>A 50% Offer on Gold Sack</original>
+  </string>
+  <string key="5533.name" hash="38fe5251d3837abb94b7ae054cfe4daa" maxlen="30">
+   <original>Fat Stack of Gold Offer</original>
+  </string>
+  <string key="5533.description" hash="fee72294fb72528cfbbdf6ad12ca3264" maxlen="45">
+   <original>A 50% Offer on Full Stack of Gold</original>
+  </string>
+  <string key="5534.name" hash="d2d3ab3fda78803d23bd2808fb6cd11b" maxlen="30">
+   <original>Gold Rush Pack Offer</original>
+  </string>
+  <string key="5534.description" hash="44a133b097f0470cabf16593530e9472" maxlen="45">
+   <original>A 50% Offer on Gold Rush Pack</original>
+  </string>
+  <string key="5535.name" hash="ba4cbe7be5f453ddfeed36e17b5d8b45" maxlen="30">
+   <original>Gold Case Offer</original>
+  </string>
+  <string key="5535.description" hash="0e54f0c3a03849face988619286f85be" maxlen="45">
+   <original>A 50% Offer on Gold Case</original>
+  </string>
+  <string key="5536.name" hash="e201bd8111d990ca696e1bc067312d94" maxlen="30">
+   <original>Gold Sack Offer</original>
+  </string>
+  <string key="5536.description" hash="813be6f7e0e4a88a90a9b772ad04132a" maxlen="45">
+   <original>A 50% Offer on Gold Sack</original>
+  </string>
+  <string key="5537.name" hash="38fe5251d3837abb94b7ae054cfe4daa" maxlen="30">
+   <original>Fat Stack of Gold Offer</original>
+  </string>
+  <string key="5537.description" hash="fee72294fb72528cfbbdf6ad12ca3264" maxlen="45">
+   <original>A 50% Offer on Full Stack of Gold</original>
+  </string>
+  <string key="5538.name" hash="d2d3ab3fda78803d23bd2808fb6cd11b" maxlen="30">
+   <original>Gold Rush Pack Offer</original>
+  </string>
+  <string key="5538.description" hash="44a133b097f0470cabf16593530e9472" maxlen="45">
+   <original>A 50% Offer on Gold Rush Pack</original>
+  </string>
+  <string key="5598.name" hash="7119b4ebb9fc1ad338916537f543237c" maxlen="30">
+   <original>PiggyBank Small Gold Sack</original>
+  </string>
+  <string key="5598.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5599.name" hash="ad97f0f80e777a25c515279495daaff1" maxlen="30">
+   <original>PiggyBank Big Gold Sack</original>
+  </string>
+  <string key="5599.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5600.name" hash="3e559fab8d82a0b9afffcc0beb35e69c" maxlen="30">
+   <original>PiggyBank Small Gold Crate</original>
+  </string>
+  <string key="5600.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5601.name" hash="675b2373945861d9aecd5e1277e4b318" maxlen="30">
+   <original>PiggyBank Big Gold Crate</original>
+  </string>
+  <string key="5601.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5602.name" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="30">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5602.description" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="45">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5603.name" hash="3e559fab8d82a0b9afffcc0beb35e69c" maxlen="30">
+   <original>PiggyBank Small Gold Crate</original>
+  </string>
+  <string key="5603.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5604.name" hash="675b2373945861d9aecd5e1277e4b318" maxlen="30">
+   <original>PiggyBank Big Gold Crate</original>
+  </string>
+  <string key="5604.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5605.name" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="30">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5605.description" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="45">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5606.name" hash="e42b664967c403291c78e28080dd9553" maxlen="30">
+   <original>Piggy Bank: Small Gold Crate</original>
+  </string>
+  <string key="5606.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5607.name" hash="641981fdf9a40863e0d277ec78a26d81" maxlen="30">
+   <original>Piggy Bank: Big Gold Crate</original>
+  </string>
+  <string key="5607.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5608.name" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="30">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5608.description" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="45">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5609.name" hash="e42b664967c403291c78e28080dd9553" maxlen="30">
+   <original>Piggy Bank: Small Gold Crate</original>
+  </string>
+  <string key="5609.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5610.name" hash="641981fdf9a40863e0d277ec78a26d81" maxlen="30">
+   <original>Piggy Bank: Big Gold Crate</original>
+  </string>
+  <string key="5610.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5611.name" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="30">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5611.description" hash="5a3d15a66c21adcdc8680d3b49351c3b" maxlen="45">
+   <original>PiggyBank5</original>
+  </string>
+  <string key="5973.name" hash="3b4fe026a63d698ec68b9aa6d2820663" maxlen="30">
+   <original>PiggyBank Small Gold Chest</original>
+  </string>
+  <string key="5973.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5974.name" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="30">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5974.description" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="45">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5975.name" hash="3b4fe026a63d698ec68b9aa6d2820663" maxlen="30">
+   <original>PiggyBank Small Gold Chest</original>
+  </string>
+  <string key="5975.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5976.name" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="30">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5976.description" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="45">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5977.name" hash="53eccf488882677d6159952f497d50cc" maxlen="30">
+   <original>Piggy Bank: Small Gold Chest</original>
+  </string>
+  <string key="5977.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5978.name" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="30">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5978.description" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="45">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5979.name" hash="53eccf488882677d6159952f497d50cc" maxlen="30">
+   <original>Piggy Bank: Small Gold Chest</original>
+  </string>
+  <string key="5979.description" hash="9b595a69006986b4324961a10907df19" maxlen="45">
+   <original>A substantial amount of Gold.</original>
+  </string>
+  <string key="5980.name" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="30">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="5980.description" hash="ccf910d9a6a44310f6855470c704e8d3" maxlen="45">
+   <original>PiggyBank6</original>
+  </string>
+  <string key="6316.name" hash="aa9249766b0cd463ea28d4d360ecb480" maxlen="30">
+   <original>Super Pack</original>
+  </string>
+  <string key="6316.description" hash="aa9249766b0cd463ea28d4d360ecb480" maxlen="45">
+   <original>Super Pack</original>
+  </string>
+  <string key="6317.name" hash="0e8877758d73eb967e9d0a49a6aaa7c9" maxlen="30">
+   <original>Mega Pack</original>
+  </string>
+  <string key="6317.description" hash="d6d7e1c2644e32cc79615c716685cb4c" maxlen="45">
+   <original>Mega Sale Pack</original>
+  </string>
+  <string key="6318.name" hash="9d6a0959ed20aeb4fb36cacf323115dd" maxlen="30">
+   <original>Epic Pack</original>
+  </string>
+  <string key="6318.description" hash="1d75107045da6a0188829c979e7f60ea" maxlen="45">
+   <original>Epic Sale Pack</original>
+  </string>
+ </pkg>
+</strings>

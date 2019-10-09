@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="faqs">
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190423044238077-eb1785e1ffd9b10--title" hash="83f724258126bdb54ab3f209df43870c">
+   <original>Hvorfor viser telleren for korn null i matingsfasen?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190423044238077-eb1785e1ffd9b10--content" hash="80dbb5ccf623831669198e7b883a907a">
+   <original>&lt;div&gt;OPPDATERING:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Vi er glade for å kunne informere deg om at dette problemet nå er løst.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;==============&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Vi har hørt at telleren for korn for hanehuset viser null i matingsfasen. Teamet vårt er klare over problemet, og det vil bli rettet snart. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190412093931468-c3051c1d85180fb--title" hash="89b3d8a96e1ea733959bad885e0f84ea">
+   <original>Hvorfor ble den nasjonale messen eller hovedmessen nullstilt?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190412093931468-c3051c1d85180fb--content" hash="db460e634aa751c8b716479e613c8538">
+   <original>&lt;div&gt;Vi har mottatt rapporter om at enkelte spillere har fått messen sin nullstilt. Vi er klar over feilen og vil snart ha løst problemet. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190325182913204-41fc7171d2280ea--title" hash="440fe7b9b8daddd87a9076f167225543">
+   <original>Hvorfor får jeg samme forespørsler fra kunder i vårbutikken?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190325182913204-41fc7171d2280ea--content" hash="3204b6e3e3b8e8163c956e22ad361b65">
+   <original>&lt;div&gt;Vi har mottatt rapporter fra andre gårdbrukere om at kundene i vårbutikken ber om det samme hele tiden. Vi er klare over dette og vil fikse det snart. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190312184428150-739feac519182cd--title" hash="d75037a6d7facd432c714996857eb490">
+   <original>Hvorfor teller ikke brosjyrene om hjem mot Hjem og hjerte! Oppdrag?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190312184428150-739feac519182cd--content" hash="5fdb86444835298e770e42d40ec7c1cf">
+   <original>&lt;div&gt;Vi har hørt at brosjyrene om hjem mot Hjem og hjerte! Oppdrag (Mamma kommer: 4/8). Teamet vårt er klare over problemet, og det vil bli rettet snart. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190307064544893-0c239f449b47720--title" hash="7760785b4adc537ad4af7eb326e3ce34">
+   <original>Hvor ble frodighetsbestillingstavlen nullstilt før tiden?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190307064544893-0c239f449b47720--content" hash="e5b53d77a615bd7fa833d1a185515e09">
+   <original>&lt;div&gt;Vi har hørt at frodighetsbestillingstavlen ble nullstilt før tiden. Teamet vårt er klare over problemet, og det vil bli rettet snart. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190305200622936-c8b925524241e4d--title" hash="5f460e063b1ca07f5639f26cef9be2e8">
+   <original>Hvorfor får jeg ikke Farm-pengene etter å ha festet FarmVille 2 til snarveiene mine?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190305200622936-c8b925524241e4d--content" hash="db6010e66320845c6be7a2c8cf93bd91">
+   <original>&lt;div&gt;Vi har hørt at noen gårdbrukere ikke får Farm-penger etter å ha festet FarmVille 2 til snvarveiene. Det å lukke vinduet som dukker opp og deretter feste FarmVille 2, vil ikke fungere.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Følg disse trinnene for å forsikre deg om at du mottar belønningene:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Klikk på «Få belønninger GRATIS» på venstre side av gården din.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/c86acfb3-803d-4ad0-ae47-cf864e6b808a.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/c86acfb3-803d-4ad0-ae47-cf864e6b808a-2t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/c86acfb3-803d-4ad0-ae47-cf864e6b808a-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/c86acfb3-803d-4ad0-ae47-cf864e6b808a-2t.png 1.5x" data-orientation="landscape" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;I vinduet som dukker opp, klikker du på Åpne Facebook.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/d33a1213-3cf4-4c02-b3ad-4b920f37e636.jpg" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/d33a1213-3cf4-4c02-b3ad-4b920f37e636-2t.jpg" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/d33a1213-3cf4-4c02-b3ad-4b920f37e636-t.jpg 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/d33a1213-3cf4-4c02-b3ad-4b920f37e636-2t.jpg 1.5x" data-orientation="landscape" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Når du er i Facebook-feedene, vennligst fest FarmVille 2 øverst. Last så inn gården din på nytt ved å klikke på snarveien.&lt;/li&gt;&lt;/ul&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190207180341694-e1e91b655ae395a--title" hash="c1b4fdba9e4ea78b9ed549ebee23eb6c">
+   <original>Hvorfor teller ikke mine ferskentrær (arvestykke) og pekantrær (arvestykke) mot Bryllupstjenester-oppdraget?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190207180341694-e1e91b655ae395a--content" hash="b62fb11f0c2b972f89b3a853c11f1bee">
+   <original>&lt;div&gt;Ferskentrær (arvestykke) og pekantrær (arvestykke) som er på gården før oppdraget startet, vil ikke telle mot Bryllupstjenester-oppdraget. Du må kjøpe nye trær og stusse dem for at de skal telle mot oppdragets mål, slik at du kan gå videre til det neste settet med oppgaver i Bryllupstjenester.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190207170656513-1f7fae1d0809abb--title" hash="466f702fa6d05a7400b04c70a08ba02b">
+   <original>Hvorfor teller ikke mine fullførte oppgaver mot Bryllupstjenester-oppdraget?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20190207170656513-1f7fae1d0809abb--content" hash="93d2c440c6d51bce6d51b8e1dfc4fc8b">
+   <original>&lt;div&gt;Vi har hørt at spilleres fullførte oppgaver ikke dukker opp i Bryllupstjenester-oppdraget. Dette er et visuelt problem som vi aktivt jobber med, men du kan være trygg på at du fortsatt mottar gavepoengene så fort du fullfører de fire oppgavene. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20180917131541105-9dc052385d87891--title" hash="d303952c023e3420f221cabaa67d8f38">
+   <original>Hvorfor ble ikke alle design låst opp etter fullføringen av Drømmeoppussing-oppgavene?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20180917131541105-9dc052385d87891--content" hash="497b775fc6cf43e19bc70f198a89d38e">
+   <original>&lt;div&gt;Vi har hørt fra noen gårdbrukere at visse design ikke ble låst opp etter at det nødvendige antallet oppgaver i Drømmeoppussing ble fullført. Vi er klar over feilen og vil snart ha løst problemet. Du trenger ikke å kontakte kundestøtte på grunn av dette.&lt;br /&gt;&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20170822135215739-c768ccc41127b23--title" hash="97e2c7a2e04ff46f0b99817d364484af">
+   <original>Hvordan aktiverer jeg Flash Player i nettleseren min?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20170822135215739-c768ccc41127b23--content" hash="afd3c8bd0347bbd1883d53e4ce9ddfeb">
+   <original>&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Her er vanlige spørsmål om aktivering av Adobe Flash for å spille FarmVille 2&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Hva er Adobe Flash?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Adobe Flash er en programvare som hjelper til med å kjøre FarmVille 2 i nettleseren din (eksempelvis Chrome eller Firefox). Det er denne programvaren som lar deg se og samhandle med alle de flotte avlingene, dyrene, dekorasjonene osv. på gården din.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Hvorfor må jeg aktivere Flash nå?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hvis du har spilt FarmVille 2, betyr det at Flash så langt har hatt tillatelse til å kjøre i nettleseren din. Men nylige endringer gjort av Adobe innebærer at du må gi tillatelse på nytt for at Flash skal kunne kjøres i nettleseren din. Hvis du ikke gir denne tillatelsen, vil du ikke få tilgang til gården din, noe som vil gjøre oss veldig triste. :(&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Må jeg gi tillatelse hver gang?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Nei, dette skal du kun trenge å gjøre én gang hvis du velger «Alltid tillat» i Chrome eller «Tillat og husk» i Firefox. Dette sørger for at nettleseren husker valget ditt hver gang du spiller spillet!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;4. Er gården min trygg?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;FarmVille 2 har alltid brukt Adobe Flash. Det å gi Flash tillatelse til å være aktiv igjen, sørger for at gårdsopplevelsen din forblir den samme som den var før. Uten denne tillatelsen kan ikke gården din lastes inn igjen.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;5. Hvordan aktiverer jeg Flash så jeg kan spille igjen?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;For Firefox-brukere:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Klikk på ordene «Aktiver Adobe Flash».&lt;/li&gt;&lt;li&gt;Velg «Tillat og husk»&lt;/li&gt;&lt;li&gt;Oppdater siden for å spille&lt;/li&gt;&lt;li&gt;Klikk &lt;a href="https://zyngasupport.helpshift.com/a/farmville-2/?s=technical-help&amp;amp;f=how-do-i-enable-flash-player-on-mozilla-firefox&amp;amp;l=en" rel="nofollow" target="_blank"&gt;her&lt;/a&gt; for å følge trinnene &lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;For Chrome-brukere:&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Klikk &lt;a href="https://zyngasupport.helpshift.com/a/farmville-2/?s=technical-help&amp;amp;f=how-do-i-enable-flash-player-on-google-chrome&amp;amp;l=en" rel="nofollow" target="_blank"&gt;her&lt;/a&gt; for å følge trinnene.&lt;/li&gt;&lt;/ul&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20160623173916932-f4d0ce853aa4d57--title" hash="8505344139bbeba62cbdb1415fac68f3">
+   <original>Hvorfor får jeg 45 gjødsel fra gjødselskuret?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20160623173916932-f4d0ce853aa4d57--content" hash="bea5dc3e625d49ed24d54edf1f708a1b">
+   <original>&lt;div&gt;Vi har mottatt rapporter fra gårdbrukerne våre om at antall gjødsel de mottar fra gjødselskuret, har sunket til 45.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Du kan være trygg på at gjødselskurene gir deg riktig mengde gjødsel. Fremdriftslinjen i skuret er for antall voksne dyr som spilleren trenger å mate før gjødselskuret blir aktivt. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt; &lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/167d8f586092dddc1045d4b1d8919b565ff3de93.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/167d8f586092dddc1045d4b1d8919b565ff3de93-t.png" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;br /&gt; &lt;/div&gt;&lt;div&gt; &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20160614002128679-2337efb94b7b036--title" hash="35dc30b6fd8ce0d48700805c09aaa608">
+   <original>Hva kan jeg gjøre når innlastingslinjen står fast eller får en Oisann!-feil?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20160614002128679-2337efb94b7b036--content" hash="c516c69d25bc57c2aee87d985cd94cd6">
+   <original>&lt;div&gt;Vi har mottatt rapporter fra noen gårdbrukere om at de står fast på innlastingslinjen eller at de får Oisann!-feil i spillet.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Vi anbefaler at du bytter til Google Chrome for å spille spillet.  &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Klikk &lt;a href="https://zyngasupport.helpshift.com/a/farmville-2/?s=technical-help&amp;amp;f=what-can-i-do-when-being-stuck-at-the-loading-bar" rel="nofollow" target="_blank"&gt;her&lt;/a&gt; for flere feilsøkingstrinn.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20151229105224708-046ce0c9ed75ab4--title" hash="ad1c6e785abfd495295c53fbe12274e5">
+   <original>Hvorfor er ikke navnene synlige i hovedmessens liga?</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--zyngasupport_faq_20151229105224708-046ce0c9ed75ab4--content" hash="4967abee066bd9ddc56c0e2898c62a49">
+   <original>&lt;div&gt;Vi har mottatt rapporter fra andre gårdbrukere om at listen over personer de konkurrerer mot i ligaen, ikke viser navnene til spillerne. Noen viser «Gårdbruker blir snart med», og noen viser bare tall. &lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Vi er klare over dette, og vi kommer til å fikse problemet snart. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953316-e7d16deab9bead9--zyngasupport_faq_20160113021133152-fc25da2547f64a8--title" hash="e9b3568b246af40163a17149bd70eeea">
+   <original>Hvorfor får jeg ikke kjøpt spillvaluta i spillet mitt?</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953316-e7d16deab9bead9--zyngasupport_faq_20160113021133152-fc25da2547f64a8--content" hash="12d9c29c0fe4a356f61e5079db8e90d5">
+   <original>&lt;div&gt;For å beskytte både brukerne våre og selskapet vårt mot forsøk på kredittkort- eller betalingssvindel, har vi implementert visse systemer som kan låse brukere ute fra å betale basert på en rekke kriterier. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Det er to grunnleggende typer kjøpsblokkeringer: &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Midlertidige kjøpsblokkeringer &lt;/b&gt;&lt;/div&gt;&lt;div&gt;Disse kan påføres kontoen din hvis du har foretatt et kjøp tidligere som ble avslått, eller hvis du har overskredet antallet ganger du kan foreta et kjøp den dagen. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Disse utløper automatisk etter en periode på omtrent 24 timer. Merk deg at denne perioden kan være lengre, avhengig av om du har overskredet en daglig, ukentlig eller månedlig kjøpsgrense. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Permanente kjøpsblokkeringer &lt;/b&gt;&lt;/div&gt;&lt;div&gt;Siden vi ikke ønsker å utsette systemene vi bruker, for risiko, kan vi ikke gå inn på detaljer om hvorfor kontoen din har blitt blokkert. Vi kan bare si at noe uvanlig på kontoen eller i kontohistorikken din førte til at systemet stengte deg ute for godt. Systemet kan helt enkelt ikke stole på at betalinger som igangsettes fra kontoen din, kommer til å gjennomføres, eller så er det noe som tyder på at innloggingsopplysningene/integriteten til kontoen din er kompromittert. For mer hjelp angående dette kan du ta kontakt med oss på 1-800-762-2530.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904120836613-b29e7a76d346e4c--title" hash="6ca673f5d84a4b0b6be3d8f148570ce3">
+   <original>Hva er FarmVille2 X-Press?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904120836613-b29e7a76d346e4c--content" hash="86395f2e6baad56cf6a8034801873b82">
+   <original>&lt;div&gt;Vi vet at du har hatt problemer med gårdsdriften på grunn av alle feilene og tillatelsene knyttet til Flash. Teamet vårt har jobbet hardt for å sørge for at du har minst mulig trøbbel med gården din, og vi har laget FarmVille2 X-Press for å fikse alle Flash Player-relaterte problemer som kommer i veien for spillingen din.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;FarmVille 2 X-Press er den nyeste og mest sikre utvidelsen fra Zynga, og du finner den i Chrome-nettbutikken. Denne utvidelsen er løsningen din for alle problemer med tillatelser og andre problemer som skyldes Adobe Flash. Og det er ikke alt! Denne utvidelsen gir deg også enkel tilgang til hjelp fra venner mens du ikke er på gården din, og den varsler deg om alle oppdateringer fra gården din. Alt det samtidig som du også vinner noen fantastiske belønninger! &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;FarmVille2 X-Press gir deg:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Problemfri tilgang til spillet.&lt;/li&gt;&lt;li&gt;Enkel tilgang til hjelp fra venner.&lt;/li&gt;&lt;li&gt;Gå aldri glipp av et varsel fra FarmVille 2.&lt;/li&gt;&lt;/ul&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121423772-7cf9276652854b6--title" hash="a89cd987d412b386a108e2b0e122917e">
+   <original>Hvordan installerer jeg FarmVille2 X-press?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121423772-7cf9276652854b6--content" hash="d139a54e494ee6cff5c625a02e33aeff">
+   <original>&lt;div&gt;&lt;b&gt;Trinn 1: &lt;/b&gt;&lt;/div&gt;&lt;div&gt;Klikk &lt;a href="https://chrome.google.com/webstore/detail/farmville2-x-press/gbgjpdhhnbgmnafojckjmjogcpoinlim/" rel="nofollow" target="_blank"&gt;her for å legge til FarmVille 2 X-Press-utvidelsen&lt;/a&gt; i Chrome. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Trinn 2:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Klikk på «&lt;b&gt;LEGG TIL I CHROME&lt;/b&gt;».&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7c945985-70a0-4f5f-a8d6-ca8ee9d43856.jpg" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7c945985-70a0-4f5f-a8d6-ca8ee9d43856-t.jpg" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Trinn 3:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Et vindu med teksten «&lt;b&gt;Legg til FarmVille2 X-Press&lt;/b&gt;» dukker opp. Klikk på «&lt;b&gt;Legg til utvidelse&lt;/b&gt;»-knappen.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/4ec82954-fbea-47cd-bc32-2a20daaa0c5a.jpg" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/4ec82954-fbea-47cd-bc32-2a20daaa0c5a-t.jpg" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Trinn 4:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Øverst til høyre vil du se meldingen «&lt;b&gt;FarmVille2 X-Press er lagt til i Chrome&lt;/b&gt;». Du kan deretter lukke meldingen.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cb3e8894-6979-47c6-bd65-3f0f7adc1757.jpg" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cb3e8894-6979-47c6-bd65-3f0f7adc1757-t.jpg" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Trinn 5:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Klikk på FarmVille2 X-Press-utvidelsens ikon.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/0891cf3f-9eb2-4028-8464-ed0b47d5e7fa.jpg" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/0891cf3f-9eb2-4028-8464-ed0b47d5e7fa-t.jpg" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Gratulerer, du har lagt til FarmVille2-utvidelsen! &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121436063-b597135f96bdb71--title" hash="486f8d59df8cf1dee22789379cc73c06">
+   <original>Hvordan hjelper FarmVille2 X-Press meg, og hvorfor trenger jeg utvidelsen?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121436063-b597135f96bdb71--content" hash="09400b03fd32661316e788145b221c82">
+   <original>&lt;div&gt;Adobe Flash, en programvare som FarmVille 2 kjører på, fjernes nå fra de fleste vanlige nettlesere (Chrome, Firefox, osv.) og trenger derfor en rekke tillatelser fra deg for at du skal få tilgang til spillet. På grunn av dette blir det vanskelig for deg å spille like enkelt som før. Men ved å legge til den svært sikre X-Press-utvidelsen i nettleseren din slipper du alle spørsmålene om tillatelse som kreves av Adobe Flash – du kan med andre ord komme i gang med arbeidet på gården din mye enklere!&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121453734-7722c8201107914--title" hash="f0be7635b9835b147becf08b5a1a99e8">
+   <original>Er dette en offisiell Zynga-utvidelse?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121453734-7722c8201107914--content" hash="0403f00326431e2b562c82b8d4e69c5b">
+   <original>&lt;div&gt;Ja, dette er den nyeste og mest sikre utvidelsen fra Zynga, laget for å hjelpe deg med alle Adobe Flash-problemer du opplever nå eller kanskje vil oppleve i fremtiden. &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121553215-e36a9a163d87c5b--title" hash="38e9015d1b74317a79d74ad10a22105e">
+   <original>Hvorfor trenger den tilgang til nettleserhistorikken min, kameraet mitt, varsler osv.?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121553215-e36a9a163d87c5b--content" hash="4d6871a6d638ab8e92b73f477d59d876">
+   <original>&lt;div&gt;For at du skal kunne legge til denne utvidelsen fra Google Chrome-butikken, må vi følge butikkens retningslinjer. Det er kun for å oppfylle retningslinjene vi ber om disse tillatelsene.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Slik fungerer FarmVille2 X-Press: Utvidelsen søker etter Flash-innstillinger i Chrome og aktiverer Flash mens spillet lastes inn. For at utvidelsen skal kunne utføre denne handlingen, trenger Chrome en rekke tillatelser. Tillatelsene kreves kun av Chrome for å utføre oppgavene ovenfor, og vi kan forsikre deg om at Zynga ikke vil bruke tillatelsene du gir, til noe annet enn &lt;b&gt;KUN&lt;/b&gt; å jobbe mot å gi deg en god spillopplevelse.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121819759-57880290995e419--title" hash="b04c9aa7f9a7ae5d1a6f44c163f29be5">
+   <original>Hvor trygt er det å legge til denne utvidelsen?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121819759-57880290995e419--content" hash="a05bae1e3b65447a6fc3ade9a08c88b3">
+   <original>&lt;div&gt;Denne utvidelsen er svært trygg og sikker.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121850864-dc85f6e3ac45f3f--title" hash="683ac665ddc9e4ae03e2e566ae9159d2">
+   <original>Er det en alternativ måte å spille spillet på?</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--zyngasupport_faq_20180904121850864-dc85f6e3ac45f3f--content" hash="e8a08223d8c514807afdcd36d6005890">
+   <original>&lt;div&gt;Ja, det er en alternativ måte å spille spillet på. Du kan manuelt aktivere Flash hver spilløkt. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Det er takket være mange år med tillit og kjærlighet at vi har holdt gårdsdriften i gang og vokst! Takk for innsatsen din.&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20181128222951674-1adacf2dc1bacb6--title" hash="93acd6dba9e1ff2557351ae6739a01c4">
+   <original>Hva er FarmVille 2 Top Rail?</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20181128222951674-1adacf2dc1bacb6--content" hash="0c3756bc5a206d8f56146d48b436e004">
+   <original>&lt;div&gt;I vår streben etter å tilby den beste spillopplevelsen til våre verdsatte gårdbrukere, er vi glade for å kunne introdusere nye FarmVille 2 Top Rail! Med dette, er det å få hjelp og å hjelpe venner enklere enn noensinne før!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Spørsmål&lt;/b&gt;: &lt;b&gt;Hva er FarmVille 2 Top Rail?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Svar&lt;/b&gt;: FarmVille 2 Top Rail viser alle FarmVille 2-feeder fra Facebook-vennene dine, og lar deg klikk og få gjenstander uten å måtte dra eller oppdatere gården din. &lt;br /&gt;&lt;br /&gt;&lt;em&gt;&lt;b&gt;Obs!&lt;/b&gt;&lt;/em&gt;&lt;em&gt; Du vil først kunne trykke på Top Rail etter at gården er ferdig med å lastes inn.&lt;/em&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Spørsmål&lt;/b&gt;: &lt;b&gt;Hvordan får jeg tilgang til FarmVille 2 Top Rail?&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Svar&lt;/b&gt;: FarmVille 2 Top Rail finner du rett over spillskjermen din. &lt;br /&gt;&lt;br /&gt;&lt;em&gt;&lt;b&gt;Obs!&lt;/b&gt;&lt;/em&gt;&lt;em&gt; Top Rail er tillgjengelig enten du starter spillet med FarmVille 2 X-Press eller FarmVille 2 Beacon.&lt;/em&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/6fc2789a-5ff4-4174-b892-f3c876e0780d-t.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/6fc2789a-5ff4-4174-b892-f3c876e0780d-t.png" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Spørsmål: Hvor fort dukker disse gjenstandene opp på gården min?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Svar&lt;/b&gt;: Gjenstandene skal umiddelbart være tilgjengelige på gården din. Men i noen få sjeldne tilfeller kan det ta noen minutter før de dukker opp i beholdningen din.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Spørsmål: Er FarmVille 2 Top Rail tilgjengelig på Zyngagames.com?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Svar&lt;/b&gt;: Right Rail på Zyngagames.com blir fortsatt værende, så FarmVille 2 Top Rail er ikke tilgjengelig på &lt;a href="https://zyngagames.com/" rel="nofollow" target="_blank"&gt;Zyngagames.com&lt;/a&gt;. &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20180528153432113-8f98fd5fc69e5fa--title" hash="e1787f8a8e0d5af7fcae6c822e7d45d1">
+   <original>Vanlige spørsmål om FarmVille 2-startprogrammet</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20180528153432113-8f98fd5fc69e5fa--content" hash="5264b156b56b58e5216e9889e3810bdb">
+   <original>&lt;div&gt;&lt;b&gt;Hva er FarmVille 2-startprogrammet? &lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;FarmVille 2 bruker Adobe Flash, og vi er klar over at noen gårdbrukere har problemer med å få tilgang til gården sin, etter at nettleserne begynte å fjerne støtten for Flash. For å sikre at spillerne våre kan fortsette å passe på gårdene sine, har vi utviklet vårt sikre FarmVille 2-startprogram. Når startprogrammet er installert, trenger du ikke fortsette med å gi Flash tilgang til å kjøre nå og da.&lt;br /&gt;&lt;br /&gt;I øyeblikket er FarmVille 2-startprogrammet kun tilgjengelig for Windows 7- og Windows 10brukere som bruker Mozilla Firefox-nettleseren. Men bekymre deg ikke, for vi jobber med å gjøre startprogrammet tilgjengelig på alle andre plattformer.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Hvordan installerer jeg FarmVille 2-startprogrammet i Google Chrome?&lt;/b&gt; &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Trinn 1: Start spillet i Google Chrome-nettleseren, for å få opp startprogrammets vindu. Du må godta Zyngas &lt;a href="https://www.zynga.com/legal/terms-of-service" rel="nofollow" target="_blank"&gt;tjenestevilkår&lt;/a&gt; for å fortsette til det neste trinnet. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/48ea8df3-d7c0-4ca9-91ee-914e5895a2dc.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/48ea8df3-d7c0-4ca9-91ee-914e5895a2dc-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/48ea8df3-d7c0-4ca9-91ee-914e5895a2dc-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/48ea8df3-d7c0-4ca9-91ee-914e5895a2dc-t.png 1.5x" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Trinn 2: Når du har godtatt Zyngas tjenestevilkår, vil den grønne «Last ned og installer»-knappen aktiveres. Klikk på den.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/b546a993-a381-41fe-9066-7907f1ff47ca.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/b546a993-a381-41fe-9066-7907f1ff47ca-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/b546a993-a381-41fe-9066-7907f1ff47ca-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/b546a993-a381-41fe-9066-7907f1ff47ca-t.png 1.5x" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Trinn 3: Etter det, vil det være en nedlastet fil nederst i venstre hjørne på skjermen din. Klikk på den for å installere FarmVille 2-startprogrammet.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cafbdfd6-0fce-4303-9b85-30242d2a5bea.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cafbdfd6-0fce-4303-9b85-30242d2a5bea-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cafbdfd6-0fce-4303-9b85-30242d2a5bea-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/cafbdfd6-0fce-4303-9b85-30242d2a5bea-t.png 1.5x" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Trinn 4: Når installasjonen er ferdig, starter du spillet for å få belønningene dine.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/1e4c8018-f6a7-4e58-a80e-1bdc9acca477.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/1e4c8018-f6a7-4e58-a80e-1bdc9acca477-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/1e4c8018-f6a7-4e58-a80e-1bdc9acca477-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/1e4c8018-f6a7-4e58-a80e-1bdc9acca477-t.png 1.5x" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Hva skjer hvis jeg ignorerer eller ved et uhell lukker FarmVille 2-startprogrammet? &lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;Når startprogrammet ignoreres eller lukkes, vises et ikon med «Viktig merknad!» på venstre side av spillskjermen. Du kan klikke på dette for å starte FarmVille 2-startprogrammet igjen og begynne installeringen. Ikonet forsvinner når FarmVille 2-startprogrammet er ferdig installert. &lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/30f4d0ca-0863-425d-abf5-df6a584d54fc.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/30f4d0ca-0863-425d-abf5-df6a584d54fc-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/30f4d0ca-0863-425d-abf5-df6a584d54fc-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/30f4d0ca-0863-425d-abf5-df6a584d54fc-t.png 1.5x" /&gt;&lt;/a&gt;&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20160707180910927-20e048b31331c36--title" hash="b0eceeee75803b8a245c45590c03832d">
+   <original>Hvordan fungerer hurtigvekstmaskinen fra pakken i begrenset antall?</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--zyngasupport_faq_20160707180910927-20e048b31331c36--content" hash="d07c0845f04702686650c7c43885fb10">
+   <original>&lt;div&gt; &lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/856cfbf9f487c220367efb010420274cc94098f0.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/856cfbf9f487c220367efb010420274cc94098f0-t.png" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Vi vil gjerne informere deg om at når pakken i begrenset antall er kjøpt, vil hurtigvekstmaskinen som er inkludert i den, automatisk aktiveres, selv om du plasserer den i beholdningen din. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Hvis du ønsker å bruke hurtigvekstmaskinen på et senere tidspunkt, er det bare å planlegge bra og kjøpe pakken når du er klar. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Hvis du av en eller annen grunn ikke ser hurtigvekstmaskinen på gården din, kan du sjekke beholdningen din og plassere den umiddelbart. &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953306-cab4bd6bb9fbb35--zyngasupport_faq_20151028124324330-5e6963137565d3a--title" hash="6b9fc2d7ad85586351bc6dff8acc49de">
+   <original>Hvordan bruker jeg markedsboden?</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953306-cab4bd6bb9fbb35--zyngasupport_faq_20151028124324330-5e6963137565d3a--content" hash="48e9701e0d90c06771d5ea427d11fdf3">
+   <original>&lt;div&gt;Når du klikker på markedsboden, vil «Selg varene dine»-vinduet åpne seg. Bare klikk på elementene du vil selge, for å legge dem i køen. &lt;br /&gt; &lt;br /&gt; Når begge er valgt for salg, er det bare å klikke på «Selg»-knappen, og du er ferdig.  Hvis du har ingredienser eller avlinger, kan du selge dem i markedsboden for mynter. &lt;br /&gt; &lt;br /&gt; &lt;em&gt;&lt;b&gt;Tips: &lt;/b&gt;&lt;/em&gt;&lt;em&gt;Hvis du ved et uhell velger noe du ikke vil selge, kan du avbryte salget ved å trykke på «X» øverst til høyre i Markedsbod-menyen. &lt;/em&gt;&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953306-cab4bd6bb9fbb35--zyngasupport_faq_20151028124704641-0f194d0c3ccbc50--title" hash="5eca99eea807de4f29cdb3c0f2bd6840">
+   <original>Hvordan går jeg opp i nivå?</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953306-cab4bd6bb9fbb35--zyngasupport_faq_20151028124704641-0f194d0c3ccbc50--content" hash="c92237778af7eb6abfc46f05ec1ec831">
+   <original>&lt;div&gt;Når du har nok erfaringspoeng, vil du gå opp i nivå. Nivåøkning-vinduet viser deg gjenstandene du har fått på det nye nivået, og det lar deg dele en belønning med vennene dine. &lt;br /&gt; &lt;br /&gt; Som en ekstra bonus, vil plantede avlinger modnes og være klar for innhøsting når du går opp i nivå, og i tillegg får du noen gratis mynter og litt vann. &lt;br /&gt; &lt;br /&gt; &lt;em&gt;&lt;b&gt;Tips: &lt;/b&gt;&lt;/em&gt;&lt;em&gt;Fortsett med å gå opp i nivå for å låse opp nye dekorasjoner, avlinger, dyr og andre ting.&lt;/em&gt;&lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151102132935309-5c4a89b6094b636--zyngasupport_faq_20151102134538671-1db43c93f9f65b9--title" hash="bfc9909457fc77a3901eb9fa1dec4100">
+   <original>Hvordan kan jeg vise skjulte innlegg i nyhetsfeeden min?</original>
+  </string>
+  <string key="zyngasupport_section_20151102132935309-5c4a89b6094b636--zyngasupport_faq_20151102134538671-1db43c93f9f65b9--content" hash="852a40d44747faaed78e8dcb40c0e25f">
+   <original>&lt;div&gt;1. På startsiden til Facebook fører du pekeren over Nyhetsoppdatering og klikker på tannhjulet som dukker opp. Klikk på « &lt;b&gt;Rediger preferanser&lt;/b&gt;».&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;&lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/ecaaf112-1390-4ff9-b386-b588f3ed5b42.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/ecaaf112-1390-4ff9-b386-b588f3ed5b42-2t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/ecaaf112-1390-4ff9-b386-b588f3ed5b42-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/ecaaf112-1390-4ff9-b386-b588f3ed5b42-2t.png 1.5x" data-orientation="portrait" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;2. I Preferanser-menyen klikker du på «&lt;b&gt;Se flere alternativer&lt;/b&gt;».&lt;br /&gt; &lt;/div&gt;&lt;div&gt; &lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/136e99e0f9cf87810de0ddbdda32c5c55781684d.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/136e99e0f9cf87810de0ddbdda32c5c55781684d-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/136e99e0f9cf87810de0ddbdda32c5c55781684d-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/136e99e0f9cf87810de0ddbdda32c5c55781684d-t.png 1.5x" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;/div&gt;&lt;div&gt;3. Hvis FarmVille 2-appen er på listen, klikker du på «&lt;b&gt;Vis&lt;/b&gt;»-knappen ved siden av FarmVille 2 og deretter på Ferdig.  &lt;br /&gt; &lt;/div&gt;&lt;div&gt; &lt;a href="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7ccdc26468cc264c2aef4394c63a451634b67ec9.png" data-lightbox="true" rel="nofollow" target="_blank"&gt;&lt;img src="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7ccdc26468cc264c2aef4394c63a451634b67ec9-t.png" srcset="https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7ccdc26468cc264c2aef4394c63a451634b67ec9-t.png 1x, https://d2duuy9yo5pldo.cloudfront.net/zyngasupport/7ccdc26468cc264c2aef4394c63a451634b67ec9-t.png 1.5x" /&gt;&lt;/a&gt; &lt;br /&gt; &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151029120430266-623284b6c1e4b5b--zyngasupport_faq_20160112052134868-12f9cc94a9c60e7--title" hash="e4c7da71e60d3abdf5582460e2db5b47">
+   <original>Hva betyr det grå utropstegnet?</original>
+  </string>
+  <string key="zyngasupport_section_20151029120430266-623284b6c1e4b5b--zyngasupport_faq_20160112052134868-12f9cc94a9c60e7--content" hash="e17c70e42d9e03bd30227e44e1d50082">
+   <original>&lt;div&gt;Dette kalles Gray Circle of Death (GCOD). Dette skjer når Flash Player har for lite minne. Foruten å utvide mengden RAM som er installert på datamaskinen din, har du her noen tips som frigjør minne, så du kan fortsette å spille: &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;div&gt;Lukk andre apper som kjører i bakgrunnen&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Oppdater nettlesersiden ved å trykke på F5-knappen eller Command + R på tastaturet ditt&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Aktiver/deaktiver nettleserens maskinvareakselerasjon&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Tøm eller optimaliser nettleserens hurtigbuffer&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Start datamaskinen din på nytt&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt; &lt;/div&gt;</original>
+  </string>
+  <string key="zyngasupport_section_20151112124315254-b72c45d48259598--zyngasupport_faq_20151104103907152-ec3fe4b68246ba5--title" hash="dcd8ef5f4cb7a713ff51b16d11cb1aa4">
+   <original>Hvordan rapporterer jeg en mistenkelig spiller?</original>
+  </string>
+  <string key="zyngasupport_section_20151112124315254-b72c45d48259598--zyngasupport_faq_20151104103907152-ec3fe4b68246ba5--content" hash="bdda2df6bae2e53e1c507a8df05f2b5f">
+   <original>&lt;div&gt;{nl}FarmVille 2-teamet er fokusert på å skape et rettferdig spill for alle spillere. Bruk dette skjemaet til å rapportere mistenkelige spillere som du føler prøver å skaffe seg en urettferdig fordel.  {nl} &lt;span&gt;Hvis vi oppdager at en spiller skaffer seg en urettferdig fordel, vil profilen justeres.&lt;/span&gt; {nl}&lt;/div&gt; {nl}&lt;div&gt; {nl} &lt;span&gt;&lt;br /&gt;&lt;/span&gt; {nl}&lt;/div&gt; {nl}&lt;div&gt; {nl} &lt;span&gt;Vær oppmerksom på at du ikke får noe svar når du fyller ut dette skjemaet, og at vi heller ikke kan dele resultatet av undersøkelsene våre med deg. Dette skyldes begrensinger satt av retningslinjene for personvern.&lt;/span&gt; {nl} &lt;span&gt;&lt;br /&gt;&lt;/span&gt; {nl}&lt;/div&gt; {nl}&lt;div&gt; {nl} &lt;br /&gt; {nl}&lt;/div&gt; {nl}&lt;iframe src="https://docs.google.com/a/telusinternational.com/forms/d/1EgYPc9suE-JwRGm8nC9shAdepuAu5Wiz6UTlGVKaQGs/viewform?c=0&amp;amp;w=1embedded=true%22" frameborder="0" height="600" width="650" style="margin: 0px; padding: 0px;"&gt;&lt;/iframe&gt;</original>
+  </string>
+ </pkg>
+ <pkg name="sections">
+  <string key="zyngasupport_section_20151203100558623-ee06d44776d9f57--title" hash="2b59bbfc9d431d23f4564d01b0182808">
+   <original>Annonseringer</original>
+  </string>
+  <string key="zyngasupport_section_20151112150327550-c39233000363f51--title" hash="faedd7b75e2df409acb15910c83df97e">
+   <original>Populære emner</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953316-e7d16deab9bead9--title" hash="780c462e85ba4399a5d42e88f69a15ca">
+   <original>Fakturering</original>
+  </string>
+  <string key="zyngasupport_section_20180904120751601-9c4c93fb255f108--title" hash="2d8947a3a2654fe45e373181d0e142ed">
+   <original>Vanlige spørsmål om FarmVille2 X-Press</original>
+  </string>
+  <string key="zyngasupport_section_20180809174600196-e4ae24a3933fd37--title" hash="918fe35091326b78c9f4b697008c14f9">
+   <original>Vanlige spørsmål om Adobe Air</original>
+  </string>
+  <string key="zyngasupport_section_20151029101938667-f37e123745e4486--title" hash="8cba815e8e8fe8cdc66b6f82110271df">
+   <original>Spillveiledninger</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953306-cab4bd6bb9fbb35--title" hash="bf647454e36069fd16f1a7a35cf6a865">
+   <original>Slik begynner du</original>
+  </string>
+  <string key="zyngasupport_section_20151102132935309-5c4a89b6094b636--title" hash="f431e17ea0081a3c9e51fc240221ee21">
+   <original>Sosialt</original>
+  </string>
+  <string key="zyngasupport_section_20160824174212467-995211e8274ee46--title" hash="70e3456e5d485e802234af291fa81d02">
+   <original>Ofte stilte spørsmål om Gourmetgården min</original>
+  </string>
+  <string key="zyngasupport_section_20160816215712895-c812e59213f5f31--title" hash="6a9d1268ad37a363009ceb8fe5b0970c">
+   <original>Skogvokterutposten</original>
+  </string>
+  <string key="zyngasupport_section_20151103102927131-7a7dd7f0cb7c93e--title" hash="2257946b158b35354a7527c9da897a47">
+   <original>Messen</original>
+  </string>
+  <string key="zyngasupport_section_20151103100652854-0fada00d2cc16ea--title" hash="b23b6c83bacfef73bc594075eac59b46">
+   <original>Hovedmessen</original>
+  </string>
+  <string key="zyngasupport_section_20151103114735547-bef082d6436f70f--title" hash="39daeb2f086c815be7785aa8fe1ebd78">
+   <original>Den store innhøstingen</original>
+  </string>
+  <string key="zyngasupport_section_20151112124038283-663091b5b459bdf--title" hash="b6e7561ac3f1bb4201b6a777d27573a2">
+   <original>Konto og innstillinger</original>
+  </string>
+  <string key="zyngasupport_section_20151029120430266-623284b6c1e4b5b--title" hash="8b957cd8775155e014344a7c0d7b0879">
+   <original>Teknisk hjelp</original>
+  </string>
+  <string key="zyngasupport_section_20151030150857781-1b3ec649dd830d6--title" hash="7d61983c34edc2a8cabbea71c4732f62">
+   <original>Fellesskap</original>
+  </string>
+  <string key="zyngasupport_section_20150914233953323-84f17151c7b54ba--title" hash="a05e35b5c70f27cc36dc04dc388ee613">
+   <original>Juridisk/Personvern/Sikkerhet</original>
+  </string>
+  <string key="zyngasupport_section_20151112123442264-8bd1612ba923d93--title" hash="5a11e0bd65af42743f1db2f10bcbba8e">
+   <original>VIP</original>
+  </string>
+  <string key="zyngasupport_section_20151112124315254-b72c45d48259598--title" hash="bea4c2c8eb82d05891ddd71584881b56">
+   <original>Tilbakemelding</original>
+  </string>
+  <string key="zyngasupport_section_20190130121626653-72fca092782d5dc--title" hash="f6557fb2aaaeb8e6d9d316100819bfb8">
+   <original>VIP-konkurranser</original>
+  </string>
+ </pkg>
+</strings>

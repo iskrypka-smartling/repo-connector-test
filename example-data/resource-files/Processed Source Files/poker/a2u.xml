@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1403970590-contents" hash="9e39e22b4429e3e037402aa4c0a0f33a">
+   <original>You’ll have a ton of fun playing Zynga Poker.</original>
+  </string>
+  <string key="1403970590-subject" hash="812f2c01287af0e7c0a0b3daa381a51a">
+   <original>Have Fun!</original>
+  </string>
+  <string key="1403970592-contents" hash="a86e8ada785a1f8ddccba5a5e6ef8b51">
+   <original>Take down a pot and conquer your weekly challenges.</original>
+  </string>
+  <string key="1403970592-subject" hash="806cdf4aab1ab3f5c80d1ab407ea3a7e">
+   <original>Get Ready!</original>
+  </string>
+  <string key="1403970594-contents" hash="fb170f87a142169305a96709f84ed232">
+   <original>Head back to the tables and grab a seat.</original>
+  </string>
+  <string key="1403970594-subject" hash="75fd0f1641e2a88886cd3729367732cb">
+   <original>You're invited!</original>
+  </string>
+  <string key="1403970595-contents" hash="c0881433275626480c06764327564537">
+   <original>Put your chips, gold, and tickets to good use. Play a hand today.</original>
+  </string>
+  <string key="1403970595-subject" hash="4d2a09aa1453e75240cd6f47ea37f510">
+   <original>Get in here!</original>
+  </string>
+  <string key="1403970596-contents" hash="9334a8f9ea725eb28ad32c6c57c7297b">
+   <original>Put the pressure on your opponents. Play a hand or join a tournament.</original>
+  </string>
+  <string key="1403970596-subject" hash="5671193b4eccf622342a7a79b682a80f">
+   <original>Show your skill!</original>
+  </string>
+ </pkg>
+</strings>

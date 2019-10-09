@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1404055985-contents" hash="fa9eab4e5a8dbb84d745c98b32d52eff">
+   <original>&#x1f4b0; Überrasche deine Freunde mit deinem POKERKÖNNEN und 125 Mrd. $ in GRATIS-Chips. &#x1f4b0;</original>
+  </string>
+  <string key="1404055985-subject" hash="5befe0025425a1c07967873059948d37">
+   <original>Zynga Poker</original>
+  </string>
+  <string key="1404055990-contents" hash="70baa77a65b25ecbbad82e98be69a4b4">
+   <original>{{Receiver_First_Name}}! ➡ Überrasche deine Freunde mit deinem Pokerkönnen und 125 Mrd. $ in GRATIS-Chips. &#x1f4b0;</original>
+  </string>
+  <string key="1404055990-subject" hash="5befe0025425a1c07967873059948d37">
+   <original>Zynga Poker</original>
+  </string>
+ </pkg>
+</strings>

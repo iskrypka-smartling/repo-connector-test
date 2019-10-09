@@ -1,0 +1,15 @@
+Poker/Poker2 Key to Source File Path to Target File PathMapping
+
+poker/pn/common					: fbpoker/en/mobile/clean/en_common.xml			: fbpoker/pt/mobile/stringPkg/pt.xml
+poker/pn/neuter					: fbpoker/en/mobile/clean/en_neuter.xml
+poker/pn/nuetral				: fbpoker/en/mobile/clean/en_neutral.xml
+poker/pn/gendered				: fbpoker/en/mobile/clean/en_gendered.xml
+
+poker/php/common				: fbpoker/en/prd/clean/en_common.xml			: fbpoker/pt/prd/stringPkg/pt.xml
+poker/php/neuter				: fbpoker/en/prd/clean/en_neuter.xml
+poker/php/nuetral				: fbpoker/en/prd/clean/en_neutral.xml
+poker/php/gendered				: fbpoker/en/prd/clean/en_gendered.xml
+
+poker/smartfox					: smartfox/en/poker.smartfox.properties			: smartfox/pt/poker.smartfox.properties
+
+poker2/Localizable				: mobile/unified/Resources/en.txt 				: mobile/unified/Resources/pt.txt

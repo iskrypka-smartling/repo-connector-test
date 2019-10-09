@@ -1,0 +1,4042 @@
+"Mehul.Test.String1" = "新字符串测试";
+"Mehul.Test.String2" = "新字符串主页";
+"Mehul.Test.String3" = "新字符串删除";
+
+// Generic Strings
+"Generic.button.OK" = "确定";
+
+/*
+ LOGIN SCREEN
+ */
+"copyright.notice" = "© 2014 Zynga Inc. 版权所有。";
+"copyright.notice.v2" = "© 2015 Zynga Inc. 版权所有。";
+"copyright.notice.v3" = "© 2016 Zynga Inc. 版权所有。";
+"copyright.notice.v4" = "© 2017 Zynga Inc. 版权所有。";
+"copyright.notice.v5" = "© 2018 Zynga Inc. 版权所有。";
+"copyright.notice.v6" = "© 2019 Zynga Inc. 版权所有。";
+"copyright.notice.year" = "© {0} Zynga Inc. 版权所有。";
+"facebookbutton.title" = "从Facebook登录";
+"facebookbutton.title.v2" = "连接至 Facebook！";
+"facebookbutton.title.v3" = "玩Zynga德州扑克";
+"facebookbutton.subtext" = "和朋友一起玩，获取更多筹码！";
+"facebookbutton.subtext.v2" = "和朋友一起玩，提高排行榜名次！";
+"guestbutton.title" = "以来宾身份玩游戏";
+"secureguestbutton.title" = "使用 Zynga 帐户登录";
+"wewillnever.title" = "我们绝不会未经你的许可发布任何信息。";
+"loggingin.title" = "正在登录...";
+"creatingaccount.title" = "正在创建帐户...";
+"resetpassword.title" = "正在重设密码...";
+"login.or" = "或者";
+"login.termsofservice.notice" = "登录即表明你同意我们的[u][url=https://www.zynga.com/legal/terms-of-service]服务条款[/url][/u]和[u][url=https://www.zynga.com/privacy/policy]隐私政策[/url][/u]。";
+"login.termsofservice.notice.v2" = "点击下方任意登录按钮，即表明你同意Zynga的\n[u][url=https://www.zynga.com/legal/terms-of-service]《服务条款》[/url][/u]\n并承认遵循Zynga的[u][url=https://www.zynga.com/privacy/policy]《隐私政策》[/url][/u]。";
+"recaptcha.retrigger.button" = "我不是机器人";
+"recaptcha.retrigger.body" = "我们无法辨识您。\n请确认您不是机器人！";
+
+/* New login screen */
+"login.facebook.incentive1" = "获取{0}免费筹码！";
+"login.facebook.incentive1.v2" = "第一次登录将获得{0}免费筹码！";
+"login.facebook.incentive2" = "和朋友一起玩，解锁专属功能";
+"login.facebook.incentive2.v2" = "和朋友一起玩，解锁专属功能";
+"login.facebook.incentive3" = "锦标赛和活动";
+"login.facebook.incentive4" = "每日免费筹码";
+"login.facebook.incentive5" = "和朋友一起玩";
+"login.facebook.incentive6" = "加入Facebook好友";
+"login.facebook.incentive7" = "Facebook好友";
+
+/* Welcome ftue */
+"welcome.title" = "欢迎来玩《Zynga德州扑克》！";
+"welcome.body" = "请选择你的头像和用户名。";
+"welcome.thankYou" = "谢谢登陆 Facebook，{0}！";
+"welcome.reward" = "这是你的{0}筹码奖励！";
+"welcome.claim" = "领取 {0}";
+
+"upgradebonus.title" = "升级奖励";
+/* Very important that localizations insert "{0}" where number of chips would be, otherwise game could crash */
+"upgradebonus.message" = "你因升级 Zynga 德州扑克而获得 {0} 个筹码。谢谢！";
+"upgradebonus.button" = "继续";
+
+/* Error handling */
+"errorcode.title" = "登录失败";
+"errorcode.prefix" = "错误代码： ";
+"errorcode.button" = "确定";
+"login.failed.title" = "登录失败";
+"errorcode.message.-1" = "请检查你和互联网的连接，然后重试。";
+"errorcode.message.-2" = "登录 Facebook 时出现错误。请重试。";
+"errorcode.message.-3" = "登录 Facebook 时出现错误。请重试。";
+"errorcode.message.-4" = "请在设置中将装置的日期重置为当前年份。";
+"errorcode.message.-5" = "请升级到最新版本的 Zynga 德州扑克。";
+
+"errorcode.sw.message.-2" = "登录新浪微博时出现错误。请重试。";
+"errorcode.sw.message.-3" = "登录新浪微博时出现错误。请重试。";
+
+/* Low disk space error */
+"lowDiskSpaceError.title" = "磁盘空间较小";
+"lowDiskSpaceError.message" = "你的手机的磁盘空间当前不足。你应该删除一些应用以获得更多空间。每个手机都不相同，但请查看应用管理器的设定，删除一些程序，为扑克游戏腾出空间。希望很快在赌桌上看到你！";
+"lowDiskSpaceError.button" = "确定";
+
+/* Make sure the \n\n is between the message and the email */
+"errorcode.message.install" = "安装 Zynga 德州扑克时出现错误。请联系客户支持：\n电子邮件：support@zynga.com";
+
+"login.connectionerror.title" = "连接错误";
+"login.connectionerror.message" = "Zynga 德州扑克出现了连接错误。";
+"login.connectionerror.button" = "继续";
+
+"login.networkfailure.title" = "网络连接失败";
+"login.networkfailure.message" = "噢，天啊！网络连接已断开。请重新连接。";
+"login.networkfailure.button" = "继续";
+
+"buyin.error.title" = "买入错误";
+"buyin.error.body" = "服务器出错，请返回大厅重新进入。";
+"buyin.error.button" = "返回大厅";
+"userJoinedFullTable.error.body" = "牌桌已满，请加入新牌桌。";
+"userJoinedFullTable.error.button" = "新牌桌";
+
+"guestChipAward.title" = "奖励的筹码";
+"guestChipAward.message" = "你以来宾身份游戏，收到了价值 $5,000 的奖励筹码！";
+"guestChipAward.buttonTitle" = "继续";
+
+"guestKillSwitch.title" = "来宾模式不可用";
+"guestKillSwitch.message" = "此功能当前不可用。请以 Facebook 帐号登录，开始玩 Zynga 德州扑克。";
+"guestKillSwitch.buttonTitle" = "继续";
+
+"betaversion.label" = "测试版。更新版本即将推出。";
+
+"createGuestAccount.noUpgradeTitle" = "创建免费的 Zynga 德州扑克帐号！";
+"createGuestAccount.title" = "升级为免费的\nZynga德州扑克帐户！";
+"createGuestAccount.fbConnect" = "连接 Facebook";
+"createGuestAccount.noThanks" = "不，谢谢";
+"createGuestAccount.secureLogin" = "已经有Zynga\n帐户？";
+"createGuestAccount.email" = "电子邮件";
+"createGuestAccount.password" = "密码";
+"createGuestAccount.confirm" = "确认密码";
+"createGuestAccount.create" = "创建";
+"createGuestAccount.upsell" = "这样做之后我们可以保留你在游戏中的筹码，让你升级手机或决定在另一台设备上玩时没有后顾之忧！";
+"createGuestAccount.TOSPP" = "单击\"创建\"即表明你已接受 Zynga 服务条款和隐私政策。";
+"createGuestAccount.chipLimitTitle" = "狂赌！你已达到筹码上限。创建一个 Zynga 德州扑克帐户继续玩！";
+
+"secureGuestError.popupTitle" = "错误";
+"secureGuestError.completeFields" = "请填写所有字段！";
+"secureGuestError.passwordMatch" = "请确保两次密码输入一致。";
+"secureGuestError.wrongLength" = "请选择一个长度介于 5 到 9 个字符的密码。";
+"secureGuestError.invalidEmail" = "请输入一个有效的电子邮件地址。";
+"secureGuestError.emailExists" = "已存在一个使用此电子邮件地址的帐户。";
+"secureGuestError.deviceExists" = "已为此设备创建了一个帐户。";
+"secureGuestError.unknownCreationError" = "创建帐户时发生错误。";
+"secureGuestError.noConnection" = "请检查你的互联网连接。";
+"secureGuestError.unknownResetError" = "更改密码时发生错误。";
+"secureGuestError.invalidCharacters" = "请选择一个只包含字母和数字的密码。";
+"secureGuestError.badCredentialsError" = "请确保电子邮件和密码均正确。";
+
+"secureLogin.title" = "欢迎回到\n Zynga 德州扑克！";
+"secureLogin.email" = "电子邮件";
+"secureLogin.password" = "密码";
+"secureLogin.login" = "登录";
+"secureLogin.forgotPassword" = "忘记了密码？";
+"secureLogin.wrongPassword" = "电子邮件地址与密码不匹配。";
+"secureLogin.accountInactive" = "此帐户已停用。";
+"secureLogin.unknownError" = "发生一个未知错误。请稍后重试。";
+"secureLogin.createZyngaAccount" = "创建一个Zynga德州扑克帐户";
+
+"resetPassword.title" = "重设你的密码";
+"resetPassword.newPassword" = "新密码";
+"resetPassword.confirmPassword" = "确认你的密码";
+"resetPassword.saveAndLogin" = "保存并登录";
+
+"resetPasswordModal.title" = "重设密码";
+"resetPasswordModal.message" = "请输入你的电子邮件地址：";
+"resetPasswordModal.buttonText" = "重设";
+"resetPasswordModal.placeholder" = "电子邮件";
+"resetPasswordModal.emptyInput" = "请输入一个电子邮件地址。";
+"resetPasswordModal.resetFailure" = "无法恢复此帐户的密码。";
+
+"updatePassword.title" = "更新密码";
+"updatePassword.update" = "更新";
+"updatePassword.oldPassword" = "旧密码";
+"updatePassword.updating" = "更新中...";
+
+"updatePassword.success.title" = "密码已更改";
+"updatePassword.fail.title" = "无法更改密码";
+"updatePassword.fail.emailNotFound" = "系统中未找到电子邮件地址";
+"updatePassword.fail.badNewPassword" = "新密码无效";
+"updatePassword.fail.noOldPassword" = "未输入旧密码";
+"updatePassword.fail.badOldPassword" = "旧密码不正确";
+"updatePassword.fail.samePassword" = "新旧密码不得相同";
+"updatePassword.fail.inactiveAccount" = "未激活账户";
+"updatePassword.fail.unknown" = "发生了一个错误。请重试。";
+
+"passwordRetrieval.title" = "密码取回";
+"passwordRetrieval.tempPassword" = "已经以电子邮件形式给你发送了一个临时密码。";
+"passwordRetrieval.checkEmail" = "查看你的电子邮件了解详细说明。";
+"passwordRetrieval.seeYouSoon" = "一会见！";
+"passwordRetrieval.buttonText" = "好的";
+
+/*
+ STRING FORMAT UTILITY
+*/
+"currency.thousand" = "K";
+"currency.million" = "M";
+"currency.billion" = "B";
+"currency.trillion" = "T";
+
+// Table of Language culture names --> http://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx
+"currency.culture" = "zh-CN";
+"currency.decimalSeparator" = ".";
+"currency.groupSeparator" = ",";
+"currency.shortDollarSignFormat" = "${0}{1}";
+"currency.dollarSignFormat" = "${0}";
+
+"languageCulture" = "zh-CN";
+
+// Generic stand-alone placement ordinals
+"global.placement.ordinal0" = "第 1 名";
+"global.placement.ordinal1" = "第{number}名";
+"global.placement.ordinal2" = "第{number}名";
+"global.placement.ordinal3" = "第{number}名";
+"global.placement.ordinal4" = "第{number}名";
+
+/*
+ LOBBY SCREEN
+ */
+"lobby.playersCountLabel" = "{0} 个玩家在线！";
+"lobby.add_buddies" = "添加牌友，解锁筹码礼物！";
+"lobby.facebookLogin" = "从Facebook登录";
+"lobby.createAccount" = "创建帐户";
+"lobby.ftue.phase1Header" = "轻按游戏图标，立刻游戏！";
+"lobby.ftue.phase1Header.desktop" = "点击游戏图标，立刻游戏！";
+"lobby.ftue.phase1Subheader" = "牌桌设置列于下方";
+"lobby.ftue.phase2Header" = "轻按以选择不同的牌桌并保存设置";
+"lobby.ftue.phase2Header.desktop" = "点击以选择不同的牌桌并保存设置";
+
+// Leave game confirmation
+"lobby.leavegamepopup.title" = "确定要离开Zynga Poker？";
+"lobby.leavegamepopup.button.yes" = "好";
+"lobby.leavegamepopup.button.no" = "不";
+
+//Bucket Names
+"bucketName.hilo" = "Hi-Lo";
+"bucketName.holdem" = "德州扑克";
+"bucketName.playnow" = "现在开始";
+"bucketName.scratchers" = "黄金刮刮乐";
+"bucketName.shootouts" = "一桌一人胜出赛";
+"bucketName.sitngo" = "单桌扑克";
+"bucketName.mtt" = "锦标赛";
+"bucketName.sociallounge" = "社交专区";
+"bucketName.slots" = "老虎机";
+"bucketName.mini_games" = "小游戏";
+"bucketName.poker_games" = "扑克";
+"bucketName.tourney_and_more" = "锦标赛及更多游戏";
+"bucketName.tournaments" = "锦标赛";
+"bucketName.jump" = "跳转扑克";
+"bucketName.blackjack" = "黑杰克";
+"bucketName.casino_slots" = "赌场老虎机";
+"bucketName.oneclicklivejoin" = "朋友";
+
+// Multi-table tournaments
+"mtt.seatingShuffled" = "平衡牌桌人数"; // Indicates that we have moved players to different tables so that there are an equal number of players at each table.
+"mtt.tableLabel.countdown.text" = "锦标赛开始倒计时：";
+"mtt.tableLabel.countdown.format.HMS" = "{0} : {1} : {2}";
+"mtt.tableLabel.countdown.format.MS" = "{0} : {1}";
+"mtt.tableLabel.countdown2.text" = "锦标赛开始倒计时：{0}";
+"mtt.tableLabel.countdown2.format.HMS" = "{0}小时{1}分{2}秒";
+"mtt.tableLabel.countdown2.format.MS" = "{0}分{1}秒";
+"mtt.tableLabel.blindsTimer.format.MS" = "{0}:{1}";
+"mtt.tableLabel.rank" = "排名";
+"mtt.tableLabel.leader" = "领先玩家"; //Frontrunner, Person in the lead with the most chips
+"mtt.tableLabel.average" = "平均筹码"; //Average number of chips in the game
+"mtt.tableLabel.nextBlind" = "下次盲注";
+"mtt.tableLabel.timer" = "计时器";
+"mtt.tableLabel.limbo.text" = "锦标赛即\n将开始……";
+"mtt.tableLabel.estimatedWait.singular" = "预计等待时间：{0}分钟";
+"mtt.tableLabel.estimatedWait.plural" = "预计等待时间：{0}分钟";
+"mtt.tableLabel.minimumPlayers" = "至少{0}位玩家才能开始";
+"mtt.card.timerDescription" = "倒计时：";
+"mtt.card.inProgressDescription" = "锦标赛正在进行中";
+"mtt.card.doneDescription" = "锦标赛已结束";
+"mtt.card.buttonText" = "立即进入";
+
+"mtt.lb.title" = "锦标赛";
+"mtt.lb.payouts" = "{0}彩金";
+"mtt.lb.tab.prizes" = "奖品";
+"mtt.lb.tab.leaderboard" = "排行榜";
+"mtt.lb.prizes.none" = "达到最终牌桌，赢得奖品！";
+"mtt.lb.unavailable" = "排行榜在比赛开始之前不可用";
+
+//One Click Live Join
+"oneClickLiveJoin.nobodyOnline1" = "社交中心";
+
+//fraud message
+"warOnFraud.heading" = "呼吁所有的玩家！";
+"warOnFraud.body" = "我们在努力改善反欺诈保护活动。如果您怀疑有人作弊，请轻按“举报”按钮或发送邮件至\nPokerFraud@zynga.com进行举报。";
+
+//friend  notify
+"message.friendNotify.message1" = "想知道好友们何时玩扑克游戏吗？想知道自己何时有免费筹码吗？";
+"message.friendNotify.message2" = "游戏通知可能包含推送通知和图标。这些可在\"设置\"中配置。";
+"message.friendNotify.buttonText" = "好，请通知我！";
+
+//join friend card
+"joinFriend.onlineLabel" = "你的牌友{0}现在在线";
+"joinFriend.joinLabel" = "现在就加入";
+"joinFriend.stakesLabel" = "加入他们的 {0} 牌桌！";
+"joinFriend.noStakesLabel" = "加入他们的牌桌一起玩！";
+
+//friend joined room banner
+"friendJoinedTable.messageLabel" = "你的牌友{0}刚刚加入了你的牌桌。";
+
+//Friend absent on live join
+"friendAbsentOnLiveJoin.messageLabel" = "你的好友{0}已经离开了这个牌桌";
+
+//Live joined a friend, but you don't have enough chips.
+"insufficientChipsOnLiveJoin.messageLabel" = "加入{0}的牌桌。";
+
+//Live joined a friend, but the table is full
+"tableFullOnLiveJoin.messageLabel" = "牌桌已满。请等待空位。";
+
+//Friend spectating when you live join.
+"friendSpectating.messageLabel" = "你的牌友 {0} 正在本桌旁观。";
+
+//friend invite
+"friendInvite.messageLabel" = "{0}邀请你一起游戏！";
+
+//buddy notify
+"buddyNotify.messageLabel" = "和好友一起玩！他们在线时请通知我。";
+"buddyNotify.buttonLabel" = "好！";
+
+//enable push notification
+"message.enablePush.title" = "请开启通知";
+"message.enablePush.body" = "快成功了！\n\n 请前往 iPhone 中的\"\"设置\"\"，将 Zynga 德州扑克的推送通知设为\"打开\"。";
+
+"enablePush.title" = "免费筹码！";
+"enablePush.header" = "想要每天获得更多免费筹码？启用推送通知！";
+"enablePush.body" = "请前往你设备中的\"设置\" ，选择 Zynga 德州扑克的\"推送通知\"，并设为打开。 ";
+"enablePush.buttonText" = "好的";
+
+"pnBonus.title" = "谢谢！";
+"pnBonus.body" = "谢谢你保持启用推送通知！这里是 ${0} 奖励筹码！";
+"pnBonus.acceptButtonText" = "好的";
+"pnBonus.ignoreButtonText" = "不要再显示此消息";
+
+//chip gift
+"chipGift.buttonText" = "好！";
+"chipGift.titleLabel" = "想要更多筹码吗？";
+"chipGift.messageLabel" = "发送筹码，获赠筹码！";
+
+//chip gift v1.5
+"chipGifts.selectFriends" = "选择好友";
+"chipGifts.sendToAll" = "选择全部";
+"chipGifts.acceptAndSend" = "接受并送出";
+"chipGifts.noGifts" = "你当前没有可接受的奖励。发送奖励，你的好友也会回送奖励给你！";
+"chipGifts.sentGifts" = "你给 {0} 位好友送出了礼物！";
+"chipGifts.alreadySentGifts" = "你已给 {0} 位好友送出了礼物！";
+"chipGifts.title" = "礼物";
+"chipGifts.defaultChipGiftMessage" = "这里有份神秘礼物，内有多达$1,000,000筹码。回赠一次！";
+"chipGifts.FriendChipGiftMessage" = "{0}将你的奖励提高到最高一百万筹码。礼尚往来吧！"; // {0} is a friend name
+"chipGifts.loadingChipGift" = "好友发送的奖励将很快送达！";
+"chipGifts.titleNew" = "筹码礼物";
+"chipGifts.titleBackup" = "好友奖励"; //Backup Copy
+"chipGifts.FriendChipGiftMessageBackup" = "{0}将你的奖励提高到了{1}筹码。礼尚往来吧！"; // Backup Copy
+
+
+//table select
+"tableSelect.title" = "德州扑克牌桌";
+"tableSelect.playersLabel" = "玩家：";
+"tableSelect.speedLabel" = "速度：";
+"tableSelect.stakesLabel" = "赌注";
+"tableSelect.buyInLabel" = "最低/最高买入";
+"tableSelect.buyInLabel.jump" = "买入";
+"tableSelect.buyInLabel.jump.lowercase" = "买入";
+"tableSelect.fastLabel.jump" = "超快";
+"tableSelect.fastLabel" = "快速";
+"tableSelect.normalLabel" = "正常速度";
+"tableSelect.playNowLabel" = "现在开始";
+"tableSelect.buyChipsLabel" = "购买筹码";
+"tableSelect.buyGoldLabel" = "购买金币";
+"tableSelect.impulsePurchaseMessage" = "别走开 - 现在就购买一些筹码开始玩吧！";
+"tableSelect.chipbalance" = "你的账户余额：{0}";
+"tableSelect.playAgainLabel" = "再玩一次";
+"tableSelect.stakesCaps" = "赌注";
+"tableSelect.buyInCaps" = "买入：";
+"tableSelect.buyInCaps.max" = "最高买入";
+"tableSelect.jumpTitle" = "换桌";
+"tableSelect.autoRebuyLabel" = "自动重新购买";
+"tableSelect.autoTopOffLabel" = "自动加满";
+
+
+//tournament Select
+"tourSelect.SitNGo" = "单桌扑克锦标赛";
+"tourSelect.title" = "选择你的锦标赛";
+"tourSelect.buyInlabel" = "买入和费用";
+"tourSelect.buyInlabel2" = "买入";
+
+"tourSelect.firstPlaceLabel" = "第 1 名";
+"tourSelect.secondPlaceLabel" = "第 2 名";
+"tourSelect.thirdPlaceLabel" = "第 3 名";
+"tourSelect.impulsePurchaseMessage" = "别走开 - 现在就购买一些筹码开始玩吧！";
+
+//table invite
+"tableinvite.missedFriendTitle" = "对不起";
+"tableinvite.missedFriend" = "你的好友好像已经下线了。";
+"tableinvite.missedbuttonText" = "现在开始";
+
+"tableinvite.buttonText" = "加入";
+"tableinvite.body" = "{0} 刚刚邀请你玩一场游戏。";
+
+//table party invite
+"tablePartyInvite.button.accept" = "接受";
+"tablePartyInvite.button.accepted" = "已接受";
+"tablePartyInvite.button.joinNewTable" = "新牌桌";
+"tablePartyInvite.sitter.header" = "{0}已经加入了房间。";
+"tablePartyInvite.spectator.header" = "该牌桌已满。";
+"tablePartyInvite.body" = "你希望邀请{0}加入新牌桌吗？";
+"tablePartyInvite.waiting.playerAcceptedFirst.header" = "邀请已发出！";
+"tablePartyInvite.waiting.playerAcceptedFirst.body" = "正在等待{0}回应。";
+"tablePartyInvite.waiting.otherAcceptedFirst.header" = "{0}希望和你在新牌桌游戏！";
+"tablePartyInvite.waiting.otherAcceptedFirst.body" = "正在等待你的回应。";
+"tablePartyInvite.joining.otherAcceptedFirst.header" = "你加入了！";
+"tablePartyInvite.joining.playerAcceptedFirst.header" = "{0}已经接受了。";
+"tablePartyInvite.joining.body" = "牌局结束后移到新的牌桌。";
+"tablePartyInvite.otherDeclined.header" = "{0}拒绝了邀请。";
+"tablePartyInvite.spectator.otherDeclined.body" = "别灰心，我们有更多开放的牌桌！";
+"tablePartyInvite.sitter.otherDeclined.body" = "别灰心。继续游戏吧！";
+
+//table back menu item
+"backmenu.rtl.popup.title" = "要退出锦标赛吗？";
+"backmenu.rtl.popup.body" = "你确定要退出锦标赛吗？";
+"backmenu.rtl.popup.button.yes" = "好";
+"backmenu.rtl.popup.button.no" = "不";
+
+//Mtt Rtl popup
+"mtt.rtl.pretournament.popup.title" = "要退出吗？";
+"mtt.rtl.pretournament.popup.body" = "警告！如果你在锦标赛开始时未加入游戏，那么当轮到你下盲注时你的筹码会自动下盲注。\n记得要及时回来！";
+"mtt.rtl.pretournament.popup.button.yes" = "是";
+"mtt.rtl.pretournament.popup.button.no" = "否";
+"mtt.rtl.pretournament2.popup.body" = "锦标赛尚未开始。你将不会被收取买入费用。\n\n要退出吗？";
+"mtt.rtl.popup.title" = "要退出吗？";
+"mtt.rtl.popup.body" = "如果你在锦标赛开始后离开游戏，那么当轮到你下盲注时你的筹码会自动下盲注。\n继续玩锦标赛！";
+"mtt.rtl.popup.button.yes" = "是";
+"mtt.rtl.popup.button.no" = "否";
+
+// MTT You're late popup
+"mtt.tooLatePopup.title" = "你来晚了！";
+"mtt.tooLatePopup.staticTopBody" = "锦标赛已经开始了！";
+"mtt.tooLatePopup.staticBottomBody" = "请关注未来的更多活动。";
+"mtt.tooLatePopup.playButtonLabel" = "前往大厅";
+
+//facebook upsell
+"facebookUpsell.title" = "解锁新的游戏模式";
+"facebookUpsell.message" = "- 和 Facebook 好友一起玩 -\n- 购买筹码 -\n- 在任何设备上玩 -";
+"facebookUpsell.firstButton" = "不，谢谢";
+"facebookUpsell.secondButton" = "连接至 Facebook";
+"facebookUpsell.chipsMessage" = "开局有 {0} 个免费筹码！";
+"facebookUpsell.feedMessage" = "未经你的允许，我们不会发布动态消息。";
+
+//lock
+"featureLocked.title" = "即将推出";
+"featureLocked.message" = "不间断德州扑克";
+
+//shootout Select
+"shootoutLobbyCard.playRound" = "玩第 {0} 轮！";
+"shootoutLobbyCard.promoTitle" = "仅限 Facebook";
+"shootoutLobbyCard.promoBody" = "现在加入Facebook 开始游戏！";
+
+"shootoutLobbyCard.popup.facebook.title" = "通过 Facebook 登录玩一人一桌胜出赛！";
+"shootoutLobbyCard.popup.facebook.body" = "玩一人一桌胜出赛（3 轮单人桌锦标赛），赢取最大价值 $500K 筹码！不用担心，未经你的许可，我们绝不会在 Facebook 上发布任何信息。";
+"shootoutLobbyCard.popup.facebook.connetButton" = "登录";
+
+"shootoutSelect.header" = "胜出制锦标赛";
+"shootoutSelect.subheader" = "你可在第 3 轮赢得 {0}";
+
+"shootoutPanel.roundNumber" = "第 {0} 轮入口";
+"shootoutPanel.roundNumberNoEntry" = "第{0}轮";
+"shootoutPanel.firstPlace" = "第 1 名";
+"shootoutPanel.playButton" = "开始";
+"shootoutPanel.winnerReward" = "赢家\n可获得\n${0}";  //words on separate lines
+"shootoutPanel.winnerRewardOneLine" = "赢家获得{0}";
+"shootoutPanel.entryFee" = "${0} 个筹码\n可进入";
+"shootoutPanel.roundLocked" = "赢得第 {0} 轮以进入";
+
+"shootoutHelp.header" = "一桌一人胜出制多桌锦标赛";
+"shootoutHelp.subheader" = "每一轮为一场单桌锦标赛，有 9 名玩家参与。";
+"shootoutHelp.bulletPoints" = "• 赢得第 1 轮者才能进入第 2 轮\n• 赢得第 2 轮者才能进入第 3 轮\n• 赢得第 3 轮并赢得 {0} 筹码";
+"shootoutHelp.playAnywhere" = "随时可以通过网页版或手机参加游戏";
+"shootoutHelp.prizeTable" = "奖品桌";
+"shootoutHelp.roundOne" = "第 1 轮";
+"shootoutHelp.roundTwo" = "第 2 轮";
+"shootoutHelp.roundThree" = "第 3 轮";
+"shootoutHelp.firstPlace" = "第 1 名";
+"shootoutHelp.secondPlace" = "第 2 名";
+"shootoutHelp.thirdPlace" = "第 3 名";
+"shootoutHelp.fourthPlace" = "第 4 名";
+"shootoutHelp.fifthPlace" = "第 5 名";
+"shootoutHelp.firstRoundFirstPlace" = "{0}";
+"shootoutHelp.secondRoundFirstPlace" = "{0}";
+"shootoutHelp.genericReward" = "{0}";
+"shootoutHelp.tournamentRules" = "一桌一人锦标赛规则";
+"shootoutHelp.tournamentRulesDetailed" = "每一轮为一场单桌锦标赛，有 9 名玩家参与。\n\n• 赢得第 1 轮者才能进入第 2 轮\n• 赢得第 2 轮者才能进入第 3 轮\n• 赢得第 3 轮并赢得 {0} 筹码";
+"shootoutHelp.tournamentRulesShort" = "随时可以通过网页版或手机参加游戏";
+
+
+"newprofile.title" = "查看新的个人资料！";
+
+//ratings
+"ratingPrompt.title" = "喜欢 Zynga 德州扑克？";
+"ratingPrompt.message.ios" = "请在 iTunes 应用商店给我们评价。";
+"ratingPrompt.message.droid" = "请在Google Play中给我们评价。";
+"ratingPrompt.message.amazon" = "请在亚马逊上给我们评价。";
+"ratingPrompt.message.windows" = "请在Windows Store中为我们评价。";
+"ratingPrompt.firstButtonText" = "以后再说";
+"ratingPrompt.secondButtonText" = "好";
+
+// improved rate the app
+"enjoyPoker.popup.title" = "你玩得开心吗？";
+"enjoyPoker.popup.body" = "你是否喜欢最新版本的游戏？";
+"enjoyPoker.popup.button.positive" = "好！";
+"enjoyPoker.popup.button.negative" = "否";
+"rateTheApp.popup.title" = "请评价Zynga德州扑克";
+"rateTheApp.popup.body" = "您的意见和建议对我们很重要。您能为我们评分并留下评论吗？";
+"rateTheApp.popup.button.rateNow" = "立即评价";
+"rateTheApp.popup.button.noThanks" = "不，谢谢";
+"rateTheApp.popup.button.later" = "稍后提醒我";
+
+// app upgrade
+"appUpgrade.title" = "获取最新更新！";
+"appUpgrade.body" = "我们对 Zynga 德州扑克做了大量改善，现在就来下载最新更新，体验最新游戏吧！";
+"appUpgrade.button" = "立即更新";
+
+// zynga sale
+"zyngaSale.title" = "五折优惠出售！";
+"zyngaSale.blackFridayBody" = "部分筹码组合五折优惠！不要错过这次周末大优惠哦！";
+"zyngaSale.cyberMondayBody" = "部分筹码组合五折优惠！庆祝周一欢乐购，大优惠来啦！";
+"zyngaSale.playButton" = "现在开始";
+"zyngaSale.buyButton" = "立即购买";
+
+// in app Feedback
+"feedback.button.label" = "提供反馈信息";
+"feedback.popup.title" = "为德州扑克评分";
+"feedback.popup.submit" = "提交";
+"feedback.popup.rating.label" = "总分";
+"feedback.additionalfeedback.label" = "我们如何改善游戏？";
+"feedback.additionalfeedback.option1" = "Option1";
+"feedback.additionalfeedback.option2" = "Option2";
+"feedback.additionalfeedback.option3" = "Option3";
+"feedback.additionalfeedback.option4" = "Option4";
+"feedback.additionalfeedback.option5" = "Option5";
+"feedback.banner.postFeedback" = "感谢你的反馈！";
+"feedback.banner.postFeedbackThanks" = "感谢你的反馈！";
+"feedback.banner.postFeedbackOhNo" = "感谢你的反馈，这些反馈将帮助我们改善Zynga Poker的游戏体验。";
+"feedback.rating.1star" = "好无聊。";
+"feedback.rating.3star" = "还可以。";
+"feedback.rating.5star" = "太好玩了。";
+
+// Give Feedback v2
+"feedbackV2.popup.title" = "给我们反馈信息";
+"feedbackV2.popup.submit" = "提交";
+"feedbackV2.popup.defaultText" = "可选 - 告知我们你对本游戏的看法。\n（限500字）";
+"feedbackV2.thanks.popup.title" = "感谢你的反馈！";
+"feedbackV2.thanks.popup.body" = "你的反馈可以帮助我们提升\n《Zynga德州扑克》的游戏体验";
+"feedbackV2.thanks.popup.confirm" = "关闭";
+"feedbackV2.rating.heart0" = "轻按一颗爱心，选择你的反馈。";
+"feedbackV2.rating.heart0.desktop" = "点击一颗爱心，选择你的反馈。";
+"feedbackV2.rating.heart1" = "这款游戏需要大幅改进。";
+"feedbackV2.rating.heart2" = "这款游戏需要一些改进。";
+"feedbackV2.rating.heart3" = "这款游戏还可以。";
+"feedbackV2.rating.heart4" = "这款游戏很好。";
+"feedbackV2.rating.heart5" = "我非常喜欢这款游戏！";
+
+// new buyer
+"newbuyer.rtl.title" = "特价活动！筹码和金币都半价出售！";
+"newbuyer.rtl.message" = "现在就以半价购买最受欢迎的筹码和金币组合。";
+"newbuyer.rtl.cta" = "立即购买";
+"newbuyer.abandon.title" = "特价活动！筹码和金币都半价出售！";
+"newbuyer.abandon.message" = "现在就以半价购买最受欢迎的筹码和金币组合。";
+"newbuyer.abandon.cta" = "立即购买";
+
+// Twice is Nice
+"twiceisnice.title" = "再来一次！";
+"twiceisnice.body" = "现在购买第2个{0}组合就可以获得总价值为{2}的{1}筹码奖励！";
+"twiceisnice.cancel" = "不，谢谢";
+"twiceisnice.confirm" = "立即购买！";
+"twiceisnice.purchase.confirmationlabel" = "（之前为 [s]{0}[/s]）";
+"twiceisnice.purchase.confirmation.title" = "授予了{0}筹码奖励！";
+
+// sweepstakes
+"sweepstakes.chipGiveaway" = "ZYNGA 筹码抽奖";
+"sweepstakes.promotion" = "7 天内，\n7 位赢家";
+"sweepstakes.promotion.you" = "下一位可能就是你哦！";
+"sweepstakes.upsell" = "购买任意筹码套餐即有机会中奖。";
+"sweepstakes.enterNow" = "立即进入！";
+"sweepstakes.buyIntoGame" = "买入游戏";
+"sweepstakes.rules" = "每位赢家可获得$450,000,000筹码。以Zynga游戏卡的方式支付。No purchase necessary. Void where prohibited. Tap here for official rules.";
+"sweepstakes.rules.desktop" = "每位赢家可获得$450,000,000筹码。以Zynga游戏卡的方式支付。No purchase necessary. 如法律或条例禁止则无效。点击这里查看官方规则。";
+
+"sweepstakes.entered" = "你已参加抽奖活动。祝你好运！";
+"sweepstakes.thanks" = "谢谢！你已购买";
+"sweepstakes.continue" = "继续";
+"sweepstakes.thanksItem" = "谢谢你的购买。";
+
+//invite contacts
+"message.inviteContact.success.part1" = "你已经发送邀请给：\n";  //these 2 are designed to be appended together to make full a sentence
+"message.inviteContact.success.part2" = "和其他 {0} 人";
+"message.inviteContact.email.titleLabel" = "以电子邮件发送邀请";
+"message.inviteContact.sms.titleLabel" = "以短信发送邀请";
+"message.inviteContact.success.buttonLabel" = "完成";  //as in finished
+
+"message.invitePrompt.title" = "添加好友！";
+"message.invitePrompt.message" = "想要更多免费筹码礼物？通过短信或电子邮件添加扑克好友！";
+"message.invitePrompt.firstButtonText" = "短信";
+"message.invitePrompt.secondButtonText" = "电子邮件";
+
+"message.invitePrompt.text.title" = "添加好友！";
+"message.invitePrompt.text.message" = "想要更多免费筹码礼物？通过短信添加扑克好友！";
+"message.invitePrompt.text.firstButtonText" = "短信";
+
+"message.invitePrompt.email.title" = "添加好友！";
+"message.invitePrompt.email.message" = "想要更多免费筹码礼物？通过电子邮件添加扑克好友！";
+"message.invitePrompt.email.firstButtonText" = "电子邮件";
+
+//pricing prompt
+"message.pricingPrompt.title" = "获得更多筹码！";
+"message.pricingPrompt.message" = "限时优惠 - 花同样的钱，购买更多筹码！像专业玩家一样，在高额赌注牌桌上游戏。";
+"message.pricingPrompt.firstButtonText" = "以后再说";
+"message.pricingPrompt.secondButtonText" = "获取筹码";
+"message.pricingPrompt.goldButtonText" = "获取金币";
+
+//change name prompt spelling of title as t is intentional.  news tool only supports 20 char titles
+"message.changeName.t" = "个性化你的昵称！";
+"message.changeName.message" = "欢迎回来！你知道如何个性化德州扑克名称吗？现在就开始！";
+"message.changeName.firstButtonText" = "不，谢谢";
+"message.changeName.secondButtonText" = "编辑名称";
+
+//lobby cards
+"lobbycard.playNow" = "现在开始";
+"lobbycard.cashGame" = "德州扑克牌桌";
+"lobbycard.cashGame.subTitle" = "现金牌桌";
+"lobbycard.cashGame.pro" = "职业德州扑克牌桌";
+"lobbycard.cashGame.rename" = "现金";
+"lobbycard.sitNGo" = "单桌扑克锦标赛";
+"lobbycard.sitNGo.subTitle" = "1轮";
+"lobbycard.sitNGo.pro" = "职业版单桌扑克锦标赛";
+"lobbycard.sitNGo.rename" = "锦标赛";
+"lobbycard.banner.fast" = "快速";
+"lobbycard.banner.jump" = "跳转";
+"lobbycard.banner.jump.subtitle" = "多现金牌桌";
+"lobbycard.shootout.rename" = "多轮";
+"lobbycard.shootout.subTitle" = "3轮";
+"lobbycard.mtt.subTitle" = "多牌桌活动";
+"lobbycard.button.selectTable" = "选择牌桌";
+"lobbycard.stakes" = "赌注";
+"lobbycard.buyIn" = "买入";
+
+//buddy notify
+"pnMFS.headerLabel" = "和好友一起玩！";
+"pnMFS.subHeaderLabel" = "选择好友，了解他们何时在线。";
+"pnMFS.save" = "保存变更";
+
+"lobbycard.shootouts" = "胜出制锦标赛";
+
+//fb convert
+"fbConvert.buttonText" = "连接";
+"fbConvert.messageLabel1" = "和好友一起玩扑克！";
+"fbConvert.messageLabel2" = "发送和接收免费筹码！";
+"fbConvert.messageLabel3" = "在高额赌注牌桌和快速桌上游戏！";
+
+"playerProfile.title" = "个人资料";
+"playerProfile.titleAllCaps" = "个人资料";
+"playerProfile.level" = "等级";
+"playerProfile.levelAndNumber" = "第{0}级";
+"playerProfile.stats" = "玩家状态";
+"playerProfile.handsWon" = "赢得的局数：";
+"playerProfile.won" = "已赢";
+"playerProfile.handsPlayed" = "已玩牌局：";
+"playerProfile.played" = "已玩";
+"playerProfile.biggestWin" = "最大赢注：";
+"playerProfile.biggestPotWon" = "赢过的最大的池底";
+"playerProfile.winLoss" = "胜率：";
+"playerProfile.bestHand" = "最佳牌组";
+"playerProfile.editAvatar" = "编辑头像";
+"playerProfile.zPokerAchievement" = "Zynga 德州扑克成就";
+"playerProfile.nowAvailable" = "现已推出！";
+"playerProfile.aAvailable" = "头像现已推出！";
+"playerProfile.pick" = "选择你的扑克头像";
+"playerProfile.avUpgrade" = "升级为免费的 Zynga 德州扑克帐户以挑选你的头像！";
+"playerProfile.achUpgrade" = "升级为免费的 Zynga 德州扑克帐户以解锁成就！";
+"playerProfile.addBuddy" = "加牌友";
+"playerProfile.addBuddyPending" = "牌友请求未决...";
+"playerProfile.removeBuddy" = "移除好友";
+"playerProfile.chipGifts" = "筹码礼物";
+"playerProfile.sendChipGift" = "送出筹码礼物";
+"playerProfile.getTableGift" = "获得牌桌礼物";
+"playerProfile.giveTableGift" = "送出牌桌礼物";
+"playerProfile.report" = "报告";
+"playerProfile.reportabuse" = "举报滥用行为";
+"playerProfile.mute" = "静音";
+"playerProfile.block" = "屏蔽";
+"playerProfile.blockCaps" = "屏蔽";
+"playerProfile.nextChipReward" = "晋到{1}级获{0}筹码";
+"playerProfile.nextTitle" = "第{0}级会获得新头衔";
+"playerProfile.maxLevelTitleReward" = "已获得当前所有的奖励和成就！";
+"playerProfile.xpToNextLevel" = "还需获得 {0}";
+"playerProfile.maxLevel" = "已达到最高等级";
+"playerProfile.levelNumberAndLevelName" = "{0}: {1}";
+"playerProfile.sendTableGift" = "发送牌桌礼物";
+"playerProfile.likes" = "赞";
+"playerProfile.buddies" = "牌友";
+"playerProfile.likesLC" = "赞";
+"playerProfile.buddiesLC" = "牌友";
+"playerProfile.more" = "更多";
+"playerProfile.editname" = "编辑名称";
+"playerProfile.muteCaps" = "静音";
+"playerProfile.editAvatarCaps" = "编辑头像";
+"playerProfile.reportCaps" = "报告";
+"playerProfile.league" = "联赛";
+"playerProfile.compareStats" = "统计资料";
+"playerProfile.You" = "你";
+"playerProfile.openUpSomeoneElsesProfile" = "先打开其他玩家的个人档案，比较你们的扑克统计资料！";
+"playerProfile.removeBuddyConfirmation" = "你确定要移除该牌友吗？";
+"playerProfile.removeBuddyYes" = "好";
+"playerProfile.removeBuddyNo" = "不";
+"playerProfile.removeFacebookBuddy" = "你无法通过该应用移除Facebook好友。";
+"playerProfile.removeFacebookOK" = "确定";
+"playerProfile.xpToLevelUp" = "还需{0}点经验值才能升级";
+"playerProfile.blockedBanner" = "已阻止";
+"playerProfile.blockPlayerConfirmation" = "一旦屏蔽某个玩家，你们之间将无法继续互动。\n\n你确定要屏蔽此玩家吗？此操作无法撤消。";
+"playerProfile.blockPlayerConfirmation2" = "一旦屏蔽某个玩家，你们之间将无法继续互动。\n\n你确定要屏蔽此玩家吗？";
+"playerProfile.noUnblockCapability" = "你现在无法对此玩家解除屏蔽。";
+"playerProfile.levelDescription" = "每局游戏都会奖励经验值，每升一级都能获得奖品！\n 游戏等级越高，你获得的经验值就越多！";
+
+// New player profile keys for detailed stats view
+"playerProfile.detailStatsViewTitle" = "游戏统计";
+"playerProfile.walletSize" = "钱包大小";
+"playerProfile.sngWinPercentage" = "一桌一人胜出赛胜率";
+"playerProfile.shootoutWinPercentage" = "单桌扑克赛胜率";
+"playerProfile.holdemWinPercentage" = "德州扑克胜率";
+"playerProfile.bestWinningHand" = "赢过的最大牌局";
+"playerProfile.handsPlayed2" = "已玩牌局";
+"playerProfile.favoriteStakes" = "最喜欢的赌注";
+"playerProfile.tournamentsWon" = "赢过的锦标赛";
+"playerProfile.vsLabel" = "v";
+
+//avatar stuff
+"avatar.storeLabel" = "头像商店";
+"avatar.myAvatarLabel" = "我的头像";
+"avatar.owned" = "已拥有";
+"avatar.free" = "免费";
+"avatar.selected" = "已选择";
+"avatar.level" = "等级";
+"avatar.locked" = "已锁定";
+
+"avatarConfirm.title" = "确认购买";
+"avatarConfirm.message" = "你想花费 {1} 个筹码购买 {0}\n吗？";
+"avatarConfirm.buy" = "购买";
+"avatarConfirm.cancel" = "取消";
+
+"avatar.getAvatar" = "获取头像！";
+
+"avatarPromo.available" = "头像商店现已开门迎客！";
+"avatarPromo.pick" = "选择你的扑克头像";
+
+"avatarselector.networkerror.title" = "网络错误";
+"avatarselector.networkerror.body" = "出现网络故障，无法更改你的头像。请重试。";
+
+//achievement
+"achievement.masteryProgress" = "掌握进度！";
+"achievement.masteryUnlocked" = "已解锁掌握级别！";
+"achievement.achievementUnlocked" = "已解锁成就！";
+"achievement.achievementMastered" = "已掌握成就！";
+"achievement.avatarAwardedTitle" = "已奖励头像！";
+"achievement.useAvatarText" = "现在使用";
+"achievement.avatarAppliedText" = "已应用头像";
+"achievement.lobbyCard" = "快成功了！";
+"achievement.lobbyViewAchievements" = "查看成就";
+"achievement.titleLabel" = "成就";
+
+"achievement.promoToast" = "你的成就保存在这里！点击开始";
+"achievement.promoToast.desktop" = "你的成就保存在这里！点击开始";
+"achievement.ftueText1" = "你的成就将保存在此。你可以随时通过你的玩家个人资料到此处查看。";
+"achievement.ftueText2" = "完成一项成就。赚取一颗星星并解锁一个徽章。你能全部解锁吗？";
+
+"achievement.ftueGotItButtonLabel" = "明白了";
+"achievement.ftueLetsDoItButtonLabel" = "动手做吧！";
+
+// hi-lo
+"hilo.ftue.title" = "太棒了！";
+"hilo.ftue.message" = "你越来越拿手了！任意一笔筹码购买都可以让你免费玩 Hi-Lo，并有机会赢得高达 16,000,000 的筹码！";
+"hilo.ftue.message.fromChips" = "你越来越拿手了！立即免费获取 Hi-Lo 游戏，并赢得高达 16,000,000 的筹码！";
+"hilo.ftue.button1" = "返回大厅";
+"hilo.ftue.button2" = "玩 Hi-Lo";
+"hilo.ftue.button2.fromChips" = "开始玩免费游戏！";
+"hilo.ftue.prompt0" = "欢迎来玩Hi-Lo！下一张牌是更大还是更小？";
+"hilo.ftue.prompt1" = "干得好！注意到你的进度已显示在上方吗？再试一次，并填充指示器！";
+"hilo.ftue.prompt2" = "你已经完成一半了！继续。";
+"hilo.ftue.prompt3" = "干得好！还有一局！";
+"hilo.ftue.prompt4" = "";
+"hilo.high" = "高牌";
+"hilo.low" = "低牌";
+
+"hilo.help.title" = "如何玩Hi-Lo";
+"hilo.help.message" = "猜猜看下一张牌是更大还是更小？扑克牌 A 最大。\n\n每猜 4 次就可以选择兑现或挑战更高的奖品。\n\n购买更大的筹码组合，赢取更高的奖品！";
+"hilo.help.button" = "明白了！";
+"hilo.jackpots.title" = "组合";
+"hilo.jackpots.titleTwo" = "头奖";
+"hilo.jackpots.message" = "最高";
+
+"hilo.milestone.title_0" = "玩得漂亮！任逍遥！";
+"hilo.milestone.title_1" = "你保持连胜啦！";
+"hilo.milestone.title_2" = "这游戏你玩起来好像很简单！";
+"hilo.milestone.title_3" = "筹码滚滚而来！";
+"hilo.milestone.title_4" = "你真走运！";
+"hilo.milestone.title_5" = "继续猜！";
+"hilo.milestone.title_6" = "再简单不过的游戏 - 继续玩吧！";
+"hilo.milestone.title_7" = "很容易！继续玩！";
+"hilo.milestone.title_8" = "挑战更高的奖品！";
+"hilo.milestone.title_9" = "漂亮！挑战头奖！";
+"hilo.milestone.message" = "现在兑现 {0} 还是\n挑战 {1}？";
+"hilo.milestone.button1" = "现在兑现 {0}";
+"hilo.milestone.button2" = "挑战 {0}";
+
+"hilo.fail.title" = "哎呦！祝你下次好运！";
+"hilo.fail.message" = "点击\"再玩一次\"，开始\n下一轮游戏！";
+"hilo.fail.button1" = "前往大厅";
+"hilo.fail.button2" = "再玩一次";
+
+"hilo.end.title_0" = "我从来没见过这么多的筹码！";
+"hilo.end.title_1" = "这么多筹码，你拿得动吗？";
+"hilo.end.title_2" = "祝贺你！你赢了！";
+"hilo.end.title_3" = "你是赢家！";
+"hilo.end.title_4" = "大赢家！";
+"hilo.end.title_5" = "撒钱啦！";
+
+"hilo.end.message" = "你赢得了 {0} 个筹码！";
+"hilo.end.button1" = "前往大厅";
+"hilo.end.button2" = "再玩一次";
+
+// hi-lo upsell
+
+"hilo.ftueupsell.title" = "需要休息一下吗？";
+"hilo.ftueupsell.message" = "玩Hi-Lo，可赢取数百万筹码哦！";
+"hilo.ftueupsell.playnow" = "现在开始！";
+
+"hilo.mega.title" = "超级HI-LO游戏";
+"hilo.mega.message" = "花 2.99 美元，购买 5 份 Hi-Lo 游戏！";
+"hilo.mega.secondButtonText" = "购买Hi-Lo！";
+
+// scratchers
+"scratchers.lobby.nogames" = "你可以赢得100,000,000筹码！";
+"scratchers.lobby.games" = "你有 {0} 张奖券";
+"scratchers.lobby.games.singular" = "你有 {0} 张奖券";
+
+"scratchers.win_up_to" = "赢取最高奖励";
+"scratchers.won" = "你赢了";
+"scratchers.lost" = "你几乎赢了";
+"scratchers.payout" = "{0} 个筹码！";
+"scratchers.instruction" = "抓扒并匹配3个数字就可赢咯！";
+"scratchers.no_tickets_instruction" = "你的刮刮乐已用完。\n购买更多继续玩！";
+"scratchers.play_again" = "再玩一次";
+"scratchers.play_now" = "现在开始";
+"scratchers.happy_hour_warning" = "*仅限在“欢乐时光”期间兑换（截至 {0}）";
+"scratchers.happy_hour_title" = "欢乐时光";
+"scratchers.happy_hour_time" = "截至 {0}";
+"scratchers.happy_hour_info" = "玩黄金刮刮乐获得150%战果！";
+"scratchers.silver_to_gold" = "赢取$150,000,000";
+"scratchers.error_title" = "欢乐时光结束";
+"scratchers.error_message" = "对不起，欢乐时光已经结束。抓住下次机会，赢取更多筹码！";
+
+"scratchers.silver_max_amount" = "100万";
+"scratchers.gold_max_amount" = "1亿";
+"scratchers.gold_happy_hour_max_amount" = "1.5亿";
+
+"scratchers.ticket_count" = "{0} 张奖券";
+"scratchers.ticket_count.singular" = "{0} 张奖券";
+"scratchers.tickets" = "{0} 张奖券";
+"scratchers.buy_more" = "购买\n更多";
+
+"scratchers.happy_hour.notif" = "欢乐时光到了！趁在结束前领取你的免费刮刮乐！";
+"scratchers.happy_hour.notif.button" = "开始";
+
+// unsecure guest
+"unsecureguest.chipLimit" = "已达到筹码上限";
+"unsecureguest.highRoller" = "狂赌！你已达到筹码上限。只需很短的时间，就能创建一个帐户继续玩！";
+"unsecureguest.zConnect" = "连接 Zynga 德州扑克";
+"unsecureguest.fConnect" = "连接Facebook";
+"unsecureguest.highRoller2" = "狂赌！你已达到筹码上限。升级为 Zynga 德州扑克帐户！";
+"unsecureguest.upgrade" = "升级为 Zynga 德州扑克帐户以参加一桌一人胜出赛！";
+
+// slots
+"slots.lucky_bonus_notif_body" = "你的幸运奖励拉霸已经准备好了！";
+"slots.lucky_bonus_slots" = "老虎机！";
+"slots.free_spin.ready" = "你的免费拉霸已准备就绪，马上来玩吧！";
+"slots.free_spin.not_available" = "要获得免费拉霸，请明天再来！";
+"slots.free_spin.not_eligible" = "下次免费拉霸要等 {0}";
+"slots.free_spin_bonus" = "赢取高达 {0} 百万个筹码！现在来玩免费拉霸吧！";
+"slots.good_luck" = "祝你好运！";
+"slots.total_chips" = "总赢利";
+"slots.current_winnings" = "当前赢利";
+"slots.buy_more" = "购买\n更多";
+"slots.paytable" = "奖金表";
+"slots.spin" = "拉霸";
+"slots.spin_options" = "拉霸选项";
+"slots.spin_cost.title" = "费用";
+"slots.spin_cost" = "每次拉霸花费 {0} 枚金币，\n赢取高达 {1} 百万的奖金回报！";
+"slots.win.50" = "赢取高达\n5000万！";
+"slots.win.75" = "赢取高达\n7500万！";
+"slots.win.150" = "赢取高达1.5亿！";
+"slots.win.225" = "赢取高达2.25亿！";
+"slots.win.450" = "赢取高达4.5亿！";
+"slots.win" = "赢取高达 {0} 百万！";
+"slots.lobby.one_spin" = "你有 1 次免费拉霸！";
+"slots.lobby.spin" = "你有免费拉霸！";
+"slots.lobby.no_spins" = "赢取高达 1.5亿 筹码！";
+"slots.hand_started" = "新的牌局开始了！";
+"slots.play_now" = "现在开始";
+"slots.error.title" = "旋转错误";
+"slots.error.message" = "你的请求出错。你没有被扣款。";
+"slots.error.message2" = "出现错误。你不会损失免费转动次数或被收取费用。";
+"slots.error.button" = "好的";
+"slots.payout.title" = "赔率表";
+"slots.payout.main_title" = "幸运奖励赔率表";
+"slots.payout.mega_lucky_bonus" = "特大幸运奖励赔率表";
+"slots.freespin" = "免费拉霸";
+"slots.currentbet" = "当前下注";
+"slots.win.upto" = "赢取高达：";
+"slots.free" = "免费";
+
+//lucky bonus button
+"luckyBonus.button.Ready" = "免费拉霸已就绪！";
+"luckyBonus.button.TimeLeft" = "免费拉霸倒计时：";
+"luckyBonus.button.Ready.Short" = "准备就绪！";
+"luckyBonus.button.TimeLeft.Short" = "倒计时：";
+
+// integrated casino slots main lobby
+"ic.slots.lobby.card.title" = "老虎机";
+"ic.slots.lobby.card.play_now" = "现在开始！";
+"ic.slots.lobby.card.coming_soon" = "即将推出";
+"ic.slots.lobby.card.last_played" = "上一个机器";
+
+// integrated casino slot machine selector
+"ic.slots.selector.title" = "选择一个机器";
+"ic.slots.name.hail_caesar" = "凯撒";
+"ic.slots.selector.Caesar.Title" = "凯撒";
+"ic.slots.selector.MysticMeadow.Title" = "神秘草地";
+"ic.slots.selector.JadeAndFire.Title" = "玉和火";
+"ic.slots.selector.Fairies.Title" = "精灵";
+"ic.slots.selector.NemoVoyage.Title" = "尼莫的航行";
+"ic.slots.selector.Nocturnal.Title" = "夜曲";
+"ic.slots.selector.SciFi.Title" = "科幻";
+"ic.slots.selector.card.unlock_now" = "立即解锁";
+"ic.slots.selector.Amazon.Title" = "亚马逊";
+"ic.slots.selector.Jekyll.Title" = "哲基尔";
+"ic.slots.selector.Roses.Title" = "玫瑰";
+
+// integrated casino slots featured areas
+"ic.slots.selector.Welcome.Title" = "欢迎使用扑克老虎机";
+"ic.slots.loadscreen.Choose.desc" = "请选择下方的游戏";
+"ic.slots.featured.play" = "现在开始";
+"ic.slots.featured.more_info" = "更多信息";
+"ic.slots.featured.JadeAndFire.desc" = "一路冲锋，用皇家同花顺积累财富！";
+"ic.slots.featured.Fairies.desc" = "一路冲锋，用皇家同花顺积累财富！";
+"ic.slots.featured.NemoVoyage.desc" = "与尼莫船长一起登上鹦鹉螺号！";
+"ic.slots.featured.Nocturnal.desc" = "全身心地享受赢大钱的乐趣！";
+"ic.slots.featured.SciFi.desc" = "一路轰炸，赢得“星球大战”！";
+"ic.slots.featured.Amazon.desc" = "一路冲锋，用皇家同花顺积累财富！";
+"ic.slots.featured.Jekyll.desc" = "一路冲锋，用皇家同花顺积累财富！";
+"ic.slots.featured.Roses.desc" = "一路冲锋，用皇家同花顺积累财富！";
+
+// integrated casino slot machine info pages
+"ic.slots.infopage.JadeAndFire.desc" = "一路冲锋，用超级万能堆堆乐图案赢取堪比皇家同花顺的财富！基本游戏有50中获胜方法，免费拉霸时有80种。";
+"ic.slots.infopage.Fairies.desc" = "一路冲锋，用超级万能堆堆乐图案赢取堪比皇家同花顺的财富！基本游戏有50中获胜方法，免费拉霸时有80种。";
+"ic.slots.infopage.NemoVoyage.desc" = "与尼莫船长一起登上鹦鹉螺号！用水花万能图案与凶猛的北海巨妖大战三百回合！水下冒险提供50种获胜方法。";
+"ic.slots.infopage.Nocturnal.desc" = "在免费拉霸模式中使用锁万能图案赢大钱！这个暗黑浪漫模式有40种获胜方法。";
+"ic.slots.infopage.SciFi.desc" = "在免费拉霸模式中通过“选择你的倍数”一路轰炸赢得“星球大战”！这个模式中有243种获胜方法。";
+"ic.slots.infopage.Amazon.desc" = "一路冲锋，用超级万能堆堆乐图案赢取堪比皇家同花顺的财富！基本游戏有50中获胜方法，免费拉霸时有80种。";
+"ic.slots.infopage.Jekyll.desc" = "一路冲锋，用超级万能堆堆乐图案赢取堪比皇家同花顺的财富！基本游戏有50中获胜方法，免费拉霸时有80种。";
+"ic.slots.infopage.Roses.desc" = "一路冲锋，用超级万能堆堆乐图案赢取堪比皇家同花顺的财富！基本游戏有50中获胜方法，免费拉霸时有80种。";
+
+// integrated casino slot machine load screens
+"ic.slots.loadscreen.JadeAndFire.desc" = "特色：免费拉霸与超级万能堆堆乐！";
+"ic.slots.loadscreen.Fairies.desc" = "特色：免费拉霸与超级万能堆堆乐！";
+"ic.slots.loadscreen.NemoVoyage.desc" = "特色：免费拉霸与水花万能图案！";
+"ic.slots.loadscreen.Nocturnal.desc" = "特色：免费拉霸与锁万能图案！";
+"ic.slots.loadscreen.SciFi.desc" = "特色：243种赔付线、免费拉霸与自定倍数！";
+"ic.slots.loadscreen.Amazon.desc" = "特色：免费拉霸与超级万能堆堆乐！";
+"ic.slots.loadscreen.Jekyll.desc" = "特色：免费拉霸与超级万能堆堆乐！";
+"ic.slots.loadscreen.Roses.desc" = "特色：免费拉霸与超级万能堆堆乐！";
+
+// integrated casino error messages
+"ic.slots.error.title.server_error" = "服务器错误";
+"ic.slots.error.title.insufficient_chips" = "筹码不足";
+"ic.slots.error.title.out_of_sync" = "不同步";
+"ic.slots.error.title.unknown" = "未知错误";
+
+"ic.slots.error.body.default_error" = "发生了一个错误。返回大厅，重新建立连接。";
+"ic.slots.error.body.too_fast" = "你转地太快了！返回大厅，重新建立连接。";
+
+// integrated casino slot screen
+"ic.slots.spin.button.normal.title" = "拉霸";
+"ic.slots.spin.button.auto.title" = "自动";
+"ic.slots.spin.button.free.title" = "免费";
+"ic.slots.spin.button.normal.subtitle" = "按住以自动旋转";
+"ic.slots.spin.button.auto.subtitle" = "轻按以停止";
+"ic.slots.spin.button.auto.subtitle.desktop" = "点击停止";
+"ic.slots.spin.button.free.subtitle" = "看看能赢多少";
+"ic.slots.bet.label" = "下注";
+"ic.slots.bank.label" = "银行";
+"ic.slots.initial_greeting" = "轻按“旋转”，在所有赌注线上游戏！";
+"ic.slots.initial_greeting.desktop" = "点击“旋转”，在所有赌注线上游戏！";
+"ic.slots.winnings.good_luck" = "祝你好运！";
+"ic.slots.winnings.good_luck.all_lines" = "在所有{0}条赔付线上游戏。祝你好运！";
+"ic.slots.winnings.payline" = "{0} x {1} 可赢取 {2}";
+"ic.slots.winnings.payline.freemode" = "快来玩免费拉霸吧，祝你好运！";
+"ic.slots.winnings.retrigger_bonus" = "获得{0}次免费拉霸";
+"ic.slots.winnings.try_again" = "再试一次！";
+"ic.slots.settings.casino.exit.title" = "前往赌场大厅";
+"ic.slots.settings.exit.title" = "前往老虎机大厅";
+"ic.slots.settings.paytable.title" = "奖金表";
+"ic.slots.win.normal" = "赢得";
+"ic.slots.win.big" = "大胜";
+"ic.slots.win.epic" = "狂胜";
+"ic.slots.win.5ofakind" = "五张同点";
+
+// integrated casino slots free spin variants
+"ic.slots.free.start.popup.title" = "{0} 次免费拉霸！";
+"ic.slots.free.start.popup.body" = "觉得福星高照？";
+"ic.slots.spin_till_you_win.start.popup.title" = "拉霸直到你赢！";
+"ic.slots.spin_till_you_win.start.popup.body" = "哇！";
+"ic.slots.pay_that_again.start.popup.title" = "再来一次！";
+"ic.slots.pay_that_again.start.popup.body" = "漂亮！";
+"ic.slots.respin.start.popup.title" = "重新拉霸模式启动！";
+"ic.slots.respin.start.popup.body" = "酷！";
+"ic.slots.free.end.popup.title" = "没有免费拉霸了！";
+"ic.slots.free.end.popup.body.won" = "奖励的筹码";
+"ic.slots.free.end.popup.body.lost" = "无奖励筹码";
+"ic.slots.free.end.popup.chips.won" = "{0:n0}";
+"ic.slots.free.spins_remaining.plural" = "还剩{0}次旋转！";
+"ic.slots.free.spins_remaining.singular" = "还剩{0}次旋转！";
+"ic.slots.free.spins_remaining.zero" = "最后一次旋转";
+"ic.slots.free.spins_remaining.zero2" = "最后一次旋转！";
+
+// integrated casino slots jade symbols
+"ic.slots.JadeAndFire.symbol.emperor" = "皇帝";
+"ic.slots.JadeAndFire.symbol.empress" = "皇后";
+"ic.slots.JadeAndFire.symbol.xp_symbol" = "经验值";
+"ic.slots.JadeAndFire.symbol.elephant" = "大象";
+"ic.slots.JadeAndFire.symbol.dragon" = "龙";
+"ic.slots.JadeAndFire.symbol.tiger" = "老虎";
+"ic.slots.JadeAndFire.symbol.phoenix" = "菲尼克斯";
+"ic.slots.JadeAndFire.symbol.ace" = "A";
+"ic.slots.JadeAndFire.symbol.king" = "K";
+"ic.slots.JadeAndFire.symbol.queen" = "Q";
+"ic.slots.JadeAndFire.symbol.jack" = "J";
+"ic.slots.JadeAndFire.symbol.ten" = "10";
+"ic.slots.JadeAndFire.symbol.nine" = "9";
+"ic.slots.JadeAndFire.symbol.turtle" = "乌龟";
+"ic.slots.JadeAndFire.symbol.fish" = "鱼";
+
+// integrated casino slots nemo symbols
+"ic.slots.Nemo.symbol.kraken" = "北海巨妖";
+"ic.slots.Nemo.symbol.wild_sticky_kraken" = "标识";
+"ic.slots.Nemo.symbol.nemo" = "尼莫";
+"ic.slots.Nemo.symbol.mermaid" = "美人鱼";
+"ic.slots.Nemo.symbol.chest" = "宝箱";
+"ic.slots.Nemo.symbol.diver" = "潜水员";
+"ic.slots.Nemo.symbol.shell" = "贝壳";
+"ic.slots.Nemo.symbol.compass" = "指南针";
+"ic.slots.Nemo.symbol.nautilus" = "鹦鹉螺号";
+"ic.slots.Nemo.symbol.fish1" = "Fish1";
+"ic.slots.Nemo.symbol.fish2" = "Fish2";
+"ic.slots.Nemo.symbol.fish3" = "Fish3";
+"ic.slots.Nemo.symbol.fish4" = "Fish4";
+"ic.slots.Nemo.symbol.fish5" = "Fish5";
+"ic.slots.Nemo.symbol.fish6" = "Fish6";
+"ic.slots.Nemo.symbol.orange_fish" = "橙色鱼";
+"ic.slots.Nemo.symbol.red_fish" = "红色鱼";
+"ic.slots.Nemo.symbol.blue_fish" = "蓝色鱼";
+"ic.slots.Nemo.symbol.yellow_fish" = "黄色鱼";
+"ic.slots.Nemo.symbol.green_fish" = "绿色鱼";
+"ic.slots.Nemo.symbol.pink_fish" = "粉色鱼";
+
+//integrated casino slots Nocturnal Symbols
+"ic.slots.Nocturnal.symbol.green_lestat" = "绿色莱斯特";
+"ic.slots.Nocturnal.symbol.blue_logo" = "蓝色莱斯特";
+"ic.slots.Nocturnal.symbol.red_lestat" = "红色莱斯特";
+"ic.slots.Nocturnal.symbol.red_logo" = "红色标识";
+"ic.slots.Nocturnal.symbol.purple_vamp" = "紫色吸血鬼";
+"ic.slots.Nocturnal.symbol.green_vamp" = "绿色吸血鬼";
+"ic.slots.Nocturnal.symbol.blue_vamp" = "蓝色吸血鬼";
+"ic.slots.Nocturnal.symbol.cross" = "十字架";
+"ic.slots.Nocturnal.symbol.rose" = "玫瑰";
+"ic.slots.Nocturnal.symbol.goblet" = "高脚杯";
+"ic.slots.Nocturnal.symbol.ace" = "A";
+"ic.slots.Nocturnal.symbol.king" = "K";
+"ic.slots.Nocturnal.symbol.queen" = "Q";
+"ic.slots.Nocturnal.symbol.jack" = "J";
+"ic.slots.Nocturnal.symbol.ten" = "10";
+
+// integrated casino slots diamond progression
+"ic.slots.diamonds.points_widget.diamonds" = "{0}";
+"ic.slots.diamonds.points_widget.points" = "{0:n0}";
+"ic.slots.diamonds.points_widget.max_points" = "{0:n0}分即可进入钻石级";
+
+// integrated casino slots freespin popup
+"ic.slots.freespin.popup.title" = "漂亮！";
+"ic.slots.freespin.popup.subtitle" = "赢取的筹码总数";
+"ic.slots.freespin.popup.button" = "确定";
+
+
+
+// integrated casino slots payout popup
+"ic.slots.paytable_page.title" = "奖金表";
+"ic.slots.paytable_page.bet_amount" = "赌注为{0}时的奖金";
+"ic.slots.payline_page.title" = "游戏线";
+
+// integrated casino slots payout popup - shared description
+"ic.slots.payout_popup.description.bonus.header" = "奖金特色：";
+"ic.slots.payout_popup.description.game_rules.title" = "规则";
+"ic.slots.payout_popup.description.game_rules.header" = "游戏规则：";
+"ic.slots.payout_popup.description.game_rules.part1" = "{0}赔付线；图案必须从左至右在赔付线上匹配才能赢钱\n-每条赔付线仅支付最高奖金\n-总奖金由中奖图案价值与赌注相乘计算得出\n-免费拉霸奖金可以再次触发免费拉霸。";
+"ic.slots.payout_popup.description.bonus.payout" = "{0} - {1} 次免费拉霸";
+"ic.slots.payout_popup.description.expanding_wild.header" = "{0} （连接万能图案）";
+"ic.slots.payout_popup.description.bonus_symbol.header" = "{0} （奖金）";
+"ic.slots.payout_popup.description.special_bonus_symbol.header" = "{0}（特别奖金）";
+
+// integrated casino slots payout popup - jade description
+"ic.slots.payout_popup.description.bonus.jade_part1" = "在卷轴最左侧出现两个或更多的连续分散图案{0}和（或）第一个图案为{1}就可以激活免费拉霸功能。";
+"ic.slots.payout_popup.description.bonus.jade_part2" = "在免费拉霸模式中，所有奖金均会加倍。";
+
+// integrated casino slots payout popup - nemo description
+"ic.slots.payout_popup.description.expanding_wild.nemo_part1" = "这个图案的任意部分出现在卷轴中间时，{0}会将整个卷轴变成万能图案，并会随机将其他图案变成万能图案";
+"ic.slots.payout_popup.description.bonus_symbol.nemo_part1" = "出现在2、3与4号卷轴时奖励{0}次免费拉霸";
+
+// integrated casino slots payout popup - nocturnal description
+"ic.slots.payout_popup.description.bonus.nocturnal_part1" = "最左侧卷轴上{0}个奖励图案可以产生{1}次免费拉霸。每个奖励图案可以提供1次额外的免费拉霸，最多累积{2}次";
+"ic.slots.payout_popup.description.special_bonus.nocturnal_part1" = "特殊奖励版本。当免费拉霸激活时出现该图案，则它将在免费拉霸期间一直锁定为万能图案";
+
+// integrated casino slots insufficient diamonds popup
+"ic.slots.diamonds.insufficient.Title" = "钻石不足";
+"ic.slots.diamonds.insufficient.Text" = "你还需要{0}颗钻石才能解锁{1}。";
+"ic.slots.diamonds.insufficient.Button" = "确定";
+
+/*
+ USER INFO BAR
+ */
+"userbar.welcome" = "欢迎，";
+"userbar.level" = "等级";
+"userbar.level.abbr" = "等级{0}";
+"userbar.sendchips" = "发送筹码";
+"userbar.leaderboard" = "排行榜";
+"userbar.gifts" = "礼物";
+"userbar.getChips" = "取得\n筹码";
+"userbar.new" = "新消息!";
+"userbar.free" = "免费！";
+"userbar.sale" = "特卖！";
+"userbar.priceAdjustment" = "{0}x筹码！"; //{0} is a multipler (2, 3, etc)
+
+"playerstats.biggestwin" = "最大赢注：";
+"playerstats.besthand" = "最佳牌组：";
+"playerstats.handsplayed" = "已玩牌局：";
+
+"invitesmfs.email" = "电子邮件";
+"invitesmfs.sms" = "短信";
+"friendsmfs.leaderboard" = "排行榜";
+"friendsmfs.gifts" = "礼物";
+
+"invitesmfs.selectedfriends" = "已选择的好友";
+"invitesmfs.button" = "发送邀请";
+"invitesmfs.carriercharge" = "可能会产生运营商费用。";
+
+"chipgiftmfs.ipadtitle" = "和好友一起提高奖励";
+"chipgiftmfs.iphonetitle" = "想要更多免费筹码？给你的好友发送免费筹码，他们也会回送筹码给你！";
+"chipgiftmfs.selectedfriends" = "已选择的好友";
+"chipgiftmfs.button" = "发送奖励";
+"chipgiftmfs.bannerLabel" = "发送筹码";
+"chipgiftmfs.noFriendsLabel" = "好友不可用，请稍后查看";
+"chipgiftmfs.ipadtitleBackup" = "和好友一起提高奖励"; // Backup Copy
+
+"friends.title" = "好友和礼物";
+
+"leaderboard.lostbuddy" = "失联牌友！";
+"leaderboard.sendchips" = "发送筹码";
+"leaderboard.sent" = "已发送！";
+
+"leaderboard.inviteTitleLabel" = "邀请好友";
+"leaderboard.inviteButtonLabel" = "邀请";
+"leaderboard.invited" = "已邀请！";
+"leaderboard.online" = "在线";
+"leaderboard.local" = "在这一桌";
+
+"fastinvite.inviteTitleLabel" = "推荐的好友";
+"fastinvite.inviteButtonLabel" = "邀请";
+"fastinvite.inviteMessage" = "{0} 最近玩了扑克。";
+"fastinvite.noFriendMessage" = "现在没有好友可以邀请。";
+
+"gifts.chipgiftwaiting" = "{0} 给你送出一份神秘礼物，内有 $1,000,000 百万筹码。回赠一次？";/* {1} is the name of the person who sent you the chip gift */
+"gifts.anonymousgiftwaiting" = "这里有份神秘礼物，内有多达 $1,000,000 筹码。回赠一次？";
+"gifts.acceptAll" = "全部接受并送出";
+"gifts.acceptAllMessage" = "接受全部礼物并答谢对方好意吗？";
+"gifts.accept" = "接受";
+"gifts.acceptcomplete" = "你收到了 {0} 个扑克筹码！";/* {1} is the amount of chips the player received" */
+"gifts.acceptfailed" = "领取筹码礼物时出现问题。";
+"gifts.sendchipsback" = "回送礼物";
+"gifts.chipssent" = "已发送！";
+"gifts.nogifts" = "你当前没有可接受的礼物。发送礼物，你的好友也会回送礼物给你！";
+
+"leaderboard.sectionTitle.mobile" = "手机";
+"leaderboard.sectionTitle.web" = "网页版";
+
+"mfs.searchFieldPlaceHolder" = "搜索";
+
+/*
+ SETTINGS
+ */
+//simple options
+"option.short.vibrate" = "震动";
+"option.short.music" = "音乐";
+"option.short.soundFX" = "声效";
+"option.short.achievementProgress" = "显示成就进度";
+"option.short.chat" = "聊天泡泡";
+"option.short.tableChat" = "聊天时显示桌上活动";
+"option.short.tableTop" = "牌桌风格";
+"option.short.notifyInvites" = "好友的活动";
+"option.short.notifyPromotions" = "免费筹码礼物";
+"option.short.notifyDailyBonus" = "每日奖励";
+"option.short.hsmHidden" = "隐藏牌力指示器";
+"option.short.hsm" = "显示牌力指示器";
+"option.short.impulsePurchases" = "隐藏筹码购买建议";
+"option.short.display" = "在社交专区显示我";
+"option.short.proMode" = "职业模式";
+"option.short.rivals" = "允许对手加入";
+"option.short.leagues" = "开启Poker联赛";
+"option.short.leaguesV2" = "开启联赛";
+"option.short.leaguesv2.notifyleagues" = "联赛";
+"option.short.notifyLeagues" = "Poker联赛";
+"option.short.buddyChat" = "牌友聊天";
+"option.short.tqc" = "快速聊天"; // Quick Chat (macros) feature at the table
+"option.short.basket" = "收集同花大顺"; //Refers to the ask friends for cards feature
+"option.short.challenges.notifychallenges" = "挑战";
+"option.short.events" = "活动";
+"option.short.stampcard" = "VIP 奖励卡";
+"option.short.boosts" = "加速道具";
+"option.short.appearoffline" = "显示离线";
+
+//help options
+"option.help.changePassword" = "管理密码";
+"option.help.tutorial" = "教程";
+"option.help.handRanks" = "牌型大小排名";
+"option.help.handStrengthMeter" = "牌力指示器";
+"option.help.accountInfo" = "帐户信息";
+"option.help.customerSupport" = "客户支持和法律条款";
+"option.help.customerSupportActual" = "客户支持";
+"option.help.legal" = "法律条款";
+"option.help.support" = "支持";
+"option.help.experiments" = "实验";
+"option.help.rivals" = "了解更多对手信息";
+// Uber refers to the taxi company 'Uber'
+"option.help.uber" = "优步账号";
+
+//section titles
+"option.title.pn" = "推送通知";
+"option.title.onlineBuddy" = "修改在线牌友选择";
+"option.title.gameOptions" = "游戏选项";
+"option.title.help" = "帮助";
+"option.title.changeUsername" = "更改用户名";
+"option.title.changeAvatar" = "更改头像";
+"option.title.guestAccount" = "来宾帐户";
+"option.title.secureGuestAccount" = "Zynga 德州扑克帐户";
+"option.title.sinaWeiboAccount" = "新浪微博帐户";
+"option.title.logout" = "注销";
+
+//about page
+"about.versionLabel" = "版本 {0}\n({1})";
+"about.useOfThisAppLabel" = "使用此应用程序需遵循 Zynga 的：";
+"about.privacyPolicyLabel" = "隐私政策";
+"about.termsOfServiceLabel" = "服务条款";
+"about.emailCustomerServiceLabel" = "客户服务";
+"about.visitOurForumsLabel" = "访问我们的论坛";
+"about.certification" = "认证";
+"about.copyrightLabel" = "© 2014 Zynga Inc. 版权所有。";
+"about.copyrightLabel.v2" = "© 2015 Zynga Inc. 版权所有。";
+"about.copyrightLabel.v3" = "© 2016 Zynga Inc. 版权所有。";
+"about.copyrightLabel.v4" = "© 2017 Zynga Inc. 版权所有。";
+"about.copyrightLabel.v5" = "© 2018 Zynga Inc. 版权所有。";
+"about.copyrightLabel.v6" = "© 2019 Zynga Inc. 版权所有。";
+"about.copyrightLabel.year" = "© {0} Zynga Inc. 版权所有。";
+"about.responsibleGaming" = "知节游戏";
+
+//settings page
+"settings.titleLabel" = "设置";
+"settings.account" = "帐户";
+
+//account info page
+"account.accountInfoLabel" = "帐户信息";
+"account.accountIdHeaderLabel" = "帐户 ID";
+"account.zyngaIdHeaderLabel" = "Zynga ID";
+"account.deviceIdHeaderLabel" = "设备 ID";
+"account.editFacebookPermissions" = "编辑Facebook权限";
+
+//avatar page
+"avatarSelect.title" = "选择你的虚拟形象";
+"avatarSelect.saveChanges" = "保存变更";
+
+//tutorial page
+"tutorial.titleLabel" = "教程";
+//page1
+"tutorial.pot" = "底池";
+"tutorial.dealerToken" = "庄家代币";
+"tutorial.YourChipTotal" = "你的筹码总数";
+"tutorial.YourCards" = "你的牌";
+"tutorial.hsm" = "牌力指示器";
+//page2
+"tutorial.back" = "返回";
+"tutorial.opponentAction" = "叫注";
+"tutorial.opponentView" = "对手的名称、照片和牌";
+"tutorial.timer" = "计时器";
+//page3
+"tutorial.slider" = "移动滑块，以选择赌注的大小";
+"tutorial.actionButtons" = "轻按\"押注\"按钮以盖牌、过牌、随意跟注或加注";
+"tutorial.actionButtons.desktop" = "点击“押注”按钮以盖牌、过牌、随意跟注或加注";
+//page4
+"tutorial.chat" = "聊天";
+"tutorial.opponentProfile" = "轻按对手照片，以查看他们的个人资料，并购买饮料和礼物";
+"tutorial.opponentProfile.desktop" = "点击对手照片，以查看他们的个人资料，并购买饮料和礼物";
+"tutorial.chipGift" = "添加筹码";
+
+//facebook option label
+"option.fbConnectLabel" = "Facebook 连接";
+"option.fbConnect.logoutLabel" = "从 Facebook 注销";
+
+//buddy options
+"option.buddy.changeSelection" = "更改选择";
+
+//push notification prompt
+"enablePushNotif.title" = "启用推送通知";
+"enablePushNotif.message" = "快好了！\n\n请前往你设备中的\"\"设置\"\" ，将 Zynga 德州扑克的推送通知设为\"打开\"。";
+"enablePushNotif.buttonText" = "继续";
+
+//hand ranks
+"handrank.royalFlush" = "同花大顺";
+"handrank.straightFlush" = "同花顺";
+"handrank.fourOfAKind" = "四条";
+"handrank.fullHouse" = "葫芦";
+"handrank.flush" = "同花";
+"handrank.straight" = "顺子";
+"handrank.threeOfAKind" = "三条";
+"handrank.twoPair" = "两对";
+"handrank.onePair" = "对子";
+"handrank.highcard" = "高牌";
+"handrank.titleLabel" = "牌型大小\n排序";
+
+/*
+ Card
+ */
+"card.symbol.suit.clubs" = "♣";
+"card.symbol.suit.diamonds" = "♦";
+"card.symbol.suit.hearts" = "♥";
+"card.symbol.suit.spades" = "♠";
+
+
+/*
+ TABLE
+ */
+"waitnexthand.message" = "请等待下一局...";
+"sitngo.waitnexthand.message" = "桌子坐满后单桌扑克赛将立刻开始。";
+"shootout.waitnexthand.message" = "桌子坐满后一桌一人胜出赛将立刻开始。";
+"sitngo.buyinwaitnexthand.message" = "桌子坐满后，买入为{0}的单桌扑克赛将立刻开始。";
+"jump.waitnexthand.message" = "正在等待更多玩家……";
+"jump.jumpingtables.message" = "正在跳转……";
+
+"tablejoined.wrongStakes" = "抱歉，所有 {0}/{1} 的牌桌已坐满。这是{2}/{3}牌桌。";
+
+"tablestakes.blinds" = "{0}/{1}";
+"tablestakes.buyin" = "{0}/{1}";
+"tablestakes.sitngobuyin" = "{0} + {1}";
+"tablestakes.sitngobuyinnofee" = "{0}";
+
+"tableimpulsepurchase.message" = "返回游戏 - 立即获得更多的筹码！";
+
+"guestplaystart.title" = "欢迎！";
+"guestplaystart.message" = "你已就座在五人来宾桌上，当前你有 1000 筹码。桌上的最后一位玩家\n赢得第一名！\n\n游戏即将开始。";
+"guestplaystart.button" = "继续";
+
+"tourneywon.title" = "祝贺你！";
+"tourneywonother.title" = "锦标赛结束";
+"tourneywonfirst.message" = "你在锦标赛中名列第一，赢得了...";
+"tourneywonsecond.message" = "你在锦标赛中名列第二，赢得了...";
+"tourneywonthird.message" = "你在锦标赛中名列第三，赢得了...";
+"tourneywonfourth.message" = "你在锦标赛中名列第四，赢得了...";
+"tourneywonfifth.message" = "你在锦标赛中名列第五，赢得了...";
+"tourneywonother.message" = "你在锦标赛中名列第{0}。";
+"tourneywon.chipsMessage" = "{0} 个筹码！";
+"tourneywon.button" = "继续";
+
+"tourney.congratulations" = "祝贺你！";
+"tourney.finishedwithreward.1" = "你得了第1名并获得{0}！";
+"tourney.finishedwithreward.2" = "你得了第2名并获得{0}！";
+"tourney.finishedwithreward.3" = "你得了第3名并获得{0}！";
+"tourney.finishedwithreward.4" = "你得了第4名并获得{0}！";
+"tourney.finishedwithreward.5" = "你得了第5名并获得{0}！";
+"tourney.finishedwithreward.6" = "你得了第6名并获得{0}！";
+"tourney.finishedwithreward.7" = "你得了第7名并获得{0}！";
+"tourney.finishedwithreward.8" = "你得了第8名并获得{0}！";
+"tourney.finishedwithreward.9" = "你得了第9名并获得{0}！";
+"tourney.finished.1" = "你得了第1名。";
+"tourney.finished.2" = "你得了第2名。";
+"tourney.finished.3" = "你得了第3名。";
+"tourney.finished.4" = "你得了第4名。";
+"tourney.finished.5" = "你得了第5名。";
+"tourney.finished.6" = "你得了第6名。";
+"tourney.finished.7" = "你得了第7名。";
+"tourney.finished.8" = "你得了第8名。";
+"tourney.finished.9" = "你得了第9名。";
+"tourney.winnings" = "你赢得了{0}！";
+"tourney.accountBalance" = "新账户余额：{0}";
+
+// Default Tournament Outro Labels
+"tournamentoutro.default.title" = "感谢参与";
+"tournamentoutro.default.button" = "再玩一次";
+
+"blackbar.allinorfold" = "花{0}全押？";
+"blackbar.checkorraise" = "过牌或加注";
+"blackbar.checkorbet" = "过牌或下注？";
+"blackbar.callorfold" = "跟注 {0} 或盖牌";/* {1} is the bet amount */
+"blackbar.callorraise" = "花{0}随意跟注？";/* {1} is the bet amount */
+"blackbar.connecting" = "正在连接……";
+
+"addbuddy.message" = "{0} 想把你加为扑克牌友。";/* {1} is the buddy's name */
+"addbuddy.request" = "{0} 查看了你的个人资料并发来了一个牌友请求！"; // {1} is the buddy's name
+
+"addbuddyresult.title" = "新牌友";
+"addbuddyresult.message" = "你和 {0} 现在是牌友了！";/* {1} is the buddy's name */
+"addbuddyresult.button" = "继续";
+
+"friendspectator.title" = "好友旁观中";
+"friendspectator.message" = "你的牌友 {0} 正在本桌旁观。";/* {1} is the buddy's name */
+"friendspectator.button" = "继续";
+"friendspectator.messageNoName" = "你的牌友正在本桌旁观。";
+
+"actionbutton.Fold" = "盖牌";
+"actionbutton.Check" = "过牌";
+"actionbutton.Check/Fold" = "过牌/\n盖牌";
+"actionbutton.Check/Jump" = "查看/\n跳过";
+"actionbutton.Call" = "跟注";
+"actionbutton.Call Any" = "随意\n跟注";
+"actionbutton.Raise" = "加注";
+"actionbutton.All-in" = "全下";
+"actionbutton.AllIn" = "全压";
+"actionbutton.MaxBet" = "最大下注";
+"actionbutton.Confirm" = "确认";
+"actionbutton.Bet" = "下注";
+"actionbutton.HalfPot" = "1/2 底池";
+"actionbutton.FullPot" = "全底池";
+"actionstate.winner" = "赢家";
+"actionstate.bigWinner" = "筹码大赢家！";
+"actionstate.payingSidePots" = "在池边下赌";
+"actionstate.splitPotWinner" = "拆分底池赢家";
+"actionstate.splitSidePotWinner" = "拆分池边赢家";
+"actionstate.sidePotWinner" = "池边赢家";
+"actionstate.splitMainPotWinner" = "拆分主底池赢家";
+"actionstate.mainPotWinner" = "主底池赢家";
+
+"experience.earnedXp" = "+{0} 点经验值";
+
+"handresult.High Card" = "高牌";
+"handresult.Pair" = "对子";
+"handresult.Two Pair" = "两对";
+"handresult.Three of a Kind" = "三条";
+"handresult.Straight" = "顺子";
+"handresult.Flush" = "同花";
+"handresult.Full House" = "葫芦";
+"handresult.Four of a Kind" = "四条";
+"handresult.Straight Flush" = "同花顺";
+"handresult.Royal Flush" = "同花大顺";
+"handresult.Kicker" = "起脚牌";
+
+"betcontrols.MaxBetFtue" = "此赌注金额是该局中任何人能下的最大金额。";
+
+"betcontrols.SliderMarkerPercent" = "{0}%";
+"betcontrols.SliderMarkerFraction" = "{0}/{1}";
+"betcontrols.SliderMarkerMonetaryValue" = "{0}";
+"betcontrols.SliderAllIn" = "全压";
+"betcontrols.SliderMaxBet" = "最大下注";
+
+"baseballcard.buygift" = "购买一份礼物";
+"baseballcard.addbuddy" = "加为牌友";
+"baseballcard.rank" = "等级";
+"baseballcard.chipcount" = "筹码数目";
+"baseballcard.reportabuse" = "举报滥用行为";
+"baseballcard.new" = "新消息!";
+"baseballcard.recentachievement" = "最新成就";
+"baseballcard.mute" = "对玩家静音";
+"baseballcard.unmute" = "解除玩家静音";
+
+"buyinmenu.title" = "买入游戏";
+"buyinmenu.notice" = "注意：你一旦就座，会被收取盲注。";
+"buyinmenu.minbuyin" = "最小";
+"buyinmenu.maxbuyin" = "最大";
+"buyinmenu.bespectator" = "作个旁观者";
+"buyinmenu.buychips" = "添加筹码";
+"buyinmenu.buyintogame" = "买入游戏";
+"buyinmenu.chipbalance" = "你的账户余额：{0}";
+"buyinmenu.buyinatmax" = "买入最大金额";
+
+/* Buy in menu shown when table full */
+"buyinmenu.title.tablefull" = "所选牌桌已坐满";
+"buyinmenu.subtitle.tablefull" = "抱歉，所有{0}/{1}的牌桌已坐满。{2}/{3}牌桌的买入。";
+"buyinmenu.newtable" = "新牌桌";
+
+"dealerchat.postedblinds" = "[{0} 下了 ${1} 盲注]";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchat.postedsmallblind" = "[{0}下了 ${1} 小盲注]";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchat.postedbigblind" = "[{0}下了 ${1} 大盲注]";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchat.buyselfgift" = "[你为自己买了 {0}]";/* {1} = name of gift */
+"dealerchat.buysomeonegift" = "[你买了 {0} {1}]";/* first {2} = name of recipient, second {3} = name of gift */
+"dealerchat.someonebuyyougift" = "[{0} 为你买了 {1}]";/* first {2} = name of sender, second {3} = name of gift */
+"dealerchat.someonebuyselfgift" = "[{0} 买了 {1}]";/* first {2} = name of sender/recipient, second {3} = name of gift */
+"dealerchat.someonebuysomeonegift" = "[{0} 买了 {1} {2}]";/* first {3} = name of sender, second {4} = name of recipient, third {5} = name of gift */
+"dealerchat.jointable" = "[{0} 加入牌桌]";/* {1} is name of person who joined table */
+"dealerchat.playerfolded" = "[{0} 已盖牌]";/* {1} is the name of the person who folded */
+"dealerchat.playercalled" = "[{0} 随意跟注 ${1}]";/* {2} is the name of the person who called, {3} is the amount of the bet that was called */
+"dealerchat.playerchecked" = "[{0} 已过牌]";/* {1} is the name of the person who checked */
+"dealerchat.playerraised" = "[{0} 加注至 ${1}]";/* {2} is the name of the person who raised, {3} is the amount of the raise */
+"dealerchat.playerallin" = "[{0} 全押]";/* {1} is the name of the person who went all-in */
+"dealerchat.potwon" = "[{0} 以 {2}: {3} 赢得了 ${1} 的底池]";/* {0} is the name of the person who won, {1} is the amount of the pot*/
+"dealerchat.potwonbyfold" = "[{0} 场胜局]";/* {1} is the person who won */
+"dealerchat.someoneleft" = "[{0} 离开了牌桌]";/* {1} is the person who left */
+
+"dealerchatV2.postedblinds" = "{0}下了${1}盲注";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchatV2.postedsmallblind" = "{0}下了${1}小盲注";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchatV2.postedbigblind" = "{0}下了${1}大盲注";/* {2} is the name of the person who posted blinds, {3} is the amount of the blind that was posted */
+"dealerchatV2.buyselfgift" = "你为自己买了{0}";/* {1} = name of gift */
+"dealerchatV2.buysomeonegift" = "你买了{0}个{1}";/* first {2} = name of recipient, second {3} = name of gift */
+"dealerchatV2.someonebuyyougift" = "{0}为你买了{1}";/* first {2} = name of sender, second {3} = name of gift */
+"dealerchatV2.someonebuyselfgift" = "{0}买了{1}";/* first {2} = name of sender/recipient, second {3} = name of gift */
+"dealerchatV2.someonebuysomeonegift" = "{0}买了{1}个{2}";/* first {3} = name of sender, second {4} = name of recipient, third {5} = name of gift */
+"dealerchatV2.jointable" = "{0}加入牌桌";/* {1} is name of person who joined table */
+"dealerchatV2.playerfolded" = "{0}盖牌";/* {1} is the name of the person who folded */
+"dealerchatV2.playercalled" = "{0}随意跟注${1}";/* {2} is the name of the person who called, {3} is the amount of the bet that was called */
+"dealerchatV2.playerchecked" = "{0}过牌";/* {1} is the name of the person who checked */
+"dealerchatV2.playerraised" = "{0}加注至${1}";/* {2} is the name of the person who raised, {3} is the amount of the raise */
+"dealerchatV2.playerallin" = "{0}全押";/* {1} is the name of the person who went all-in */
+"dealerchatV2.potwon" = "{0}以{2}:{3}赢得了${1}的底池";/* {0} is the name of the person who won, {1} is the amount of the pot*/
+"dealerchatV2.potwonbyfold" = "{0}获胜";/* {1} is the person who won */
+"dealerchatV2.someoneleft" = "{0}离开了牌桌";/* {1} is the person who left */
+"dealerchatV2.playersraked" = "获胜方被收取了${0}的抽水";/*{0} is total chips raked in the round.*/
+
+"dealer.ftue.title" = "庄家驾到！";
+"dealer.ftue.message" = "给庄家小费！你会有好报的；) 这里有一些免费的筹码 - 给庄家小费开始游戏！";
+"dealer.ftue.button" = "给庄家小费";
+"dealer.tipped" = "已给小费！";
+"dealer.tipped.ipad" = "已给庄家小费！";
+"dealer.thanks_0" = "{0}，谢谢你！";
+"dealer.thanks_1" = "衷心感谢！";
+"dealer.chatmessage" = "庄家： {0}";
+"dealer.tipthedealer" = "给庄家小费";
+
+"leavetablepopup.title" = "离开牌桌？";
+"leavetablepopup.message" = "确定要离开牌桌吗？";
+"leavetablepopup.button" = "确定";
+
+"tableunavailable.title" = "没有空闲的牌桌";
+"tableunavailable.message" = "你要求的买入 {0} 失败。你已被安排在买入为 {1} 的牌桌的 \n 。";/* first {2} is requested buy-in, second {3} is the one they actually got */
+"tableunavailable.button" = "继续";
+
+"tournamentunavailable.title" = "无法进入锦标赛";
+"tournamentunavailable.message" = "你要求的买入 {0} 失败。你已被安排在买入为 {1} 的锦标赛的 \n 。";/* first {2} is requested buy-in, second {3} is the one they actually got */
+"tournamentunavailable.button" = "继续";
+
+"insufficientchips.message" = "最小买入为{0}，{1}/{2}赌注。";
+"noseatsavailable.message" = "此牌桌已没有空座位。";
+"jumpsitfail.message" = "哎呀，好像跳转牌桌时出了点问题。再试一次。";
+"jumpsitfail.button" = "跳转";
+
+"blindsincreased.message" = "盲注现在是 {0} / {1} 。";/* first {2} is small blind, second {3} is big blind */
+
+"chatcancel.title" = "取消";
+"chatwindow.keyboardButton" = "输入文本";
+"chatwindow.macrosButton" = "快速聊天";
+"chatwindow.ellipsis" = "...";
+"chatwindow.textentry" = "输入消息";
+"chatwindow.gameActions" = "游戏动作";
+"chatwindow.playerChat" = "玩家聊天";
+"chatwindow.textentryWebGL" = "开始打字以进行聊天";
+"chatwindow.textentryMobile" = "点击这里以进行聊天";
+"chatwindow.handDetails" = "手牌详情";
+"chatwindow.tableChat" = "牌桌聊天";
+"chatwindow.windowClosingMessage" = "轮到你叫注时窗口会自动关闭。";
+"chatwindow.loadEarlierMessagesButton" = "显示历史消息";/* i.e. "Load earlier messages in this conversation" */
+
+"chatbanner.countdownMessage" = "你的回合距结束还有[b][f4e3c1]{0}秒[-]。";
+"chatbanner.returnToGame" = "返回游戏";
+
+"returnmenu.options" = "选项";
+"returnmenu.closemenu" = "关闭菜单";
+"returnmenu.standup" = "起身";
+"returnmenu.quittable" = "前往大厅";
+"returnmenu.newtable" = "新牌桌";
+"returnmenu.selectnewtable" = "选择新牌桌";
+
+"postBlind.bigBlind" = "大盲注";
+"postBlind.smallBlind" = "小盲注";
+
+"playerView.sitButtonLabel" = "就座";
+"chat.spectatorLabel" = "旁观者";
+
+"playerView.inviteButtonLabel" = "邀请";
+"tableinvite.welcomePopup.message" = "你在此牌桌加入了 {0}。";
+"tableinvite.welcomePopup.buttonLabel" = "就座";
+
+"chatMacro.hi" = "嗨";
+"chatMacro.niceHand" = "好牌";
+"chatMacro.wellPlayed" = "玩得不错";
+"chatMacro.gotLucky" = "好运气";
+"chatMacro.niceTry" = "只差一点";
+"chatMacro.awesome" = "棒极了";
+"chatMacro.thanks" = "谢谢";
+"chatMacro.cheers" = "祝贺";
+"chatMacro.sorry" = "对不起";
+"chatMacro.goodLuck" = "祝你好运";
+"chatMacro.haha" = "哈哈";
+
+"chatMacroV2.ftueTitle" = "觉得说得太多了吗？";
+"chatMacroV2.ftueBody" = "马上试试改进版的牌桌聊天吧！";
+"chatMacroV2.ftueButtonText" = "好的";
+"chatMacroV2.chatHistory" = "聊天记录";
+"chatMacroV2.customText" = "定制文本";
+
+"chatPrompt.dealer" = "庄家";
+"chatPrompt.message" = "快来看看最新的聊天功能。你喜欢吗？";
+
+"buygift.entertainment" = "娱乐";
+"buygift.drinks" = "饮料和小吃";
+"buygift.buyButtonLabel" = "购买礼物";
+"buygift.buyForTableButtonLabel" = "买给牌桌";
+
+"lostConnection.title" = "正在尝试重新连接...";
+
+"hsm.trial.message" = "使用牌力指示器，像一个专业玩家一般游戏！";
+"hsm.trial.submessage" = "开始免费试用!";
+"hsm.trial.underButton" = "";
+"hsm.trial.firstButtonText" = "";
+"hsm.trial.secondButtonText" = "非常好！";
+
+"hsm.popup.message" = "牌力指示器开启了！";
+"hsm.popup.submessage" = "免费使用！赢的时候才需要支付";
+"hsm.popup.underButton" = "";
+"hsm.popup.firstButtonText" = "?";
+"hsm.popup.secondButtonText" = "棒极了！";
+
+"hsm.help.title" = "使用牌力指示器让你赢得更多局！";
+"hsm.help.message" = "当此功能开启时，将会对每一场赢局所赢得的筹码或大盲注的金额（看哪个更小）收取10%的抽水。";
+"hsm.help.updated.message" = "将对现金牌桌中获胜的手牌收取抽水。在此功能开启时，抽水是赢取筹码的10%或大盲注（取较\n小值）。";
+"hsm.help.submessage" = "免费使用！赢局的时候才需要支付！";
+"hsm.help.underButton" = "轻按桌上的指示器即可关闭。如需永久隐藏请前往游戏\n设置。";
+"hsm.help.underButton.desktop" = "点击桌上的指示器即可关闭。如需永久隐藏请前往游戏\n设置。";
+"hsm.help.firstButtonText" = "好的";
+
+"hsm.tooltip.title" = "使用牌力指示器让你贏得更多局";
+"hsm.tooltip.body1" = "了解手牌的实力！\n 只需支付赢利的一小部分！";
+"hsm.tooltip.body2" = "锦标赛中可以免费试用！";
+"hsm.tooltip.fineprint" = "轻按指示器以关闭。更多信息，请见\"设置\"。";
+"hsm.tooltip.fineprint.desktop" = "点击指示器以关闭。更多信息，请见\"设置\"。";
+"hsm.tooltip.button" = "好的";
+
+"hsm.arrow.text" = "助你多赢几局！";
+
+"levelup.message" = "你刚达到第 {0} 级！";
+"levelup.chipAward" = "+{0}个筹码";
+
+"buddyprompt.title" = "将牌友加入你的牌桌！";
+"buddyprompt.message.noaward" = "添加牌友。发送筹码。获得筹码。";
+"buddyprompt.message" = "现在为牌友送出 {0} 个免费筹码！";
+"buddyprompt.nothanks" = "不，谢谢";
+"buddyprompt.add" = "添加牌友";
+
+//shootout connection error
+"table.connectionerror.title" = "很抱歉，但是那桌满了。如果你仍希望移到其他桌，请重试";
+"table.connectionerror.message" = "很抱歉，发生错误！";
+
+"table.smarthammerkick.title" = "无法加入房间";
+"table.smarthammerkick.body" = "很抱歉，这桌已满。";
+
+"table.findroomerror.title" = "非常抱歉";
+"table.findroomerror.message" = "你请求的牌桌现在没有空座。请稍后重试。";
+"table.findroomerror.v2" = "当前找不到牌桌。请稍后重试。";
+
+/*
+ STORE
+ */
+
+// purchase in progress
+"message.purchaseInProgress.title" = "正在购买";
+"message.purchaseInProgress.message" = "请耐心等待购买完成。";
+
+//purchase error
+"message.purchaseError.title" = "购买时出错";
+"message.purchaseError.message" = "很抱歉。当前无法完成购买。请试着换到连接信号较好的地方。";
+"message.purchaseError.buttonText" = "继续";
+"message.purchaseError.serverRejection" = "无法进行本次购买。请与客服联系。";
+
+//purchase success
+"message.purchaseSuccess.title" = "谢谢！";
+"message.purchaseSuccess.message" = "${0} 个筹码已添加到你现有的筹码堆中。祝你好运！";
+"message.purchaseSuccess.buttonText" = "继续";
+
+//purchase failed
+"message.purchaseFailed.title" = "购买时出错";
+"message.purchaseFailed.message" = "此次购买没有完成。你没有被扣款。";
+"message.purchaseFailed.buttonText" = "继续";
+
+"message.purchaseFailed.title1" = "购买失败";
+"message.purchaseFailed.body.errorCode1000" = "处理你的购买时出现问题。你没有被扣款。请重试。";
+"message.purchaseFailed.body.errorCode3000" = "处理你的购买时出现问题。你没有被扣款。请在设置菜单中联系客户支持。";
+"message.purchaseFailed.body.errorCode3100" = "在上次购买处理完毕前，你无法再次购买该礼包。你本次购买尝试没有被扣款。";
+"message.purchaseFailed.body.errorCode3200" = "你要购买的礼包出现了问题。你没有被扣款。请尝试其他礼包。";
+"message.purchaseFailed.body.errorCode5000" = "处理你的购买时出现问题。你没有被扣款。请重试。\n\n错误消息：{0}";
+
+//Pending purchase
+"message.pendingPurchase.title" = "购买处理中";
+"message.pendingPurchase.body" = "你的筹码安全！Zynga Poker正在处理你的付款。我们会在购买完成后通知你。";
+"message.pendingPurchase.ios.approval.body" = "购买必须经过此 iTunes 家庭帐户中的家长批准。";
+
+//no product available
+"message.ProductUnavailable.title" = "无此产品";
+"message.ChipProductUnavailable.message" = "当前没有可供购买的筹码组合。请稍后重试。";
+"message.GoldProductUnavailable.message" = "当前没有可供购买的金币组合。请稍后重试。";
+
+"noProduct.text" = "当前没有可供购买的筹码组合。";
+"noGoldProduct.text" = "当前没有可供购买的金币组合。";
+
+"noProductV2.text" = "你已达到每日购买上限。\n请明天再重试。";
+"noGoldProductV2.text" = "你已达到每日购买上限。\n请明天再重试。";
+
+// purchase button
+"purchaseButton.text" = "购买";
+
+// purchase page
+"buychips.titleLabel" = "更多筹码，更多乐趣！";
+"buychips.titleLabel.bustOutFlow" = "倒霉！获取{0}枚筹码，赢取大奖!";
+"buychips.titleLabel.bustOutFlowNoAmount" = "倒霉！获取{0}枚筹码，赢取大奖!";
+"buychips.titleLabel.sweepstakesOn" = "现在购买就有机会赢得$4.5亿筹码！";
+"buygold.titleLabel" = "更多金币，更多拉霸！";
+"buychips.chipLimitLabel" = "每日购买上限：玩家每 24 小时可购买的筹码不得超出上限。如果你已达到上限，请明天再试。";
+"buychips.purchaseLabel.standard" = "选择你的筹码！";
+"buychips.purchaseLabel.new" = "全新低价！";
+"buychips.purchaseLabel.hilo" = "免费 Hi-Lo 奖励！";
+"buychips.bestDeal" = "超划算";
+"buychips.chips" = "筹码";
+"buychips.gold" = "金币";
+"buychips.loyaltyPoints" = "{0}/{1} VIP扑克点数";
+"buychips.loyaltyPointsLastTier" = "{0} VIP扑克点数";
+"buychips.loyaltyMultiplier" = "马上通过购买获得[c][b] {0}%更多的{1} [/b][/c]！";
+
+// mystery chip bag
+"mysterybag.won" = "你刚刚赢得";
+"mysterybag.chipbag" = "来自超级百万大奖神秘筹码包！";
+
+// item purchase unavailable
+"buychips.itemUnavailableTitle" = "无此产品";
+"buychips.itemUnavailableMessage" = "你已超出每日购买上限。请明天再来吧！";
+"buychips.itemUnavailableButton" = "好的";
+
+// twice is nice
+"twice.title" = "两次不错！";
+"twice.message" = "现在购买第二个 ${0} 组合，花同样的钱，\n可以获得额外 {1}% 的筹码！";
+"twice.no" = "不，谢谢";
+"twice.buy" = "立即购买！";
+
+// report abuse
+"reportAbuse.title" = "举报滥用行为";
+"reportAbuse.submit" = "提交";
+"reportAbuse.category" = "滥用类别";
+"reportAbuse.subCategory" = "滥用子类别";
+"reportAbuse.placeholder" = "请简短解释下你为什么要举报此用户（不超过 255 个字符）";
+
+"reportAbuse.badInput.title" = "错误";
+"reportAbuse.badInput.message" = "你必须同时选择一个类别和子类别，并填写原因。";
+"reportAbuse.badInput.button" = "重试";
+
+"reportAbuse.success.title" = "谢谢";
+"reportAbuse.success.message" = "我们将会对你的举报展开调查，并会采取适当的行动。";
+"reportAbuse.success.button" = "返回游戏";
+
+"reportAbuse.failure.title" = "错误";
+"reportAbuse.failure.message" = "连接到服务器时出现错误。请稍候再试。";
+"reportAbuse.failure.button" = "好的";
+
+// table state
+"tableState.tooSlow" = "太慢了！";
+"tableState.sorry" = "对不起，你的表演时间到了。你已经退出牌桌了！";
+"tableState.ok" = "好的";
+
+// social lounge
+"socialLounge.addBuddy" = "加牌友";
+"socialLounge.requestSent" = "请求已送出";
+"socialLounge.sendChips" = "发送筹码";
+"socialLounge.chipsSent" = "筹码已送出";
+"socialLounge.like" = "赞";
+"socialLounge.liked" = "已点\"赞\"";
+"socialLounge.likes" = "{0} 个“赞”";
+"socialLounge.rank" = "等级";
+"socialLounge.playing" = "酣战于";
+"socialLounge.joinTable" = "加入牌桌";
+"socialLounge.joining" = "正在加入...";
+
+// sms invite
+"sms.earnChips" = "赢取筹码！";
+"sms.invite" = "邀请";
+"sms.selectAll" = "全选";
+"sms.titleLabel" = "邀请好友，获得免费筹码！";
+
+"sms.rowSelected" = "+{0} 千个筹码";
+
+"sms.recommended" = "推荐";
+"sms.contacts" = "联系人";
+"sms.maxAward" = "最高奖励！";
+
+"sms.titleFailedLabel" = "我们未能送出你的短信。选择你的好友，然后点击\"邀请\"。";
+"sms.invitesRemaining" = "你还剩 {0} 个邀请";
+"sms.noFriends" = "不好！你没有符合发送邀请条件的联系人…";
+"sms.noInvites" = "不好！你已发送完所有可用的邀请...";
+"sms.sendFailed" = "不好！你的短信发送失败。请确保能够接收到信号，然后重试。";
+"sms.sendSuccess" = "太棒了！你获得了 {0} 个筹码！";
+"sms.okay" = "确定";
+"sms.accept" = "接受";
+"sms.cool" = "谢谢";
+"sms.invitesTitle" = "%你还剩 {0} 个邀请";
+"sms.successTitle" = "你的免费筹码";
+
+"sms.legalString" = "（运营商可能会收取一定的信息和数据传输费用）";
+
+"sms.restriction.title" = "相关限制";
+"sms.restriction.message" = "要授予Zynga德州扑克权限，请前往设置->通用->限制->联系人";
+"sms.restriction.buttonText" = "确定";
+
+// loading
+"loading.connecting" = "正在连接到你的牌友...";
+"loading.mixingDrinks" = "正在混合饮品...";
+"loading.stackingChips" = "正在堆积筹码...";
+"loading.loading" = "加载中...";
+
+// loading screen game tips
+// Poker 2 specific
+"loading.gametip.poker2.tip0" = "使用“返回”菜单中的\"新牌桌\"按钮，以移至设置相似的牌桌。";
+"loading.gametip.poker2.tip1" = "注意到不良行为吗？请使用玩家个人资料中的\"报告\"按钮报告这些行为。";
+"loading.gametip.poker2.tip2" = "有些人总是说个不停？在他们的个人档案中将他们静音。";
+"loading.gametip.poker2.tip3" = "通过玩家头像中的\"牌桌礼物\"按钮，向其他玩家赠送礼物，以表达谢意或开个小玩笑。";
+"loading.gametip.poker2.tip4" = "轻按大厅内或牌桌上的\"奖牌\"按钮，查看你的排行榜状态。";
+"loading.gametip.poker2.tip5" = "轻按任何玩家的图片，以查看他们的个人资料。";
+"loading.gametip.poker2.tip5.desktop" = "点击任何玩家的图片，以查看他们的个人资料。";
+// Bet slider
+"loading.gametip.betslider.tip0" = "你的加注不能超过\"最大下注\"，该数额与其他玩家全押的金额相等。";
+"loading.gametip.betslider.tip1" = "轻按下注滑块的任意地方，可以立即设置新的下注金额。 ";
+"loading.gametip.betslider.tip1.desktop" = "点击下注滑块的任意地方，可以立即设置新的下注金额。 ";
+// Betting tips
+"loading.gametip.betting.tip0" = "一般认为，3倍大盲注是比较安全的起手下注。";
+"loading.gametip.betting.tip1" = "如果你不确定要加注多少，那么与底池总金额相同的加注是不错的选择。";
+// Jump
+"loading.gametip.jump.tip0" = "玩跳转扑克，盖牌后立刻\"跳\"至新的牌桌！";
+"loading.gametip.jump.tip1" = "喜欢快节奏的德州扑克行动吗？那就来玩跳转扑克吧！";
+// Tournaments
+"loading.gametip.tournaments.tip0" = "在锦标赛中，不要玩牌前等待太久！盲注每5分钟翻倍一次！";
+"loading.gametip.tournaments.tip1" = "“单桌扑克”是指9名玩家共同参与的单桌锦标赛！夺取第一名可以获得总额为4倍买入的奖金！";
+"loading.gametip.tournaments.tip2" = "一桌一人胜出赛是三轮锦标赛！你可以随时加入游戏！";
+// Friend/Buddies
+"loading.gametip.friends.tip0" = "将玩家加为牌友，这样你们每天都可以互赠免费筹码了！";
+"loading.gametip.friends.tip1" = "和好友一起玩，乐趣多多！如果你的赌桌上有空位，那就邀请好友一起玩吧！";
+"loading.gametip.friends.tip2" = "通过大厅或自己个人资料中的\"礼物\"图标，每天向好友赠送免费筹码！";
+// Lucky bonus
+"loading.gametip.luckybonus.tip0" = "每天都来游戏，就能从\"幸运大奖\"老虎机中获取免费筹码！";
+// Other
+"loading.gametip.other.tip0" = "你每天都可以在\"获取筹码\"页面，根据你的经验值获取免费筹码！";
+"loading.gametip.other.tip1" = "更快地升级！在高额赌桌上游戏可以获取更多经验值。";
+"loading.gametip.other.tip2" = "购买筹码可以更快地升级！一次购买，全天均能获得4倍经验！";
+// Crash
+"loading.gametip.crash.tip0" = "哎呀，Zynga Poker异常退出了。\n不要慌，我们正在重新连接游戏。";
+// Random Number Generator Certified
+"loading.gametip.fairness.tip1" = "公平游戏，官方认证";
+//New Tips
+"loading.tip.1" = "每天都能得到3项全新挑战。将它们全部完成，解锁连胜挑战。";
+"loading.tip.2" = "每周挑战更难完成，但是也会奖励更多奖券。";
+"loading.tip.3" = "如果遇到了你不喜欢的挑战，你可以使用跳过换成新的挑战。";
+"loading.tip.4" = "每日完成挑战，获得奖券。";
+"loading.tip.5" = "保险库在奖励中心有售。使用在联赛和挑战中获得的奖券来解锁它们。";
+"loading.tip.6" = "奖励中心保险库有着多种价格，可花费不同数量的奖券进行购买。保险库售价越高，里面的奖励越丰厚。";
+"loading.tip.7" = "购买筹码和金币可以提升你的VIP等级，等级越高，就会在购买筹码和金币的时候得到更多优惠。";
+"loading.tip.8" = "升级可以提升你的VIP等级，等级越高，就会在购买筹码和金币的时候得到更多优惠。";
+"loading.tip.9" = "提升你的VIP等级，可以在每次旋转幸运奖励的时候获得更多筹码。";
+"loading.tip.10" = "提升你的VIP等级，可以在牌友发送给你的筹码礼物中获得更多筹码。";
+"loading.tip.11" = "给你的牌友发送每日免费筹码礼物。";
+"loading.tip.12" = "联赛排行榜每周刷新。根据你最后的排名，你可能会升级、降级或是保持原来的位置不动。";
+"loading.tip.13" = "在每周结束的时候升级到新的联赛等级就可以获得奖券。等级越高，就能得到更多奖券。";
+"loading.tip.14" = "如果你在一周内得到了足够的筹码，你就会立刻升至新的联赛等级，并获得奖券。";
+"loading.tip.15" = "你可以与你的牌友在联赛排行榜的好友界面上比较你们每周获得的筹码数。";
+"loading.tip.16" = "锦标赛中支出和赢得的所有筹码都会计算到联赛排行榜上面的总筹码赢取数里面。";
+"loading.tip.17" = "旋转幸运奖励，让你连胜不断。更多的连胜会带来更多筹码。";
+"loading.tip.18" = "每天都会有多次免费幸运奖励旋转。如果你想多来几次旋转，你可以花费金币旋转特大幸运奖励。";
+"loading.tip.19" = "在设置中开启日常奖励通知，确保不错过任何一次免费幸运奖励旋转。";
+"loading.tip.20" = "玩家在完成牌局的时候会有一定几率获得头奖，赢得大量筹码。赌局更大，获得头奖的几率越高。";
+"loading.tip.21" = "进行更多牌局，增加你获得头奖的机会。";
+"loading.tip.22" = "每个月头奖都会变化，比如增加彩金的数额或是每小时获得头奖的玩家数。";
+"loading.tip.23" = "通过发送牌桌礼物，让别的玩家知道你的感受。";
+"loading.tip.24" = "使用牌桌礼物为在场的大家买上一轮酒水，介绍一下自己。";
+"loading.tip.25" = "所有你获得的奖杯都可以在牌桌礼物中找到。";
+"loading.tip.26" = "在设置中启用好友活跃提示，好在牌友上线的时候通知你，让你及时加入他们的牌桌。";
+"loading.tip.27" = "打开你的个人资料可以查看各项数据，例如你的总胜场数或是赢得的最大底池。";
+"loading.tip.28" = "打开其他玩家的个人资料来比较你们之间的技巧与实力。";
+"loading.tip.29" = "如果你结识到了出色的朋友，你可以给他的个人资料里面点个赞或是加他为牌友。";
+"loading.tip.30" = "玩得开心，玩得友善。";
+"loading.tip.31" = "如果你发现了恶行，你可你打开那人的个人档案将其举报。";
+"loading.tip.32" = "与大家和谐共处，没准你就能交到新的牌友。";
+"loading.tip.33" = "你可以在任何时候在其他人的个人档案中转他们为静音。你也可以在设定中完全关闭聊天系统。";
+"loading.tip.34" = "使用聊天界面里面的快速聊天功能进行间接的交流，完全不用费力打字。";
+"loading.tip.35" = "锦标赛中盲注会不断增加，可不要等待太久才打第一局。";
+"loading.tip.36" = "Zynga 德州扑克共在全世界188个国家内上线。";
+"loading.tip.37" = "自我们发行以来，共有5.5亿玩家参与到了Zynga 德州扑克。";
+"loading.tip.38" = "这个世界上的牌类游戏数不胜数。Zynga 德州扑克使用了德州扑克的规则。";
+"loading.tip.39" = "当你的手牌需要一张特定的牌来达成胜利的时候叫做听牌。";
+"loading.tip.40" = "在你翻牌前发给你的那两张牌叫做底牌。";
+"loading.tip.41" = "底牌花色相同的概率有24%，但是仅能增加你2.5%的赢面。";
+"loading.tip.42" = "成对的底牌被叫做口袋对子，17手牌中才会出现1手。";
+"loading.tip.43" = "如果你在翻牌之后还差1张牌就能凑成同花，那么你就有35%的几率通过河牌来完成同花。";
+"loading.tip.44" = "在第一轮投注之后翻开的三张公共牌被称为翻牌。之后到转牌，最后到河牌。";
+"loading.tip.45" = "当一局中只剩下了你和另一名玩家，这时候就叫做对决。";
+"loading.tip.46" = "开始对决的时候，较小的口袋对子有18.5%的几率打败较大的口袋对子。";
+"loading.tip.47" = "对决的时候，底牌AA有93%的几率打败AK。";
+"loading.tip.48" = "一手牌是由5张牌组成的最佳组合。取决于公共牌，你手中的一张或两张底牌或许根本没有用武之地。";
+"loading.tip.49" = "当一名玩家全押后，其它玩家随押的赌注数目还要高于全押数目的时候，就会创建池边赌注。";
+"loading.tip.50" = "当一名或多名玩家之间手牌大小一样的时候，就会出现平分底池。";
+"loading.tip.51" = "如果你进入了顺子听牌，同时你需要的那张牌将是你手牌里最大或是最小的那张牌的时候，这种牌就叫做两端顺子听牌。";
+"loading.tip.52" = "如果你进入了顺子听牌，同时你需要的那张牌将是顺子里最大或最小的之间的牌的时候，这种牌就叫做内听顺子牌。";
+"loading.tip.53" = "如果你在翻牌后凑成了两端顺子听牌，那么你将有31.5%的几率在河牌中凑齐你的手牌。";
+"loading.tip.54" = "如果你在翻牌后凑成了内听顺子，那么你只有16.5%的几率在河牌中凑齐你的手牌。";
+"loading.tip.55" = "底牌的价值高于任何公共牌，此时就被成为超牌。";
+"loading.tip.56" = "如果你的底牌价值高于你对手的口袋对子，那你在对决中仍旧有46%获胜。";
+"loading.tip.57" = "有些玩家可能会将葫芦称为船。";
+"loading.tip.58" = "底牌AA有时被称为底牌火箭。";
+"loading.tip.59" = "底牌KK有时被称为牛仔。";
+"loading.tip.60" = "底牌KK有时被称为女仕们。";
+"loading.tip.61" = "老牌手们被称为鲨鱼，而新手们则被称为菜鸟。";
+"loading.tip.62" = "含有A、2、3、4、5的顺子被称为大车轮。";
+"loading.tip.63" = "底牌对子和一张公共牌组成的三条被称为集合。";
+"loading.tip.64" = "如果牌组里已经没有牌可以让你的牌凑成赢牌，你就被将死了。";
+"loading.tip.65" = "当你的虚张声势令其他玩家全部盖牌后，就被成为买锅。";
+"loading.tip.66" = "底牌中同时包括A和K被称为大滑头。 ";
+"loading.tip.67" = "全押也被称为猛推。";
+"loading.tip.68" = "四条也被称为四人组。";
+"loading.tip.69" = "有些玩家将内听顺子称为致命一击。";
+"loading.tip.70" = "如果所有玩家都向底池中投入了筹码，就被称为大团圆底池。";
+
+// marketing banner
+"marketbanner.online" = "{0} 当前在线！";
+"marketbanner.join" = "快去加入他们的 {0} 牌桌吧！";
+"marketbanner.joinNow" = "立刻加入！";
+"marketbanner.survey" = "了解更多！";
+"marketbanner.chartboost.message" = "去看看最新最好玩的免费应用！";
+"marketbanner.chartboost.button" = "点击此处";
+"marketbanner.buypage.title" = "获得每日经验值购买奖励，并达到第5级！";
+
+// First time buyer
+"firsttimebuyer.headline" = "5折";
+"firsttimebuyer.subtitle" = "史上最优惠";
+"firsttimebuyer.allOffersButton" = "查看所有优惠>";
+"firsttimebuyer.banner" = "最受欢迎";
+
+// disconnect modal message
+"modaldisconnect.welcomeBack" = "欢迎回来！";
+"modaldisconnect.messageTable" = "你的设备似乎失去了连接。你离开时，我们会安全保管你的赌注及所赢得的筹码！";
+"modaldisconnect.messageLobby" = "你的设备似乎失去了连接。但是不用着急，在这手牌中，为了保护你的赌注，我们已经将它放在池边！如果你获胜的话，我们也已将赢得的筹码送入你的钱包中！";
+"modaldisconnect.buttonText" = "确定";
+
+// bet protect popup message
+"betprotect.welcome.body" = "欢迎回来！我们让你进入了“赌注保护”模式。";
+"betprotect.welcome.learnMore" = "轻按了解更多";
+"betprotect.welcome.learnMore.desktop" = "点击查看更多";
+"betprotect.moreInfo.body" = "在这手牌中，为了保护你的赌注，我们已经将它放在池边！";
+"betprotect.moreInfo.winningsLabel" = "你赢了：";
+"betprotect.moreInfo.lossesLabel" = "你输了：";
+"betprotect.moreInfo.balanceLabel" = "新余额：";
+"betprotect.moreInfo.icon.caption" = "赌注已保护";
+
+// bet protect info tooltip
+"betprotect.tooltip.title" = "赌注保护模式";
+"betprotect.tooltip.body" = "如果你因为掉线而错过叫注，我们会将你的赌注放在边池中让你打完这局。这表示你仍有机会获胜！";
+"betprotect.tooltip.button" = "确定";
+
+// reconnect popup message
+"reconnectPopup.initialReconnect" = "连接丢失。正在尝试重新连接...";
+"reconnectPopup.secondsLeft" = "重新连接失败。我们将于{0}秒后重试。";
+"reconnectPopup.reconnect" = "正在尝试重新连接。";
+"reconnectPopup.tryLater" = "重新连接失败。请稍后重试。";
+"reconnectPopup.retry.buttonText" = "重试";
+
+// table reconnected popup message
+"tableReconnectedPopup.welcomeBack" = "欢迎回来！";
+"tableReconnectedPopup.playNow" = "现在开始";
+
+"tableReconnectedPopup.noUp.seated.body" = "我们在你掉线期间保留了你的位置。";
+"tableReconnectedPopup.noUp.stoodUp.title" = "似乎你错过了自己的叫注。";
+"tableReconnectedPopup.noUp.stoodUp.body" = "为了保护你的筹码，我们让你站起。";
+"tableReconnectedPopup.noUp.standing.body" = "我们在你掉线期间保留了你的位置。";
+
+"tableReconnectedPopup.noUp.seated.body.v2" = "欢迎回来！我们在你掉线期间保留了你的位置。";
+"tableReconnectedPopup.noUp.standing.body.v2" = "欢迎回来！";
+"tableReconnectedPopup.noUp.stoodUp.body.v2" = "欢迎回来！为了保护你的筹码，我们让你站起。";
+"tableReconnectedPopup.mttTable.body" = "欢迎回来。游戏还在进行中。根据锦标赛规则，盲注依然有效。";
+
+"tableReconnectedPopup.up.singular" = "我们在你掉线期间保护了你的赌注。你还有{0}次赌注保护";
+"tableReconnectedPopup.up.plural" = "我们在你掉线期间保护了你的赌注。你还有{0}次赌注保护";
+
+// unreachable protect chiclet
+"unreachableProtectChiclet.betProtect" = "赌注保护";
+"unreachableProtectChiclet.moreInfoIcon" = "?";
+
+// Assertion Failure Message
+"assertionFailed.messageTitle" = "非常抱歉！";
+"assertionFailed.messageBody" = "抱歉，出现技术故障。如果你错过了叫注，你的赌注会放在边池保护起来，从而仍有机会获胜！";
+"assertionFailed.buttonText" = "确定";
+
+// pro compensation modal
+"procomp.title" = "谢谢支持扑克职业版！";
+"procomp.body" = "我们推出新的外观，以感谢你对我们的支持。作为谢礼，这是送给你的 1000 万筹码（价值 $9.99 ）！";
+"procomp.button" = "领取 1000 万筹码！";
+
+// Jump upsell, etc
+"jump.tableupsell.title" = "跳转扑克";
+"jump.tableupsell.message" = "最快的玩法！在牌桌之间跳转，不限局数尽情玩。无需等待！";
+"jump.tableupsell.button" = "开始";
+"jump.tableupsell.rake" = "{0}% 的牌桌抽水适用于奖金";
+
+"jump.table.jumpNow" = "立即跳转";
+
+"jump.table.idlekick.title" = "要继续玩吗？";
+"jump.table.idlekick.body" = "我们已将你移出此桌，以防你损失筹码。";
+
+"jump.lobbyupsell.title" = "跳转扑克";
+"jump.lobbyupsell.message" = "保持跳转！你需要更多筹码才能玩。\n购买更多的筹码，这样你就可以继续玩！";
+"jump.lobbyupsell.button1" = "不，谢谢";
+"jump.lobbyupsell.button2" = "获取筹码";
+
+// black-jack
+"blackjack.title" = "太棒了！";
+"blackjack.message" = "貌似你越来越拿手了。选择你的买入，填充指示器，大赢一把！";
+"blackjack.ftue.button1" = "返回大厅";
+"blackjack.ftue.button2" = "玩二十一点牌！";
+
+"blackjack.hit" = "要牌";
+"blackjack.stand" = "停牌";
+"blackjack.win" = "你赢了！";
+"blackjack.blackjackWin" = "二十一点牌！";
+"blackjack.push" = "你没输没赢。";
+"blackjack.continue" = "继续游戏";
+
+"blackjack.buy" = "玩 {0}";
+
+"blackjack.yourChips" = "你的筹码";
+"blackjack.yourGold" = "你的金币";
+"blackjack.winUpTo" = "赢取最高奖励";
+
+"blackjack.dealerstand" = "庄家停牌时为 17 点 ";
+"blackjack.winbig" = "赢得牌局，填充指示器，大赢一把！";
+
+"blackjack.ftue.0" = "欢迎来玩二十一点牌！你的目标是击败庄家的手牌，但不能超过 21 点哦。\"要牌\" ，以获得另一张牌！";
+"blackjack.ftue.1" = "你已经得了 20 点，但不要超过 21 点，否则会输。\n\"停牌\"并让庄家叫注是明智之举。";
+"blackjack.ftue.2" = "庄家超过 21 点爆了。你赢了！";
+
+"blackjack.mulligan.title" = "就差一丁点！";
+"blackjack.mulliganDealerBJ.title" = "庄家拿到二十一点牌了！";
+"blackjack.mulligan.message" = "再玩一次以尝试获得 {0}？";
+"blackjack.mulligan.no" = "重新开始";
+"blackjack.mulligan.yes" = "继续 {0}";
+
+"blackjack.milestone.title" = "漂亮！你破纪录了！";
+
+"blackjack.end.button2" = "再玩一次！";
+
+"blackjack.help.title" = "如何玩二十一点牌";
+"blackjack.help.message" = "你的目标是尽可能接近21点，但不要超过哦。\n\n\"要牌\"是指发你的另一张牌，\"停牌\"是指将叫注交给庄家。\n\n人物牌相当于10点，A相当于1点或11点。\n\n以两张牌获得21点就是二十一点牌，会自动获胜。";
+
+"blackjack.error.title" = "连接错误";
+"blackjack.error.message" = "Zynga 德州扑克出现了连接错误。请重试或稍后再来！";
+"blackjack.error.button1" = "重试";
+"blackjack.error.button2" = "返回大厅";
+
+"tablelist.holdem" = "德州扑克牌桌";
+"tablelist.stakes" = "赌注";
+"tablelist.buyins" = "最低/最高买入";
+"tablelist.notEnoughChips" = "在这些赌注牌桌没有足够的筹码，无法买入。";
+"tablelist.players" = "玩家：";
+"tablelist.speed" = "速度：";
+"tablelist.normal" = "正常速度";
+"tablelist.fast" = "快速";
+"tablelist.hideFull" = "显示所有牌桌：";
+"tablelist.noTables" = "当前筛选设置下没有可玩牌桌。";
+"tablelist.tableName" = "牌桌名称";
+"tablelist.numPlayers" = "玩家";
+"tablelist.tableSummary" = "牌桌总览";
+"tablelist.play" = "开始";
+"tablelist.pullToRefresh" = "拉动以重新整理...";
+"tablelist.releaseToRefresh" = "放开以重新整理...";
+"tablelist.openSeat" = "开放座位";
+
+
+"abandonment.header" = "现在购买可获得 20% 的额外筹码！";
+"abandonment.subheader" = "购买后即可获得";
+"abandonment.specialOffer" = "特价优惠";
+
+"mysterychipbag.title" = "马上来拿超级百万\n大奖神秘筹码包 - 只要 $0.99 美元！";
+"mysterychipbag.button" = "立即购买";
+
+"purchase.confirmation.youHavePurchased" = "你已购买";
+"purchase.confirmation.chips" = "{0} 个筹码！";
+"purchase.confirmation.gold" = "{0} 个金币！";
+
+// slots share a spin
+"shareSpin.spinsLeft" = "剩余拉霸： {0}";
+"shareSpin.shareUpsell" = "和好友分享免费幸运奖励拉霸！";
+"shareSpin.shareUpsell.incentivized" = "和好友分享，即可获得 5 次免费幸运奖励拉霸！";
+"shareSpin.sendSpins" = "送出拉霸";
+"shareSpin.acceptAndSend" = "接受并送出拉霸";
+"shareSpin.acceptOnly" = "仅接受";
+"shareSpin.meter" = "{0} 给 {1} 位好友送出";
+"shareSpin.requestReceived" = "{0} 给你发送了一次幸运奖励拉霸。回赠一次！";
+"shareSpin.max" = "剩余拉霸：5次（最多）";
+"sharespin.mfs.title" = "分享拉霸：更多分享，更多收获！";
+"sharespin.mfs.subtitle" = "送好友幸运奖励拉霸以得到免费拉霸回赠！更多分享，更多收获";
+"sharespin.mfs.btn.text" = "送出拉霸！";
+"mfs.invitessent" = "{1} 位好友选择 {0}";
+
+// New User Install Opt
+"userInstallOpt.title" = "欢迎来玩Zynga德州扑克";
+"userInstallOpt.message" = "这里有红心皇后赠送的 {0} 个免费筹码！";
+"userInstallOpt.claim" = "快来领取吧";
+
+// trialpay
+"trialpay.title" = "马上赢取更多筹码！";
+"trialpay.info" = "下次开启Zynga德州扑克时就获取你的筹码！";
+
+"trialpay.freeChips" = "免费筹码";
+"trialpay.thanks" = "谢谢！";
+"trialpay.completing" = "完成优惠活动让你赚了 {0} 个筹码";
+"trialpay.message" = "现在该来牌桌赢大奖咯！";
+"trialpay.buttonText" = "继续";
+"trialpay.earnFreeChipsLabel" = "赢取免费筹码";
+"trialpay.grantDialog" = "完成优惠活动让你赚了 {0} 个筹码！";
+"trialpay.grantConfirm" = "好的";
+
+"trialpay.rtl.title" = "赢取百万免费筹码！";
+"trialpay.rtl.message" = "完成优惠活动，获取百万筹码即可成为一名豪客哦！";
+"trialpay.rtl.buttonText" = "获取筹码！";
+"trialpay.rtl.noThanks" = "不，谢谢";
+
+
+//Blackjack Bonus
+"blackjackbonus.claimed.title" = "太棒了！";
+"blackjackbonus.claimed.message" = "{0} 已添加到你的银行中。再玩一次二十一点牌，赢取更多奖励！";
+"blackjackbonus.loss.title" = "就差一点了！";
+"blackjackbonus.loss.message" = "再试一次！";
+"blackjackbonus.push.title" = "没输没赢！";
+"blackjackbonus.push.message" = "你们打成平手了！继续玩二十一点牌！";
+"blackjackbonus.win.title" = "你赢了！";
+"blackjackbonus.win.message" = "{0} 个筹码已添加到你的银行中";
+"blackjackbonus.claim.title" = "快来领取你的奖励吧！";
+"blackjackbonus.claim.message" = "你赢取了 {0} 个筹码奖励！感谢你来玩二十一点牌！";
+"blackjackbonus.handsleft.singular" = "还剩 {0} 局";
+"blackjackbonus.handsleft.plural" = "还剩 {0} 局";
+"blackjackbonus.button.bet" = "下注";
+"blackjackbonus.button.hit" = "要牌";
+"blackjackbonus.button.stand" = "停牌";
+"blackjackbonus.bonuschips.title" = "筹码奖励";
+"blackjackbonus.bonuschips.claim.plural" = "{0} 小时后领取";
+"blackjackbonus.bonuschips.claim.singular" = "1小时后领取";
+"blackjackbonus.button.claim" = "领取奖励";
+"blackjackbonus.button.playagain" = "再玩一次";
+"blackjackbonus.button.upsell" = "购买 {0} 局";
+"blackjackbonus.upsell.title" = "手气真好！";
+"blackjackbonus.upsell.message.plural" = "你一天的牌局似乎用完了。你可以再等 {0} 个小时或现在就购买额外 {1} 个！";
+"blackjackbonus.upsell.message.singular" = "你一天的牌局似乎用完了。你可以再等 {0} 个小时或现在就购买额外 {1} 个！";
+"blackjackbonus.ftue.claim.title" = "欢迎来玩二十一点牌！";
+"blackjackbonus.ftue.claim.message" = "玩游戏就能赢取免费筹码。每天回来领取你的奖励！";
+"blackjackbonus.ftue.bet.message.raiser" = "滑一下来更改你的下注。不会影响你牌桌上的筹码。";
+"blackjackbonus.ftue.bet.message.button" = "点击\"下注\"，开始游戏。";
+"blackjackbonus.ftue.bet.message.button.desktop" = "点击“下注”，开始游戏。";
+"blackjackbonus.ftue.bet.message.end" = "再次下注来继续玩游戏，即可增加明天的奖励！";
+"blackjackbonus.bet.error" = "需要更多筹码？";
+"blackjackbonus.bonuschips.tip.reward" = "玩游戏就有筹码奖励。";
+"blackjackbonus.bonuschips.tip.claim" = "你的筹码可以明天领取。";
+"blackjackbonus.iap.itemUnavailableTitle" = "无此产品";
+"blackjackbonus.iap.itemUnavailableMessage" = "你已超出每日购买上限。请明天再来吧！";
+"blackjackbonus.iap.itemUnavailableButton" = "好的";
+"blackjackbonus.notif" = "黑杰克奖励里有 {0} 个免费筹码等你来拿！马上返回牌桌领取奖励！";
+"blackjackbonus.help.title" = "如何玩二十一点牌";
+"blackjackbonus.help.step1" = "你的目标是尽可能接近21点，但不要超过哦。";
+"blackjackbonus.help.step2" = "\"要牌\"是指发你的另一张牌，\"停牌\"是指将叫注交给庄家。";
+"blackjackbonus.help.step3" = "人物牌相当于10点，A相当于1点或11点。";
+"blackjackbonus.help.step4" = "以两张牌获得21点就是二十一点牌，会自动获胜。";
+"blackjackbonus.help.exit" = "明白了！";
+
+
+//leaderboardsv2
+"leaderboardv2.title" = "每周排行榜";
+"leaderboardv2.upsell" = "奋力直上，赢得第1名！";
+"leaderboardv2.buddies" = "牌友";
+"leaderboardv2.regional" = "区域";
+"leaderboardv2.rank" = "排名";
+"leaderboardv2.chipsWon" = "赢得的筹码";
+
+"leaderboardv2.upsellTitle" = "赢得 {0}";
+"leaderboardv2.upsellMessage" = "夺取区域排名第一";
+"leaderboardv2.upsellSubmessage" = "区域排行榜上的第1名";
+
+"leaderboardv2.claimTitle" = "$1,000,000,000赢家";
+"leaderboardv2.claimYourResult" = "你的成果";
+"leaderboardv2.claimFinalChips" = "最后筹码：";
+"leaderboardv2.claimBuddyRank" = "牌友排名：";
+"leaderboardv2.claimRegionalRank" = "区域排名：";
+"leaderboardv2.claimYouWin" = "你赢了：";
+"leaderboardv2.claim" = "领取";
+"leaderboardv2.claimBottomText" = "本周开始启用新排行榜。一路直上，问鼎榜首！";
+"leaderboardv2.errorhandler" = "我们正在记录所有的数字，你很快就能看到我们的更新。";
+
+"leaderboardv2.timeLeft" = "剩余时间： {0:D2}:{1:D2}:{2:D2}";
+"leaderboardv2.daysLeft" = "剩余时间： {0:D1} 天";
+"leaderboardv2.returnToClaim" = "返回领取！";
+"leaderboardv2.resetLocalNotif" = "每周排名已更新。立即领取奖品！";
+
+//leaderboards_one_n_half
+"leaderboards_one_n_half.resetLocalNotif" = "每周排名已更新。立即领取奖品！";
+"leaderboards_one_n_half.resetTimeRemainingLocalNotif" = "明天将确定排行榜的最终排名–你能否问鼎榜首？";
+"leaderboards_one_n_half.leaderboardEndsSoonNotifTitle" = "竞赛即将结束";
+"leaderboards_one_n_half.leaderboardEndsSoonNotifBody" = "马上登上排行榜！";
+"leaderboards_one_n_half.comebackLocalNotif" = "你在本周排行榜的排名情况怎样？返回游戏！";
+"leaderboards_one_n_half.comebackLocalNotifTitle" = "返回";
+"leaderboards_one_n_half.comebackLocalNotifBody" = "已经成功一半啦！回来游戏吧！";
+"leaderboards_one_n_half.buddyRankBonus" = "牌友排名奖励";
+"leaderboards_one_n_half.plusXP" = "+经验值%1$lld";
+
+// Daily Drip
+"dailyDrip.claimForFree" = "领取";
+"dailyDrip.activate" = "激活";
+"dailyDrip.baseXP.mult" = "&nbsp;";
+"dailyDrip.baseXP.unclaimed" = "全天有{0}%经验值！";
+"dailyDrip.baseXP.unclaimed2" = "{0}%经验值加成";
+"dailyDrip.baseXP.claimed" = "经验值加成\n已激活！";
+"dailyDrip.baseXP.claimed2" = "经验值加成\n已激活！";
+"dailyDrip.baseXP.claimed.sub" = "每日领取！";
+"dailyDrip.4x.claimed" = "你获得了200%游戏经验值！";
+"dailyDrip.4x.claimed.purchase" = "购买筹码，获得最大400%经验值！";
+"dailyDrip.4x.claimed.postPurchase" = "每日购买，获得最大经验值！";
+"dailyDrip.4x.claimed.postPurchase2" = "经验值加成已激活！";
+"dailyDrip.4x.claimed.sub" = "每日领取！";
+"dailyDrip.freeChips" = "每日奖励 {0} 个筹码！";
+"dailyDrip.freeChips.claimed" = "购买更多筹码，决胜于牌桌！";
+"dailyDrip.freeChips.claimed.sub" = "全天200%经验值！";
+"dailyDrip.XP.confirmation" = "每日奖励：在牌桌上全天可获得 {0}00% 的经验值！";
+"dailyDrip.Animated.claimedTitle" = "获得最多经验值！";
+"dailyDrip.Animated.claimedSubTitleFirst" = "购买筹码";
+"dailyDrip.Animated.claimedSubTitleSecond" = "获得400%经验值";
+"dailyDrip.refill.timer" = "{0}小时{1}分"; //h is short for hour, m is short for minutes
+"dailyDrip.refill.timer.minuteSeconds" = "{0}分{1}秒"; //m is short for minutes, s is short for seconds
+"dailyDrip.PurchaseHub.Free" = "免费";
+"dailyDrip.PurchaseHub.XpPercent" = "{0}%";
+"dailyDrip.PurchaseHub.xpBonus" = "经验值加成";
+
+
+// Smart Hammer
+"smarthammer.tablejoin.message" = "{0} 所在的牌桌玩家已满！";
+"smarthammer.tablejoin.buttonLabel" = "确定";
+
+// Rivals
+"rivals.lobby.headline" = "你的对手 {0} 当前在线！";
+"rivals.lobby.body" = "加入他们的 {0} 牌桌复仇！";
+"rivals.lobby.body.no.minBuyIn" = "加入他们的牌桌复仇！";
+"rivals.join.now" = "现在就加入";
+"rivals.help.title" = "扑克对手";
+"rivals.help.message" = "对手是之前赢过你的筹码的人！\n\n你可以加入对手的游戏，尝试一雪前耻并赢回你的筹码。\n\n你可以在设置菜单中禁用对抗。";
+"rivals.joined.table" = "{0} 已经加入牌桌打算一雪前耻，想拿回被你赢取的筹码！";
+
+// Bad Beat
+"badbeat.info.popup.title" = "爆冷门规则 ";
+"badbeat.info.popup.text1" = "何谓爆冷门？";
+"badbeat.info.popup.text1.1" = "输牌时，两张底牌加上摊开的牌必须等同或大过 {0}；四条必须包含一个口袋对子。";
+"badbeat.info.popup.text1.2" = "一手好牌在胜负对决中被打败。";
+"badbeat.info.popup.text2" = "谁赢得头奖？";
+"badbeat.info.popup.text2.1" = "爆冷门赢家 - {0}";
+"badbeat.info.popup.text2.2" = "牌局赢家 - {0}";
+"badbeat.info.popup.text2.3" = "本局中的其他玩家 - 平均分配 {0}";
+"badbeat.info.popup.text3" = "头奖是如何产生的？";
+"badbeat.info.popup.text3.1" = "头奖是所有小比例奖金（最多 {0} 个大盲注）的累加。";
+"badbeat.info.popup.text3.2" = "头奖在相同赌注的牌桌上分享，但只有赌注在 {0} 以上的牌桌才可获得。";
+
+
+"badbeat.nevershow.message" = "你希望我们停止显示爆冷门头奖的更新吗？";
+"badbeat.nevershow.stopShowing" = "停止显示";
+"badbeat.nevershow.keepShowing" = "继续显示";
+
+"badbeat.banner.title" = "爆冷门头奖";
+"badbeat.banner.title.winner" = "{0} 个赢局：";
+"badbeat.banner.title.split" = "其他人赢得：";
+"badbeat.banner.info" = "爆冷门，整个牌桌获胜！";
+"badbeat.banner.everyone_wins" = "大家都赢了！";
+"badbeat.banner.loser" = "{0} 因为爆冷门而输并赢得第一名的奖品！";
+"badbeat.banner.winner" = "{0} 赢得这局并获得第二名的奖品！";
+"badbeat.banner.split" = "所有其他有资格的选手平分底池！";
+
+// TOS
+"TOS.title" = "我们已更新了游戏！";
+"TOS.message" = "Zynga修订了《服务条款》与《隐私政策》。请花些时间阅读并理解这些重要的法律文件。\n\n通过点击 ";
+"TOS.tosButton" = "服务条款";
+"TOS.ppButton" = "隐私政策";
+"TOS.button" = "接受";
+
+// HardGate
+"HardGate.title" = "需要更新";
+"HardGate.message" = "欢迎回来！Zynga Poker已经更新。你需要将游戏更新到最新版本，才能继续游戏！";
+"HardGate.button" = "更新";
+
+"popup.confirm" = "好的";
+"popup.cancel" = "取消";
+
+"playerchiclet.allin" = "全压";
+
+// Individual buy in text for each tournment type: LP-12132
+"sitngo.tournament.entryfee" = "入口";
+"shootout.tournament.entryfee" = "入口";
+
+// hacky gifts to workaround SFX issue
+"gifts.Monkey King" = "孙悟空";
+"gifts.Big Baller Car" = "高手汽车";
+"gifts.Pigsy" = "猪八戒";
+"gifts.High Roller Car" = "云霄飞车";
+"gifts.Philippines Heart" = "菲律宾之心";
+"gifts.Tissues" = "纸巾";
+"gifts.Angel" = "天使";
+"gifts.Devil" = "恶魔";
+"gifts.Elvis Doll" = "埃尔维斯娃娃";
+"gifts.Cupid" = "丘比特";
+"gifts.Donkey" = "驴";
+"gifts.Diamond Ring" = "钻石戒指";
+"gifts.Rose" = "玫瑰";
+"gifts.Sun Flower" = "太阳花";
+"gifts.Smooch" = "接吻";
+"gifts.Flip The Bird" = "比中指";
+"gifts.Shark" = "鲨鱼";
+"gifts.Joker" = "百搭";
+"gifts.Fish" = "鱼";
+"gifts.High Roller Dice" = "狂赌骰子";
+"gifts.Baller Cube" = "搓球方块";
+"gifts.Beer" = "啤酒";
+"gifts.Coffee" = "咖啡";
+"gifts.Donuts" = "甜甜圈";
+"gifts.Energy Drink" = "能量饮料";
+"gifts.Beef Jerky" = "牛肉干";
+"gifts.Bacon Vodka" = "培根伏特加酒";
+"gifts.Taco" = "玉米饼";
+"gifts.Noodle Soup" = "汤面";
+"gifts.Sushi" = "寿司";
+"gifts.Bubble Tea" = "泡沫红茶";
+"gifts.Mojito" = "莫吉托鸡尾酒";
+"gifts.Poison" = "毒药";
+"gifts.Pizza" = "比萨饼";
+"gifts.Chateau Z" = "法国葡萄酒";
+"gifts.Cognac" = "白兰地酒";
+"gifts.Love Potion" = "春药";
+"gifts.Champagne" = "香槟酒";
+"gifts.Flaming Margarita" = "燃烧的玛格丽塔";
+"gifts.Chocolates" = "巧克力";
+"gifts.Hearts" = "心";
+"gifts.Roses" = "玫瑰";
+
+// smartfox errors
+"sfx.err.Expired" = "会话已过期。请重新加载应用程序以继续。";
+"sfx.err.InvalidUserName" = "无效的用户名。尝试卸载并重新安装应用程序。如果问题依然存在，请联系客户服务寻求帮助。";
+"sfx.err.WrongPassword" = "密码不正确";
+"sfx.err.ClientNoLongerSupported" = "不再支持此客户端版本。请重新加载应用程序，然后再试一遍。";
+"sfx.err.UserNameAlreadyInUse" = "你的用户名已被使用。请关闭应用程序之后重新尝试。";
+"sfx.err.None" = "未知错误";
+
+// exclusive login text. spelling of title as titl is intentional.  news tool only supports 20 char titles
+"exclusiveAccess.titl" = "独占 Beta 版访问";
+"exclusiveAccess.body" = "欢迎来玩全新的 Zynga 德州扑克！你可以看到大厅、牌桌以及其他更多地方的改变。在 Beta 测试中，你可能会遇到 Bug 或者游戏表现方面的问题，但请保持耐心，因为我们每天都会对游戏做出改进。";
+"exclusiveAccess.button" = "确定";
+
+"ban.title" = "你的帐户已禁用";
+"ban.bodyNoClaim" = "该帐户具有类似于{0}的可疑活动，其违反我们的服务条款(\"TOS\")。\n\n我们愿意再给你一次机会恢复你的帐户，但这会消耗你当前筹码的10%（最多一百万）。\n\n重新激活我的帐户表明我同意遵守以下《服务条款》并明白再犯将导致永久性冻结";
+"ban.bodyClaim" = "该帐户具有类似于{0}的可疑活动，其违反我们的服务条款(\"TOS\")。\n\n因此，该帐户已被永久冻结。如果你认为发生这种情况是个错误，请联系我们的客户支持团队。";
+"ban.resetChipsButton" = "重设筹码并激活";
+
+"warned.title" = "帐户警告";
+"warned.body" = "请注意，你的帐户活动好像违反了我们的《服务条款》。\n\n最常见的违规包括转让筹码、不当的扑克行为、串通作弊或发布冒犯性语言和图\n像。我们希望公平游戏，所以如果以后仍有违规活动，你的帐户可能会被冻结。\n\n如果你认为自己错误地收到了这条信息或者帐户可能被盗用，请与我们取得联系。";
+"warned.acknowlwdgement" = "理解";
+
+"banned.title" = "帐户被封";
+"banned.body" = "请注意，你的帐户因为违反了我们的《服务条款》而被封。最常见的违规包括转让筹码、不当的扑克行为、串通作弊或发布冒犯性语言和图\n像。\n\n如果你认为自己错误地收到了这条信息或者帐户可能被盗用，请与我们取得联系。";
+
+"suspended.title" = "帐户被冻结";
+"suspended.body" = "请注意，你的帐户活动因为违反了我们的《服务条款》 (\"ToS\")而被冻结。\n最常见的违规包括转让筹码、不当的扑克行为、串通作弊或发布冒犯性语言和图\n像。为了不影响游戏，我们将你的筹码数量调整为{0}。\n\n如果你认为自己错误地收到了这条信息或者帐户可能被盗用，请与我们取得联系。";
+
+"banned.tosText" = "服务条款";
+"banned.contactUs" = "联系我们";
+"banned.acceptPenalty" = "接受处罚";
+
+// beta version
+"version.beta" = "Beta";
+
+// UI update
+"ui.update.explanation" = "从我们的创意总监Nick G那里了解游戏的新界面！";
+"ui.update.learnMore" = "了解更多";
+
+// RNG certification
+"rng.explanation" = "公平游戏，官方认证";
+
+// lobby ftue text
+"lobbyFtue.title" = "欢迎你，{0}！";
+"lobbyFtue.body" = "这是Zynga德州扑克的抢先预览版。你可以看到大厅、牌桌以及其他更多地方的改变。";
+"lobbyFtue.subBody" = "这里有 {0} 奖励，供你开始游戏！";
+"lobbyFtue.claimButtonText" = "领取 {0}";
+
+// ZADE Integration
+"zade.buttonText" = "更多游戏";
+
+// Leagues
+"leagues.tier.name" = "{0}级"; //{0} is tier name (Bronze, Silver, Gold, Diamond)
+"leagues.subtier.name" = "{0} {1}";
+
+"leagues.leaguepoints.title" = "联赛分数：";
+
+"leagues.rankingview.intervalLabel" = "第{0}周，共{1}周：";
+"leagues.rankingview.daysformat" = "还剩{0}天";
+"leagues.rankingview.hoursMinutesSecondsFormat" = "还剩{0}:{1}:{2}"; //{0} is hours, {1} is minutes, {2} is seconds
+"leagues.rankingview.minutesSecondsFormat" = "还剩{0}:{1}"; //{0} is minutes, {1} is seconds
+
+"leagues.rankingview.timeRemaining" = "本周将在{timeRemaining}后结束"; // Do not translate {timeRemaining}
+"leagues.rankingview.daysHourFormat" = "{0}天{1}小时"; // D=days, H=hours
+"leagues.rankingview.hoursMinutesFormat" = "{0}小时{1}分"; // H=hours, M=minutes
+"leagues.rankingview.minutesSecondsFormat" = "{0}分{1}秒"; // M=minutes, S=seconds
+"leagues.rankingview.promotion" = "前{0}名可晋级！"; // {0} is # of players
+"leagues.rankingview.instantPromotion.goal" = "赢得{0}即可立即晋级至{1}！"; // {0} point target, {1} the next league tier
+"leaguesv2.rankingview.instantPromotion.goal.more" = "再赢得{0}即可立即晋级至{1}！"; // {0} point target, {1} the next league tier
+"leaguesv2.rankingview.timeRemaining" = "距结束还有：{timeRemaining}"; //Do not translate {timeRemaining}
+
+"leagues.rankingview.instantPromotion.remaining" = "还剩{0}";
+"leagues.rankingview.leaguebutton" = "联赛";
+"leagues.rankingview.leaguebutton2" = "排行榜";
+"leagues.rankingview.friendbutton" = "朋友";
+"leagues.rankingview.friendbutton2" = "好友";
+"leagues.rankingview.promotionRanking" = "前{0}名";
+"leagues.rankingview.defaultRanking" = "{0} - {1}";
+"leagues.rankingview.promotionDescription" = "留在这里即可在{timeRemaining}后晋级至{0}。"; // {0} is league tier, do not translate {timeRemaining}
+"leagues.rankingview.demotionDescription" = "留在这里将在{timeRemaining}后降级至{0}。"; // {0} is league tier, do not translate {timeRemaining}
+"leagues.rankingview.safeDescription" = "留在这里即可在{timeRemaining}后保留在{0}。"; // {0} is league tier, do not translate {timeRemaining}
+"leagues.rankingview.prize" = "奖品";
+
+"leagues.calculatingview.title" = "正在计算你的级别";
+"leagues.calculatingview.subtitle" = "我们正在计算你的\nPoker联赛结果。请稍后回来查看。";
+"leagues.postseasonview.inactiveinterval" = "不活跃";
+"leagues.postseasonview.title" = "新赛季即将开始";
+"leagues.postseasonview.subtitle" = "下一Poker联赛赛季即将开始！";
+"leagues.optedoutview.title" = "重新加入\nPoker联赛";
+"leagues.optedoutview.subtitle" = "点击下方重新加入联赛。";
+"leagues.optedoutview.button" = "重新加入";
+"leagues.playahandview.title" = "玩一局";
+"leagues.playahandview.subtitle" = "玩一局就可以\n加入联赛。";
+"leagues.levellockedview.title" = "升到第4级加入竞争";
+"leagues.levellockedview.subtitle" = "你需要达到第4级才有资格加入Zynga Poker联赛。";
+"leagues.newuserview.title" = "玩一局";
+"leagues.newuserview.body" = "新的一周开始时，玩一局即可加入Poker联赛";
+
+"league.option.confirm.title" = "你确定吗？";
+"league.option.confirm.body" = "关闭Poker联赛将会移除你在本赛季中的所有数据，同时也将失去领取赛季末奖励的资格。 ";
+"league.option.confirm.confirmButton" = "确认";
+"league.option.confirm.cancelButton" = "取消";
+
+"leagues.rewardspopup.title" = "联赛分数：{0}";
+"leagues.rewardspopup.subtitle" = "开始游戏以赢取联赛分数。在赛季结束时用这些领取奖励。";
+"leagues.rewardspopup.sweepstakes" = "赌金全赢";
+"leagues.rewardspopup.tier" = "奖品 {0}";
+"leagues.rewardspopup.sweepsSubtitle" = "1个联赛分数= 1次抽奖机会";
+"leagues.rewardspopup.sweepsFineprint" = "No purchase necessary. Void where prohibited. Sweepstakes 9/29/-11/24 2014. US residents 18+. Sponsored by Zynga Inc. Restrictions apply. Tap to see rules.";
+"leagues.rewardspopup.sweepsFineprint.desktop" = "无需购买。Void where prohibited. Sweepstakes 9/29/-11/24 2014. US residents 18+. Sponsored by Zynga Inc. Restrictions apply. 点击查看规则。";
+"leagues.rewardspopup.sweepsRulesTitle" = "赌金全赢规则";
+"leagues.rewardspopup.tierSubtitle" = "需要{0}+个联赛分数";
+"leagues.rewardspopup.tierFineprint" = "*可以在Facebook.com领取赌桌礼物";
+
+"leagues.ftue.button.next" = "下一个";
+"leagues.ftue.button.previous" = "上一个";
+"leagues.ftue.button.done" = "完成";
+"leagues.ftue.button.skip" = "跳过";
+"leagues.ftue.welcome.heading" = "Zynga Poker联赛介绍";
+"leagues.ftue.welcome.subheading" = "开始游戏以赢取上千份真正的奖励！";
+"leagues.ftue.welcome.subheading.1" = "与牌友竞技以赢取这些奖品！";
+"leagues.ftue.welcome.callout" = "轻按“联赛”按钮以了解更多信息";
+"leagues.ftue.welcome.callout.desktop" = "点击“联赛”按钮以了解更多信息";
+"leagues.ftue.tiers.heading" = "攀升至顶级";
+"leagues.ftue.tiers.subheading" = "努力在赛季结束前达到钻石I级。级别越高，奖励越多！";
+"leagues.ftue.tiers.subheading.1" = "努力在赛季结束前达到{0}。级别越高，奖励越多！";
+"leagues.ftue.promodemo.heading" = "升高排名即可晋级";
+"leagues.ftue.promodemo.subheading" = "每周在你的联赛中与{0}名玩家同场竞技。";
+"leagues.ftue.promodemo.promo" = "晋级区";
+"leagues.ftue.promodemo.promoDescription" = "进入[3dcc66]晋级区[-]即可升到下一级别。"; // Keep everything between the []s, it will make that text a different color.
+"leagues.ftue.promodemo.demo" = "降级区";
+"leagues.ftue.promodemo.demoDescription" = "保持在[ff3c3c]降级区[-]以上，否则你会被降到下一级别。"; // Keep everything between the []s, it will make that text a different color.
+"leagues.ftue.promodemo.neutralDescription" = "维持在中间，级别就不会发生变化。";
+"leagues.ftue.promodemo.callout" = "排名变化时在这里查看";
+"leagues.ftue.leaguepoints.heading" = "使用联赛分数赢取奖励！";
+"leagues.ftue.leaguepoints.subheading" = "在每周结束时赢取联赛分数。轻按“奖励”按钮查看你可以在赛季结束时赢取的奖励。";
+"leagues.ftue.leaguepoints.subheading.desktop" = "在每周结束时赢取联赛分数。点击“奖励”按钮查看你可以在赛季结束时赢取的奖励。";
+"leagues.ftue.epilogue.heading" = "你已做好联赛准备！";
+"leagues.ftue.epilogue.subheading" = "轻按“帮助”按钮再次查看。";
+"leagues.ftue.epilogue.subheading.desktop" = "点击“帮助”按钮再次查看这里";
+
+"leagues.newinterval.prevHeading" = "第{0}周结果：";
+"leagues.newinterval.nextHeading.promotion" = "恭喜，你晋级了！";
+"leagues.newinterval.nextHeading.demotion" = "你被降级了。";
+"leagues.newinterval.nextHeading.same" = "你的级别没有发生变化。";
+"leagues.newinterval.chipsWon" = "赢得的筹码：";
+"leagues.newinterval.rank" = "排名：";
+"leagues.newinterval.chipsEarned" = "筹码：";
+"leagues.newinterval.leaguePoints" = "联赛分数：";
+"leagues.newinterval.experience" = "经验值：";
+"leagues.newinterval.newButtonText" = "起始周：{0}";
+"leagues.newinterval.oldButtonText" = "查看奖励";
+
+"leagues.endofseason.button.next" = "下一个";
+"leagues.endofseason.summary.heading" = "祝贺你！";
+"leagues.endofseason.summary.subheading" = "赛季已结束。这是你的成绩！";
+"leagues.endofseason.performanceTitle" = "第{0}周";
+"leagues.endofseason.summary.pointsearned" = "赢取的联赛分数";
+"leagues.endofseason.rewards.heading" = "这是你赢取的奖励！";
+"leagues.endofseason.sweeps.heading" = "ENTER TO WIN THE SWEEPSTAKES";
+"leagues.endofseason.sweeps.leaguePointTotal" = "Available sweepstakes entries: {0}";
+"leagues.endofseason.sweeps.emailHeading" = "Submit your email to enter:";
+"leagues.endofseason.sweeps.invalidEmail" = "错误：无效的电子邮件地址";
+"leagues.endofseason.sweeps.nonMatchingEmails" = "错误：你输入的电子邮件地址不匹配";
+"leagues.endofseason.entersweepstakes" = "进入赌金全赢";
+"leagues.endofseason.submitEmail" = "SUBMIT EMAIL";
+"leagues.endofseason.sweeps.confirmationheading" = "THANK YOU FOR ENTERING SWEEPSTAKES";
+"leagues.endofseason.sweeps.confirmationbody" = "Winners will receive an email from Tenthwave Digital. Good luck!";
+"leagues.endofseason.closePopup" = "完成";
+
+"leagues.notifications.title" = "Zynga Poker联赛";
+"leagues.notifications.android.endOfInterval.body" = "本周还剩{0}个小时！现在开始！";
+"leagues.notifications.android.midWeek.body" = "开始游戏以赢取大奖！";
+"leagues.notifications.android.comeBack.body" = "回来游戏赢取奖励！";
+"leagues.notifications.android.endOfSeason.body" = "赛季结束！领取你的奖励！";
+"leagues.notifications.ios.endOfInterval.body" = "还有{0}个小时！立刻加入Zynga Poker联赛游戏！";
+"leagues.notifications.ios.midWeek.body" = "加入Zynga Poker联赛，赢取丰厚奖励！";
+"leagues.notifications.ios.comeBack.body" = "回来加入Zynga Poker联赛，获取丰厚奖金！";
+"leagues.notifications.ios.endOfSeason.body" = "Poker联赛赛季已结束！领取你的奖励！";
+
+
+"leagues.postseason.title" = "下个赛季即将开始";
+"leagues.postseason.subtitle" = "继续游戏，为下个赛季备战！";
+
+//League V2
+"leaguev2.instantpromotion.title" = "欢迎加入{0}！";
+"leaguev2.instantpromotion.body" = "恭喜！你刚刚达到了本周的{0}目标，并提前晋级到了{1}。继续赢得筹码，继续晋级！";
+"leaguev2.instantpromotion.reward" = "奖品：";
+"leaguesv2.instantpromotion.toptier.body" = "你刚刚达到了本周的{0}目标，并提前晋级到了{1}。继续赢得筹码，保持自己的排名！";
+"leaguesv2.instantpromotion.button" = "继续";
+
+"leaguev2.endofweek.promotion.title" = "欢迎加入{0}！";
+"leaguev2.endofweek.promotion.body" = "你在上周取得了第{0}名，获得了${1}。\n 你晋级到了{2}。";
+"leaguesv2.endofweek.safe.title" = "恭喜！";
+"leaguesv2.endofweek.safe.body" = "你在上周取得了第{0}名，获得了${1}。\n 你保留在了{2}。";
+"leaguev2.endofweek.demotion.title" = "就差一点了！";
+"leaguev2.endofweek.demotion.body" = "你在上周取得了第{0}名，获得了${1}。\n 你现在处于{2}。";
+"leaguev2.endofweek.reward" = "奖品：";
+
+"leaguev2.endofweek.tiermessage.lower" = "继续赢得筹码，争取下周晋级！";
+"leaguev2.endofweek.tiermessage.top" = "继续赢得筹码，争取留在最高级联赛！";
+"leaguesv2.endofweek.button" = "继续";
+
+"leaguev2.ranking.remainingFriends" = "剩下的牌友本周没有在联赛中取得排名！";
+"leaguev2.ranking.noFriends" = "这里显示了你的牌友排名。";
+"leaguev2.ranking.instantPromotionDescription" = "立刻晋级，赢取{0}即可晋级至{1}！";
+"leaguev2.ranking.instantPromotion.progressPercent" = "{0}%";
+"leaguesv2.ranking.title" = "排行榜 - {0}";
+
+"leaguesv2.playHand.body" = "玩一局游戏即可加入联赛，与其他玩家一较高下！";
+"leaguesv2.playHand.button" = "玩一局";
+"leaguesv2.locked.body" = "升到第4级即可加入联赛，每周赢取丰厚奖励！";
+"leaguesv2.unavailable.body" = "请稍后回来查看。联赛暂不可用。别担心，当联赛重新开启后，你赢得的所有筹码都将计入总数。";
+"leaguesv2.optIn.title" = "要加入联赛吗？";
+"leaguesv2.optIn.body" = "每周与{0}名玩家同场竞技，赢取丰厚奖品。点击下方即可参加。";
+"leaguesv2.optIn.body.desktop" = "每周与{0}名玩家同场竞技，赢取丰厚奖品。点击下方即可参加。";
+"leaguesv2.optIn.button" = "现在就加入";
+
+"leaguesv2.instantpromotion.banner.title" = "你晋级到了{0}！";
+"leaguesv2.instantpromotion.banner.subtitle" = "继续取得胜利，在全新联赛排行榜上爬升。";
+
+"leaguesv2.leagueHistory.title" = "联赛历史";
+"leaguesv2.highestLeague.body" = "已达到的最高联赛等级";
+"leaguesv2.instantpromotion.banner.toptier.subtitle" = "继续获胜，保持自己的排名。";
+
+"leagueCenter.tabs.main" = "联赛";
+"leagueCenter.tabs.leaderboard" = "排行榜";
+"leagueCenter.tabs.career" = "职业";
+"leagueCenter.tabs.rewards" = "奖励";
+"leagueCenter.tabs.playoffs" = "淘汰赛！";
+"leagueCenter.tabs.main.currentLeague" = "当前联赛";
+"leagueCenter.tabs.main.currentWeeklyWinnings" = "本周赢取的筹码";
+"leagueCenter.tabs.main.leagueAdvancement" = "联赛晋级";
+"leagueCenter.tabs.main.instantpromotion.header" = "本周赢取{0}即可立即晋级至{1}！";
+"leagueCenter.tabs.main.instantpromotion.progress" = "还剩{0}";
+"leagueCenter.tabs.main.timeRemaining" = "本周联赛将于{0}天{1}小时候结束"; // 'd' is days, 'h' is hours
+
+"leaguesv2.leaguecenter.rewards.redeem.success.button" = "领取其他";
+"leaguesv2.leaguecenter.rewards.redeem.failure.button" = "返回";
+"leaguesv2.leaguecenter.rewards.redeem.title" = "奖励";
+"leaguesv2.leaguecenter.rewards.redeem.content" = "兑换票券换取超赞奖品！";
+"leaguesv2.leaguecenter.rewards.redeem.success.label" = "你的奖励";
+"leaguesv2.leaguecenter.rewards.redeem.success.title" = "恭喜！";
+"leaguesv2.leaguecenter.rewards.redeem.failure.label" = "糟糕，出错了！\n请重试。";
+"leaguesv2.leaguecenter.rewards.redeem.chips.label" = "筹码奖励：";
+"leaguesv2.leaguecenter.rewards.redeem.xp.label" = "经验值：";
+"leaguesv2.leaguecenter.rewards.redeem.gold.label" = "金币奖励：";
+
+"leaguesv2.tierGroup.beginner" = "新手";
+"leaguesv2.tierGroup.intermediate" = "中级";
+"leaguesv2.tierGroup.pro" = "职业级";
+"leaguesv2.tierGroup.master" = "大师";
+
+"leaguesv2.performance.title" = "职业";
+"leaguesv2.performance.currentWeek" = "现在";
+"leaguesv2.performance.lastWeek" = "上周";
+"leaguesv2.performance.weeksAgo" = "{0}周前";
+"leaguesv2.performance.currentRank" = "当前排名";
+"leaguesv2.performance.chipsWon" = "赢得的筹码";
+"leaguesv2.performance.past" = "过去的成绩";
+"leaguesv2.performance.unranked" = "无排名";
+
+"leaguesv2.ftue.title" = "全新改善的联赛";
+"leaguesv2.ftue.compete.title" = "一争高下";
+"leaguesv2.ftue.compete.label" = "每周在排行榜上一争高下。";
+"leaguesv2.ftue.advance.title" = "晋级";
+"leaguesv2.ftue.advance.label" = "晋级至最高联赛。";
+"leaguesv2.ftue.win.title" = "赢钱";
+"leaguesv2.ftue.win.label" = "赢取奖券并兑换超赞奖品。";
+"leaguesv2.ftue.button.label" = "了解更多";
+"leaguesv2.ftue.leaguecenter.welcome.title" = "欢迎来到联赛";
+"leaguesv2.ftue.leaguecenter.welcome.label" = "恭喜，你现在可以加入联赛一展身手了。参加任意游戏模式赢取筹码，提高排行榜名次。";
+"leaguesv2.ftue.leaguecenter.mechanics.title" = "一争高下，晋升至最高联赛";
+"leaguesv2.ftue.leaguecenter.mechanics.label" = "跻身排行榜首位即可晋级更高联赛。请避免掉到排行榜末尾，否则将有降级的风险。联赛等级越高，玩家在每周结束时获得的奖励越丰厚。你能一路杀入最高联赛吗？";
+"leaguesv2.ftue.leaguecenter.instantpromotion.title" = "筹码赢取越多，晋级越快";
+"leaguesv2.ftue.leaguecenter.instantpromotion.label" = "查看排行榜最上面一行，了解晋级目标。如果你已经赢取所需数量的筹码，则将无需等待本周结束即可立即晋级。在任意游戏模式玩一局即可加入联赛！";
+"leaguesv2.ftue.leaguecenter.nextButton.next" = "下一个";
+"leaugesv2.ftue.leaguecenter.nextButton.close" = "关闭";
+
+"leaguesv2.lobby.main" = "联赛";
+"leaguesv2.lobby.sync" = "正在同步数据……";
+"leaguesv2.lobby.ftue" = "了解更多";
+"leaguesv2.lobby.locked" = "在第{0}级解锁";
+"leaguesv2.lobby.results" = "查看结果";
+"leaguesv2.lobby.rejoin" = "重新加入联赛";
+"leaguesv2.lobby.rank" = "排名：{0}";
+"leaguesv2.lobby.play" = "玩一局游戏即可加入";
+
+"leaguesv2.marketing.popup.title" = "全新联赛";
+"leaguesv2.marketing.popup.tag.line" = "全世界最大的扑克联赛加入了新功能！";
+"leaguesv2.marketing.popup.body.1" = "攀升至排行榜首位，一次共有99名玩家。";
+"leaguesv2.marketing.popup.body.2" = "通过全新的奖杯陈列室追踪你的职业生涯。";
+"leaguesv2.marketing.popup.body.3" = "赢取更多筹码，提高晋级速度！";
+"leaguesv2.marketing.popup.body.4" = "即将推出";
+"leaguesv2.marketing.popup.title.revised" = "全新联赛即将到来！";
+"leaguesv2.marketing.popup.button" = "前往大厅";
+
+"timeoutWarning.multipleTurnsLeft" = "错过[ff733c]{0}/{1}[-]次叫注！\n错过叫注{1}次以上后，你将被踢出游戏。";/* Keep everything in the []. It changes the color of the text. */
+"timeoutWarning.oneTurnLeft" = "错过[ff733c]{0}/{1}[-]次叫注！\n下次叫注时游戏，以留在锦标赛中。";/* Keep everything in the []. It changes the color of the text. */
+"timeoutWarning.removed" = "根据锦标赛规则，你已因为不活跃而被踢出游戏。";
+"timeoutWarning.handsMissed" = "错过{0}/{1}手牌。";
+"timeoutWarning.stayActive" = "保持活跃以留在锦标赛中。";
+
+// Connection
+"lostconnectionscreen.title" = "连接丢失";
+"lostconnectionscreen.body" = "噢，天啊！你的设备似乎失去了连接。不要慌，如果你错过了叫注，你的赌注会放在边池保护起来，从而仍有机会获胜！";
+"lostconnectionscreen.button" = "重试";
+
+"lostconnectionscreen.title2" = "无互联网连接";
+"lostconnectionscreen.body2" = "请确保设备在线，然后重试。";
+
+//Friends presence List
+"friendlist.cell.joinbutton" = "加入";
+"friendlist.cell.joinbutton1" = "加入牌桌";
+"friendlist.cell.tableStakes" = "{0}";
+"friendlist.cell.offline" = "离线";
+"friendlist.cell.lobby" = "大厅";
+"friendlist.cell.tournament" = "锦标赛";
+"friendlist.cell.jump" = "跳转";
+"friendlist.cell.sameRoom" = "同一张牌桌";
+"friendlist.cell.invite" = "邀请";
+"friendlist.cell.invited" = "已邀请";
+"friendlist.cell.muted" = "要取消静音并开始与{0}聊天吗？";
+"friendlist.cell.unmute" = "取消静音";
+"tournament.buddylist.sitngo" = "单桌扑克";
+"tournament.buddylist.spin" = "拉霸赢奖赛";
+"tournament.buddylist.spin.alt" = "拉霸赢奖赛";
+
+"friendlist.popup.title" = "牌友";
+"friendlist.popup.nofriends" = "好友不可用，请稍后查看";
+
+//Table gifting
+"tablegifts.title" = "牌桌礼物";
+"tablegifts.popular" = "热门";
+"tablegifts.all" = "全部";
+"tablegifts.button.sendGift" = "发送礼物";
+"tablegifts.button.sendToAll" = "给所有人发送";
+"tablegifts.button.buyMoreChips" = "购买更多筹码";
+"tablegifts.button.buyGift" = "购买礼物";
+
+//Table Gifting v2
+"tablegifts.titleV2" = "牌桌物品";
+
+// Trophies
+"tablegifts.trophyTab" = "奖品";
+"tablegifts.popup.noTrophies" = "赢取奖品即可装备它们！";
+"tablegifts.popup.errorGettingTrophies" = "暂时无法获取你的奖品。";
+"dealerchatV2.showedtrophy" = "{0}装备了{1}";/*{0}=player name, {1} = trophy name */
+"tablegifts.popup.selectTrophy" = "选择奖品";
+
+// Error screen
+"errorscreen.title" = "噢，天啊！";
+"errorscreen.body" = "我们遇到了一个错误。\n非常抱歉，请重试。";
+"errorscreen.lobby.body" = "我们在加载大厅时遇到了一个错误。";
+"errorscreen.lobby.button" = "刷新";
+
+// Jump poker ftue
+"jumppokerftue.title" = "跳转扑克来啦";
+"jumppokerftue.body" = "有了跳转扑克，你再也不用在开始新一局游戏前苦苦等待了！每局游戏结束后将自动跳转到新的牌桌，或按下弃牌立即显示跳转选项。";
+"jumppokerftue.cancel" = "不，谢谢";
+"jumppokerftue.confirm" = "试试跳转扑克";
+
+// Watch to earn
+"watchToEarn.initial.title" = "赢取免费筹码！";
+"watchToEarn.initial.body" = "观看一个小视频，赢取{0}个筹码。";
+"watchToEarn.button" = "立刻观看";
+"watchToEarn.error.title" = "无视频";
+"watchToEarn.error.body" = "稍后回来，获得更多筹码！";
+"watchToEarn.confirmation.title" = "你赢取了{0}个筹码！";
+"watchToEarn.confirmation.body" = "你的筹码将很快送达！想要更多筹码吗？观看其他视频！";
+"watchToEarn.confirmation.bodyWhenExhausted" = "你的筹码将很快送达！明天再回来，获得更多筹码！";
+"watchToEarn.confirmation.bodyWhenNoContentAvailable" = "你的筹码将很快送达！稍后回来，获得更多筹码！";
+"watchToEarn.requestingVideo.body" = "视频正在加载中。请稍候......";
+"watchToEarn.waitingForGrantResponse.body" = "你赢取了筹码！";
+"watchToEarn.defaultNoVideoAvailable.body" = "无视频稍后回来领取免费筹码。";
+"watchToEarn.defaultReadyToPlayVideo.body" = "观看一段短视频，赢取筹码！";
+"watchToEarn.videoError.title" = "视频加载失败";
+"watchToEarn.purchaseHub.watchaVideo" = "观看视频";
+"watchToEarn.purchaseHub.watch" = "观战";
+
+// Social Hub Filters
+"socialHub.filters.played" = "已玩";
+"socialHub.filters.liked" = "已点\"赞\"";
+"socialHub.filters.all" = "全部";
+"socialHub.filters.playing" = "正在游戏";
+"socialHub.filters.lobby" = "大厅";
+"socialHub.filters.offline" = "离线";
+"socialHub.filters.online" = "在线";
+"socialHub.filters.active" = "活跃中";
+
+"socialHub.tabs.buddies" = "牌友";
+"socialHub.tabs.requests" = "请求";
+"socialHub.tabs.recent" = "近期";
+"socialHub.tabs.discover" = "查找";
+
+"socialHub.search.buddy" = "搜索";
+
+// Buddy List
+"buddyList.playing" = "正在游戏的好友({0})";
+"buddyList.all" = "全部好友({0})";
+"buddyList.lobby" = "好友大厅({0})";
+"buddyList.offline" = "离线好友({0})";
+"buddyList.countWithExtra" = "{0}+";
+"buddyList.online" = "在线好友({0})";
+"buddyList.active" = "活跃好友({0})";
+
+"buddyList.noFriends" = "玩两局游戏，认识些扑克好友。";
+"buddyList.noFriendsAtLobby" = "大厅中没有你的好友。";
+"buddyList.noFriendsPlaying" = "你当前没有正在游戏的好友。";
+"buddyList.noFriendsOffline" = "你没有处于离线状态的好友。";
+"buddyList.noFriendsOnline" = "你没有在线好友。";
+"buddyList.noFriendsActive" = "你没有活跃好友。";
+
+"buddyList.chatUnavailable.info" = "你的牌友不在，无法聊天。聊天功能即将登陆其他版本。";
+
+// Private Chat
+"privateChat.failedToSend" = "消息发送失败。";
+
+// Social Hub FTUE Text
+"socialHub.ftue.lobby" = "社交中心";
+"socialHub.ftue.lobbyNew" = "新";
+"socialHub.ftue.popup.title" = "新功能：社交中心";
+"socialHub.ftue.popup.body" = "与你的牌友一起游戏聊天，并寻找新牌友。";
+"socialHub.ftue.popup.button" = "棒极了";
+"socialHub.tabs.requests.ftue" = "接受牌友申请";
+"socialHub.tabs.recent.ftue" = "查找给你点赞的玩家";
+"socialHub.tabs.recent.ftue.v2" = "查找你遇到的玩家";
+"socialHub.profile.likes.ftue.self" = "查看有多少人赞了你";
+"socialHub.profile.stats.ftue.self" = "查看你的扑克统计数据";
+"socialHub.profile.likes.ftue.self.v2" = "让其他玩家给你点赞";
+"socialHub.profile.stats.ftue.self.v2" = "查看你的新统计数据";
+"socialHub.profile.likes.ftue.other" = "给牌友点赞";
+"socialHub.profile.stats.ftue.other" = "比较牌友的扑克统计数据。";
+"socialHub.profile.likes.ftue.other.v2" = "赞该个人资料";
+"socialHub.profile.stats.ftue.other.v2" = "一对一比较统计数据";
+
+// Social Hub Recent Tab
+"recentList.filter.liked" = "点赞玩家";
+"recentList.filter.played" = "一起游戏过";
+"recentList.heading.liked" = "最近被({0})赞过";
+"recentList.heading.played" = "最近与({0})一起游戏过";
+"recentList.none.liked" = "玩游戏收赞。";
+"recentList.none.played" = "前往牌桌，玩几局游戏吧。";
+
+//Social Hub Requests Tab
+"requestsList.cell.accept" = "接受";
+"requestsList.cell.requestedDate" = "{0}前申请";
+"requestsList.cell.requestedDateMin" = "{0}分钟前";/* m is short for minutes */
+"requestsList.cell.requestedDateHour" = "{0}小时前";/* h is short for hours */
+"requestsList.cell.requestedDateDay" = "{0}天前";/* d is short for days */
+"requestsList.cell.requestedDateOverOneMonth" = "超过一个月前";
+"requestsList.cell.accepted" = "已接受";/* You just accepted a buddy request */
+"requestsList.cell.rejected" = "已拒绝";/* You just rejected a buddy request */
+
+"requestsList.buddyRequests.all" = "好友申请({0})";
+"requestsList.noBuddyRequests" = "你当前没有任何申请。";
+"requestsList.filters.buddyRequests" = "好友申请";
+
+// customized sale popup
+"customizedSale.popup.noThanksOtherOffers" = "谢谢，不用了。请显示其他优惠";
+"customizedSale.popup.oldPriceDescription" = "原价{0}";
+"customizedSale.popup.oldQuantityDescription" = "原价{0}枚筹码";
+"customizedSale.popup.oldGoldQuantityDescription" = "价值{0}金币";
+
+// Facebook Permissions popup
+"popup.fbperm.onetime.footer" = "Zynga尊重您的隐私，未经您允许，不会向Facebook发布任何内容";
+
+// SitNGo Revamp
+"sitngorevamp.title" = "规模更大、节奏更快的锦标赛";
+"sitngorevamp.body" = "买入更高，五千万和一亿美元\n\n盲注提高速度更快\n\n移除了买入费用";
+"sitngorevamp.button" = "现在开始";
+
+// HSM 2.0 pill
+"hsmtwo.pill.off" = "关闭";
+"hsmtwo.pill.on" = "开启";
+
+// HSM 2.0 FTUE
+"hsmtwo.tooltip.title" = "使用全新、经过改善的牌力指示器，让下注更智能！";
+"hsmtwo.tooltip.body1" = "只有在赢得底池时，你才需要为此功能付费。";
+"hsmtwo.tooltip.body2" = "(从所赢筹码{0}%或三倍大盲注中取较小值。)";
+"hsmtwo.tooltip.fineprint" = "轻按扑克牌下方的%以关闭。你可以前往大厅，在设置的“帮助”部分找到更多信息。";
+"hsmtwo.tooltip.fineprint.desktop" = "点击扑克牌下方的%以关闭。你可以前往大厅，在设置的“帮助”部分找到更多信息。";
+"hsmtwo.tooltip.button" = "确定";
+
+// HSM 2.0 Settings
+"hsmtwo.help.title" = "使用牌力指示器，让下注更智能！";
+"hsmtwo.help.message" = "牌力指示器会告诉你手上的牌有多强。显示的百分比表示，在考虑了所有可能的公共牌和对手的牌之后，你当前手牌的获胜几率，误差在2%以内。当庄家发其他公共牌或玩家盖牌时，此百分比会变化。牌力指示器也会使用颜色来表示手牌在给定时间的强弱程度。绿色代表好牌，黄色代表一般，红色代表较差。\n\n要打开或关闭牌力指示器，轻按牌桌上牌下方的%。\n要永久隐藏牌力指示器，请前往大厅，打开设置，然后轻按“显示牌力指示器”切换按钮，将X显示出来。\n\n牌力指示器只能在德州扑克牌桌使用，无法在锦标赛中使用。\n\n牌力指示器的使用费用为“所赢筹码的{0}%”或“三倍大盲注”中金额较低的一个。不过不用担心！你只需为赢得的牌局付费。";
+"hsmtwo.help.message.desktop" = "牌力指示器会告诉你手上的牌有多强。显示的百分比表示，在考虑了所有可能的公共牌和对手的牌之后，你当前手牌的获胜几率，误差在2%以内。当庄家发其他公共牌或玩家盖牌时，此百分比会变化。牌力指示器也会使用颜色来表示手牌在给定时间的强弱程度。绿色代表好牌，黄色代表一般，红色代表较差。\n\n要打开或关闭牌力指示器，点击牌桌上牌下方的%。\n要永久隐藏牌力指示器，请前往大厅，打开设置，然后点击“显示牌力指示器”切换按钮，将X显示出来。\n\n牌力指示器只能在德州扑克牌桌使用，无法在锦标赛中使用。\n\n牌力指示器的使用费用为“所赢筹码的{0}%”或“三倍大盲注”中金额较低的一个。不过不用担心！你只需为赢得的牌局付费。";
+
+// Time strings
+"global.time.month.1.name" = "一月";
+"global.time.month.2.name" = "二月";
+"global.time.month.3.name" = "三月";
+"global.time.month.4.name" = "四月";
+"global.time.month.5.name" = "五月";
+"global.time.month.6.name" = "六月";
+"global.time.month.7.name" = "七月";
+"global.time.month.8.name" = "八月";
+"global.time.month.9.name" = "九月";
+"global.time.month.10.name" = "十月";
+"global.time.month.11.name" = "十一月";
+"global.time.month.12.name" = "十二月";
+
+"global.time.month.1.shortName" = "一月";
+"global.time.month.2.shortName" = "二月";
+"global.time.month.3.shortName" = "三月";
+"global.time.month.4.shortName" = "四月";
+"global.time.month.5.shortName" = "五月";
+"global.time.month.6.shortName" = "六月";
+"global.time.month.7.shortName" = "七月";
+"global.time.month.8.shortName" = "八月";
+"global.time.month.9.shortName" = "九月";
+"global.time.month.10.shortName" = "十月";
+"global.time.month.11.shortName" = "十一月";
+"global.time.month.12.shortName" = "十二月";
+
+"global.time.dayOfWeek.Monday.name" = "星期一";
+"global.time.dayOfWeek.Tuesday.name" = "星期二";
+"global.time.dayOfWeek.Wednesday.name" = "星期三";
+"global.time.dayOfWeek.Thursday.name" = "星期四";
+"global.time.dayOfWeek.Friday.name" = "星期五";
+"global.time.dayOfWeek.Saturday.name" = "星期六";
+"global.time.dayOfWeek.Sunday.name" = "星期天";
+
+"global.time.dayOfWeek.Monday.shortName" = "周一";
+"global.time.dayOfWeek.Tuesday.shortName" = "周二";
+"global.time.dayOfWeek.Wednesday.shortName" = "周三";
+"global.time.dayOfWeek.Thursday.shortName" = "周四";
+"global.time.dayOfWeek.Friday.shortName" = "周五";
+"global.time.dayOfWeek.Saturday.shortName" = "周六";
+"global.time.dayOfWeek.Sunday.shortName" = "周天";
+
+
+// Private chat timestamp
+"privatechat.chatBubble.time.am" = "上午";
+"privateChat.chatBubble.time.pm" = "下午";
+
+// {0} is the year if needed.
+// {1} is the month number (1 - 12)
+// {2} is the month name.
+// {3} is the month short name.
+// {4} is the day in the month.
+// {5} is the day of the week's name.
+// {6} is the day of the week's short name.
+"privateChat.chatBubble.time.dateFormat" = "{1}月{4}日";
+"privateChat.dateSeparator.dateFormat" = "{6}，{1}月{4}日";
+
+// {0} is the hour given as a 12-hour clock (1-12)
+// {1} is the hour given as a 24-hour clock (0-23) if needed.
+// {2} is the minutes, {3} is am or pm
+"privateChat.chatBubble.time.timeFormat" = "{0}:{2:d2}{3}";
+
+// 24-hour clock example
+// "privateChat.chatBubble.time.24timeFormat" = "{1}:{2:d2}"
+
+// {0} is the date formatted as above
+// {1} is the time formatted as above
+"privateChat.chatBubble.time.defaultFormat" = "{0} - {1}";
+"privateChat.chatBubble.time.yesterdayFormat" = "昨天 - {1}";
+"privateChat.chatBubble.time.todayFormat" = "{1}";
+"privateChat.dateSeparator.defaultFormat" = "{0}";
+"privateChat.dateSeparator.todayFormat" = "今天";
+"privateChat.dateSeparator.yesterdayFormat" = "昨天";
+
+// Fraud warning
+"fraud.warning.title" = "警告";
+"fraud.warning.body" = "你最近似乎从非法第三方处购买了筹码。\n\n从这些网站进行购买可能会很危险！你可能会遇到身份盗用、帐户丢失、付款欺诈、恶意软件、病毒和帐户惩罚等风险。\n\n该行为同时也违反了Zynga Poker的《服务条款》。\n\n继续违反服务条款可能会导致你的帐户被永久封停。";
+"fraud.warning.contact" = "如果你认为自己错误地收到了该消息，请联系我们。";
+"fraud.warning.bodyStrike1" = "你最近似乎从非法第三方处购买了筹码。在这些网站购买筹码是非常危险的！你可能会遇到身份盗用、帐户丢失、付款欺诈、恶意软件、病毒和帐户惩罚等风险。\n\n该行为同时也违反了Zynga Poker的《服务条款》。如继续此违规行为则可能会导致你的帐户被永久封禁。\n\n如果你认为自己错误地收到了该消息，请联系我们。";
+"fraud.warning.contactButton" = "[u]联系我们[/u]";
+"fraud.warning.tosButton" = "[u]服务条款[/u]";
+
+// Chip Grant
+"chipGrant.success.title" = "成功了！";
+"chipGrant.success.body" = "你的免费筹码已经成功到账！快点回来游戏吧！";
+"chipGrant.success.grantMessage" = "你收到了";
+"chipGrant.success.bonusMessage" = "想要更多筹码吗？快来购买页面看看各种优惠吧！";
+"chipGrant.failure.title" = "筹码授予未成功";
+"chipGrant.failure.body" = "很遗憾，免费筹码授予未能成功。请回来查看你的幸运奖励，赢得更多筹码！";
+"bundleGrant.success.bonusMessage" = "奖励：所有牌桌{0}金币和{1}%经验值！";
+
+// Auto Rebuy Tooltip
+"autoRebuy.title" = "自动重新购买";
+"autoRebuy.body" = "当牌桌上筹码量降为零时立刻重新买入";
+"autoRebuy.newBody" = "当牌桌上筹码量降为零时立刻重新买入。";
+
+// Auto Top Off Tooltip
+"autoTopOff.title" = "自动加满";
+"autoTopOff.body" = "当筹码低于最高值时买入回到最高值";
+"autoTopOff.newBody" = "当筹码低于最高值时买入回到最高值。";
+
+// Re-buy Top Off ftue popup
+"rebuyTopOff.ftue.title" = "欢乐不间断";
+"rebuyTopOff.ftue.body" = "厌倦总是筹码不足或输掉筹码后要等待很长时间才能回到游戏了吗？那就在德州扑克桌上试试全新的自动重新购买和自动加满功能吧！";
+"rebuyTopOff.ftue.body2" = "厌倦了输掉筹码后总是要等待很长时间才能回到游戏？那就在德州扑克桌上试试全新的自动重新购买功能吧！";
+"rebuyTopOff.ftue.button" = "立刻加满";
+
+// Help Screen on Hold'Em Table Selector
+"holdemHelp.stakes.title" = "赌注";
+"holdemHelp.stakes.body" = "每局开始时所下的大盲注和小盲注的金额。\n 加入牌桌后的第一局你都将自动下一个大\n盲注。赌注级别越高，可以获得的经验值\n就越多。";
+"holdemHelp.buyIn.title" = "买入";
+"holdemHelp.buyIn.body" = "在一个牌桌上进行游戏所必须拥有的\n最低和最高筹码金额。";
+"holdemHelp.autoRebuy.title" = "自动重新购买";
+"holdemHelp.autoRebuy.body" = "开启自动重新购买功能，可以让你在筹码不足\n而不得不退出牌桌时立即买入回到当前游戏中。如果禁用自动重新购买，那么当你退出牌桌后\n必须手动选择一个座位。";
+"holdemHelp.autoTopOff.title" = "自动加满";
+"holdemHelp.autoTopOff.body" = "开启自动加满功能，可以让你在每局开始时立即将筹码补充到买入最大金额。自动加满功能十分有用，可以让玩家在输掉一局后避免出现筹码过少的情况。要开启自动加满功能，必须首先开启最高买入功能。";
+"holdemHelp.timeToAct.title" = "行动时间";
+"holdemHelp.timeToAct.body" = "这决定了轮到你行动时你所拥有的反应时间。在快速模式中，你在行动前有八秒思考时间，\n是想要快速进行游戏玩家的理想模式。在正常模式下，你有18秒可以思考，是想要进\n行慢节奏游戏玩家的首选。如果在计时器归零\n时你仍未选择一个行动，那么你将自动盖牌。";
+"holdemHelp.playerCount.title" = "玩家数量";
+"holdemHelp.playerCount.body" = "允许参加牌桌玩家的最大数量。可以在五人桌和九人桌之间进行选择。五人桌适合喜欢快速进行游戏的活跃玩家。九人桌适合喜欢盖牌后局间休息时间较长的玩家，他们可以利用这段时间聊天或赠送牌桌礼物。";
+
+// Re-Engagement
+"genericpopup.chipgrant.failure" = "向你发放筹码失败。我们会稍后重试！";
+"genericpopup.button.ok" = "好的";
+
+// Competition Events
+// These two keys are not necessarily actually rate limiting keys. Do not use them.
+"competition.ratelimited.header.text" = "数据不可用！";
+"competition.ratelimited.body.text" = "抱歉，但该数据暂不可用！";
+
+// Use these two for generic error message handling.
+"competition.events.error.header.text" = "数据不可用！";
+"competition.events.error.body.text" = "抱歉，但该数据暂不可用！";
+
+// Use to display the number of players.
+"competition.numPlayers" = "{0}个玩家";
+
+// Used to replace round title for SnG
+"competition.table.prizes.text" = "奖品";
+
+// competitionevents UM
+"competition.announce.event.Title" = "快钱";
+"competition.announce.event.StaticButtonLabel" = "现在开始";
+"competition.announce.event.StaticFirstPrize" = "第1名奖金";
+"competition.announce.event.StaticFirstPrizeAmount" = "$7,000,000,000";
+"competition.announce.event.StaticBody" = "第2名 – 50亿美元筹码\n\n[FF8B00FF]第3名 – 30亿美元筹码[-]\n\n[f2b859]买入为1千万美元筹码！[-]";
+"competition.announce.event.StaticBodyDate" = "活动于10月6日结束。活动结束后即会发放奖励。";
+
+// competitionevents LobbyCard
+"competition.card.button.text" = "加入";
+
+// Used for multi-round tournaments such as Shootout
+"competition.table.skipRound.description" = "跳过本轮";
+"competition.table.roundComplete" = "完成";
+
+// SNGEventPopUp UMT Popup
+"ce.umt.SNGEventPopUp.Title" = "单桌扑克对决";
+"ce.umt.SNGEventPopUp.StaticButtonLabel" = "确定";
+"ce.umt.SNGEventPopUp.StaticFirstPrize" = "第1名奖金";
+"ce.umt.SNGEventPopUp.StaticFirstPrizeAmount" = "$4,000,000,000";
+"ce.umt.SNGEventPopUp.StaticBody" = "[f2b859]$80万买入[-]即可参与\n冲顶排行榜即可赢取：\n[f2b859]第1名：$40亿[-] |第2名：$20亿| [FF8B00FF]第3名：$10亿[-]";
+"ce.umt.SNGEventPopUp.StaticBodyDate" = "活动将于1月18日中午（太平洋标准时间）结束。活动结束后即会发放奖励。";
+
+// SNGEvent03PopUp UMT Popup
+"ce.umt.SNGEvent04PopUp.StaticBodyDate" = "活动将于2月8号中午（太平洋标准时间）结束。活动结束后即会颁发奖励。";
+
+// SNGEvent04PopUp UMT Popup
+"ce.umt.SNGEvent045PopUp.StaticBodyDate" = "活动将于3月8日午夜结束！\n活动结束后即会颁发奖励。";
+
+// SNGEvent05PopUp UMT Popup
+"ce.umt.SNGEvent05PopUp.StaticBodyDate" = "活动将于4月5日午夜结束！(太平洋标准时间)\n活动结束后即会颁发奖励。";
+
+// SNGEvent06PopUp UMT Popup
+"ce.umt.SNGEvent06PopUp.StaticBodyDate" = "活动将于5月3日中午（太平洋标准时间）结束。\n活动结束后即会颁发奖励。";
+
+// ShootoutEventPopUp UMT Popup
+"competition.umt.ShootoutEventPopUp.Title" = "一桌一人胜出赛活动";
+"competition.umt.ShootoutEventPopUp.StaticButtonLabel" = "现在开始";
+"competition.umt.ShootoutEventPopUp.StaticFirstPrize" = "第1名奖金";
+"competition.umt.ShootoutEventPopUp.StaticFirstPrizeAmount" = "$225,000,000";
+"competition.umt.ShootoutEventPopUp.StaticBody" = "进行[f2b859]一场买入金额为$250K或更高的单桌扑克赛[-]\n\n争取赢得最多局数以赢取奖金：\n\n[f2b859]第1名：$225M[-] | 第2名：$100M | [F19D38]第3名：$50M[-]";
+"competition.umt.ShootoutEventPopUp.StaticBodyDate" = "于2015年9月20日午夜结束！";
+
+// Competition Events Announcement UMT popup general
+"ce.umt.eventannouncement.GoToEventButtonLabel" = "现在开始";
+
+// SNGOutroPopupWonBracelet UMT Popup
+"competition.umt.SNGOutroPopupWonBracelet.Title" = "感谢参与";
+"competition.umt.SNGOutroPopupWonBracelet.StaticBody" = "你赢得了一根手链。你现在已拥有{0}根手链";
+"competition.umt.SNGOutroPopupWonBracelet.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利";
+"competition.umt.SNGOutroPopupWonBracelet.StaticButtonLabel" = "再玩一次";
+
+// SNGOutroPopupFourToNinePlace UMT Popup
+"competition.umt.SNGOutroPopupFourToNinePlace.Title" = "感谢参与";
+"competition.umt.SNGOutroPopupFourToNinePlace.StaticBody" = "你得了第{0}名";
+"competition.umt.SNGOutroPopupFourToNinePlace.WinsToNextTag" = "距获得下一根手链还需获胜的次数：";
+"competition.umt.SNGOutroPopupFourToNinePlace.ToNextLevelLabel" = "{0}/{1}";
+"competition.umt.SNGOutroPopupFourToNinePlace.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利。";
+"competition.umt.SNGOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// SNGOutroPopupTopThreePlace UMT Popup
+"competition.umt.SNGOutroPopupTopThreePlace.Title" = "感谢参与";
+"competition.umt.SNGOutroPopupTopThreePlace.StaticBody" = "你得了第{0}名并获得${1}筹码";
+"competition.umt.SNGOutroPopupTopThreePlace.WinsToNextTag" = "距获得下一根手链还需获胜的次数：";
+"competition.umt.SNGOutroPopupTopThreePlace.ToNextLevelLabel" = "{0}/{1}";
+"competition.umt.SNGOutroPopupTopThreePlace.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利。";
+"competition.umt.SNGOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+// ShootoutOutroPopupWonBracelet UMT Popup
+"competition.umt.ShootoutOutroPopupWonBracelet.Title" = "感谢参与";
+"competition.umt.ShootoutOutroPopupWonBracelet.StaticBody" = "你赢得了一根手链。你现在已拥有{0}根手链";
+"competition.umt.ShootoutOutroPopupWonBracelet.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利";
+"competition.umt.ShootoutOutroPopupWonBracelet.StaticButtonLabel" = "再玩一次";
+
+// ShootoutOutroPopupFourToNinePlace UMT Popup
+"competition.umt.ShootoutOutroPopupFourToNinePlace.Title" = "感谢参与";
+"competition.umt.ShootoutOutroPopupFourToNinePlace.StaticBody" = "你得了第{0}名";
+"competition.umt.ShootoutOutroPopupFourToNinePlace.WinsToNextTag" = "距获得下一根手链还需获胜的次数：";
+"competition.umt.ShootoutOutroPopupFourToNinePlace.ToNextLevelLabel" = "{0}/{1}";
+"competition.umt.ShootoutOutroPopupFourToNinePlace.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利。";
+"competition.umt.ShootoutOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// ShootoutOutroPopupTopThreePlace UMT Popup
+"competition.umt.ShootoutOutroPopupTopThreePlace.Title" = "感谢参与";
+"competition.umt.ShootoutOutroPopupTopThreePlace.StaticBody" = "你得了第{0}名并获得${1}筹码";
+"competition.umt.ShootoutOutroPopupTopThreePlace.WinsToNextTag" = "距获得下一根手链还需获胜的次数：";
+"competition.umt.ShootoutOutroPopupTopThreePlace.ToNextLevelLabel" = "{0}/{1}";
+"competition.umt.ShootoutOutroPopupTopThreePlace.StaticPositiveTag" = "收集最多手链即可赢得活动的胜利。";
+"competition.umt.ShootoutOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+// ShootoutEventResult UMT Popup
+"competition.umt.ShootoutEventResult.Title" = "一桌一人胜出赛活动结果";
+"competition.umt.ShootoutEventResult.StaticBody" = "恭喜获得前三名的选手！";
+"competition.umt.ShootoutEventResult.StaticButtonLabel" = "再玩一次";
+"competition.umt.ShootoutEventResult.FirstPlace.FriendNameLabel" = "好友名称";
+"competition.umt.ShootoutEventResult.FirstPlace.Rank" = "1";
+"competition.umt.ShootoutEventResult.FirstPlace.BraceletAmount" = "--";
+"competition.umt.ShootoutEventResult.FirstPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.ShootoutEventResult.SecondPlace.FriendNameLabel" = "好友名称";
+"competition.umt.ShootoutEventResult.SecondPlace.Rank" = "2";
+"competition.umt.ShootoutEventResult.SecondPlace.BraceletAmount" = "--";
+"competition.umt.ShootoutEventResult.SecondPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.ShootoutEventResult.ThirdPlace.FriendNameLabel" = "好友名称";
+"competition.umt.ShootoutEventResult.ThirdPlace.Rank" = "3";
+"competition.umt.ShootoutEventResult.ThirdPlace.BraceletAmount" = "--";
+"competition.umt.ShootoutEventResult.ThirdPlace.WonAmount" = "赢得：$999M筹码";
+
+// SNGEventResult UMT Popup
+"competition.umt.SNGEventResult.Title" = "单桌扑克对决结果";
+"competition.umt.SNGEventResult.StaticBody" = "恭喜获得前三名的选手！";
+"competition.umt.SNGEventResult.StaticButtonLabel" = "再玩一次";
+"competition.umt.SNGEventResult.FirstPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGEventResult.FirstPlace.Rank" = "1";
+"competition.umt.SNGEventResult.FirstPlace.BraceletAmount" = "--";
+"competition.umt.SNGEventResult.FirstPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.SNGEventResult.SecondPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGEventResult.SecondPlace.Rank" = "2";
+"competition.umt.SNGEventResult.SecondPlace.BraceletAmount" = "--";
+"competition.umt.SNGEventResult.SecondPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.SNGEventResult.ThirdPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGEventResult.ThirdPlace.Rank" = "3";
+"competition.umt.SNGEventResult.ThirdPlace.BraceletAmount" = "--";
+"competition.umt.SNGEventResult.ThirdPlace.WonAmount" = "赢得：$999M筹码";
+
+// SNGAmazonEventResult UMT Popup
+"competition.umt.SNGAmazonEventResult.Title" = "赌金全赢赢家";
+"competition.umt.SNGAmazonEventResult.StaticBody" = "恭喜赌金全赢赢家！";
+"competition.umt.SNGAmazonEventResult.StaticButtonLabel" = "前往大厅";
+"competition.umt.SNGAmazonEventResult.FirstPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGAmazonEventResult.FirstPlace.Rank" = "1";
+"competition.umt.SNGAmazonEventResult.FirstPlace.BraceletAmount" = "--";
+"competition.umt.SNGAmazonEventResult.FirstPlace.WonAmount" = "在电视直播玩扑克";
+"competition.umt.SNGAmazonEventResult.SecondPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGAmazonEventResult.SecondPlace.Rank" = "2";
+"competition.umt.SNGAmazonEventResult.SecondPlace.BraceletAmount" = "--";
+"competition.umt.SNGAmazonEventResult.SecondPlace.WonAmount" = "拉斯维加斯之旅和一桌一人胜出赛入场券";
+"competition.umt.SNGAmazonEventResult.ThirdPlace.FriendNameLabel" = "好友名称";
+"competition.umt.SNGAmazonEventResult.ThirdPlace.Rank" = "3";
+"competition.umt.SNGAmazonEventResult.ThirdPlace.BraceletAmount" = "--";
+"competition.umt.SNGAmazonEventResult.ThirdPlace.WonAmount" = "价值$200的Visa礼物卡";
+
+// NormalSNGOutroPopupFourToNinePlace UMT Popup
+"competition.umt.NormalSNGOutroPopupFourToNinePlace.Title" = "感谢参与";
+"competition.umt.NormalSNGOutroPopupFourToNinePlace.StaticBody" = "你得了{0}并获得${1}筹码\n\n最新帐户余额：${1}筹码";
+"competition.umt.NormalSNGOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// NormalSNGOutroPopupTopThreePlace UMT Popup
+"competition.umt.NormalSNGOutroPopupTopThreePlace.Title" = "感谢参与";
+"competition.umt.NormalSNGOutroPopupTopThreePlace.StaticBody" = "你得了{0}";
+"competition.umt.NormalSNGOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+// NormalShootOutroPopupFourToNinePlace UMT Popup
+"competition.umt.NormalShootOutroPopupFourToNinePlace.Title" = "感谢参与";
+"competition.umt.NormalShootOutroPopupFourToNinePlace.StaticBody" = "你得了{0}并获得${1}筹码\n\n最新帐户余额：${1}筹码";
+"competition.umt.NormalShootOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// NormalShootOutroPopupTopThreePlace UMT Popup
+"competition.umt.NormalShootOutroPopupTopThreePlace.Title" = "感谢参与";
+"competition.umt.NormalShootOutroPopupTopThreePlace.StaticBody" = "你得了{0}";
+"competition.umt.NormalShootOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+// FastCashEventResult UMT Popup
+"competition.umt.FastCashEventResult.Title" = "快钱活动结果";
+"competition.umt.FastCashEventResult.StaticBody" = "恭喜获得前三名的选手！";
+"competition.umt.FastCashEventResult.StaticButtonLabel" = "再玩一次";
+"competition.umt.FastCashEventResult.FirstPlace.FriendNameLabel" = "好友名称";
+"competition.umt.FastCashEventResult.FirstPlace.Rank" = "1";
+"competition.umt.FastCashEventResult.FirstPlace.BraceletAmount" = "--";
+"competition.umt.FastCashEventResult.FirstPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.FastCashEventResult.SecondPlace.FriendNameLabel" = "好友名称";
+"competition.umt.FastCashEventResult.SecondPlace.Rank" = "2";
+"competition.umt.FastCashEventResult.SecondPlace.BraceletAmount" = "--";
+"competition.umt.FastCashEventResult.SecondPlace.WonAmount" = "赢得：$999M筹码";
+"competition.umt.FastCashEventResult.ThirdPlace.FriendNameLabel" = "好友名称";
+"competition.umt.FastCashEventResult.ThirdPlace.Rank" = "3";
+"competition.umt.FastCashEventResult.ThirdPlace.BraceletAmount" = "--";
+"competition.umt.FastCashEventResult.ThirdPlace.WonAmount" = "赢得：$999M筹码";
+
+// FastCashOutroPopupFourToNinePlace UMT Popup
+"competition.umt.FastCashOutroPopupFourToNinePlace.Title" = "感谢参与";
+"competition.umt.FastCashOutroPopupFourToNinePlace.StaticBody" = "你得了第{0}名并获得${1}筹码\n\n最新帐户余额：${1}筹码";
+"competition.umt.FastCashOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// NormalShootOutroPopupTopThreePlace UMT Popup
+"competition.umt.FastCashOutroPopupTopThreePlace.Title" = "感谢参与";
+"competition.umt.FastCashOutroPopupTopThreePlace.StaticBody" = "你得了第{0}名";
+"competition.umt.FastCashOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+"competition.umt.ShootoutOutroPopupWonInitialBracelet.StaticBody" = "你赢得了一根手链。你现在已拥有{0}根手链";
+
+// FastCash UMT Announcement Popup
+"ce.umt.fastcash.announce.Title" = "超级快钱";
+"ce.umt.fastcash.announce.StaticButtonLabel" = "确定";
+"ce.umt.fastcash.announce.StaticFirstPrize" = "第1名奖金";
+"ce.umt.fastcash.announce.StaticFirstPrizeAmount" = "$5,000,000,000";
+"ce.umt.fastcash.announce.StaticBody" = "参加[f2b859]8万大盲注[-]或更高的大盲注\n赢得最多筹码即可赚取：\n[f2b859]第1名：$50亿[-] |第2名：$30亿| [FF8B00FF]第3名：$10亿[-]";
+"ce.umt.fastcash.announce.StaticBodyDate" = "活动将于2月23日午夜12点结束。活动结束后即会发放奖励。";
+
+// Ultra FastCash UMT Announcement Popup
+"ce.umt.fastcash06.announce.Title" = "超快钱";
+"ce.umt.fastcash06.announce.StaticFirstPrizeAmount" = "$7,500,000,000";
+"ce.umt.fastcash06.announce.StaticBody" = "参加[f2b859]40万大盲注[-]或更高的大盲注\n赢得最多筹码即可赚取：\n[f2b859]第1名：$75亿[-] |第2名：$54亿| [FF8B00FF]第3名：$30亿[-]";
+"ce.umt.fastcash06.announce.StaticBodyDate" = "活动将于3月22日午夜结束！活动结束后即会发放奖励。";
+
+// FastCash07 UMT Announcement Popup end date
+"ce.umt.fastcash07.announce.StaticBodyDate" = "活动将于4月19日中午结束。活动结束后即会发放奖励。";
+
+// Live join party FTUE over-the-air popup
+"liveJoinParty.umt.title" = "好友牌桌已满？";
+"liveJoinParty.umt.body" = "现在你可以和好友开张新牌桌一起游戏了！只要发送或接受邀请横幅就好！";
+"liveJoinParty.umt.button" = "前往大厅";
+"liveJoinParty.umt.bannerHeader" = "Jenny加入了你的牌桌。";
+"liveJoinParty.umt.bannerBody" = "你希望邀请Jenny加入新牌桌吗？";
+
+// Private Messaging FTUE over-the-air popup
+"privateMessaging.umt.title" = "在这里查看私信";
+"privateMessaging.umt.body" = "你现在可以向牌友发送私信了。\n访问社交中心发送消息吧！";
+"privateMessaging.umt.button" = "前往大厅";
+"privateMessaging.umt.message.1" = "你准备好在1亿美元牌桌游戏了吗？";
+"privateMessaging.umt.message.2" = "哈！我去买一些筹码！我们牌桌见哦！";
+
+// Watch to earn buy page keys
+"w2e.buypage.claimChips" = "{0}\n免费筹码！";
+"w2e.buypage.buttonText" = "立刻观看";
+"w2e.buypage.claimChips.default" = "赢取免费筹码！";
+"w2e.buypage.claimChips.disabled" = "稍后回来！";
+
+// Incentivized Invite Popup
+"incentivizedInviteMfs.title" = "每位新好友可以为你带来{0}";
+"incentivizedInviteMfs.selectAll" = "全选";
+"incentivizedInviteMfs.invite" = "邀请";
+"incentivizedInviteMfs.body" = "邀请你的Facebook好友来玩《Zynga德州扑克》；每有一位新好友加入游戏，你即可获赠{0}免费筹码。每个好友仅限一份筹码奖励。";
+"incentivizedInviteMfs.search" = "搜索";
+
+"incentivizedInviteAccepted.title" = "你赢取了{0}个免费筹码";
+"incentivizedInviteAccepted.body.singular" = "你的好友已经接受了你的邀请。邀请新好友加入游戏，赢取更多筹码。";
+"incentivizedInviteAccepted.body.plural" = "你的好友们已经接受了你的邀请。邀请新好友加入游戏，赢取更多筹码。";
+"incentivizedInviteAccepted.freeChips" = "免费筹码";
+"incentivizedInviteAccepted.claim" = "领取";
+
+"incentivizedInvite.surfacing" = "邀请新好友得免费筹码！";
+
+// Web To Mobile Popup
+"webToMobilePopup.title" = "在移动设备上玩《Zynga Poker》！";
+"webToMobilePopup.body.header" = "随时随地游戏！";
+"webToMobilePopup.body.tournaments" = "锦标赛 - 排位联赛、特别活动和专属大奖！";
+"webToMobilePopup.body.social" = "社交 - 通过社交中心功能与所有的Facebook牌友保持联系！";
+"webToMobilePopup.email" = "电子邮件";
+"webToMobilePopup.emailPlaceholder" = "你的电子邮件地址";
+"WebToMobilePopup.send" = "发送";
+
+// Loyalty
+"loyalty.chipGifts.bonusText" = "从每份奖励获得{0}%额外筹码";
+"loyalty.benefitsMatrix.title" = "福利";
+"loyalty.benefitsMatrix.tier" = "级别：{0}";
+"loyalty.benefitsMatrix.multiplierPercent" = "{0}%";
+"loyalty.hub.title" = "VIP 中心";
+"loyalty.lobby.earnedPoints" = "+{0} VIP扑克点数";
+"loyalty.tierStatus.overview" = "项目概览";
+"loyalty.tierStatus.description" = "赢取VIP扑克点数提高你的地位并获取专属福利";
+"loyalty.tierStatus.currentTier" = "级别：{0}：{1}";
+"loyalty.tierStatus.nextTier" = "下一级别：{0}：{1}";
+"loyalty.tierStatus.lastTierTitle" = "敬请关注更多即将发布的独家内容！";
+"loyalty.tierStatus.lastTierText" = "我们牌桌见哦！";
+"loyalty.tierStatus.nextTierPoints" = "还需 {0} VIP扑克点数";
+"loyalty.tierStatus.accumationMethods" = "赢取VIP扑克点数的方法";
+"loyalty.tierStatus.title" = "会员状态";
+"loyalty.faq.title" = "常见问题";
+"loyalty.benefits.title" = "级别福利";
+"loyalty.benefits.cell.multiplier" = "+{0}%";
+"loyalty.benefits.vipTiers" = "VIP级别：";
+"loyalty.benefits.vipPointsRequired" = "还需VIP扑克点数：";
+"loyalty.benefits.vipPtsRequired" = "还需VIP扑克点数：";
+"loyalty.purchase.confirmationLabel" = "获得了{0}个VIP点数";
+"loyalty.chipGifts.bonusTextBackup" = "每个好友都能让你的奖励提高{0}%"; //Backup copy
+"loyalty.purchaseHub.tier" = "{0}级";
+
+// Uber
+"uber.popup.title" = "解锁优步牌桌，获得惊喜奖励！";
+"uber.popup.title2" = "Zynga德州扑克和优步联手合作啦！";
+"uber.popup.body" = "连接上账号并在下一次打车时赢取10万筹码。在优步牌桌进行首次入场游戏，即可赢取5美金优步代金券！";
+"uber.popup.body1" = "10万免费筹码！*";
+"uber.popup.body1a" = "{0}免费筹码！*";
+"uber.popup.body2" = "赢取最高达$500万的筹码和$5优步代金券。一边打车一边玩游戏！";
+"uber.popup.body2a" = "一边打车一边玩游戏，还有机会赢取$5000万筹码和$5优步代金券。";
+"uber.popup.body3" = "还没使用过优步？第一次叫车免费！(仅限美国)";
+"uber.popup.disclaimer" = "无须购买；不会增加赢的几率。 年满18岁才能参与。ITA、CHE除外。{0}-{1}. 遵从[u]正式规则[/u]；查看几率、其它入场方式和限制。如法律或条例禁止则无效。";
+"uber.popup.button" = "领取奖品";
+"uber.popup.button2" = "获取奖品！";
+"uber.popup.reward.body" = "感谢使用优步叫车。\n{0}筹码已被添加到你的账户。";
+"uber.popup.approaching.body" = "距离到达目的地仅剩一分钟！";
+"uber.popup.approaching.body2" = "距离到达目的地仅剩2分钟！";
+"uber.title" = "优步";
+
+// SNGOutroPopupWonTrophy UMT Popup
+"ce.umt.SNGOutroPopupWonTrophy.Title" = "感谢参与";
+"ce.umt.SNGOutroPopupWonTrophy.StaticBody" = "你赢得了一座奖杯。";
+"ce.umt.SNGOutroPopupWonTrophy.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利";
+"ce.umt.SNGOutroPopupWonTrophy.StaticPositiveTag.amazon" = "获得更多奖杯，提高被抽中的几率！";
+"ce.umt.SNGOutroPopupWonTrophy.StaticButtonLabel" = "再玩一次";
+
+// SNGOutroPopupFourToNinePlace UMT Popup
+"ce.umt.SNGOutroPopupFourToNinePlace.Title" = "感谢参与";
+"ce.umt.SNGOutroPopupFourToNinePlace.StaticBody" = "你得了{0}";
+"ce.umt.SNGOutroPopupFourToNinePlace.WinsToNextTag" = "距赢得下一个奖杯还有：";
+"ce.umt.SNGOutroPopupFourToNinePlace.ToNextLevelLabel" = "{0}/{1}";
+"ce.umt.SNGOutroPopupFourToNinePlace.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利。";
+"ce.umt.SNGOutroPopupFourToNinePlace.StaticPositiveTag.amazon" = "获得更多奖杯，提高被抽中的几率！";
+"ce.umt.SNGOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// SNGOutroPopupTopThreePlace UMT Popup
+"ce.umt.SNGOutroPopupTopThreePlace.Title" = "感谢参与";
+"ce.umt.SNGOutroPopupTopThreePlace.StaticBody" = "你得了第{0}名并获得${1}筹码";
+"ce.umt.SNGOutroPopupTopThreePlace.WinsToNextTag" = "距赢得下一个奖杯还有：";
+"ce.umt.SNGOutroPopupTopThreePlace.ToNextLevelLabel" = "{0}/{1}";
+"ce.umt.SNGOutroPopupTopThreePlace.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利。";
+"ce.umt.SNGOutroPopupTopThreePlace.StaticPositiveTag.amazon" = "获得更多奖杯，提高被抽中的几率！";
+"ce.umt.SNGOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+"ce.umt.SNGOutroPopupWonInitialBracelet.StaticBody" = "你赢得了一个奖杯。你现在有{0}个奖杯。";
+
+// ShootoutOutroPopupWonTrophy UMT Popup
+"ce.umt.ShootoutOutroPopupWonTrophy.Title" = "感谢参与";
+"ce.umt.ShootoutOutroPopupWonTrophy.StaticBody" = "你赢得了一个奖杯。你现在有{0}个奖杯。";
+"ce.umt.ShootoutOutroPopupWonTrophy.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利";
+"ce.umt.ShootoutOutroPopupWonTrophy.StaticButtonLabel" = "再玩一次";
+
+// ShootoutOutroPopupFourToNinePlace UMT Popup
+"ce.umt.ShootoutOutroPopupFourToNinePlace.Title" = "感谢参与";
+"ce.umt.ShootoutOutroPopupFourToNinePlace.StaticBody" = "你得了{0}";
+"ce.umt.ShootoutOutroPopupFourToNinePlace.WinsToNextTag" = "距赢得下一个奖杯还有：";
+"ce.umt.ShootoutOutroPopupFourToNinePlace.ToNextLevelLabel" = "{0}/{1}";
+"ce.umt.ShootoutOutroPopupFourToNinePlace.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利。";
+"ce.umt.ShootoutOutroPopupFourToNinePlace.StaticButtonLabel" = "再玩一次";
+
+// ShootoutOutroPopupTopThreePlace UMT Popup
+"ce.umt.ShootoutOutroPopupTopThreePlace.Title" = "感谢参与";
+"ce.umt.ShootoutOutroPopupTopThreePlace.StaticBody" = "你得了第{0}名并获得${1}筹码";
+"ce.umt.ShootoutOutroPopupTopThreePlace.WinsToNextTag" = "距赢得下一个奖杯还有：";
+"ce.umt.ShootoutOutroPopupTopThreePlace.ToNextLevelLabel" = "{0}/{1}";
+"ce.umt.ShootoutOutroPopupTopThreePlace.StaticPositiveTag" = "收集最多奖杯即可赢得活动的胜利。";
+"ce.umt.ShootoutOutroPopupTopThreePlace.StaticButtonLabel" = "再玩一次";
+
+"ce.umt.ShootoutOutroPopupWonInitialBracelet.StaticBody" = "你赢得了一个奖杯。你现在有{0}个奖杯。";
+
+" = " = "
+“dot2xpromo.offer.title2";
+" = " = ";
+“dot2xpromo.offer.milestoneReward";
+" = " = ";
+“dot2xpromo.offer.disclaimer";
+" = " = ";
+
+// SnGDuelEventResult UMT Popup
+";
+"ce.umt.SnGDuelEventResult.StaticBody" = "恭喜获得前三名的选手！";
+"ce.umt.SnGDuelEventResult.WonAmount1" = "赢得：$40亿筹码";
+"ce.umt.SnGDuelEventResult.WonAmount2" = "赢得：$20亿筹码";
+"ce.umt.SnGDuelEventResult.WonAmount3" = "赢得：$10亿筹码";
+
+"incentivizedPN.goldReward.popup.title" = "免费金币！";
+"incentivizedPN.goldExpired.popup.title" = "金币没了......";
+"incentivizedPN.chipReward.popup.title" = "免费筹码！";
+"incentivizedPN.chipExpired.popup.title" = "筹码没了......";
+"incentivizedPN.chipReward.popup.body" = "恭喜！{0}筹码是你的了！\n请留意我们的下一次免费赠送活动。";
+"incentivizedPN.goldReward.popup.body" = "恭喜！{0}个金币是你的了！\n请留意我们的下一次免费赠送活动。";
+"incentivizedPN.chipExpired.popup.body" = "筹码免费赠送活动已过期！\n请留意我们的下一次免费赠送活动。";
+"incentivizedPN.goldExpired.popup.body" = "金币免费赠送活动已过期！\n请留意我们的下一次免费赠送活动。";
+"incentivizedPN.popup.button" = "前往大厅";
+
+"surpriseBriefcase.title" = "你在公文包中找到了筹码！";
+"surpriseBriefcase.title.expired" = "这个公文包已过期！";
+"surpriseBriefcase.body" = "留意更多电子邮件，赢取更多免费筹码！";
+"surpriseBriefcase.body.expired" = "每个公文包只能领取一次并在{0}小时后锁上。请留意更多的惊喜公文包电子邮件！";
+"surpriseBriefcase.button" = "确定";
+
+// Incentivized Links
+"incentivizedLink.title" = "请收下这份免费奖励。尽情享用吧！";
+"incentivizedLink.title.expired" = "此奖励已过期！";
+"incentivizedLink.body" = "请留意更多免费奖励优惠！";
+"incentivizedLink.body.expired" = "每份奖励只能领取一次，而且领取时间有限。请留意更多免费奖励优惠！";
+"incentivizedLink.chipReward.caption" = "{0}筹码";
+"incentivizedLink.goldReward.caption" = "{0}个金币";
+"incentivizedLink.button" = "确定";
+
+"lobbyCustomSale.error.title" = "抱歉！";
+"lobbyCustomSale.error.body" = "貌似当前没有特别优惠。查看我们的其它精彩商品！";
+"lobbyCustomSale.error.button" = "好";
+
+"zade.w2e.chipgranted" = "感谢观看。你已被授予${0}筹码！";
+
+// mttEventQualifier UMT Popup
+"ce.umt.mttEventQualifier.Title" = "活动资格赛";
+"ce.umt.mttEventQualifier.StaticFirstPrizeAmount" = "前99名获得资格";
+"ce.umt.mttEventQualifier.StaticBody" = "以[f2b859]$800000买入[-]游戏即可参加。该活动的前99名赢家将获得参加“99名玩家锦标赛”的资格。\n[f2b859]第1名：$50亿 [-] | 第2名：$20亿 | [FF8B00FF] 第3名：$10亿[-]";
+"ce.umt.mttEventQualifier.StaticBodyDate" = "活动将于5月13日午夜结束。\n淘汰制锦标赛将于5月14日上午11点举行（太平洋标准时间，仅限Facebook/移动设备）";
+"ce.umt.mttEventQualifier.StaticBodyDate02" = "只有在移动设备上安装最新版本的游戏应用并以Facebook帐户登录游戏的玩家才能获得此资格。资格赛将于太平洋时间5月17日中午结束。";
+
+// Progressive Lucky Bonus Popup
+"plb.luckybonus.freeSpinReady" = "免费拉霸已经准备好了，开转吧";
+"plb.luckybonus.vipBonusLabel" = "{0}VIP奖励";
+"plb.luckybonus.dailyStreakLabel" = "{0}每日连续登录";
+"plb.luckybonus.dailyStreakHeadlineLabel" = "每日连续登录";
+"plb.luckybonus.vipBonusHeadlineLabel" = "VIP奖励";
+"plb.luckybonus.dailyStreakBodyLabel" = "每天回来游戏，提高你的%！";
+"plb.luckybonus.streak.body" = "明天回来保住你的连胜战绩！";
+"plb.luckybonus.ln.body" = "你的幸运奖励连胜就要过期了！快回来保持连胜纪录！";
+"plb.luckybonus.ln.title" = "每日连胜奖励！";
+"plb.luckybonus.multiplierBonusLabel" = "多重奖励";
+"plb.luckybonus.streakBonusLabel" = "连续登录奖励";
+"plb.luckybonus.chipsWonLabel" = "赢得的筹码";
+"plb.multiplierPercent" = "{0}%";
+"plb.luckybonus.goldOnly" = "使用金币";
+"plb.luckybonus.freeSpins" = "免费拉霸";
+"plb.luckybonus.w2eFreeSpin" = "观看即可获得免费拉霸";
+"plb.luckybonus.w2eNoVideosAvailable" = "稍后回来查看";
+
+// Progressive Lucky Bonus FTUE Popup
+"plb.ftue.button" = "来玩拉霸吧";
+"plb.ftue.title" = "每日连续登录已抵达";
+"plb.ftue.bodyTitle" = "每天回来游戏即可领取更多筹码！";
+"plb.ftue.body" = "每多登录一天就可以提高幸运奖励的价值，最多可累计7天。别忘了每天登录游戏，否则连续登录奖励将重置！";
+"plb.ftue.dailyStreak" = "[EECD46FF]+[-] ?? 每日连续登录";
+
+//Watch Stream UMT Popup
+"watchStream.umt.titleLabel" = "Zynga德州扑克正在直播中！";
+"watchStream.umt.bodyLabel" = "快来观看所有Zynga德州扑克游戏的直播吧";
+"watchStream.umt.watchNowButton" = "立刻观看";
+
+// Chip Gifts Facebook App Request
+"chipGifts.fb.appRequests.title" = "送出一份免费筹码礼物";
+"chipGifts.fb.appRequests.body" = "我送了你一份筹码礼物！";
+
+//Google Play Games
+"googlePlay.menuLabel" = "Google Play";
+"googlePlay.authFail.titleLabel" = "噢，天啊！";
+"googlePlay.authFail.bodyLabel" = "我们遇到了一个登录错误。我们对此深感抱歉，请稍后再试。";
+"googlePlay.authFail.button" = "好的";
+"googlePlay.settings.button" = "设置";
+"googlePlay.signIn.button" = "登录";
+"googlePlay.getAccounts.title" = "恢复来宾帐户";
+"googlePlay.getAccounts.body" = "在发生设备丢失或重新安装的情况下，我们会要求你提供信息来恢复你的帐户。该信息不会被保存。";
+"googlePlay.getAccounts.button" = "好的";
+
+//Vault
+"vault.button.learnMore" = "了解更多";
+"vault.detail.buyable" = "最佳价值。每天收集{0}！";
+"vault.button.openVault" = "打开";
+"vault.detail.claimable" = "保险库满了！立即打开。";
+"vault.detail.daysLeft" = "保险库可用{0}天。";
+"vault.button.buyAgain" = "再买一次";
+"vault.detail.expired" = "你的保险库过期了！购买一个新的保险库。";
+
+"vault.ftue.title" = "获取免费筹码";
+"vault.ftue.body" = "你的保险库满了！现在打开即可收集{0}个免费筹码。";
+"vault.ftue.button" = "立即收集";
+
+"vault.popup.title" = "购买以便每天进行收集";
+"vault.popup.body" = "立即购买，每天补充你的保险库，持续{0}天。每次补充一次，{1}个筹码可用。根据你的忠诚度，每次收集都将获得{2}%的奖励筹码。";
+
+"vault.refill.timer" = "{0}小时{1}分"; //h is short for hour, m is short for minutes
+"vault.refill.timer.minuteSeconds" = "{0}分{1}秒"; //m is short for minutes, s is short for seconds
+
+"vault.purchase.confirmation.body" = "你已购买保险库！\n\n每天收集一次以最大化它的价值！";
+"vault.refill.timer" = "{1}小时{2}分钟"; //h is short for hour, m is short for minutes
+
+//Challenges
+"challenges.lobbyButton.challenges" = "挑战";
+"challenges.lobbyButton.new" = "新功能！";
+"challenges.lobbyButton.newChallenges" = "{0}项新挑战！";
+"challenges.lobbyButton.collectTickets" = "收集票券！";
+"challenges.lobbyButton.rewardsAvailable" = "奖励已准备好！";
+"challenges.lobbyButton.complete" = "{0}/{1} 完成";
+"challenges.lobbyButton.loading" = "正在加载挑战……";
+"challenges.hub.title" = "欢迎来到挑战！";
+"challenges.hub.title1" = "如何参与挑战";
+"challenges.hub.play" = "开始";
+"challenges.hub.play.desc" = "每日来玩新挑战！";
+"challenges.hub.play.desc1" = "每日来玩新挑战！";
+"challenges.hub.play.desc2" = "扑克";
+"challenges.hub.earn" = "赢取";
+"challenges.hub.earn.desc" = "完成挑战即可赢取票券。";
+"challenges.hub.earn.desc1" = "完成挑战即可赢取票券";
+"challenges.hub.earn.desc2" = "奖券";
+"challenges.hub.redeem" = "兑换";
+"challenges.hub.redeem.desc" = "票券可用于兑换超赞奖品！";
+"challenges.hub.redeem.desc1" = "票券可用于兑换超赞奖品！";
+"challenges.hub.redeem.desc2" = "兑换奖品";
+"challenges.faq.title" = "关于挑战的常见问题";
+"challenges.weekly.title" = "每周：";
+"challenges.daily.title" = "每日：";
+"challenges.streaks.title" = "连胜：";
+"challenges.ftue.sideMenuLobby" = "轻按上方的挑战，了解更多信息。";
+"challenges.ftue.sideMenuLobby.desktop" = "点击上方的挑战，了解更多信息。";
+"challenges.ftue.sideMenuTable" = "在这个菜单查看挑战进度和通知。\n \n返回大厅兑换票券并开始其他挑战。";
+"challenges.ftue.tableStakes" = "以上方选定的买入进行游戏，开始挑战。";
+"challenges.ftue.tableProgress" = "轻按这里查看挑战进度。";
+"challenges.ftue.tableProgress.desktop" = "点击这里查看挑战进度。";
+"challenges.ftue.tableTicket" = "收集你的票券！";
+"challenges.ftue.skipFtueTooltip" = "不喜欢这个挑战吗？点击这里跳过！";
+"challenges.ftue.skipFtueTooltip.desktop" = "不喜欢这个挑战吗？点击这里跳过！";
+"challenges.ftue.outOfSkipsTooltip" = "你的跳过次数已用光。查看计时器，了解什么时候可以获得更多！";
+
+//Challenge Timer
+"challenges.timeRemaining.daysformat" = "{0}天{1}小时后结束";
+"challenges.timeRemaining.hoursMinutesSecondsFormat" = "{0}小时{1}分后结束";
+"challenges.timeRemaining.minutesSecondsFormat" = "{0}分{1}秒后结束";
+"challenges.completed.timeRemaining.daysformat" = "下个：{0}天{1}小时";
+"challenges.completed.timeRemaining.hoursMinutesSecondsFormat" = "下个：{0}小时{1}分钟";
+"challenges.completed.timeRemaining.minutesSecondsFormat" = "下个：{0}分钟{1}秒";
+
+// Challenges Cell
+"challenges.cell.weekly.complete.title" = "挑战完成！";
+"challenges.cell.daily.complete.title" = "挑战完成！";
+"challenges.cell.complete.title" = "完成！";
+"challenges.cell.pendingTickets.title" = "收集尚未领取的票券";
+"challenges.cell.error.body" = "糟糕，出错了！\n请重试。";
+"challenges.cell.expired.body" = "正在加载新挑战……";
+"challenges.cell.expired.title" = "过期了！";
+"challenges.cell.collect.button" = "领取";
+"challenges.cell.reward" = "奖励：";
+"challenges.cell.earned" = "获得了：";
+
+// Challenge Progress Notif
+"challenges.progress.complete" = "完成！";
+"challenges.type.PlayHandsCash.progressText" = "{0}/{1}局";
+"challenges.type.PlayHandsSng.progressText" = "{0}/{1}局";
+"challenges.type.PlaySng.progressText" = "已玩{0}局，共{1}局";
+"challenges.type.WinHandsCash.progressText" = "{0}/{1}局";
+"challenges.type.WinHandsSng.progressText" = "{0}/{1}局";
+"challenges.type.WinMoney.progressText" = "${0} / ${1}";
+"challenges.type.WinMoneyCash.progressText" = "${0} / ${1}";
+"challenges.type.WinMoneySng.progressText" = "${0} / ${1}";
+"challenges.type.WinSng.progressText" = "已赢{0}局，共{1}局";
+"challenges.type.KnockoutSng.progressText" = "{0}/{1}名玩家";
+"challenges.type.WinTrophyEventSng.progressText" = "{0}/{1}座奖杯";
+"challenges.type.WinHandsSpinAndGo.progressText" = "{0}/{1}局";
+"challenges.type.PlayHandsSpinAndGo.progressText" = "{0}/{1}局";
+"challenges.type.PlaySpinAndGo.progressText" = "已玩{0}局，共{1}局";
+"challenges.type.WinSpinAndGo.progressText" = "已赢{0}局，共{1}局";
+"challenges.type.KnockoutSpinAndGo.progressText" = "{0}/{1}名玩家";
+
+// Challenges Redeem
+"challenges.redeem.success.button" = "领取其他";
+"challenges.redeem.failure.button" = "返回";
+"challenges.redeem.title" = "奖励";
+"challenges.redeem.content" = "兑换票券即有机会获得超赞奖品！";
+"challenges.redeem.success.label" = "你的奖励";
+"challenges.redeem.failure.label" = "糟糕，出错了！\n请重试。";
+"challenges.redeem.chips.label" = "筹码奖励：";
+"challenges.redeem.xp.label" = "经验值：";
+"challenges.redeem.gold.label" = "金币奖励：";
+"challenges.redeem.success.title.label" = "恭喜！";
+
+// Challenges Skip
+"challenges.skips.skipsRemaining.title" = "要跳过该挑战吗？";
+"challenges.skips.skipsRemaining.body" = "还剩{0}/{1}";
+"challenges.skips.confirmation.yes" = "跳过";
+"challenges.skips.confirmation.no" = "不";
+
+// Challenges Streaks
+"challenges.streaks.cellCountText" = "{0}/{1}";
+"challenges.streaks.maxStreaks.completedState" = "连胜挑战\n已完成！";
+"challenges.streaks.maxReached" = "已达最高\n连胜！";
+
+"challenges.streaks.infoPanel.lobby" = "从连胜挑战获取更多票券！";
+
+"challenges.streaks.preStreaks.header" = "想要更多挑战吗？解锁[c][FFB746]连胜！[-][/c]";
+"challenges.streaks.preStreaks.subHeader.lobby" = "再完成[c][FFB746]{0}场[-][/c]每日挑战即可解锁";
+"challenges.streaks.preStreaks.subHeader.lobby.lastChallenge" = "再完成[c][FFB746]1场[-][/c]每日挑战即可解锁";
+"challenges.streaks.preStreaks.subHeader.table" = "解锁连胜";
+
+"challenges.streaks.inStreaks.header" = "连胜挑战[c][FFB746]已解锁！[-][/c]";
+"challenges.streaks.inStreaks.subHeader.lobby" = "连胜挑战进度";
+"challenges.streaks.inStreaks.subHeader.table" = "连胜进度";
+
+"challenges.streaks.maxStreaks.header" = "所有连胜挑战[c][FFB746]均已完成！[-][/c]";
+"challenges.streaks.maxStreaks.subHeader.lobby" = "连胜挑战已完成！";
+"challenges.streaks.maxStreaks.subHeader.table" = "连胜已完成！";
+
+"challenges.streaks.beforeStreaks.progressNotif" = "连胜已解锁！";
+"challenges.streaks.inStreaks.lobbyButton" = "连胜进度：{0}/{1}";
+"challenges.streaks.inStreaks.progressNotif" = "联盟进度 {0}/{1} 已完成";
+"challenges.streaks.maxStreaks.lobbyButton" = "连胜已完成！";
+"challenges.streaks.maxStreaks.progressNotif" = "连胜已完成！";
+
+"challenges.streaks.tooltip.previewStreaks" = "联盟模式正在等你来玩！完成你的每日挑战即可解锁该模式。";
+"challenges.streaks.tooltip.tableMenuBeforeStreaksProgress" = "完成所有每日挑战即可解锁连胜。";
+"challenges.streaks.tooltip.streaksStart" = "你开始了一场连胜挑战！完成一场连胜挑战即可解锁更困难的挑战。";
+"challenges.streaks.tooltip.streaksExpired" = "你的连胜已重置。完成每日挑战即可开始新的连胜。";
+
+"challenges.streaks.curtainText" = "连胜已解锁！";
+
+//Spin To Win Popup
+"stw.offer.title.label" = "让你的筹码加倍！";
+"stw.offer.gold.title.label" = "让你的金币翻倍！";
+"stw.offer.preSpin.spinNow.button" = "来玩拉霸吧";
+"stw.offer.preSpin.noThanks.button" = "不，谢谢";
+"stw.offer.preSpin.buySpin.button" = "购买拉霸机会";
+"stw.offer.preSpin.upperHeadline.label" = "最多可赢得：";
+"stw.offer.preSpin.lowerHeadline.label" = "而只需花费{0}";
+"stw.offer.win.spin.button" = "拉霸";
+"stw.offer.spin.goodLuck.label" = "祝你好运！";
+"stw.offer.win.upperHeadline.label" = "你赢了";
+"stw.offer.win.lowerHeadline.label" = "[A7A4A4FF]{0} [-][FFBB38FF]VIP点数[-]";
+"stw.offer.win.collect.button" = "领取";
+"stw.offer.win.chipsPurchased" = "筹码已购买";
+"stw.offer.win.goldPurchased" = "购买的金币";
+"stw.offer.win.multiplier" = "乘数器";
+"stw.offer.win.chipsGranted" = "筹码已授予";
+"stw.offer.win.goldGranted" = "获得的金币";
+"stw.multiplierPercent" = "{0}%";
+
+//Spin To Win Banner
+"stw.banner.title.label" = "奖励转轮";
+"stw.banner.body.label" = "[F19D38FF]旋转即可最多赢取{0}% [-]\n你近期的购买！";
+"stw.banner.body.label2" = "可选择购买拉霸并加倍\n[F19D38FF]你的筹码至最多{0}% [-]";
+
+//Spin To Win MOTD Popup
+"stw.motd.title" = "转动赢奖品！";
+"stw.motd.body" = "将你的购买最高提升";
+"stw.motd.button" = "立刻购买";
+
+//Envelopes Popup
+"envelope.title" = "你获得了一份幸运奖励礼物！";
+"envelope.sentGift" = "通过转动幸运奖励向你送了这份礼物。";
+"envelope.collectButton" = "领取";
+"envelope.otherWinners" = "看看其他获胜者的奖励吧！";
+"envelope.luckyBonus" = "此外再向好友发送点免费筹码！";
+
+//FTUE
+"ftue.lobby.tableSelectorTooltip" = "首先，让我们来选择一张牌桌。";
+"ftue.tableSelector.sliderTooltip" = "欢迎来到牌桌选择器菜单！移动该滑块，在赌注更高的牌桌上游戏！\n\n现在请将滑块移向箭头。";
+"ftue.tableSelector.ToggleGameSpeed" = "控制速度选项";
+"ftue.tableSelector.TogglePlayerCount" = "选择5人或9人牌桌";
+"ftue.tableSelector.ToggleCta" = "先选一个快速5人牌桌吧！（点击继续）";
+"ftue.tableSelector.ToggleCta.desktop" = "先选一个快速5人牌桌吧！（点击继续）";
+"ftue.tableSelector.playButtonTooltip" = "点击开始游戏！";
+"ftue.tableSelector.playButtonTooltip.desktop" = "点击开始游戏！";
+"ftue.tableSelector.buyButtonTooltip" = "点击这里可以购买筹码或选择更低的赌注，然后开始游戏！";
+"ftue.tableSelector.buyButtonTooltip.desktop" = "点击这里可以购买筹码或选择更低的赌注，然后开始游戏！";
+"ftue.lobby.holdemIconTooltip" = "点击扑克牌图标可以使用你上次选择的牌桌赌注开始游戏。\n\n我们牌桌见哦！\n\n（点击放弃）";
+"ftue.lobby.holdemIconTooltip.desktop" = "点击扑克牌图标可以使用你上次选择的牌桌赌注开始游戏。\n\n我们牌桌见哦！\n\n（点击放弃）";
+"ftue.holdem.backButton.Tooltip" = "点击该按钮返回大厅或选择一张新牌桌。";
+"ftue.holdem.backButton.Tooltip.desktop" = "点击该按钮返回大厅或选择一张新牌桌。";
+"ftue.grantFail.title" = "糟糕，出错了！";
+"ftue.grantFail.body" = "请重新启动游戏来收取筹码！";
+"ftue.grantPopup.title" = "欢迎来玩Zynga德州扑克！";
+"ftue.grantPopup.body" = "这是送给你的{0}筹码！";
+"ftue.skipButton.text" = "跳过";
+
+//Player Love Week
+"plw.popup.day1.tab" = "第1天";
+"plw.popup.day2.tab" = "第2天";
+"plw.popup.day3.tab" = "第3天";
+"plw.popup.day4.tab" = "第4天";
+"plw.popup.day5.tab" = "第5天";
+"plw.popup.day6.tab" = "第6天";
+"plw.popup.day7.tab" = "第7天";
+
+"plw.popup.currentShares" = "当前分享：{0}";
+"plw.popup.sharesToUnlock" = "解锁分享：{0}";
+"plw.popup.freeGift" = "每日免费礼物：";
+
+//reCAPTCHA CS Popup
+"recaptcha.cs.help.title" = "遇到问题了吗？";
+"recaptcha.cs.help.body" = "输入你的电子邮件，我们的客服会联系你。";
+
+"recaptcha.cs.help.button" = "提交";
+
+"recaptcha.cs.contacted.title" = "帮助已经在路上了！";
+"recaptcha.cs.contacted.body" = "客服人员正在处理你的请求，将很快与你取得联系！";
+
+ // Softgating Popup Copy
+"global.popup.upgrade.title" = "有可用游戏更新";
+"global.popup.upgrade.body" = "《Zynga Poker》优化啦！\n立刻更新游戏，获得最新功能和改善。";
+"global.popup.upgrade.line1" = "Zynga Poker";
+"global.popup.upgrade.line2" = "越来越好了！";
+"global.popup.upgrade.line3" = "立刻更新游戏，获得最新功能和改善。";
+"global.popup.upgrade.button.update" = "更新";
+"global.popup.upgrade.button.downloadNow" = "马上下载";
+
+// Softgating Settings Menu Copy
+"global.settings.upgrade.header" = "游戏更新";
+"global.settings.upgrade.desc" = "新版本发布了";
+"global.settings.upgrade.button" = "立即更新";
+
+// Playoffs
+"playoffs.card.title" = "淘汰赛";
+"playoffs.card.subtitle" = "锦标赛";
+"playoffs.card.statusActiveCurrent" = "牌桌已开";
+"playoffs.card.statusActiveScheduled" = "牌桌即将开启";
+"playoffs.card.statusActiveIneligible" = "{0}和更高联赛";
+"playoffs.card.statusActiveInProgress" = "锦标赛正在进行中";
+"playoffs.card.firstPlacePrize" = "第1名奖金：";
+"playoffs.card.firstPlacePrizeAmount" = "${0}";
+"playoffs.card.playNowButtonCurrent" = "现在开始";
+"playoffs.card.playNowButtonRejoin" = "继续";
+"playoffs.card.playNowButtonLearnMore" = "了解更多";
+
+"playoffs.notifications.title" = "设置";
+"playoffs.notifications.title2" = "已确认";
+"playoffs.notifications.selectAll" = "全选";
+"playoffs.notifications.am" = "上午";
+"playoffs.notifications.pm" = "下午";
+"playoffs.notifications.body" = "这周淘汰赛的通知";
+"playoffs.notifications.okay" = "好";
+"playoffs.notifications.confirm" = "确认{0}";
+"playoffs.notifications.cancel" = "不，谢谢";
+"playoffs.notifications.deviceWarn" = "请在设置中允许接收Zynga德州扑克的推送通知。";
+"playoffs.notifications.confirmed" = "你的通知安排已确认。";
+"playoffs.notifications.ingameOn" = "你的游戏内通知现已开启。";
+"playoffs.notifications.deviceUnknown" = "注意：请确保你的手机通知已开启。";
+"playoffs.notifications.deviceOff" = "注意：你必须在手机设置中允许Zynga德州扑克推送通知才能接收多桌锦标赛的提醒。";
+
+"playoffs.notify.banner.title" = "淘汰锦标赛即将开始啦！";
+"playoffs.notify.banner.button" = "立即参加";
+
+"playoffs.timer.startsIn" = "距开始还有：{timeRemaining}";
+"playoffs.timer.playoffsStartsIn" = "距每周淘汰赛开始还有：{timeRemaining}";
+"playoffs.timer.endsIn" = "距结束还有：{timeRemaining}";
+"playoffs.timer" = "{timeRemaining}";
+
+"playoffs.eventpage.leftToJoin.MinSec" = "距离加入还有{0}:{1}";
+"playoffs.eventpage.nextStartIn.MinSec" = "{0}:{1}后开始";
+"playoffs.eventpage.prizes.payouts" = "彩金";
+"playoffs.eventpage.prizes.faq" = "常见问题";
+"playoffs.eventpage.prizes.rankHeader" = "奖品赔付";
+"playoffs.eventpage.prizes.back" = "返回";
+"playoffs.eventpage.ftue.tooltip" = "轻按下方的按钮获取关于下次锦标赛的通知！（点击放弃）";
+"playoffs.eventpage.ftue.tooltip.desktop" = "点击下方的按钮获取关于下次锦标赛的通知！（点击放弃）";
+
+"playoffs.outro.leagueprizes" = "联赛奖金";
+"playoffs.outro.noprizes" = "杀入最后一张牌桌，勇夺奖金！";
+
+"playoffs.eventOutro.tournamentWins" = "赢得的奖杯：{0}";
+"playoffs.eventOutro.totalChipsWon" = "赢得的筹码：${0}";
+"playoffs.eventOutro.finalTables" = "最终牌桌：{0}";
+
+//Playoffs tab
+"playoffs.tab.calculating.message" = "新淘汰赛信息即将推出，敬请期待！";
+"playoffs.tab.endTime" = "本周淘汰赛将于{0}结束";
+
+// Jackpots
+"jackpots.timer.endsIn" = "头奖|距结束还有{timeRemaining}";
+"jackpots.timer.ended" = "头奖|已结束";
+"jackpots.filler.ended" = "此活动已结束！恭喜所有赢家！\n尽快回来，以获得更多头奖！";
+"jackpots.filler.noMore" = "继续游戏就有机会赢得头奖";
+"jackpots.filler.more" = "牌桌赌注越高，头奖数额越大";
+"jackpots.filler.none" = "在更高赌注牌桌游戏就有机会赢得头奖！";
+"jackpots.header.available" = "尚未开出的头奖";
+"jackpots.header.unavailable" = "移至更高赌注的牌桌";
+"jackpots.loading" = "正在加载头奖";
+"jackpots.chiclet" = "头奖！";
+
+// MTT
+"mtt.rankLabel" = "排名";
+
+//REFERRALS
+"referrals.handAmount.singular" = "1局";
+"referrals.handAmount.plural" = "{0}局";
+"referrals.refer.title" = "和好友一起玩";
+"referrals.refer.tab" = "推荐";
+"referrals.email.button" = "电子邮件";
+"referrals.text.button" = "短信";
+"referrals.other.button" = "其它";
+"referrals.share.button" = "分享";
+"referrals.learnMore.button" = "[u]了解更多[/u]";
+"referrals.inviteCode" = "你的邀请码：";
+"referrals.copy.button" = "复制"; //Refers to copy as in copy and paste
+"referrals.copy.feedback" = "邀请码已复制。粘贴到任意地方";
+
+"referrals.redeem.title" = "和好友一起玩";
+"referrals.redeem.tab" = "兑换";
+"referrals.redeem.inputLabel" = "输入邀请码：";
+"referrals.redeem.inputPrefill" = "轻按此处输入";
+"referrals.redeem.inputPrefill.desktop" = "点击这里进入";
+"referrals.submit.button" = "提交";
+"referrals.redeemSuccess.main" = "你收到了：";
+"referrals.redeemSucesss.chips" = "{0}筹码";
+
+"referrals.redeemFail.default" = "我们暂时无法处理你的请求。请稍后重试。";
+
+"referrals.surfacing.socialCenter" = "推荐";
+"referrals.surfacing.settings.title" = "兑换";
+"referrals.surfacing.settings.description" = "促销代码";
+
+//Mobile Basket Popup
+"basket.popup.title" = "收集同花大顺！";
+"basket.popup.body" = "好友每次点击你的帖子，你就能获得一张牌！收拾纸牌，赢取奖品！";
+"basket.popup.askButton" = "发布";
+"basket.popup.flush" = "已收集同花大顺";
+"basket.popup.prize" = "奖品";
+"basket.popup.prize.amount" = "{0}个金币";
+"basket.post.timer" = "{0}小时{1}分"; //h is short for hour, m is short for minutes
+"basket.post.timer.minuteSeconds" = "{0}分{1}秒"; //m is short for minutes, s is short for seconds
+"basket.cardProgress.okayButton" = "确定";
+
+"basket.sender.text.jack" = "你收到了{0}张牌。再收集{1}即可解锁J并赢取筹码！";
+"basket.sender.text.ace" = "你收到了{0}张牌。再收集{1}即可解锁A并赢取筹码！";
+"basket.sender.text.king" = "你收到了{0}张牌。再收集{1}即可解锁K并赢取筹码！";
+"basket.sender.text.queen" = "你收到了{0}张牌。再收集{1}即可解锁Q并赢取筹码！";
+"basket.sender.text.ten" = "你收到了{0}张牌。再收集{1}即可解锁10并赢取筹码！";
+"basket.collect.button" = "领取";
+"basket.cardComplete.title" = "纸牌完成！";
+"basket.cardComplete.amount" = "你赢得了{0}筹码！";
+"basket.flushComplete.title" = "同花顺完成！";
+"basket.flushComplete.amount" = "你赢得了{0}金币！";
+"basket.ln.title" = "篮子";
+"basket.ln.cardCompletionBody" = "距离完成纸牌只缺几张牌了，快去再索要几张吧！";
+"basket.ln.flushCompletionBody" = "距离同花只缺几张牌了，快去再索要几张吧！";
+
+
+"basket.surfacing.socialHub" = "收集";
+"basket.surfacing.chipGift" = "索要纸牌！";
+
+//Mobile Basket FB Upsell Popup
+"basket.fbUpsell.title" = "连接至Facebook";
+"basket.fbUpsell.body" = "你必须先连接到Facebook，才能从好友那里收集牌并赢取丰厚奖励！";
+"basket.fbUpsell.connect" = "连接";
+"basket.fbUpsell.cancel" = "不，谢谢";
+
+//Mobile Basket FTUE Popup
+"basket.ftue.body" = "向好友索要\n并收集纸牌，赢大奖";
+"basket.ftue.button" = "开始吧！";
+
+// Reward Center
+"rewardcenter.tickets.nodata" = "--";
+"rewardcenter.lobby.title" = "奖励";
+"rewardcenter.lobby.loading" = "正在加载";
+"rewardcenter.lobby.badge" = "领取";
+"rewardcenter.popup.title" = "奖励中心";
+"rewardcenter.popup.error.title" = "糟糕，出错了！请重试。";
+"rewardcenter.popup.error.buttonLabel" = "返回";
+"rewardcenter.popup.rewards.title" = "你的奖励";
+"rewardcenter.popup.rewards.subtitle" = "你获得了：";
+"rewardcenter.popup.tooltip.title" = "赢得奖券的\n两种方法：";
+"rewardcenter.popup.tooltip.line1" = "1. 完成挑战";
+"rewardcenter.popup.tooltip.line2" = "2. 参加联赛";
+
+//Buddy Upsell Notification Popup
+"buddyUpsell.title" = "牌友更新";
+"buddyUpsell.message" = "你的牌友{0}已经升级到了Facebook帐号。\n发送一份欢迎礼物！";
+"buddyUpsell.button" = "发送筹码";
+
+//iMesssage X Promo
+"imessagexpromo.popup.title" = "Zynga Poker 胜负对决开始了！";
+"imessagexpromo.popup.body.first" = "在iMessage中挑战好友";
+"imessagexpromo.popup.body.second" = "每天赢取筹码奖励";
+"imessagexpromo.popup.body.third" = "获得免费贴纸";
+"imessagexpromo.popup.button" = "开始游戏";
+"imessagexpromo.invite.caption" = "轻按开始玩Zynga Poker胜负对决！";
+"imessagexpromo.invite.caption.desktop" = "点击开始玩Zynga Poker胜负对决！";
+
+//Push Notification Optimizations
+"pnoptimizations.challenges.dailypostrefresh" = "一组全新每日挑战等你来。来看看都有什么吧！";
+"pnoptimizations.challenges.weeklyprerefresh" = "你的每周挑战将在{0}小时后过期。不要轻言放弃！";
+"pnoptimizations.challenges.dailyprerefresh" = "你的每日挑战将在{0}小时后过期。不要轻言放弃！";
+"pnoptimizations.challenges.title" = "挑战更新！";
+
+//Purchase Hub
+"purchasehub.card.back.title" = "你将获得";
+"purchasehub.card.back.bonuswheel" = "[ffd28e]旋转奖励转轮，就有机会获得你所购买的[-]3倍[ffd28e]物品！[-]";
+"purchasehub.tab.offers" = "优惠";
+"purchasehub.tab.chips" = "筹码";
+"purchasehub.tab.gold" = "黄金";
+"purchasehub.loyaltyPoints" = "{0} VIP点数";
+"purchasehub.stamps" = "{0} VIP邮票";
+"purchasehub.stampcard.title" = "赢取[b][ffcb4d]${0}[-]";
+
+//Progression
+"profileV2.detailView.progression.title" = "等级";
+"profileV2.detailView.boost.title" = "加速道具";
+"profileV2.detailView.leaguesV2.title" = "联赛历史";
+"profileV2.detailView.stats.title" = "统计资料";
+"progression.uielement.comingsoon" = "即将推出";
+"progression.uielement.tooltip.xpneeded" = "所需经验值：{0}/{1}";
+"progression.uielement.tooltip.levelup.title" = "升级了！";
+"progression.uielement.tooltip.levelup.body" = "快来奖励中心领取你的奖品吧！";
+"progression.uielement.tooltip.levelup.button" = "立刻前往";
+"progression.uielement.tooltip.rewards.level" = "第{0}级";
+"progression.uielement.tooltip.rewards.level.label" = "等级";
+"progression.uielement.tooltip.rewards.level.value" = "{0}";
+"progression.uielement.tooltip.rewards.more" = "以及更多！";
+"progression.ftue.profile" = "你的个人资料已更改。轻按这里查看更新内容！";
+"progression.ftue.stats" = "你的游戏状态已更新！轻按此处以了解更多。";
+
+//Chip Gifts Overlay
+"chipgifts.overlay.empty.canSend" = "你的收件箱是空的！向你的扑克好友发送奖励，让他们礼尚往来。";
+"chipgifts.overlay.empty.cannotSend" = "你的收件箱是空的！添加更多扑克好友，获得更多奖励！";
+"chipgifts.overlay.cannotAccept.canSend" = "已收到了最高每日奖励。\n向你的好友发送奖励，获得更多回礼！";
+"chipgifts.overlay.cannotAccept.cannotSend" = "你今天的奖励数量已用完。明天再来吧！";
+"chipgifts.overlay.sent" = "奖励已发送！明天回来接收和发送更多奖励。";
+"chipgifts.overlay.button" = "发送奖励";
+"chipgifts.overlay.collected" = "已收集{0}";
+
+//VIP Data Collection
+"vipInfo.popup.title" = "你有资格获取专属VIP服务！";
+"vipInfo.popup.body" = "收取专属优惠、VIP专属活动邀请和礼物！注册即可获得{0}免费筹码。";
+"vipInfo.popup.email.placeholder" = "输入有效的电子邮件";
+"vipInfo.popup.phone.placeholder" = "输入有效的号码";
+"vipInfo.popup.email.subText" = "电子邮件";
+"vipInfo.popup.phone.subText" = "电话号码";
+"vipInfo.popup.countryCode" = "国家代码";
+"vipInfo.popup.programTerms" = "[u]计划条款[-]"; //Leave the [u] and [-] as it is!
+"vipInfo.popup.termsOfService" = "[u]服务条款[-]";//Leave the [u] and [-] as it is!
+"vipInfo.popup.privacyPolicy" = "[u]隐私政策[-]";//Leave the [u] and [-] as it is!
+"vipInfo.popup.submitButton" = "提交";
+"vipInfo.popup.countryCode.subText" = "国家代码";
+"vipInfo.confirmationPopup.title" = "VIP联系人确认";
+"vipInfo.confirmationPopup.body" = "VIP团队将很快联系你。\n感谢你的连接！";
+"vipInfo.confirmationPopup.okayButton" = "确定";
+"vipInfo.popup.disclaimerText" = "点击“提交”即表明你同意使用你提供的号码和电子邮件接收Zynga VIP团队发送的自动推广消息。任何购买都不需要同意。可能会收取一定的信息和数据传输费用。你可以随时选择退出。请查看《计划条款》获取详细信息。我们将根据Zynga的《服务条款》和《隐私政策》处理你的信息。";
+
+//RTUE Popup
+"RTUE.popup.title" = "更多免费筹码！";
+"RTUE.popup.body.first" = "我们已经将你的连续登录加成升到了100%。";
+"RTUE.popup.body.second" = "每天登录游戏就能赢大奖！";
+"RTUE.popup.button" = "来玩拉霸吧！";
+
+//10th Anniversary Strings
+"10y.trophy.title" = "10周年礼物";
+"10y.trophy.body1" = "衷心感谢你的陪伴！";
+"10y.trophy.body2.mobile" = "为了庆祝我们的10周年，我们将向{0}年或以上的老玩家发放限量版奖杯！你可以在牌桌或者牌桌物品的奖杯区域中看到你的玩家图标上有个奖杯。";
+"10y.trophy.body3" = "我们牌桌见哦！Zynga德州扑克团队";
+"10y.trophy.button" = "领取";
+"10y.grant.title" = "Zynga Poker 10年啦";
+"10y.grant.body1" = "衷心感谢你的陪伴！";
+"10y.grant.body2" = "我们准备用大量新功能、奖励和特殊活动来庆祝游戏10周年……即将推出！";
+"10y.grant.body3" = "让我们先用{0}免费筹码来庆祝吧！";
+"10y.grant.body4" = "我们牌桌见哦！Zynga德州扑克团队";
+"10y.grant.button" = "领取";
+
+"timeFormat.Days" = "{0}天";
+"timeFormat.Minutes" = "{0}分钟";
+"timeFormat.Hours" = "{0}小时";
+"timeFormat.Seconds" = "{0}秒";
+
+// Boosts
+"boosts.faqTimeRemaining" = "距结束还有： {timeRemaining}";
+"boosts.tooltip.expired.time" = "过期了！";
+
+//Buy Page Sale
+"buypage.sale.timer.days.format" = "还剩{0}天";
+"buypage.sale.timer.days.format.singular" = "还剩{0}天";
+"buypage.sale.timer.hours.minutes.seconds.format" = "还剩{0:D2}:{1:D2}:{2:D2}";
+"buypage.sale.marker" = "特卖";
+
+//GoogleAgeVerification
+"gav.emptyDropDownValue.text" = "请输入你的年龄";
+"gav.confirmAgeLabel.text" = "请确认你已经{0}岁。";
+"gav.confirmAgeButton.text" = "是的，我{0}岁了。";
+"gav.areYouSurelabel.text" = "确定吗？";
+"gav.cancelAreYouSureLabel.text" = "不，我年龄更大";
+"gav.finePrintLabel" = "建议玩Zynga Poker的玩家判断力";
+"gav.lockoutMainBodyLabel.text" = "你的年龄不满足玩我们的游戏的要求";
+"gav.sorryTitle" = "抱歉！";
+"gav.lockoutFinePrintLabel" = "如果你认为这是一个错误，请联系pokersupport@zynga.com";
+"gav.mainBodyLabel.text" = "要体验Zynga Poker的快节奏乐趣，请在下面选择你的年龄。";
+"gav.okayButton" = "好";
+"gav.newScrollLabel.text" = "滚动来选择你的年龄：";
+"gav.additionalFeedbackLabel" = "请输入你的年龄";
+
+//Stamp Card
+"stampcard.timer.initial.days" = "{timeRemaining}";
+"stampcard.timer.days.default" = "在数天内填充卡牌";
+"stampcard.timer.days.format" = "在{0}天内填充卡牌";
+"stampcard.timer.days.format.plural" = "还剩{0}天";
+"stampcard.timer.days.format.singular" = "还剩{0}天";
+"stampcard.timer.hours.minutes.seconds.format" = "还剩{0:D2}:{1:D2}:{2:D2}";
+"stampcard.popup.button" = "确定";
+"stampcard.card.instruction" = "填写就可得";
+"stampcard.spinttowin.bonussticker" = "奖励";
+"stampcard.rewardpopup.title" = "VIP 奖励卡";
+"stampcard.collection.taptocontinue" = "点击继续";
+
+// GDPR
+"gdpr.getPin.requestButton" = "获取数据请求Pin码"; // Personal Identification Number
+"gdpr.getPin.pinTitle" = "数据请求Pin码"; // Personal Identification Number
+"gdpr.getPin.failed" = "哎呦！请重试";
+"gdpr.suspendedPendingDelete.button" = "检查状态";
+"gdpr.suspendedPendingDelete.title" = "帐户已被屏蔽";
+"gdpr.suspendedPendingDelete.body" = "因为你提出了删除帐户的请求，因此你的帐户已被屏蔽。请点击下方的按钮查看删除请求的状态。";
+"gdpr.suspendedIndefinite.title" = "帐户被冻结";
+"gdpr.suspendedIndefinite.body" = "根据你的请求，该帐户已被冻结。如果你想要取消该请求，请联系Zynga客户服务。\n\nZyngaID\n{zid}";
+"gdpr.suspendedIndefinite.button" = "联系客服";
+
+// Game Down
+"gameDown.title" = "计划停机检修";
+"gameDown.button" = "退出";
+"gameDown.body" = "由于例行维护，Zynga德州扑克已离线";
+
+// Version Upgrade
+"versionUpgrade.title.1" = "升级警告";
+"versionUpgrade.body.1" = "你的Zynga Poker版本需升级以确保安全。";
+"versionUpgrade.button.1" = "升级";
+"versionUpgrade.body.2" = "不再支持此版本。请前往Google Play市场下载最新版本。";
+"versionUpgrade.button.2" = "关闭"; // Close the popup
+
+// Anti-phishing
+"antiphishing.title.1" = "安全警报";
+"antiphishing.body.1" = "Zynga Poker向你发送了一封电子邮件，事关未获授权的访问行为。请遵循电子邮件中的步骤操作";
+"antiphishing.button.1" = "关闭"; // Close the popup
+
+// IAP
+"iap.lobbywidget.purchase.completed.singlular" = "{0} 个购买成功";
+"iap.lobbywidget.purchase.completed.plural" = "{0} 个购买成功";
+
+"iap.lobbywidget.purchase.completed.chips.tooltip" = "{0} 个筹码已添加到你的钱包中。";
+"iap.lobbywidget.purchase.completed.gold.tooltip" = "{0} 枚金币已添加到你的钱包中。";
+"iap.lobbywidget.purchase.completed.bundle.tooltip" = "{0} 个筹码以及 {1} 枚金币已添加到你的钱包中。";
+
+"iap.lobbywidget.purchase.pending.singlular" = "{0} 个购买处理中";
+"iap.lobbywidget.purchase.pending.plural" = "{0} 个购买处理中";
+
+"iap.lobbywidget.purchase.pending.tooltip" = "你的筹码安全！Zynga Poker正在处理你的付款。我们会在购买完成后通知你。";
+
+"iap.tablebanner.purchase.completed.chips" = "购买成功。{0} 个筹码已添加到你的钱包中。";
+"iap.tablebanner.purchase.completed.gold" = "购买成功。{0} 枚金币已添加到你的钱包中";
+"iap.tablebanner.purchase.completed.bundle" = "购买成功。{0} 个筹码以及 {1} 枚金币已添加到你的钱包中";
+
+"loot.tooltip.text" = "在我们的帮助页面上了解关于\n可有的奖品以及赔付表的更多\n详情。";
+"loot.tooltip.button" = "现在就查看";
+
+"megaluckybonus.watchtoearn.freespin" = "观看即可获得免费拉霸";
+
+//FTUE v2 lucky bonus
+"ftueV2.luckybonus.spinluckybonus" = "转动拉霸获取\n免费筹码！";
+"ftueV2.luckybonus.taptospin" = "轻按此处\n即可旋转拉霸！";
+"ftueV2.luckybonus.comebackeveryday" = "每天回来即可\n提高你的奖励。";
+"ftueV2.luckybonus.megaluckybonus" = "这是特大幸运奖励！使用金币来旋转以获取更多筹码！";
+
+//FUTE v2 stakes slider on-rails
+"ftueV2.stakesslider.readytoplay" = "你已准备好游玩德州扑克！我们去挑选一张牌桌吧。";
+"ftueV2.stakesslider.pickedatable" = "我为你挑选了一张好牌桌。是时候玩游戏了！";
+"ftueV2.stakesslider.usethisslider" = "你可以使用该滑块来更改赌注并赢取更多筹码！试一试吧。";
+
+//FUTE v2 feature FTUEs
+"ftueV2.featureftue.handstrengthmeter" = "只需一小部分你所赢得的筹码，就能了解你手牌的力量。更多信息，请见“设置”。";
+"ftueV2.featureftue.jackpot" = "你玩的每一局都有可能赢得头奖的筹码奖金哦！";
+
+//FTUE v2 tutorial
+"ftueV2.tutorial.welcometozp" = "欢迎来玩《Zynga德州扑克》！";
+"ftueV2.tutorial.taptocontinue" = "[i]点击继续[-]";
+"ftueV2.tutorial.practicehand" = "在你参与真正的牌桌前，先玩一局练手吧！";
+"ftueV2.tutorial.holecards" = "这些是你的底牌。";
+"ftueV2.tutorial.flop" = "翻牌翻得真棒！是时候提高你的赌注了。";
+"ftueV2.tutorial.choosebet" = "拖拽或点击来选择你的赌注金额。";
+"ftueV2.tutorial.confirmbet" = "确认你的赌注！";
+"ftueV2.tutorial.raise" = "如果另一名玩家下注，你可以跟注来匹配他们的赌注。";
+"ftueV2.tutorial.thanksforplaying" = "感谢你来游玩练习局。这${0}筹码是你的了！";
+"ftueV2.tutorial.readytoplaylive" = "准备好参与实时扑克牌桌了吗？";
+"ftueV2.tutorial.replaypractice" = "重玩练习";
+"ftueV2.tutorial.letsgo" = "走吧！";
+"ftueV2.tutorial.practicecompleted" = "练习已完成";
+
+// MessagingCenter
+"messagingCenter.ftue.lobbyButton" = "查看Zynga德州扑克新闻，获取免费筹码！";
+"messagingCenter.ftue.newsTab" = "在此处浏览最新新闻和活动！";
+"messagingCenter.ftue.giftsTab" = "在此处发送和接受好友奖励！";
+
+"messagingCenter.harness.empty" = "没有新的更新！请稍后回来查看！";
+"messagingCenter.harness.error" = "我们在收取你的信息时遇到了问题。请检查你的网络连接状态后重新尝试！";
+"messagingCenter.harness.loading" = "正在加载更新……";
+"messagingCenter.harness.newsTitle" = "全新内容";
+"messagingCenter.harness.newsTab" = "新闻";
+"messagingCenter.harness.giftsTitle" = "好友奖励";
+"messagingCenter.harness.giftsTab" = "奖励";

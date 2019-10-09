@@ -1,0 +1,747 @@
+{
+   "_id": "configuration/poker",
+   "_rev": "200-837c2b060411c2e7db6c4ce6c3a82c0b",
+   "ns": "poker",
+   "projectConfig": {
+       "projectName": "Poker {locales} {keys} T{taskNum}",
+       "projects": [
+           {
+               "projectGroup": "project_gendered",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "ladder/gendered",
+                   "flash/gendered",
+                   "php/gendered",
+                   "pn/gendered",
+                   "inbox/gendered"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_neutral",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "zh_TW",
+                   "tr_TR",
+                   "ko_KR",
+                   "ja_JP",
+                   "id_ID"
+               ],
+               "keys": [
+                   "ladder/neutral",
+                   "flash/neutral",
+                   "php/neutral",
+                   "pn/neutral",
+                   "inbox/neutral"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_generic",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "zh_TW",
+                   "tr_TR",
+                   "de_DE",
+                   "it_IT",
+                   "ko_KR",
+                   "ja_JP",
+                   "id_ID"
+               ],
+               "keys": [
+                   "smartfox",
+                   "graphics",
+                   "tutorial",
+                   "inbox"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_neuter_1",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE"
+               ],
+               "keys": [
+                   "ladder/neuter",
+                   "flash/neuter",
+                   "php/neuter",
+                   "smartfox",
+                   "graphics",
+                   "tutorial",
+                   "pn/neuter",
+                   "inbox/neuter"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_neutral_pn_only",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID"
+               ],
+               "keys": [
+                   "pn/neutral"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           // didn't add
+           {
+               "projectGroup": "project_simp_chinese",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_USp/neutral,pn/neutral,inbox/neutral,smartfox",
+               "targetLocales": [
+                   "zh_CN"
+               ],
+               "keys": [
+                   "php/neutral",
+                   "pn/neutral",
+                   "inbox/neutral",
+                   "smartfox"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_russian",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "ru_RU"
+               ],
+               "keys": [
+                   "php/russian",
+                   "pn/russian",
+                   "inbox/russian",
+                   "smartfox"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "NONE",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "580922",
+                   "972934",
+                   "4119219",
+                   "4629436",
+                   "12013876"
+               ],
+               "customerId": "25823",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           }
+       ],
+       "projectOptions": [
+           {
+               "assignLinguists": "1",
+               "startProjects": "1"
+           }
+       ],
+       "customerId": "25823",
+       "tmCustomers": [
+           {
+               "id": "25823"
+           },
+           {
+               "id": "580922"
+           },
+           {
+               "id": "972934"
+           },
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           },
+           {
+               "id": "12013876"
+           }
+       ],
+       "termCustomers": [
+           {
+               "id": "25823"
+           },
+           {
+               "id": "580922"
+           },
+           {
+               "id": "972934"
+           },
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           }
+       ]
+   },
+   "fileConfig": {
+       "resources": [
+           {
+               "key": "ladder",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "ladder/gendered",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "ladder/neuter",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "ladder/neutral",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "ladder/common",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "ladder/arabic",
+               "finishedKey": "ladder",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash/gendered",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash/neuter",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash/neutral",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash/common",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "flash/arabic",
+               "finishedKey": "flash",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/gendered",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/neuter",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/neutral",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/common",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/arabic",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "smartfox",
+               "finishedKey": "smartfox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "graphics",
+               "finishedKey": "graphics",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "tutorial",
+               "finishedKey": "tutorial",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn/neuter",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn/gendered",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn/neutral",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn/common",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/neuter",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/common",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/gendered",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/neutral",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/arabic",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "faqs",
+               "finishedKey": "faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "messaging",
+               "finishedKey": "messaging",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn/russian",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "php/russian",
+               "finishedKey": "php",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "inbox/russian",
+               "finishedKey": "inbox",
+               "sourceUri": "",
+               "targetUri": ""
+           }
+       ]
+   },
+   "processingServiceConfig": {
+       "services": [
+           {
+               "serviceType": "PreProcess",
+               "processingProcessor": "ArabicZlocTokenSwapPreProcessor",
+               "keys": [
+                   "ladder/arabic",
+                   "flash/arabic",
+                   "php/arabic",
+                   "pn/arabic",
+                   "inbox/arabic"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "GenericZlocGenderPostProcessor",
+               "keys": [
+                   "ladder/gendered",
+                   "ladder/neuter",
+                   "flash/gendered",
+                   "flash/neuter",
+                   "php/gendered",
+                   "php/neuter",
+                   "pn/gendered",
+                   "pn/neuter",
+                   "inbox/gendered",
+                   "inbox/neuter",
+                   "php/russian",
+                   "inbox/russian",
+                   "pn/russian"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "StandardTextPostProcessor",
+               "keys": [
+                   "ladder",
+                   "ladder/gendered",
+                   "ladder/neuter",
+                   "ladder/neutral",
+                   "ladder/common",
+                   "ladder/arabic",
+                   "flash",
+                   "flash/gendered",
+                   "flash/neuter",
+                   "flash/neutral",
+                   "flash/common",
+                   "flash/arabic",
+                   "php",
+                   "php/gendered",
+                   "php/neuter",
+                   "php/neutral",
+                   "php/common",
+                   "php/arabic",
+                   "pn",
+                   "pn/gendered",
+                   "pn/neuter",
+                   "pn/neutral",
+                   "pn/common",
+                   "pn/arabic",
+                   "inbox",
+                   "inbox/gendered",
+                   "inbox/neuter",
+                   "inbox/neutral",
+                   "inbox/common",
+                   "inbox/arabic",
+                   "faqs",
+                   "php/russian",
+                   "inbox/russian",
+                   "pn/russian"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "GenericZlocTokenAutoCorrectProcessor",
+               "keys": [
+                   "ladder",
+                   "ladder/gendered",
+                   "ladder/neuter",
+                   "ladder/neutral",
+                   "ladder/common",
+                   "ladder/arabic",
+                   "flash",
+                   "flash/gendered",
+                   "flash/neuter",
+                   "flash/neutral",
+                   "flash/common",
+                   "flash/arabic",
+                   "php",
+                   "php/gendered",
+                   "php/neuter",
+                   "php/neutral",
+                   "php/common",
+                   "php/arabic",
+                   "pn",
+                   "pn/gendered",
+                   "pn/neuter",
+                   "pn/neutral",
+                   "pn/common",
+                   "pn/arabic",
+                   "inbox",
+                   "inbox/gendered",
+                   "inbox/neuter",
+                   "inbox/neutral",
+                   "inbox/common",
+                   "inbox/arabic",
+                   "faqs",
+                   "php/russian",
+                   "inbox/russian",
+                   "pn/russian"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "GenericZlocTokenPostProcessor",
+               "keys": [
+                   "ladder",
+                   "ladder/gendered",
+                   "ladder/neuter",
+                   "ladder/neutral",
+                   "ladder/common",
+                   "ladder/arabic",
+                   "flash",
+                   "flash/gendered",
+                   "flash/neuter",
+                   "flash/neutral",
+                   "flash/common",
+                   "flash/arabic",
+                   "php",
+                   "php/gendered",
+                   "php/neuter",
+                   "php/neutral",
+                   "php/common",
+                   "php/arabic",
+                   "pn",
+                   "pn/gendered",
+                   "pn/neuter",
+                   "pn/neutral",
+                   "pn/common",
+                   "pn/arabic",
+                   "inbox",
+                   "inbox/gendered",
+                   "inbox/neuter",
+                   "inbox/neutral",
+                   "inbox/common",
+                   "inbox/arabic",
+                   "faqs",
+                   "php/russian",
+                   "inbox/russian",
+                   "pn/russian"
+               ],
+               "ignoreSpaces": null
+           }
+       ]
+   },
+   "processingExceptionConfig": {
+       "exceptions": [
+           {
+               "processingProcessor": "ArabicZlocTextPreProcessor",
+               "exception": ""
+           }
+       ]
+   },
+   "creationDate": 1323136335,
+   "modifiedDate": 1554486297,
+   "vendorAssignment": {
+       "zh_CN": "Keywords",
+       "ja_JP": "Keywords",
+       "ar_EG": "SDL",
+       "de_DE": "Keywords",
+       "es_ES": "Keywords",
+       "fr_FR": "Keywords",
+       "pt_BR": "Keywords",
+       "id_ID": "Keywords",
+       "zh_TW": "Keywords",
+       "tr_TR": "Keywords",
+       "it_IT": "Keywords",
+       "ko_KR": "Keywords",
+       "ru_RU": "Keywords"
+   },
+   "updatedVendorAssignment": true,
+   "type": "configuration"
+}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1403950602-contents" hash="75e60f6fb67cf6971ebbd902619c1107">
+   <original>케이크 탐험이 시작되었습니다! 어서 와서 다른 케이크 탐험가 친구들이 보물에 도달하게 도와주세요!</original>
+  </string>
+  <string key="1403950603-contents" hash="62aa7e57f6b4b520a04b0fcb79e956bd">
+   <original>"서두르세요. 케이크 탐험이 곧 끝납니다! 케이크 탐험가 친구들에게 도움이 필요합니다!{nl}"</original>
+  </string>
+  <string key="1403964477-contents" hash="caf39e56dea29a483d376289d0ece763">
+   <original>내 크레이지 케이크를 꾸미고 친구들과 함께 우정의 날을 축하하세요!</original>
+  </string>
+  <string key="1403952971-contents" hash="5bd8aea164a4a0f5467395826f95dd37">
+   <original>&#x1f4b0; 레벨 1242이 수정되었습니다!!!! 돌아와서 플레이하세요&#x1f4b0;</original>
+  </string>
+  <string key="1403952971-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>게임 내 사용을 위한 일반 알림, 게임 친구와 연동</original>
+  </string>
+  <string key="1404002403-contents" hash="c271f09c7baab1238f669a4cd2e20aa8">
+   <original>&#x1f375;쾌활한 칠면조! 칠면조를 잃지 마세요!&#x1f375;</original>
+  </string>
+  <string key="1403956837-contents" hash="920dbe70efa68829bdbed0e8f9cdb244">
+   <original>내 크레이지 케이크를 꾸미고 친구들과 함께 7월 4일을 축하하세요!</original>
+  </string>
+  <string key="1404002418-contents" hash="9416012737d5cecc3889830250c0fe4a">
+   <original>&#x1f4b0; 레벨 1251이 수정되었습니다!!!! 돌아와서 플레이하세요&#x1f4b0;</original>
+  </string>
+  <string key="1404002418-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>게임 내 사용을 위한 일반 알림, 게임 친구와 연동</original>
+  </string>
+  <string key="1404002419-contents" hash="8f9901025156ea646d0b132ebc804167">
+   <original>&#x1f4b0; 레벨 1296이 수정되었습니다!!!! 돌아와서 플레이하세요&#x1f4b0;</original>
+  </string>
+  <string key="1404002419-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>게임 내 사용을 위한 일반 알림, 게임 친구와 연동</original>
+  </string>
+  <string key="1403936928-contents" hash="8451f9170f73dacefd1ca0f55c01f224">
+   <original>&#x1f496; 이벤트 관련 문제를 해결했습니다! 따라잡을 수 있도록 2시간 무제한 생명을 드립니다!&#x1f496;</original>
+  </string>
+  <string key="1404017058-contents" hash="95ee7877bb8e70d5922f8c4bc2c61888">
+   <original>셰프 연구소가 돌아왔습니다!</original>
+  </string>
+  <string key="1404017058-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>케이크 전쟁 순위표 하락</original>
+  </string>
+  <string key="1403992762-contents" hash="c32b2f989d56cbc1afb8023f6f7e0d6d">
+   <original>호박을 모아서 신나는 보상을 받으세요!</original>
+  </string>
+  <string key="1403992763-contents" hash="713393964c74d56933f537e7204eb008">
+   <original>호박을 잃지 마세요!</original>
+  </string>
+  <string key="1403970773-contents" hash="802181977e7e64db6484580cf103ca87">
+   <original>망치를 충전해 얼마나 세게 칠 수 있는지 보여주세요!</original>
+  </string>
+  <string key="1403951318-contents" hash="87cffafa2a37a74c01e9cd795f1ca30f">
+   <original>&#x1f4b0; 이번 주 다이아몬드 리그에서 승리해 추가 골드 10개를 받으세요!&#x1f4b0;</original>
+  </string>
+  <string key="1403951318-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>게임 내 사용을 위한 일반 알림, 게임 친구와 연동</original>
+  </string>
+  <string key="1404005079-contents" hash="d6d8ac439ca13adcb571ae8b4fffb578">
+   <original>{{{message}}}</original>
+  </string>
+  <string key="1404005079-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>케이크 전쟁 순위표 하락</original>
+  </string>
+  <string key="1404022999-contents" hash="960be9b1d427778c957656632f7def97">
+   <original>&#x1f375;제빵사 리그가 곧 종료됩니다. 새로운 시즌을 준비하세요.&#x1f375;</original>
+  </string>
+  <string key="1403970778-contents" hash="b8a1f059fd9e7c1287a66b356c4524ed">
+   <original>서둘러요! 타이머가 끝나기 전에 망치를 완전히 충전해 종을 울리세요!</original>
+  </string>
+  <string key="1404042990-contents" hash="a61ab87ed180ff9bebe5a6cf5c1e8102">
+   <original>이런! 크레이지 클로버가 거의 끝나갑니다! 돌아오세요! 클로버를 모아 신나는 보상을 받으세요!</original>
+  </string>
+  <string key="1404042991-contents" hash="87acb7201bb9462e05f41b57d85dccee">
+   <original>클로버를 모아서 신나는 보상을 받으세요!</original>
+  </string>
+ </pkg>
+</strings>

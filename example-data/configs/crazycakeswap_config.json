@@ -1,0 +1,253 @@
+{
+   "_id": "configuration/crazycakeswap",
+   "_rev": "81-423fddec8e0b79b984e8b8879f924cc4",
+   "ns": "crazycakeswap",
+   "projectConfig": {
+       "projectName": "CrazyCakeSwap {keys} {locales} Task {taskNum}",
+       "projects": [
+           {
+               "projectGroup": "project_strings",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "pt_BR",
+                   "fr_FR",
+                   "de_DE",
+                   "it_IT",
+                   "ko_KR",
+                   "ja_JP",
+                   "es_ES",
+                   "zh_TW",
+                   "zh_CN",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "strings"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "tmCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "customerId": "16901803",
+               "contentType": "17635051",
+               "businessUnit": "18802065"
+           },
+           {
+               "projectGroup": "project_faqs",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "pt_BR",
+                   "fr_FR",
+                   "de_DE",
+                   "it_IT",
+                   "ko_KR",
+                   "ja_JP",
+                   "es_ES",
+                   "zh_TW",
+                   "zh_CN",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "faqs"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "16901803"
+               ],
+               "tmCustomers": [
+                   "16901803"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18802065"
+           },
+           {
+               "projectGroup": "project_iap",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "ja_JP",
+                   "ko_KR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "iap"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "tmCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "customerId": "16901803",
+               "contentType": "17635049",
+               "businessUnit": "18802065"
+           },
+           {
+               "projectGroup": "project_pn",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "pt_BR",
+                   "fr_FR",
+                   "de_DE",
+                   "it_IT",
+                   "ko_KR",
+                   "ja_JP",
+                   "es_ES",
+                   "zh_TW",
+                   "zh_CN",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "pn"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "tmCustomers": [
+                   "4119219",
+                   "4629436",
+                   "14798801"
+               ],
+               "customerId": "16901803",
+               "contentType": "17635053",
+               "businessUnit": "18802065"
+           }
+       ],
+       "projectOptions": [
+           {
+               "assignLinguists": "1",
+               "startProjects": "1"
+           }
+       ],
+       "customerId": "14798801",
+       "tmCustomers": [
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           }
+       ],
+       "termCustomers": [
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           }
+       ]
+   },
+   "fileConfig": {
+       "resources": [
+           {
+               "key": "strings",
+               "finishedKey": "strings",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "faqs",
+               "finishedKey": "faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "iap",
+               "finishedKey": "iap",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           }
+       ]
+   },
+   "processingServiceConfig": {
+       "services": [
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "StandardTextPostProcessor",
+               "keys": [
+                   "iap"
+               ],
+               "ignoreSpaces": null
+           }
+       ]
+   },
+   "processingExceptionConfig": {
+       "exceptions": [
+           {
+               "processingProcessor": "ArabicZlocTextPreProcessor",
+               "exception": ""
+           }
+       ]
+   },
+   "creationDate": 1323136335,
+   "modifiedDate": 1559854128,
+   "vendorAssignment": {
+       "pt_BR": "Keywords",
+       "it_IT": "Keywords",
+       "fr_FR": "Keywords",
+       "es_ES": "Keywords",
+       "da_DK": "Keywords",
+       "nb_NO": "Keywords",
+       "nl_NL": "Keywords",
+       "sv_SE": "Keywords",
+       "de_DE": "Keywords",
+       "id_ID": "Keywords",
+       "ja_JP": "Keywords",
+       "ko_KR": "Keywords",
+       "tr_TR": "Keywords",
+       "zh_CN": "Keywords",
+       "zh_TW": "Keywords",
+       "ru_RU": "Keywords",
+       "pl_PL": "Keywords",
+       "ar_EG": "Keywords"
+   },
+   "updatedVendorAssignment": true,
+   "type": "configuration"
+}

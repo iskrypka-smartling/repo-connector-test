@@ -1,0 +1,42 @@
+.
+├── crazycakeswap
+│   ├── English.txt
+│   ├── French.txt
+│   ├── German.txt
+│   ├── Italian.txt
+│   ├── Japanese.txt
+│   ├── Korean.txt
+│   ├── Portuguese.txt
+│   ├── Russian.txt
+│   ├── Simplified_Chinese.txt
+│   ├── Spanish.txt
+│   └── Traditional_Chinese.txt
+├── crazykitchen
+│   ├── Dutch.txt
+│   ├── English.txt
+│   ├── French.txt
+│   ├── German.txt
+│   ├── Italian.txt
+│   ├── Japanese.txt
+│   ├── Korean.txt
+│   ├── Portuguese.txt
+│   ├── Russian.txt
+│   ├── Simplified_Chinese.txt
+│   ├── Spanish.txt
+│   └── Traditional_Chinese.txt
+├── yummygummy
+│   ├── Dutch.txt
+│   ├── English.txt
+│   ├── French.txt
+│   ├── German.txt
+│   ├── Italian.txt
+│   ├── Japanese.txt
+│   ├── Korean.txt
+│   ├── Portuguese.txt
+│   ├── Russian.txt
+│   ├── Simplified_Chinese.txt
+│   ├── Spanish.txt
+│   └── Traditional_Chinese.txt
+└── zindagi_locale.tree
+
+3 directories, 36 files

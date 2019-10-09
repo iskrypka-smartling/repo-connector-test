@@ -1,0 +1,493 @@
+{
+   "_id": "configuration/poker2",
+   "_rev": "241-f1e752b5ced6f6facdd441efccfac8d7",
+   "ns": "poker2",
+   "projectConfig": {
+       "projectName": "Poker2 {locales} {keys} Task {taskNum}",
+       "projects": [
+           {
+               "projectGroup": "project_generic",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "pt_BR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID",
+                   "tr_TR"
+               ],
+               "keys": [
+                   "Localizable"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876",
+                   "25823",
+                   "580922",
+                   "972934"
+               ],
+               "tmCustomers": [
+                   "12013876",
+                   "25823",
+                   "580922",
+                   "972934"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_faqs",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "tr_TR",
+                   "zh_CN",
+                   "id_ID",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "faqs"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_email",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "pt_BR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID",
+                   "tr_TR"
+               ],
+               "keys": [
+                   "email"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "12013876"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635058",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_pn",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "pt_BR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID",
+                   "tr_TR"
+               ],
+               "keys": [
+                   "pn"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "12013876"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635053",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_classic_faqs",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "zh_TW",
+                   "ja_JP"
+               ],
+               "keys": [
+                   "classic_faqs"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_russian",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "ru_RU"
+               ],
+               "keys": [
+                   "Localizable"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_russian_faqs",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "ru_RU"
+               ],
+               "keys": [
+                   "russian_faqs"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "25823",
+                   "12013876"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_a2u",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "pt_BR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID",
+                   "tr_TR"
+               ],
+               "keys": [
+                   "a2u"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "12013876"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635053",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_direct_pay",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "id_ID",
+                   "tr_TR"
+               ],
+               "keys": [
+                   "direct_pay"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876"
+               ],
+               "tmCustomers": [
+                   "12013876"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635054",
+               "businessUnit": "18599149"
+           },
+           {
+               "projectGroup": "project_test_xml",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "pt_BR",
+                   "zh_CN",
+                   "zh_TW",
+                   "ja_JP",
+                   "ko_KR",
+                   "id_ID",
+                   "tr_TR",
+                   "ru_RU"
+               ],
+               "keys": [
+                   "test_xml"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "12013876",
+                   "25823",
+                   "580922",
+                   "972934"
+               ],
+               "tmCustomers": [
+                   "12013876",
+                   "25823",
+                   "580922",
+                   "972934"
+               ],
+               "customerId": "12013876",
+               "contentType": "17635051",
+               "businessUnit": "18599149"
+           }
+       ],
+       "projectOptions": [
+           {
+               "assignLinguists": "1",
+               "startProjects": "1"
+           }
+       ],
+       "customerId": "12013876",
+       "tmCustomers": [
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           },
+           {
+               "id": "25823"
+           },
+           {
+               "id": "580922"
+           },
+           {
+               "id": "972934"
+           },
+           {
+               "id": "12013876"
+           }
+       ],
+       "termCustomers": [
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           },
+           {
+               "id": "580922"
+           },
+           {
+               "id": "25823"
+           },
+           {
+               "id": "972934"
+           },
+           {
+               "id": "12013876"
+           }
+       ]
+   },
+   "fileConfig": {
+       "resources": [
+           {
+               "key": "Localizable",
+               "finishedKey": "Localizable",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "faqs",
+               "finishedKey": "faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "email",
+               "finishedKey": "email",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "classic_faqs",
+               "finishedKey": "classic_faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "russian_faqs",
+               "finishedKey": "russian_faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "a2u",
+               "finishedKey": "a2u",
+               "sourceUri": "",
+               "targetUri": ""
+           }
+       ]
+   },
+   "processingServiceConfig": {
+       "services": [
+           {
+               "serviceType": "PreProcess",
+               "processingProcessor": "EnforceUtf8EncodingPreProcessor",
+               "keys": [
+                   "dummy"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "GenericZlocGenderPostProcessor",
+               "keys": [
+                   "dummy"
+               ],
+               "ignoreSpaces": null
+           }
+       ]
+   },
+   "processingExceptionConfig": {
+       "exceptions": [
+           {
+               "processingProcessor": "ArabicZlocTextPreProcessor",
+               "exception": ""
+           }
+       ]
+   },
+   "creationDate": 1323136335,
+   "modifiedDate": 1555535279,
+   "vendorAssignment": {
+       "es_ES": "Keywords",
+       "fr_FR": "Keywords",
+       "it_IT": "Keywords",
+       "de_DE": "Keywords",
+       "pt_BR": "Keywords",
+       "zh_CN": "Keywords",
+       "zh_TW": "Keywords",
+       "ja_JP": "Keywords",
+       "ko_KR": "Keywords",
+       "id_ID": "Keywords",
+       "tr_TR": "Keywords",
+       "ru_RU": "Keywords"
+   },
+   "updatedVendorAssignment": true,
+   "type": "configuration"
+}

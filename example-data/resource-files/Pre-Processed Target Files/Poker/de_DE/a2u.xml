@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1403970590-contents" hash="9e39e22b4429e3e037402aa4c0a0f33a">
+   <original>Mit Zynga Poker wirst du haufenweise Spaß haben.</original>
+  </string>
+  <string key="1403970590-subject" hash="812f2c01287af0e7c0a0b3daa381a51a">
+   <original>Amüsier dich!</original>
+  </string>
+  <string key="1403970592-contents" hash="a86e8ada785a1f8ddccba5a5e6ef8b51">
+   <original>Erkämpfe einen Pot und meistere deine wöchentlichen Herausforderungen.</original>
+  </string>
+  <string key="1403970592-subject" hash="806cdf4aab1ab3f5c80d1ab407ea3a7e">
+   <original>Mach dich bereit!</original>
+  </string>
+  <string key="1403970594-contents" hash="fb170f87a142169305a96709f84ed232">
+   <original>Komm zurück an die Tische und nimm Platz.</original>
+  </string>
+  <string key="1403970594-subject" hash="75fd0f1641e2a88886cd3729367732cb">
+   <original>Du bist eingeladen!</original>
+  </string>
+  <string key="1403970595-contents" hash="c0881433275626480c06764327564537">
+   <original>Setze Chips, Gold und Tickets gut ein. Spiele heute eine Hand.</original>
+  </string>
+  <string key="1403970595-subject" hash="4d2a09aa1453e75240cd6f47ea37f510">
+   <original>Komm herein!</original>
+  </string>
+  <string key="1403970596-contents" hash="9334a8f9ea725eb28ad32c6c57c7297b">
+   <original>Setze deine Gegner unter Druck. Spiele eine Hand oder nimm an einem Turnier teil.</original>
+  </string>
+  <string key="1403970596-subject" hash="5671193b4eccf622342a7a79b682a80f">
+   <original>Zeige dein Können!</original>
+  </string>
+ </pkg>
+</strings>

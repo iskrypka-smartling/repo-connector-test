@@ -1,0 +1,74 @@
+.
+├── README
+├── bin
+│   └── test_loc_braces.py
+├── coalesce.sh
+├── da_DK.xml
+├── de_DE.xml
+├── download.sh
+├── es_ES.xml
+├── farm2_locale.tree
+├── fr_FR.xml
+├── id_ID.xml
+├── it_IT.xml
+├── ja_JP.xml
+├── ko_KR.xml
+├── nb_NO.xml
+├── nl_NL.xml
+├── nouveau
+│   ├── 2019_07_01_19_36_29_q3_2019_community_clash_reskin.nouveau
+│   ├── 2019_07_01_19_46_14_q3_2019_partner_mech_reskin.nouveau
+│   ├── 2019_07_01_19_54_39_q3_2019_fotw_advent_fairytale_festival.nouveau
+│   ├── 2019_07_01_20_03_08_q3_2019_fotw_wandering_pigs.nouveau
+│   ├── 2019_07_01_20_11_09_content-release_2019_q3_le_06.nouveau
+│   ├── 2019_07_01_20_19_23_q3_2019_opt_2_community_event_reskin_m.nouveau
+│   ├── 2019_07_01_20_27_24_air_app_survey_v3.nouveau
+│   └── 2019_07_01_20_34_58_air_preload_text.nouveau
+├── pt_BR.xml
+├── raw
+│   ├── README
+│   ├── ar_EG.xml
+│   ├── common.xml
+│   ├── da_DK.xml
+│   ├── de_DE.xml
+│   ├── en_RAW.xml
+│   ├── en_US.xml
+│   ├── en_US.xml.ar_EG
+│   ├── es_ES.xml
+│   ├── fr_FR.xml
+│   ├── gendered.xml
+│   ├── id_ID.xml
+│   ├── it_IT.xml
+│   ├── ja_JP.xml
+│   ├── ko_KR.xml
+│   ├── nb_NO.xml
+│   ├── neuter.xml
+│   ├── neutral.xml
+│   ├── nl_NL.xml
+│   ├── pt_BR.xml
+│   ├── sv_SE.xml
+│   ├── th_TH.xml
+│   ├── tr_TR.xml
+│   └── zh_TW.xml
+├── sv_SE.xml
+├── th_TH.xml
+├── tr_TR.xml
+├── zh_TW.xml
+└── zsc
+    ├── ar_EG.xml
+    ├── da_DK.xml
+    ├── de_DE.xml
+    ├── es_ES.xml
+    ├── fr_FR.xml
+    ├── id_ID.xml
+    ├── it_IT.xml
+    ├── ja_JP.xml
+    ├── nb_NO.xml
+    ├── nl_NL.xml
+    ├── pt_BR.xml
+    ├── sv_SE.xml
+    ├── th_TH.xml
+    ├── tr_TR.xml
+    └── zh_TW.xml
+
+4 directories, 67 files

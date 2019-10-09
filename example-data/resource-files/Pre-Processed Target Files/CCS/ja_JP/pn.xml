@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1403950602-contents" hash="75e60f6fb67cf6971ebbd902619c1107">
+   <original>ケーキスプロレーションがプレイ可能になったよ！ケーキスプローラーの友達が宝を手に入れるのを手伝おう！</original>
+  </string>
+  <string key="1403950603-contents" hash="62aa7e57f6b4b520a04b0fcb79e956bd">
+   <original>「急いで，ケーキスプロレーションがもうすぐ終了するよ！ケーキスプローラーの友達が君の助けを必要としているよ！{nl}」</original>
+  </string>
+  <string key="1403964477-contents" hash="caf39e56dea29a483d376289d0ece763">
+   <original>クレイジーケーキをカスタマイズして、友達と友情の日をお祝いしよう！</original>
+  </string>
+  <string key="1403952971-contents" hash="5bd8aea164a4a0f5467395826f95dd37">
+   <original>&#x1f4b0;レべル1242が修正されたよ！！！戻ってプレイしよう&#x1f4b0;</original>
+  </string>
+  <string key="1403952971-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>ゲーム上の友達にリンクする、ゲーム内での使用に関する一般的な通知。</original>
+  </string>
+  <string key="1404002403-contents" hash="c271f09c7baab1238f669a4cd2e20aa8">
+   <original>&#x1f375;陽気なターキー！ターキーをなくさないでね！&#x1f375;</original>
+  </string>
+  <string key="1403956837-contents" hash="920dbe70efa68829bdbed0e8f9cdb244">
+   <original>クレイジーケーキをカスタマイズして、友達と７月４日をお祝いしよう！</original>
+  </string>
+  <string key="1404002418-contents" hash="9416012737d5cecc3889830250c0fe4a">
+   <original>&#x1f4b0;レべル1251が修正されたよ！！！戻ってプレイしよう&#x1f4b0;</original>
+  </string>
+  <string key="1404002418-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>ゲーム上の友達にリンクする、ゲーム内での使用に関する一般的な通知。</original>
+  </string>
+  <string key="1404002419-contents" hash="8f9901025156ea646d0b132ebc804167">
+   <original>&#x1f4b0;レべル1296が修正されたよ！！！戻ってプレイしよう&#x1f4b0;</original>
+  </string>
+  <string key="1404002419-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>ゲーム上の友達にリンクする、ゲーム内での使用に関する一般的な通知。</original>
+  </string>
+  <string key="1403936928-contents" hash="8451f9170f73dacefd1ca0f55c01f224">
+   <original>&#x1f496;イベントに関する問題が修正されたよ！ 君が追いつけるように無限ライフ2時間を追加！&#x1f496;</original>
+  </string>
+  <string key="1404017058-contents" hash="95ee7877bb8e70d5922f8c4bc2c61888">
+   <original>シェフラボが戻って来たよ！</original>
+  </string>
+  <string key="1404017058-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>ケーキ・ウォーズのランキングドロップ</original>
+  </string>
+  <string key="1403992762-contents" hash="c32b2f989d56cbc1afb8023f6f7e0d6d">
+   <original>カボチャを集めてワクワクするような報酬を手に入れよう！</original>
+  </string>
+  <string key="1403992763-contents" hash="713393964c74d56933f537e7204eb008">
+   <original>カボチャを全部手に入れよう！</original>
+  </string>
+  <string key="1403970773-contents" hash="802181977e7e64db6484580cf103ca87">
+   <original>ハンマーを充電して強く叩こう！</original>
+  </string>
+  <string key="1403951318-contents" hash="87cffafa2a37a74c01e9cd795f1ca30f">
+   <original>&#x1f4b0; 今週ダイアモンドリーグで大勝利して追加で10ゴールドを手に入れよう！&#x1f4b0;</original>
+  </string>
+  <string key="1403951318-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>ゲーム上の友達にリンクする、ゲーム内での使用に関する一般的な通知。</original>
+  </string>
+  <string key="1404005079-contents" hash="d6d8ac439ca13adcb571ae8b4fffb578">
+   <original>{{{メッセージ}}}</original>
+  </string>
+  <string key="1404005079-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>ケーキ・ウォーズのランキングドロップ</original>
+  </string>
+  <string key="1404022999-contents" hash="960be9b1d427778c957656632f7def97">
+   <original>&#x1f375;ケーキ職人リーグがもうすぐ終了するよ。新しいシーズンに向けて準備をしよう。&#x1f375;</original>
+  </string>
+  <string key="1403970778-contents" hash="b8a1f059fd9e7c1287a66b356c4524ed">
+   <original>急いで！ハンマーをフル充電して時間切れになる前にベルを鳴らそう！</original>
+  </string>
+  <string key="1404042990-contents" hash="a61ab87ed180ff9bebe5a6cf5c1e8102">
+   <original>あらら！クレイジークローバーがもうすぐ終わっちゃうよ！戻ってきて！クローバーを集めて、ワクワクするような賞品を手に入れよう！</original>
+  </string>
+  <string key="1404042991-contents" hash="87acb7201bb9462e05f41b57d85dccee">
+   <original>クローバーを集めてワクワクするような報酬を手に入れよう！</original>
+  </string>
+ </pkg>
+</strings>

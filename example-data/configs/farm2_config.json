@@ -1,0 +1,570 @@
+{
+   "_id": "configuration/farm2",
+   "_rev": "295-d9e6078fb74409194e1b09b75bccdc1f",
+   "ns": "farm2",
+   "projectConfig": {
+       "projectName": "Farm2 {keys} {locales} Task {taskNum}",
+       "projects": [
+           {
+               "projectGroup": "project_neuter",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE"
+               ],
+               "keys": [
+                   "neuter"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635051",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_neutral",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH"
+               ],
+               "keys": [
+                   "neutral"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635051",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_common",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE"
+               ],
+               "keys": [
+                   "common"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635051",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_gendered",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "gendered"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "tmCustomers": [
+                   "2159408",
+                   "4119219",
+                   "4629436"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635051",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_faqs",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "ja_JP",
+                   "tr_TR",
+                   "nl_NL",
+                   "da_DK",
+                   "sv_SE",
+                   "nb_NO"
+               ],
+               "keys": [
+                   "faqs"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_messaging",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE",
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH",
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE",
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "messaging"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635058",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_iap",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE",
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH",
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE",
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "iap"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635049",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_faqs_no",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "nb_NO"
+               ],
+               "keys": [
+                   "faqs_new"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_helpshift",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "fr_FR",
+                   "it_IT",
+                   "de_DE",
+                   "es_ES",
+                   "pt_BR",
+                   "ja_JP",
+                   "tr_TR",
+                   "nl_NL",
+                   "da_DK",
+                   "sv_SE",
+                   "nb_NO"
+               ],
+               "keys": [
+                   "helpshift"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "16633485",
+               "contentType": "17635050",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_email",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE",
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH",
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE",
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "email"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635058",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_pn",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE",
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH",
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE",
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "pn"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635053",
+               "businessUnit": "18802056"
+           },
+           {
+               "projectGroup": "project_a2u",
+               "workflow": "TRANSLATE_CORRECT",
+               "sourceLocale": "en_US",
+               "targetLocales": [
+                   "de_DE",
+                   "tr_TR",
+                   "ja_JP",
+                   "th_TH",
+                   "nl_NL",
+                   "da_DK",
+                   "nb_NO",
+                   "sv_SE",
+                   "es_ES",
+                   "fr_FR",
+                   "pt_BR",
+                   "it_IT"
+               ],
+               "keys": [
+                   "a2u"
+               ],
+               "allowEditingOfICEMatches": "1",
+               "usesNotApprovedTranslationMemory": "1",
+               "leveragesAsDONE": "NOT_LAST_STEP",
+               "nonTransAsDONE": "ALL_STEPS",
+               "useLemmatizer": null,
+               "termCustomers": [
+                   "2159408"
+               ],
+               "tmCustomers": [
+                   "2159408"
+               ],
+               "customerId": "2159408",
+               "contentType": "17635053",
+               "businessUnit": "18802056"
+           }
+       ],
+       "projectOptions": [
+           {
+               "assignLinguists": "1",
+               "startProjects": "1"
+           }
+       ],
+       "customerId": "2159408",
+       "tmCustomers": [
+           {
+               "id": "2159408"
+           },
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           }
+       ],
+       "termCustomers": [
+           {
+               "id": "2159408"
+           },
+           {
+               "id": "4119219"
+           },
+           {
+               "id": "4629436"
+           }
+       ]
+   },
+   "fileConfig": {
+       "resources": [
+           {
+               "key": "gendered",
+               "finishedKey": "zloc",
+               "sourceUri": "http://ci.farm2.zynga.com/job/zip_send/ws/farm2_locale/raw/gendered.xml",
+               "targetUri": ""
+           },
+           {
+               "key": "neuter",
+               "finishedKey": "zloc",
+               "sourceUri": "http://ci.farm2.zynga.com/job/zip_send/ws/farm2_locale/raw/neuter.xml",
+               "targetUri": ""
+           },
+           {
+               "key": "neutral",
+               "finishedKey": "zloc",
+               "sourceUri": "http://ci.farm2.zynga.com/job/zip_send/ws/farm2_locale/raw/neutral.xml",
+               "targetUri": ""
+           },
+           {
+               "key": "common",
+               "finishedKey": "zloc",
+               "sourceUri": "http://ci.farm2.zynga.com/job/zip_send/ws/farm2_locale/raw/common.xml",
+               "targetUri": ""
+           },
+           {
+               "key": "faqs",
+               "finishedKey": "faqs",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "messaging",
+               "finishedKey": "messaging",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "iap",
+               "finishedKey": "iap",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "helpshift",
+               "finishedKey": "helpshift",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "email",
+               "finishedKey": "email",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "pn",
+               "finishedKey": "pn",
+               "sourceUri": "",
+               "targetUri": ""
+           },
+           {
+               "key": "a2u",
+               "finishedKey": "a2u",
+               "sourceUri": "",
+               "targetUri": ""
+           }
+       ]
+   },
+   "processingServiceConfig": {
+       "services": [
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "StandardTextPostProcessor",
+               "keys": [
+                   "a2u",
+                   "pn",
+                   "email",
+                   "iap",
+                   "messaging",
+                   "faqs",
+                   "gendered",
+                   "neuter",
+                   "neutral",
+                   "common"
+               ],
+               "ignoreSpaces": null
+           },
+           {
+               "serviceType": "PostProcess",
+               "processingProcessor": "GenericZlocGenderPostProcessor",
+               "keys": [
+                   "gendered",
+                   "neuter",
+                   "neutral",
+                   "common",
+                   "helpshift"
+               ],
+               "ignoreSpaces": null
+           }
+       ]
+   },
+   "processingExceptionConfig": {
+       "exceptions": [
+           {
+               "processingProcessor": "ArabicZlocTextPreProcessor",
+               "exception": "a Blue Ribbon\na Red Ribbon\na White Ribbon\na Yellow Ribbon\na craft\na Day\nan Hour\na Minute\na Month\na Second\na Year\nan Adult Chicken\nan Animal Count(WHAT)\na Dairy Barn\na Dairy Barn (Under Construction)\na Level 1 Dairy Barn\na Level 2 Dairy Barn\na Level 3 Dairy Barn\na Barn (Under Construction)\na Level 1 Barn\na Level 2 Barn\na Level 3 Barn\nan Empty Bottle\na Baobob Branch\na Brick\na Building\na Chicken Coop\na Hay Cottage\na Pink Cottage\na Wood Cottage\na Crop\nan Archery Target\na Game of Bocce Ball\na Camping Tent\na Carved Chicken Statue\na Carved Cow Statue\na Carved Horse Statue\na Carved Pig Statue\na Concrete Path\na Dirt Path\na Fishing Pole\na Set of Footprints\na Hay Bale\na Horse Buggy\na Black Horse Buggy\na 3DS Max unit ruler\na Small W aterfall\na Pink Flamingo\na Pink Flamingo\na Pottery Kiln\na Rock Cave\na Rocky Path\na Sand Path\na Sleeping Bag\na Concrete Sundial\na Swing\na Patch of Tall Grass\na Tile Path\na Wagon\na Water Pump\na Weather Vane\na Wedding Arch\na Ameraucana Chicken\na Hubbard Chicken\na Gold-Laced Cochin Chicken\na Gamehen\na Jersey Chicken\na Black Leghorn Chicken\na Rhode Island Red Chicken\na White Chicken\nan Ayrshire Cow\na Brown Cow\na Hereford Cow\na Swiss Cow\na Brown Reindeer\nan Angora Goat\nan Angora Goat\na Nubian Goat\na Red Goat\na Saanen Goat\na White Goat\na Black Arabian Horse\na Camarillo Horse\na Clydesdale Horse\na Gypsy Horse\na Hampshire Pig\na Hereford Pig\nan Ossabaw Pig\na Pink Pig\na Potbellied Pig\na Spotted Pig\na Yorkshire Pig\nan Amami Rabbit\nan Angora Rabbit\na Chinchilla Rabbit\na Dutch Rabbit\na Pygmy Rabbit\na Cheviot Sheep\na Katahdin Sheep\na Lincoln Sheep\na Merino Sheep\na Portland Sheep\na Teddy Sheep\na White Sheep\na Wild Turkey\na Baby Ameraucana Chicken\na Baby Hubbard Chicken\na Baby Cochin Chicken\na Baby Gamehen\na Baby Black Leghorn Chicken\na Baby Bock Beard Chicken\na Baby Rhode Island Red Chicken\na Baby Speckled Sussex Chicken\na Baby White Chicken\na Baby Ayrshire Cow\na Baby Belted Galloway Cow\na Baby Clucking Cow\na Baby Holstein Cow\na Baby Longhorn Cow\na Baby Swiss Cow\na Baby White Reindeer\na Baby Emu\na Baby Ostrich\na Baby Angora Goat\na Baby Angora Goat\na Baby Red Goat\na Baby White Goat\na Baby Black Arabian Horse\na Baby Camarillo Horse\na Baby Gypsy Horse\na Baby Silver-Pied Spalding Peacock\na Baby Hampshire Pig\na Baby Hereford Pig\na Baby Ossabaw Pig\na Baby Pink Pig\na Baby Potbellied Pig\na Baby Spotted Pig\na Baby Yorkshire Pig\na Baby Angora Rabbit\na Baby Dutch Rabbit\na Baby Flemish Rabbit\na Baby Pygmy Rabbit\na Baby Sealpoint Rabbit\na Baby Black Welsh Mountain Sheep\na Baby Cheviot Sheep\na Baby Katahdin Sheep\na Baby Lincoln Sheep\na Baby Merino Sheep\na Baby Portland Sheep\na Baby White Sheep\na Baby Wild Turkey\na Prized Chicken\na Prized Ameracuana Chicken\na Prized Hubbard Chicken\na Prized Gold-Laced Cochin Chicken\na Prized Gamehen\na Prized Black Leghorn Chicken\na Prized Rhode Island Red Chicken\na Prized White Chicken\na Prized Ayrshire Cow\na Prized Belted Galloway Cow\na Prized Brown Cow\na Prized Chianina Cow\na Prized Devon Cow\na Prized Guernsey Cow\na Prized Hereford Cow\na Prized Holstein Cow\na Prized Jersey Cow\na Prized Longhorn Cow\na Prized Swiss Cow\na Prized Emu\na Prized Ostrich\na Prized Angora Goat\na Prized Ibex\na Prized Mountain Goat\na Prized Nubian Goat\na Prized Pygmy Goat\na Prized Caramel Pygora Goat\na Prized Red Goat\na Prized Saanen Goat\na Prized Nubian Goat\na Prized White Goat\na Prized Appaloosa Horse\na Prized Black Arabian Horse\na Prized Breton Horse\na Prized Camarillo Horse\na Prized Clydesdale Horse\na Prized Dales Pony\na Prized Gypsy Horse\na Prized Mustang Horse\na Prized Hampshire Pig\na Prized Hereford Pig\na Prized Ossabaw Pig\na Prized Pink Pig\na Prized Potbellied Pig\na Prized Spotted Pig\na Prized Yorkshire Pig\na Prized Amami Rabbit\na Prized Angora Rabbit\na Prized Cottontail Rabbit\na Prized Dutch Rabbit\na Prized Blue Flemish Giant Rabbit\na Prized Flemish Rabbit\na Prized Jackalope\na Prized Pika\na Prized Pygmy Rabbit\na Prized Sealpoint Rabbit\na Prized White Rabbit\na Prized Black Welsh Mountain Sheep\na Prized Cheviot Sheep\na Prized Katahdin Sheep\na Prized Lincoln Sheep\na Prized Merino Sheep\na Prized Portland Sheep\na Prized Teddy Bear Sheep\na Teddy Sheep\na Prized Black Nose Valais Sheep\na Prized White Sheep\na Roadside Billboard\na Red Barn\na Reindeer Treat Bin\na Cauldron\na Cauldron\na Prized Chicken Coop\na Kitchen\na Kitchen (Under Construction)\na Kitchen\na Kitchen\na Kitchen\na Feed Mill\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo\na Silo Building\nThe origin of the Sweetheart tree is ancient and shrouded in mystery. Sometimes, deep in the forest, you can find the carved initials of lovers that are over 1000 years old!\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Water Trough\na Well\na Carrot\na Fertilized Cauliflower\na Corn\na Daisy\na Fertilized Habanero\na Lavender\na Fertilized Marshmallow\na Fertilized Red Pepper\na White Pumpkin\na Red Rose Bush\na Red Rose\na Rutabaga\na Fertilized Rutabaga\na White Rose\nan Alpine Chalet in Pine\nan Alpine Chalet in Oak\na Swiss Trychels\na Butterfly Swing Seat\na Rocking Chair\na Chinese Lanterns\na Clothesline\na Dinner Bell\nan Autumn Leafpile\na Confounded Cauldron\na \"Royal Zephyr\" Kite\na \"Crimson Sighs\" Kite\na Flying Wind Yoke\na \"Sky Blossom\" Kite\na \"Giant Gina\" Skyrockets\na \"Bim Bim Boom\" Skyrocket\na Hitching Post\na Tire Swing\na Wind Chime\nan Ivy Trellis Arch\na Stone Arch\na Chopping Block\na Blooming Lattice Fence\na Flex-Deck\na Flower Barrel\nan Old Oil Drum\na Wooden Barrel\na Classic Red Lawn Chair\na Fire N' Ice Cooler\na BBQ Condiment Trolley\na Red Picnic Table\na DIY BBQ Grill\na ConCretin Birdbath\na Ruby Perch\na Budget Birdhouse\na Stave Bucket\nan Antique Butter Churn\na Safety Campfire\na Rocking Chair\na Clothes Line\na Clover Patch\na Pine Crate\na Dinner Bell\nan Old Feast Table\nan Old Wooden Fence\nan Old Fence Corner\nan Equestrian Fence\na Corrugated Fence\na White Fence\na Split Rail Fence\na Wood Fence Corner\na Farm Flag\na Sunshine Flag\na Floral Cushioned Chair\na Floral Flowerpot of Geraniums\na Floral Flowerpot of Roses\na Floral Scarecrow\na Stone Footbridge\na Oak Footbridge\na LycanthroGnome\na Pumpkin Haus\na Reanimated Scarecrow\na Witch Legs\na Free Standing Hammock\na Haybale Target\na Hitching Post\na Horseshoe Pit\na Sarah the Farming Scarecrow\na Jungle Gym\na Wedge Bloom Box\na Curved Bloom Box\na Square Bloom Box\na Sarah the Farming Scarecrow\na Mystic Log\na Pastoral Post Box\na Mastery Sign\nan Old Milk Jug\na Mosaic Bench\na Mosaic Birdhouse\na \"Fowl in the Floor\"\na Dendrophilia Bucolisticus\na Mosaic Fountain\na Mosaic Apple Sign\na Mosaic Patio Table\na Decoy Nest\nan \"Eco\" Outhouse\na Telephone Pole\na Moss Log Cabin Deluxe\na Moss Log Cabin Economy\na Horse Ranch Gate\na Big Boulder\na Pretty Paver\na Lil' Litho\na Wood Rocking Horse\na Bronze Horse Statue\na Rustic Wagon\na Rustic Watering Can\na Windmill Souvenir\na Grain Sacks\na Salt Lick\na See-Saw\na Work Shovel\na Scrubby Shrub\na Crossroads Sign\na Wooden Sign\na \"Harvest Moon\"\na Storage Shed\na Concrete Sundial\na Bird Bath\nan Adobe Wall\na Porcelain Cacti Garden\na \"Moab\" Luminaria\na Picnic Table\na Cow Topiary\na Pig Topiary\na Feed Trough\na Water Trough\na TMP\na  TMP\na Sunbrella\na TMP\na Hay Wagon\na Thorncroft Wagon\na Brick Wall\na Dry Stone Wall\na Wheelbarrow\na Wind Chimes\na Wine Bottle Spread\na Shelf of Preservatives\na Pile of Logs\na Wood Planks\na Workbench\nan Egg\na Rare Exotic Egg\nCollect all 5 to win an Exclusive Chicken!\nCollect all 5 to win an Exclusive Chicken!\na Peacock's Plume Feather\na Saddle\nan Apple Crepe\na Banana Cream Pie\na Banana Crepe\na Banana Pancake\na Witchin' Batter\na Blackberry Pancake\na Blackberry Pie\na Blueberry Pancake\na Blueberry Pie\na Braised Radish\na Cheddar Loaf\na Broth\na Cinnamon Bun\na Butter Sauce\na Buttered Cheese\na Banana Cream Cake\na Blackberry Cream Cake\na Carrot Cake\na Candied Carrot\na Carrot Bread\na Carrot Pot Pie\na Feather Charm\na Cheese Sauce\na Cheesy Broccoli\na Cherry Limeade\na Cream Pie\na White Dreamcatcher\na Vial of Crimson Dye\na Fried Egg\na Poached Egg\nan Egg Sandwich\nan Eggs Benedict\na Spinach Filling\na Rye Flour\na Gingerbread\na Hollandaise Sauce\na Fig Jam\na Lemon Cake\na Cucumber Lemonade\na Peach Lemonade\na Cherry Limeade\na Limeade\na Marinara Sauce\na Metal Sheet\na Blueberry Muffin\na Mango Muffin\na Orange Muffin\na Peach Muffin\na Spinach Omelet\nan Omelet\na Spinach Omelet\nan Orange Cake\na Buttermilk Pancake\nan Olive Paste\na Pear Tart\na Pie Crust\na Plum Pie\na Sweet Potato Pie\na Pumpkin Pie\na Quiche\na Strawberry Pie\na Pinon Bread\na Spinach Pinwheels\na Porridge\na Potato Pancake\na Seasoned Potato\na Pumpkin Filling\na Spicy Queso\na Spinach Quiche\na Potato Roll\na Salted Butter\na Salted Plum\na Salted Tomato\na Sauteed Apricots\na Sauteed Apricot\na Seasoned Egg\na Sunflower Seeds\na Radish Soup\na Spinach Filling\na Spinach Pinwheel\na Sugar Crepe\na Spicy Olive Tapenade\na Apricot Luizet Tart\na Pear Tart\na Corn\na Daisy\na Lavendar\na Pepper\na Pumpkin\na Radish\na Red Rose\na Tomato\na Crosscut Saw\na Cocoa Nibs\na Cocoa Powder\na Pickaxe\nan Apple\na Banana\na Camillia Japonica\na Cherry\na Snowflake\na Fig\na Lemon\na Lime\na Nutmeg\nan Olive\na Blood Orange\nan Orange\na Peach\na Pear\na Pecan\na Swiss Pine Cone\na Piece of Wood\na Valentine\na Cashew Crunch Bar\na Witchin' Batter\na Wild Plum Bread\na Scarycakes\na Good Fortune Charm\na Cheesy Kale Chips\na Ghoulish Ganache\na Leather Coinpurse\na Pinon Bread\na Spicy Queso\na Water.Org\nan Empty Bottle 10 Pack\nan Empty Bottle 5 Pack\na Power 5 Pack\na Feed\na Feed 10 Pack\na Fertilizer\nan Speed-grow\na Speed-grow\na Speed-grow 25 Pack\nan Speed-grow 25 Pack\nan Speed-grow 5 Pack\na 10 pack of superfood\na 5 Pack of Superfood\na Superfood Pack\nan Unwither\nan Unwither 5 Pack\nan Unwither\na Water\na Water\na Water\na Water\na Fertilized Ackee Tree\na Fertilized Apricot Tree\na Camellia Tree\na Cherry Tree\na Fertilized Cherry Tree\na Fertilized Cherry Tree\na Chestnut Tree\na Fertilized Cinnamon Tree\na Fertilized Snowy Fir Tree\na Fig Tree\na Fertilized Grapefruit Tree\na Fertilized Hazel Tree\na Lemon Tree\na Lime Tree\na Mango Tree\na Fertilized Mango Tree\na Fertilized Nutmeg Tree\nan Olive Tree\na Pear Tree\na Fertilized Pear Tree\na Pecan Tree\na Fertilized Pecan Tree\na Fertilized Swiss Pine Tree\na Rubber Tree\na Magnolia Tree\na Tree\na Apron\na Bandana\na piece of Barbed Wire\na Beeswax\na bit of Bee's Wax\na Sleigh Bell\na Bridle\na Brush\na Canning Jar\na Chainsaw\na Holiday Mug\na Cowbell\na Paper Cupid\na Enchanted Carrot\na dummy viral\na piece of Fly Paper\na Blue Ribbon\na bottle of Gear Grease\nan Arrowhead\na Dandelion Green\na Fiddlehead Fern\na Fossil\na Morel\nan Nettle\nan Old Coin\na Watercress\na Hoe\na Knitting Needle\na Lariat\na String of Lights\nGreen-Glitz /n Paint\nSilver Enamel\na Pie Tin\na Pitchfork\na Produce Crate\na Quilt Scrap\na bottle of Red Dye\na pile of Rhinestones\na Rock\na Metal\na Metal\na Metal\na Metal\na Metal\na Metal\na Rock\na Metal\na Metal\na Metal\na Metal\na Metal\na Wood\na Metal\na Rock\na Metal\na Metal\na Metal\na Metal\na Metal\na Signature of Approval\nFertilizer\na Bag of Fertilizer\na Fertilizer\na Feed\na Greenhouse\na Greenhouse (under consutrction)\na Level 1 Greenhouse\na Level 2 Greenhouse\na Level 3 Greenhouse\na Hammer\na Hat\na Wooden Homestead\na Wooden Homestead (Under Construction)\na Level 1 Wooden Homestead\na Level 2 Wooden Homestead\na Level 3 Wooden Homestead\na Speed-Grow\na Speed-Grow\na Barrel\na Fence\na Log\na Mastery\na Metal\na Mud\na neighbor\na Bird Nest\na Metal\na Signature of Approval\na Pig Pen\na Pig Pen\na Metal Grate Bar\na Wood Plank\na Plot\na Shingles\na Shovel\na Skin\na Spring\na White Stable\na White Stable (Under Construction)\na Level 1 White Stable\na Level 2 White Stable\na Level 3 White Stable\na Superfood\na placeholder text\na New Angora Goat\na New Goat v1\na New Goat v2\nan Example Tree\na Fertilized Example Tree\na Trough\nan Unwither\na Utility Object\na Wagon Wheel\na Water\na Water Tower\na Water Tower (Under Construction)\na Level 1 Water Tower\na Level 2 Water Tower\na Level 3 Water Tower\na Hubbard Chicken\na Gold-Laced Cochin Chicken\na Gamehen\na Black Leghorn Chicken\na Black Leghorn Chicken\na Rhode Island Red Chicken\na Brown Cow\na Devon Cow\na Jersey Cow\na Longhorn Cow\nan Emu\nan Ostrich\nan Angora Goat\nan Ibex\na Mountain Goat\na Red Goat\na White Goat\nan Appaloosa Horse\na Breton Horse\na Clydesdale Horse\na Mustang Horse\na Hampshire Pig\na Pink Pig\na Potbellied Pig\na Spotted Pig\na Yorkshire Pig\na Pika\na Pygmy Rabbit\na White Rabbit\na Katahdin Sheep\na Merino Sheep\na Portland Sheep\na White Sheep\na Baby Hubbard Chicken\na Baby Gamehen\na Baby Black Leghorn Chicken\na Baby Black Leghorn Chicken\na Baby Rhode Island Red Chicken\na Baby Brown Cow\na Baby Devon Cow\na Baby Hereford Cow\na Baby Longhorn Cow\na Baby Emu\na Baby Ostrich\na Baby Angora Goat\na Baby Ibex\na Baby Mountain Goat\na Baby Red Goat\na Baby White Goat\na Baby Breton Horse\na Baby Camarillo Horse\na Baby Mustang Horse\na Baby Hampshire Pig\na Baby Pink Pig\na Baby Potbellied Pig\na Baby Spotted Pig\na Baby Yorkshire Pig\na Baby Amami Rabbit\na Baby Pika\na Baby White Rabbit\na Baby Cheviot Sheep\na Baby Katahdin Sheep\na Baby Merino Sheep\na Baby Portland Sheep\na Baby White Sheep\na Prized Ameracuana Chicken\na Prized Hubbard Chicken\na Prized Gamehen\na Prized Black Leghorn Chicken\na Prized Black Leghorn Chicken\na Prized Rhode Island Red Chicken\na Prized White Chicken\na Prized Brown Cow\na Prized Devon Cow\na Prized Jersey Cow\na Prized Longhorn Cow\na Prized Emu\na Prized Ostrich\na Prized Angora Goat\na Prized Ibex\na Prized Mountain Goat\na Prized Red Goat\na Prized White Goat\na Prized Appaloosa Horse\na Prized Breton Horse\na Prized Camarillo Horse\na Prized Mustang Horse\na Prized Hampshire Pig\na Prized Pink Pig\na Prized Potbellied Pig\na Prized Spotted Pig\na Prized Yorkshire Pig\na Prized Amami Rabbit\na Prized Pika\na Prized Pygmy Rabbit\na Prized White Rabbit\na Prized Cheviot Sheep\na Prized Merino Sheep\na Prized Portland Sheep\na Prized White Sheep\na Workshop\na Wrench\nan XP\na Yogurt Strainer\na coin\nHarvest {total} Red Roses for Barbara's B&B.\na day\na d\nan hour\na h\na minute\na m\na month\na m\na second\na s\na week\na w\na year\na y\na message\na crew\na gift\na help\na gift\na something"
+           }
+       ]
+   },
+   "creationDate": 1323136335,
+   "modifiedDate": 1558563060,
+   "vendorAssignment": {
+       "es_ES": "Keywords",
+       "fr_FR": "Keywords",
+       "pt_BR": "Keywords",
+       "it_IT": "Localsoft",
+       "nl_NL": "Keywords",
+       "da_DK": "Keywords",
+       "nb_NO": "Keywords",
+       "sv_SE": "Localsoft",
+       "tr_TR": "Keywords",
+       "ja_JP": "Keywords",
+       "zh_TW": "Keywords",
+       "id_ID": "SDL",
+       "th_TH": "Keywords",
+       "de_DE": "Keywords",
+       "ar_EG": "SDL"
+   },
+   "updatedVendorAssignment": true,
+   "type": "configuration"
+}

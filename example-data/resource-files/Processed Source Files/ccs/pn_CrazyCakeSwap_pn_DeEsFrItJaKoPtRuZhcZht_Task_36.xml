@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1403950602-contents" hash="75e60f6fb67cf6971ebbd902619c1107">
+   <original>Cakesploration is now live! Come help your cakesplorer friends reach their treasures!</original>
+  </string>
+  <string key="1403950603-contents" hash="62aa7e57f6b4b520a04b0fcb79e956bd">
+   <original>&quot;Hurry, Cakesploration is about to end! Your cakesplorer friends need your help!{nl}&quot;</original>
+  </string>
+  <string key="1403964477-contents" hash="caf39e56dea29a483d376289d0ece763">
+   <original>Customize your Crazy Cake &amp; celebrate Friendship Day with your buddies!</original>
+  </string>
+  <string key="1403952971-contents" hash="5bd8aea164a4a0f5467395826f95dd37">
+   <original>💰 Level 1242 is fixed!!!! Come back and play💰</original>
+  </string>
+  <string key="1403952971-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>Generic Notification For In Game Usage, linking to the Game Friend.</original>
+  </string>
+  <string key="1404002403-contents" hash="c271f09c7baab1238f669a4cd2e20aa8">
+   <original>🍵Chirpy Turkeys! Don't lose your Turkeys!🍵</original>
+  </string>
+  <string key="1403956837-contents" hash="920dbe70efa68829bdbed0e8f9cdb244">
+   <original>Customize your Crazy Cake &amp; celebrate 4th July with friends!</original>
+  </string>
+  <string key="1404002418-contents" hash="9416012737d5cecc3889830250c0fe4a">
+   <original>💰 Level 1251 is fixed!!!! Come back and play💰</original>
+  </string>
+  <string key="1404002418-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>Generic Notification For In Game Usage, linking to the Game Friend.</original>
+  </string>
+  <string key="1404002419-contents" hash="8f9901025156ea646d0b132ebc804167">
+   <original>💰 Level 1296 is fixed!!!! Come back and play💰</original>
+  </string>
+  <string key="1404002419-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>Generic Notification For In Game Usage, linking to the Game Friend.</original>
+  </string>
+  <string key="1403936928-contents" hash="8451f9170f73dacefd1ca0f55c01f224">
+   <original>💖 We have fixed the event related issues! Here's two hours of unlimited lives for you to catch up!💖</original>
+  </string>
+  <string key="1404017058-contents" hash="95ee7877bb8e70d5922f8c4bc2c61888">
+   <original>Chef Labs is back!</original>
+  </string>
+  <string key="1404017058-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>CakeWars Leaderboard Drop</original>
+  </string>
+  <string key="1403992762-contents" hash="c32b2f989d56cbc1afb8023f6f7e0d6d">
+   <original>Gather Pumpkins to win some exciting rewards!</original>
+  </string>
+  <string key="1403992763-contents" hash="713393964c74d56933f537e7204eb008">
+   <original>Don't lose your Pumpkins!</original>
+  </string>
+  <string key="1403970773-contents" hash="802181977e7e64db6484580cf103ca87">
+   <original>Charge your Hammer and show us how hard you can hit!</original>
+  </string>
+  <string key="1403951318-contents" hash="87cffafa2a37a74c01e9cd795f1ca30f">
+   <original>💰 Win the Diamond league battle this week and get 10 extra gold!💰</original>
+  </string>
+  <string key="1403951318-subject" hash="36aaf0901337c66c95fdeabfe5439ce8">
+   <original>Generic Notification For In Game Usage, linking to the Game Friend.</original>
+  </string>
+  <string key="1404005079-contents" hash="d6d8ac439ca13adcb571ae8b4fffb578">
+   <original>{{{message}}}</original>
+  </string>
+  <string key="1404005079-subject" hash="c3c4af513f9755a4650495e434cf2ee3">
+   <original>CakeWars Leaderboard Drop</original>
+  </string>
+  <string key="1404022999-contents" hash="960be9b1d427778c957656632f7def97">
+   <original>🍵Baker’s League will be ending soon. Gear up for the new Season.🍵</original>
+  </string>
+  <string key="1403970778-contents" hash="b8a1f059fd9e7c1287a66b356c4524ed">
+   <original>Hurry! Charge your hammer fully and ring the bell before the timer runs out!</original>
+  </string>
+  <string key="1404042990-contents" hash="a61ab87ed180ff9bebe5a6cf5c1e8102">
+   <original>Uh-oh! Crazy Clovers is almost over! Come back! Collect clovers to win exciting prizes!</original>
+  </string>
+  <string key="1404042991-contents" hash="87acb7201bb9462e05f41b57d85dccee">
+   <original>Gather Clovers to win exciting rewards!</original>
+  </string>
+ </pkg>
+</strings>
