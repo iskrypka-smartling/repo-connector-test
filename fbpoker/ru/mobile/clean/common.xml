@@ -8286,10 +8286,10 @@
    <original>Weekly Warriors</original>
   </string>
   <string key="global.challenge.7.description" hash="4b6a79e823c5c9c01382d5b4ed688249">
-   <original>Place in Weekly Tournament top 5%</original>
+   <original>Place in Weekly Tournament top 5&amp;#37;</original>
   </string>
   <string key="global.challenge.7.description_completed" hash="59f2c54ab0b67c0b6c0f45fa68fe8e5c">
-   <original>placed in Weekly Tournament top 5%</original>
+   <original>placed in Weekly Tournament top 5&amp;#37;</original>
   </string>
   <string key="global.challenge.8.name" hash="588269e72bcfb822d9576d2d84cc36ca">
    <original>Gun Slingers</original>
