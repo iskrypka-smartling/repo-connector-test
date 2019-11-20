@@ -2,7 +2,9 @@
 <strings locale="en_common" revision="">
  <pkg name="mobile">
   <string key="banned.body" hash="5f636856a60e7be4f020a8c2e9d739c0">
-   <original>We want to let you know that your account is in violation of our Terms of Service (ToS) resulting in your account being banned. The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. {nl}{nl}If you believe that you received this message in error or that your account may have been hacked, please contact us and reference your User Identification Number ({zid}).</original>
+   <original>We want to let you know that your account is in violation of our Terms of Service (ToS) resulting in your account being banned. The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. 
+
+If you believe that you received this message in error or that your account may have been hacked, please contact us and reference your User Identification Number ({zid}).</original>
   </string>
   <string key="banned.title" hash="0f6be4fbccdbf3c7ebf2a15fc9d09de1">
    <original>Account Banned</original>
@@ -50,7 +52,8 @@
    <original>BEST VALUE</original>
   </string>
   <string key="global.buyPage.best_n_Value" hash="6e01c7caf1d326735fa5fa482b5ce6f2">
-   <original>BEST {nl}VALUE</original>
+   <original>BEST 
+VALUE</original>
   </string>
   <string key="global.buyPage.greatValue" hash="c480952616be3b97609694973670fbbd">
    <original>GREAT VALUE</original>
@@ -68,7 +71,8 @@
    <original>MOST POPULAR</original>
   </string>
   <string key="global.buyPage.most_n_Popular" hash="491d04dcc60337f6197d3687a7449be3">
-   <original>MOST {nl}POPULAR</original>
+   <original>MOST 
+POPULAR</original>
   </string>
   <string key="global.buyPage.new1" hash="ca9a1a4c23bcaec9a72c91b2018451b3">
    <original>NEW!</original>
@@ -116,16 +120,20 @@
    <original>WAS $99.99</original>
   </string>
   <string key="global.buyPage.was_n_0499" hash="1c3c5bfcd9734c440e9376c4ce63f1b1">
-   <original>WAS {nl}$4.99</original>
+   <original>WAS 
+$4.99</original>
   </string>
   <string key="global.buyPage.was_n_0999" hash="d2d27431daf1d46c7d63761a8b6208f7">
-   <original>WAS {nl}$9.99</original>
+   <original>WAS 
+$9.99</original>
   </string>
   <string key="global.buyPage.was_n_1999" hash="7f09e3589a3219a494d6b73b358f02d8">
-   <original>WAS {nl}$19.99</original>
+   <original>WAS 
+$19.99</original>
   </string>
   <string key="global.buyPage.was_n_9999" hash="c360f7edb0cd10f70b8a88438fa3d1e7">
-   <original>WAS {nl}$99.99</original>
+   <original>WAS 
+$99.99</original>
   </string>
   <string key="global.chipgift.default.name" hash="3a1536f18d1aa406dc5d183c0b772c5d">
    <original>Free Mystery Chips</original>
@@ -3629,13 +3637,21 @@
    <original>Share a Free Spin!</original>
   </string>
   <string key="suspended.body" hash="6d678a405260f7618f14c4c98f655842">
-   <original>We want to let you know that it looks like activity attributable to your account is in violation of our Terms of Service (ToS) resulting in your account being suspended. {nl}The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. To keep you in the game, we’ve adjusted your chip stack to {points} chips. {nl}{nl}If you believe that you received this message in error or that your account may have been hacked, please contact us.</original>
+   <original>We want to let you know that it looks like activity attributable to your account is in violation of our Terms of Service (ToS) resulting in your account being suspended. 
+The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. To keep you in the game, we’ve adjusted your chip stack to {points} chips. 
+
+If you believe that you received this message in error or that your account may have been hacked, please contact us.</original>
   </string>
   <string key="suspended.title" hash="ae89e23b2fb390c40706b1073ad0a413">
    <original>Account Suspended</original>
   </string>
   <string key="warned.body" hash="7c5c105bc3f1be2a3a9755c6d8001d61">
-   <original>We want to let you know that it looks like activity attributable to your account is in violation of our Terms of Service (ToS). {nl}{nl}The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. We like to play fair so if there are future violations, it may result in your account being suspended. {nl}{nl}If you believe that you received this message in error or that your account may have been hacked, please contact us.{nl}</original>
+   <original>We want to let you know that it looks like activity attributable to your account is in violation of our Terms of Service (ToS). 
+
+The most common violations include chip transferring, inappropriate poker play, team play, offensive chat and images. We like to play fair so if there are future violations, it may result in your account being suspended. 
+
+If you believe that you received this message in error or that your account may have been hacked, please contact us.
+</original>
   </string>
   <string key="warned.title" hash="47e4223a9325879973f22d4c6240afbe">
    <original>Account Warning</original>
@@ -8286,10 +8302,10 @@
    <original>Weekly Warriors</original>
   </string>
   <string key="global.challenge.7.description" hash="4b6a79e823c5c9c01382d5b4ed688249">
-   <original>Place in Weekly Tournament top 5&amp;#37;</original>
+   <original>Place in Weekly Tournament top 5%</original>
   </string>
   <string key="global.challenge.7.description_completed" hash="59f2c54ab0b67c0b6c0f45fa68fe8e5c">
-   <original>placed in Weekly Tournament top 5&amp;#37;</original>
+   <original>placed in Weekly Tournament top 5%</original>
   </string>
   <string key="global.challenge.8.name" hash="588269e72bcfb822d9576d2d84cc36ca">
    <original>Gun Slingers</original>
