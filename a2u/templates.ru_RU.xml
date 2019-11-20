@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1404099425-contents" hash="99e078c0ed2066f9c9cbb52f472b07e3">
+   <original>This a2u template is after our date gate and contains emoji in the title and body: ⚙️</original>
+  </string>
+  <string key="1404099425-subject" hash="289cbe4779daffc9bcbb086c12b3b662">
+   <original>Test Template ⚙️</original>
+  </string>
+  <string key="1404099157-contents" hash="c586ed7df9334aad23da018c0bbd8a9f">
+   <original>This is a test template for the tms migration.</original>
+  </string>
+ </pkg>
+</strings>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="templates">
+  <string key="1404099424-contents" hash="2acbeb0888caf91b91b84bd12feb68f4">
+   <original>This pn template is after our date gate and contains emoji in the subject and body: ⚙️</original>
+  </string>
+  <string key="1404099424-subject" hash="289cbe4779daffc9bcbb086c12b3b662">
+   <original>Test Template ⚙️</original>
+  </string>
+  <string key="1403902835-contents" hash="0682c1108eb85506edec3ce6f4f4a513">
+   <original>Look at these super these cool moons! 🌕 🌖 🌗 🌘 🌑 🌒 🌓 🌔</original>
+  </string>
+  <string key="1403900684-contents" hash="c8d6a525650981c70d5184f9e12fd257">
+   <original>Your Crew is falling behind! Don't let the other crews steal your prize!</original>
+  </string>
+  <string key="1403905788-contents" hash="836c125431542c823ce5937b441a3910">
+   <original>{{{sender_name}}}: {{{message_text}}}</original>
+  </string>
+  <string key="1403904762-contents" hash="1fa105f1f5ff8ae2b05399aad147c522">
+   <original>{{{player_name}}} has activated the {{#rarity}}{{#bronze}}bronze{{/bronze}}{{#silver}}silver{{/silver}}{{#gold}}gold{{/gold}}{{/rarity}} wildcard! {{boost}}% boost in Crew RP for the next{{#duration}}{{#hours}} {{hours}} hours{{/hours}}{{#minutes}} {{minutes}} minutes!{{/minutes}}{{/duration}}</original>
+  </string>
+  <string key="1403904762-subject" hash="797cc942cbc3e7a8625ddd06ebd83622">
+   <original>Wildcard Activated</original>
+  </string>
+  <string key="1403904376-contents" hash="716fa8619a18f031f0da9dbf3bb7f7a9">
+   <original>{{{crew_name}}} has reached a new RP milestone! Collect your prize now. 🏆</original>
+  </string>
+  <string key="1403900090-contents" hash="971fe501ffbe37772070fc3fa9b81e74">
+   <original>Crew &quot;{{{crew_name}}}&quot; has invited you to join them! Go race now!</original>
+  </string>
+  <string key="1403900091-contents" hash="0cf9f843e4967fc41cfa6078ce7b657a">
+   <original>You have been accepted into &quot;{{{crew_name}}}&quot;! Check out your new Crew mates now!</original>
+  </string>
+  <string key="1403900092-contents" hash="1a7bc50cca24100511e6fd74d60784d4">
+   <original>{{{player_name}}} sent you gas! Play CSR Racing 2 now!</original>
+  </string>
+  <string key="1403900093-contents" hash="6299f26b32ebf07279853b1657268727">
+   <original>{{{player_name}}} has started racing! Join them on the streets!</original>
+  </string>
+  <string key="1403900094-contents" hash="4e5cba09a76f830b4a77922cc2284819">
+   <original>{{{player_name}}} is back on the race track! Have you seen their ride?</original>
+  </string>
+  <string key="1403900095-contents" hash="6107a85f37a4a880eaacd95df9fffd9f">
+   <original>You've been promoted! Step up for &quot;{{{crew_name}}}&quot;!</original>
+  </string>
+  <string key="1403900096-contents" hash="b39486db6cc98efc6d69393346ce627e">
+   <original>{{{player_name}}} wants to join &quot;{{{crew_name}}}&quot;! Check them out now!</original>
+  </string>
+  <string key="1403900097-contents" hash="df1fec5fdcd4b54b63d3f0685c784a1d">
+   <original>&quot;{{{crew_name}}}&quot;, you have reached a new milestone!</original>
+  </string>
+  <string key="1403900634-contents" hash="4dfa0e6b366cdbfcde996554f02e4761">
+   <original>{{{player_name}}} @ &quot;{{{crew_name}}}&quot;: {{{message}}}</original>
+  </string>
+  <string key="1403900635-contents" hash="4dfa0e6b366cdbfcde996554f02e4761">
+   <original>{{{player_name}}} @ &quot;{{{crew_name}}}&quot;: {{{message}}}</original>
+  </string>
+  <string key="1403900636-contents" hash="e67426c48d6838b98f14f5ac25673a66">
+   <original>Your Live Race lobby is on fire! Even more opponents to challenge in the next 60 minutes!</original>
+  </string>
+  <string key="1403900636-subject" hash="0cbc6611f5540bd0809a388dc95a615b">
+   <original>Test</original>
+  </string>
+ </pkg>
+</strings>
