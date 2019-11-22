@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="Achievements">
+  <string key="Banned_Coppa_Line_Two.bce6da5061abeb9d1feb5677470a8661" hash="bce6da5061abeb9d1feb5677470a8661">
+   <original>Neem contact op met de ondersteuning van Zynga voor spelers via &lt;a href=&quot;mailto:playersupport@zynga.com&quot;&gt;playersupport@zynga.com&lt;/a&gt; voor verdere ondersteuning bij dit probleem.  Vermeld Issue 26 in je communicatie met de ondersteuning.</original>
+  </string>
+  <string key="Banned_Coppa_Line_Two.bce6da5061abeb9d1feb5677470a8662" hash="bce6da5061abeb9d1feb5677470a8662">
+   <original></original>
+  </string>
+  <string key="a_crafting_craft_recipe_cookie_01_title.1c01d28b7ef74abb6fe60ebee12c49b1" hash="1c01d28b7ef74abb6fe60ebee12c49b1">
+   <original>&quot;C&quot; staat voor...</original>
+  </string>
+  <string key="a_animal_get_resource_e_rare_animal_milk_01_title.390bbaeb87241b3fad32964da6f324cd" hash="390bbaeb87241b3fad32964da6f324cd">
+   <original>Crème de la crème</original>
+  </string>
+  <string key="e_building_input_milk_construction_viral_complete_Body.26352391a9419946981ca2de14f782c5" hash="26352391a9419946981ca2de14f782c5">
+   <original>{sendingUser,name} helpt &lt;NPC&gt; &lt;iets&gt; af te ronden!</original>
+   <variation index="0">{sendingUser,fem} helpt &lt;NPC&gt; &lt;iets&gt; af te ronden!</variation>
+   <variation index="1">{sendingUser,masc} helpt &lt;NPC&gt; &lt;iets&gt; af te ronden!</variation>
+  </string>
+  <string key="NPC_barbara_lvl_all_visitDialogBody_15.b94454424308b272749c6dc67f301309" hash="b94454424308b272749c6dc67f301309">
+   <original>Hoewel het nogal een gewaagd idee is, is het zeker lonend om 5 witte en 5 bruine kippeneieren in een tray eieren te doen! Het is 1000 munten waard!</original>
+  </string>
+  <string key="d_air_app_survey_v2_uninstall_feedback_header_1.6b63821722c4284cc3a0b2a592735e29" hash="6b63821722c4284cc3a0b2a592735e29">
+   <original>Andere redenen (laat ons alsjeblieft weten waarom):</original>
+  </string>
+ </pkg>
+ <pkg name="Items">
+  <string key="Cottage_Hay_word.e2bcf93bb21b59958bfaacba69f62bea" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
+   <original>een hooischuur</original>
+   <variation index="indefinite_singular">een hooischuur</variation>
+   <variation index="definite_singular">de hooischuur</variation>
+   <variation index="indefinite_plural">wat hooischuren</variation>
+   <variation index="definite_plural">de hooischuren</variation>
+   <variation index="singular">Hooischuur</variation>
+   <variation index="plural">Hooischuren</variation>
+   <variation index="indefinite_singular_accusative">a Hay Cottage</variation>
+   <variation index="definite_singular_accusative">the Hay Cottage</variation>
+   <variation index="indefinite_plural_accusative">some Hay Cottages</variation>
+   <variation index="definite_plural_accusative">the Hay Cottages</variation>
+   <variation index="singular_accusative">Hay Cottage</variation>
+   <variation index="plural_accusative">Hay Cottages</variation>
+  </string>
+ </pkg>
+ <pkg name="Time">
+  <string key="BabyPramTooltipCooldown.0021c13c911216a8c2b732e4e1da8434" hash="0021c13c911216a8c2b732e4e1da8434">
+   <original>{time} tot de baby je nodig heeft!</original>
+  </string>
+  <string key="CallTokenTimeLeft.9a70046ce050b4719bf214812b7fd4ac" hash="9a70046ce050b4719bf214812b7fd4ac">
+   <original>{time}</original>
+  </string>
+  <string key="CountyFairTimeLeft.2819ff563767d224463a7c9b41561eec" hash="2819ff563767d224463a7c9b41561eec">
+   <original>nog {time}</original>
+  </string>
+  <string key="CountyFairTimeLeft_Complete.2819ff563767d224463a7c9b41561eec" hash="2819ff563767d224463a7c9b41561eec">
+   <original>nog {time}</original>
+  </string>
+  <string key="CraftingDriveUnlocksIn.2a54bda735bf277bb2ba2dec485340c2" hash="2a54bda735bf277bb2ba2dec485340c2">
+   <original>Recept ontgrendelt over {time}</original>
+  </string>
+ </pkg>
+</strings>
