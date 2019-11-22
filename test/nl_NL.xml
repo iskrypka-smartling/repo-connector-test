@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings locale="en_US" revision="">
+ <pkg name="One">
+  <string key="one" hash="bce6da5061abeb9d1feb5677470a8661">
+   <original>eerste string</original>
+  </string>
+ </pkg>
+ <pkg name="Two">
+  <string key="two" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
+   <original>second string</original>
+   <variation index="indefinite_singular">second str</variation>
+  </string>
+ </pkg>
+ <pkg name="Three">
+  <string key="three" hash="0021c13c911216a8c2b732e4e1da8434">
+   <original>third string</original>
+  </string>
+ </pkg>
+</strings>
