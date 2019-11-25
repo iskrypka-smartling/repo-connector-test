@@ -1568,4 +1568,5 @@
    <variation index="1">Dry {resource,masc,plural,indefinite} in your Crop Dryer</variation>
    <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
   </string> 
+ </pkg>
 </strings>
