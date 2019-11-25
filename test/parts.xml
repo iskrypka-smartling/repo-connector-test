@@ -11,16 +11,6 @@
   <string key="a_animal_breed_animal_animal_horse_any_timed_1h_01_body.72306f40edbfc3300ef944c1decc68e8" hash="72306f40edbfc3300ef944c1decc68e8">
    <original>Breed {total} horses in 1 hour.</original>
   </string>
- <pkg name="Two">
-  <string key="two" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
-   <original>second string</original>
-   <variation index="indefinite_singular">second str</variation>
-  </string>
- </pkg>
- <pkg name="Three">
-  <string key="three" hash="0021c13c911216a8c2b732e4e1da8434">
-   <original>third string</original>
-  </string>
  </pkg>
   <pkg name="Items">
   <string key="Cottage_Hay_word.e2bcf93bb21b59958bfaacba69f62bea" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
