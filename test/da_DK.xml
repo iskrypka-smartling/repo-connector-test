@@ -12,633 +12,6 @@
   </string>
  </pkg>
  <pkg name="Items">
-  <string key="barn-l2_word.4202f67f6a5d591d43ab2ecc7b2e6470" hash="4202f67f6a5d591d43ab2ecc7b2e6470" gender="masc">
-   <original>en niveau 2 lade</original>
-   <variation index="indefinite_singular">en niveau 2 lade</variation>
-   <variation index="definite_singular">niveau 2 laden</variation>
-   <variation index="indefinite_plural">nogle niveau 2 lader</variation>
-   <variation index="definite_plural">niveau 2 laderne</variation>
-   <variation index="singular">Niveau 2 lade</variation>
-   <variation index="plural">Niveau 2 lader</variation>
-   <variation index="indefinite_singular_accusative">a Level 2 Barn</variation>
-   <variation index="definite_singular_accusative">the Level 2 Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 2 Barns</variation>
-   <variation index="definite_plural_accusative">the Level 2 Barns</variation>
-   <variation index="singular_accusative">Level 2 Barn</variation>
-   <variation index="plural_accusative">Level 2 Barns</variation>
-  </string>
-  <string key="barn_dairy-l2_word.69321f51c73f9167958dd7bc8169508b" hash="69321f51c73f9167958dd7bc8169508b" gender="masc">
-   <original>et niveau 2 mejeri</original>
-   <variation index="indefinite_singular">et niveau 2 mejeri</variation>
-   <variation index="definite_singular">niveau 2 mejeriet</variation>
-   <variation index="indefinite_plural">nogle niveau 2 mejerier</variation>
-   <variation index="definite_plural">niveau 2 mejerierne</variation>
-   <variation index="singular">Niveau 2 mejeri</variation>
-   <variation index="plural">Niveau 2 mejerier</variation>
-   <variation index="indefinite_singular_accusative">a Level 2 Dairy Barn</variation>
-   <variation index="definite_singular_accusative">the Level 2 Dairy Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 2 Dairy Barns</variation>
-   <variation index="definite_plural_accusative">the Level 2 Dairy Barns</variation>
-   <variation index="singular_accusative">Level 2 Dairy Barn</variation>
-   <variation index="plural_accusative">Level 2 Dairy Barns</variation>
-  </string>
-  <string key="barn_dairy_name.b7ff2ec61cdb0fabf1a6a13f82111006" hash="b7ff2ec61cdb0fabf1a6a13f82111006">
-   <original>Mejeri</original>
-  </string>
-  <string key="adult_horse_word.c77530f9189b55621be03cf421b8b151" hash="c77530f9189b55621be03cf421b8b151" gender="masc">
-   <original>en voksen hest</original>
-   <variation index="indefinite_singular">en voksen hest</variation>
-   <variation index="definite_singular">den voksne hest</variation>
-   <variation index="indefinite_plural">nogle voksne heste</variation>
-   <variation index="definite_plural">de voksne heste</variation>
-   <variation index="singular">Voksen hest</variation>
-   <variation index="plural">Voksne heste</variation>
-   <variation index="indefinite_singular_accusative">an Adult Horse</variation>
-   <variation index="definite_singular_accusative">the Adult Horse</variation>
-   <variation index="indefinite_plural_accusative">some Adult Horses</variation>
-   <variation index="definite_plural_accusative">the Adult Horses</variation>
-   <variation index="singular_accusative">Adult Horse</variation>
-   <variation index="plural_accusative">Adult Horses</variation>
-  </string>
-  <string key="brick_rare_word.54f40ed334b4230fe418aa544238c46b" hash="54f40ed334b4230fe418aa544238c46b" gender="masc">
-   <original>en mursten</original>
-   <variation index="indefinite_singular">en mursten</variation>
-   <variation index="definite_singular">murstenen</variation>
-   <variation index="indefinite_plural">nogle mursten</variation>
-   <variation index="definite_plural">murstenene</variation>
-   <variation index="singular">Mursten</variation>
-   <variation index="plural">Mursten</variation>
-   <variation index="indefinite_singular_accusative">a Brick</variation>
-   <variation index="definite_singular_accusative">the Brick</variation>
-   <variation index="indefinite_plural_accusative">some Bricks</variation>
-   <variation index="definite_plural_accusative">the Bricks</variation>
-   <variation index="singular_accusative">Brick</variation>
-   <variation index="plural_accusative">Bricks</variation>
-  </string>
-  <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_caption.a3fafc6e6ec6feb17122aaeb6ebdc70b" hash="a3fafc6e6ec6feb17122aaeb6ebdc70b">
-   <original>Dekorative kabler bruges under forberedelserne til trælegetøjsudstillingen!</original>
-  </string>
-  <string key="batter_desc.5350c166d62344e85be320ba59dc43e1" hash="5350c166d62344e85be320ba59dc43e1">
-   <original>Hæver, når den bliver bagt</original>
-  </string>
-  <string key="branch_baobob_rare_word.8b4d43b4853e21320efcbd82f9e60dbc" hash="8b4d43b4853e21320efcbd82f9e60dbc" gender="masc">
-   <original>en baobab-gren</original>
-   <variation index="indefinite_singular">en baobab-gren</variation>
-   <variation index="definite_singular">baobab-grenen</variation>
-   <variation index="indefinite_plural">nogle baobab-grene</variation>
-   <variation index="definite_plural">baobab-grenene</variation>
-   <variation index="singular">Baobab-gren</variation>
-   <variation index="plural">Baobab-grene</variation>
-   <variation index="indefinite_singular_accusative">a Baobab Branch</variation>
-   <variation index="definite_singular_accusative">the Baobab Branch</variation>
-   <variation index="indefinite_plural_accusative">some Baobab Branches</variation>
-   <variation index="definite_plural_accusative">the Baobab Branches</variation>
-   <variation index="singular_accusative">Baobab Branch</variation>
-   <variation index="plural_accusative">Baobab Branches</variation>
-  </string>
-  <string key="charm_bookmark_word.13b241cfa18c6230d1213bd86e82f40c" hash="13b241cfa18c6230d1213bd86e82f40c" gender="masc">
-   <original>Et bogmærkevedhæng</original>
-   <variation index="indefinite_singular">et bogmærkevedhæng</variation>
-   <variation index="definite_singular">bogmærkevedhænget</variation>
-   <variation index="indefinite_plural">nogle bogmærkevedhæng</variation>
-   <variation index="definite_plural">bogmærkevedhængene</variation>
-   <variation index="singular">Bogmærkevedhæng</variation>
-   <variation index="plural">Bogmærkevedhæng</variation>
-   <variation index="indefinite_singular_accusative">a Bookmark Charm</variation>
-   <variation index="definite_singular_accusative">the Bookmark Charm</variation>
-   <variation index="indefinite_plural_accusative">some Bookmark Charms</variation>
-   <variation index="definite_plural_accusative">the Bookmark Charms</variation>
-   <variation index="singular_accusative">Bookmark Charm</variation>
-   <variation index="plural_accusative">Bookmark Charms</variation>
-  </string>
-  <string key="chickencoop_word.8eb7a5320e4a52f84261816d335cd230" hash="8eb7a5320e4a52f84261816d335cd230" gender="masc">
-   <original>en hønsegård</original>
-   <variation index="indefinite_singular">en hønsegård</variation>
-   <variation index="definite_singular">hønsegården</variation>
-   <variation index="indefinite_plural">nogle hønsegårde</variation>
-   <variation index="definite_plural">hønsegårdene</variation>
-   <variation index="singular">Hønsegård</variation>
-   <variation index="plural">Hønsegårde</variation>
-   <variation index="indefinite_singular_accusative">a Chicken Coop</variation>
-   <variation index="definite_singular_accusative">the Chicken Coop</variation>
-   <variation index="indefinite_plural_accusative">some Chicken Coops</variation>
-   <variation index="definite_plural_accusative">the Chicken Coops</variation>
-   <variation index="singular_accusative">Chicken Coop</variation>
-   <variation index="plural_accusative">Chicken Coops</variation>
-  </string>
-  <string key="adult_goat_word.ff52573e911aac246dc93f2b13619ead" hash="ff52573e911aac246dc93f2b13619ead" gender="masc">
-   <original>en voksen ged</original>
-   <variation index="indefinite_singular">en voksen ged</variation>
-   <variation index="definite_singular">den voksne ged</variation>
-   <variation index="indefinite_plural">nogle voksne geder</variation>
-   <variation index="definite_plural">de voksne geder</variation>
-   <variation index="singular">Voksen ged</variation>
-   <variation index="plural">Voksne geder</variation>
-   <variation index="indefinite_singular_accusative">an Adult Goat</variation>
-   <variation index="definite_singular_accusative">the Adult Goat</variation>
-   <variation index="indefinite_plural_accusative">some Adult Goats</variation>
-   <variation index="definite_plural_accusative">the Adult Goats</variation>
-   <variation index="singular_accusative">Adult Goat</variation>
-   <variation index="plural_accusative">Adult Goats</variation>
-  </string>
-  <string key="askFriends_single_rare_hint.d4ef3a7bc7ad843fad0e7c883c47cda5" hash="d4ef3a7bc7ad843fad0e7c883c47cda5">
-   <original>Bed dine venner om {resource,object}</original>
-   <variation index="0">Bed dine venner om {resource,fem}</variation>
-   <variation index="1">Bed dine venner om {resource,masc}</variation>
-   <variation index="2">Ask your friends for {resource,neuter}</variation>
-  </string>
-  <string key="barn-l1_word.8f31371fa726eb677712363a15a18188" hash="8f31371fa726eb677712363a15a18188" gender="masc">
-   <original>en niveau 1 lade</original>
-   <variation index="indefinite_singular">en niveau 1 lade</variation>
-   <variation index="definite_singular">niveau 1 laden</variation>
-   <variation index="indefinite_plural">nogle niveau 1 lader</variation>
-   <variation index="definite_plural">niveau 1 laderne</variation>
-   <variation index="singular">Niveau 1 lade</variation>
-   <variation index="plural">Niveau 1 lader</variation>
-   <variation index="indefinite_singular_accusative">a Level 1 Barn</variation>
-   <variation index="definite_singular_accusative">the Level 1 Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 1 Barns</variation>
-   <variation index="definite_plural_accusative">the Level 1 Barns</variation>
-   <variation index="singular_accusative">Level 1 Barn</variation>
-   <variation index="plural_accusative">Level 1 Barns</variation>
-  </string>
-  <string key="blackberry_pie_desc.4c12c90d35729d49798dbab4d27b8d78" hash="4c12c90d35729d49798dbab4d27b8d78">
-   <original>Brombær kan godt være lidt søde, men de er altid lækre!</original>
-  </string>
-  <string key="adult_cow_word.0817bf416285a19d3264cbb4395ab328" hash="0817bf416285a19d3264cbb4395ab328" gender="masc">
-   <original>en voksen ko</original>
-   <variation index="indefinite_singular">en voksen ko</variation>
-   <variation index="definite_singular">den voksne ko</variation>
-   <variation index="indefinite_plural">nogle voksne køer</variation>
-   <variation index="definite_plural">de voksne køer</variation>
-   <variation index="singular">Voksen ko</variation>
-   <variation index="plural">Voksne køer</variation>
-   <variation index="indefinite_singular_accusative">an Adult Cow</variation>
-   <variation index="definite_singular_accusative">the Adult Cow</variation>
-   <variation index="indefinite_plural_accusative">some Adult Cows</variation>
-   <variation index="definite_plural_accusative">the Adult Cows</variation>
-   <variation index="singular_accusative">Adult Cow</variation>
-   <variation index="plural_accusative">Adult Cows</variation>
-  </string>
-  <string key="barn-l4_word.a382b1638a5b4f38a004c9160a53d734" hash="a382b1638a5b4f38a004c9160a53d734" gender="masc">
-   <original>en niveau 4-lade</original>
-   <variation index="indefinite_singular">en niveau 4-lade</variation>
-   <variation index="definite_singular">niveau 4-laden</variation>
-   <variation index="indefinite_plural">nogle niveau 4-lader</variation>
-   <variation index="definite_plural">niveau 4-laderne</variation>
-   <variation index="singular">Niveau 4-lade</variation>
-   <variation index="plural">Niveau 4-lader</variation>
-   <variation index="indefinite_singular_accusative">a Level 4 Barn</variation>
-   <variation index="definite_singular_accusative">the Level 4 Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 4 Barns</variation>
-   <variation index="definite_plural_accusative">the Level 4 Barns</variation>
-   <variation index="singular_accusative">Level 4 Barn</variation>
-   <variation index="plural_accusative">Level 4 Barns</variation>
-  </string>
-  <string key="butter_desc.aab3d1ce157576cc985e2348ec4699ef" hash="aab3d1ce157576cc985e2348ec4699ef">
-   <original>Alting smager bedre med en lille smule smør!</original>
-  </string>
-  <string key="coins_buy_desc.2d878cb122db26186cc2de6dab39ed1b" hash="2d878cb122db26186cc2de6dab39ed1b">
-   <original>Køb mønter for at fylde op</original>
-  </string>
-  <string key="Cottage_Wood_word.4acf3afc6141065eb361c7bb23fb44f5" hash="4acf3afc6141065eb361c7bb23fb44f5" gender="masc">
-   <original>et træhus</original>
-   <variation index="indefinite_singular">et træhus</variation>
-   <variation index="definite_singular">træhuset</variation>
-   <variation index="indefinite_plural">nogle træhuse</variation>
-   <variation index="definite_plural">træhusene</variation>
-   <variation index="singular">Træhus</variation>
-   <variation index="plural">Træhuse</variation>
-   <variation index="indefinite_singular_accusative">a Wood Cottage</variation>
-   <variation index="definite_singular_accusative">the Wood Cottage</variation>
-   <variation index="indefinite_plural_accusative">some Wood Cottages</variation>
-   <variation index="definite_plural_accusative">the Wood Cottages</variation>
-   <variation index="singular_accusative">Wood Cottage</variation>
-   <variation index="plural_accusative">Wood Cottages</variation>
-  </string>
-  <string key="buttermilk_desc.7883840627e9a5b93b5b91560b1e43c4" hash="7883840627e9a5b93b5b91560b1e43c4">
-   <original>Tyk og tung mælk</original>
-  </string>
-  <string key="adult_dairy_animal_word.c28111240af70c582a712188d6ac852f" hash="c28111240af70c582a712188d6ac852f" gender="masc">
-   <original>et voksent malkedyr</original>
-   <variation index="indefinite_singular">et voksent malkedyr</variation>
-   <variation index="definite_singular">det voksne malkedyr</variation>
-   <variation index="indefinite_plural">nogle voksne malkedyr</variation>
-   <variation index="definite_plural">de voksne malkedyr</variation>
-   <variation index="singular">Voksent malkedyr</variation>
-   <variation index="plural">Voksne malkedyr</variation>
-   <variation index="indefinite_singular_accusative">an Adult Dairy Animal</variation>
-   <variation index="definite_singular_accusative">the Adult Dairy Animal</variation>
-   <variation index="indefinite_plural_accusative">some Adult Dairy Animals</variation>
-   <variation index="definite_plural_accusative">the Adult Dairy Animals</variation>
-   <variation index="singular_accusative">Adult Dairy Animal</variation>
-   <variation index="plural_accusative">Adult Dairy Animals</variation>
-  </string>
-  <string key="brown_wool_rare_hint.80d27fe96af4649112be735695af8c77" hash="80d27fe96af4649112be735695af8c77">
-   <original>Få {resource,object,singular} ved at fodre dit manx loaghtan-får</original>
-   <variation index="0">Få {resource,fem,singular} ved at fodre dit manx loaghtan-får</variation>
-   <variation index="1">Få {resource,masc,singular} ved at fodre dit manx loaghtan-får</variation>
-   <variation index="2">Feed your Manx Loaghtan Sheep to obtain this {resource,neuter,singular}</variation>
-  </string>
-  <string key="cd_shakestall_intro_two.f0b0e6418e149f2e554e802c60e70a00" hash="f0b0e6418e149f2e554e802c60e70a00">
-   <original>Jeg får brug for din hjælp til at bygge en shake-bod til amtet!</original>
-  </string>
-  <string key="askFriends_rare_hint.91eeb0348598c6101235c195aad60308" hash="91eeb0348598c6101235c195aad60308">
-   <original>Bed dine venner om {resource,object,singular}</original>
-   <variation index="0">Bed dine venner om {resource,fem,singular}</variation>
-   <variation index="1">Bed dine venner om {resource,masc,singular}</variation>
-   <variation index="2">Ask your friends for this {resource,neuter,singular}</variation>
-  </string>
-  <string key="branch_baobob_rare_desc.57f1893b6c875c8a6121d2f92532c511" hash="57f1893b6c875c8a6121d2f92532c511">
-   <original>En baobab-gren</original>
-  </string>
-  <string key="complete_bh_order_word.8ac0ad86d8a861391eda03e7bb855585" hash="8ac0ad86d8a861391eda03e7bb855585" gender="masc">
-   <original>en stor høst-bestilling</original>
-   <variation index="indefinite_singular">en stor høst-bestilling</variation>
-   <variation index="definite_singular">stor høst-bestillingen</variation>
-   <variation index="indefinite_plural">nogle stor høst-bestillinger</variation>
-   <variation index="definite_plural">stor høst-bestillingerne</variation>
-   <variation index="singular">Stor høst-bestilling</variation>
-   <variation index="plural">Stor høst-bestillinger</variation>
-   <variation index="indefinite_singular_accusative">a Big Harvest Order</variation>
-   <variation index="definite_singular_accusative">the Big Harvest Order</variation>
-   <variation index="indefinite_plural_accusative">some Big Harvest Orders</variation>
-   <variation index="definite_plural_accusative">the Big Harvest Orders</variation>
-   <variation index="singular_accusative">Big Harvest Order</variation>
-   <variation index="plural_accusative">Big Harvest Orders</variation>
-  </string>
-  <string key="crafting_timed_tea_hint.f7661c0e7adbacb0a547a5ce6340565a" hash="f7661c0e7adbacb0a547a5ce6340565a">
-   <original>Lav {resource,object,singular} i din tebryggebar.</original>
-   <variation index="0">Lav {resource,fem,singular} i din tebryggebar.</variation>
-   <variation index="1">Lav {resource,masc,singular} i din tebryggebar.</variation>
-   <variation index="2">Create this {resource,neuter,singular} in your Tea Brewing Bar.</variation>
-  </string>
-  <string key="Cottage_Hay_word.e2bcf93bb21b59958bfaacba69f62bea" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
-   <original>høhytte</original>
-   <variation index="indefinite_singular">høhytte</variation>
-   <variation index="definite_singular">høhytten</variation>
-   <variation index="indefinite_plural">nogle høhytter</variation>
-   <variation index="definite_plural">høhytterne</variation>
-   <variation index="singular">Høhytte</variation>
-   <variation index="plural">Høhytter</variation>
-   <variation index="indefinite_singular_accusative">a Hay Cottage</variation>
-   <variation index="definite_singular_accusative">the Hay Cottage</variation>
-   <variation index="indefinite_plural_accusative">some Hay Cottages</variation>
-   <variation index="definite_plural_accusative">the Hay Cottages</variation>
-   <variation index="singular_accusative">Hay Cottage</variation>
-   <variation index="plural_accusative">Hay Cottages</variation>
-  </string>
-  <string key="bag_spores_rare_word.d017ecb0577694b336e9753c6a7ea442" hash="d017ecb0577694b336e9753c6a7ea442" gender="masc">
-   <original>en sporepose</original>
-   <variation index="indefinite_singular">en sporepose</variation>
-   <variation index="definite_singular">sporeposen</variation>
-   <variation index="indefinite_plural">nogle sporeposer</variation>
-   <variation index="definite_plural">sporeposerne</variation>
-   <variation index="singular">Sporepose</variation>
-   <variation index="plural">Sporeposer</variation>
-   <variation index="indefinite_singular_accusative">a Spore Bag</variation>
-   <variation index="definite_singular_accusative">the Spore Bag</variation>
-   <variation index="indefinite_plural_accusative">some Spore Bags</variation>
-   <variation index="definite_plural_accusative">the Spore Bags</variation>
-   <variation index="singular_accusative">Spore Bag</variation>
-   <variation index="plural_accusative">Spore Bags</variation>
-  </string>
-  <string key="bottle_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
-   <original>1 flaske hjælper dine dyreunger med at vokse!</original>
-  </string>
-  <string key="bottle_viral_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
-   <original>1 flaske hjælper dine dyreunger med at vokse!</original>
-  </string>
-  <string key="avatar_ranger_l1_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
-   <original>skovrideren Jane</original>
-   <variation index="indefinite_singular">skovrideren Jane</variation>
-   <variation index="definite_singular">skovrideren Jane</variation>
-   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
-   <variation index="definite_plural">skovrideren Jane</variation>
-   <variation index="singular">Skovrideren Jane</variation>
-   <variation index="plural">Skovrideren Jane</variation>
-   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
-   <variation index="definite_singular_accusative">the Ranger Jane</variation>
-   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
-   <variation index="definite_plural_accusative">the Ranger Janes</variation>
-   <variation index="singular_accusative">Ranger Jane</variation>
-   <variation index="plural_accusative">Ranger Janes</variation>
-  </string>
-  <string key="avatar_ranger_l2_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
-   <original>skovrideren Jane</original>
-   <variation index="indefinite_singular">skovrideren Jane</variation>
-   <variation index="definite_singular">skovrideren Jane</variation>
-   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
-   <variation index="definite_plural">skovrideren Jane</variation>
-   <variation index="singular">Skovrideren Jane</variation>
-   <variation index="plural">Skovrideren Jane</variation>
-   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
-   <variation index="definite_singular_accusative">the Ranger Jane</variation>
-   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
-   <variation index="definite_plural_accusative">the Ranger Janes</variation>
-   <variation index="singular_accusative">Ranger Jane</variation>
-   <variation index="plural_accusative">Ranger Janes</variation>
-  </string>
-  <string key="avatar_ranger_l3_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
-   <original>skovrideren Jane</original>
-   <variation index="indefinite_singular">skovrideren Jane</variation>
-   <variation index="definite_singular">skovrideren Jane</variation>
-   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
-   <variation index="definite_plural">skovrideren Jane</variation>
-   <variation index="singular">Skovrideren Jane</variation>
-   <variation index="plural">Skovrideren Jane</variation>
-   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
-   <variation index="definite_singular_accusative">the Ranger Jane</variation>
-   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
-   <variation index="definite_plural_accusative">the Ranger Janes</variation>
-   <variation index="singular_accusative">Ranger Jane</variation>
-   <variation index="plural_accusative">Ranger Janes</variation>
-  </string>
-  <string key="avatar_ranger_l4_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
-   <original>skovrideren Jane</original>
-   <variation index="indefinite_singular">skovrideren Jane</variation>
-   <variation index="definite_singular">skovrideren Jane</variation>
-   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
-   <variation index="definite_plural">skovrideren Jane</variation>
-   <variation index="singular">Skovrideren Jane</variation>
-   <variation index="plural">Skovrideren Jane</variation>
-   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
-   <variation index="definite_singular_accusative">the Ranger Jane</variation>
-   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
-   <variation index="definite_plural_accusative">the Ranger Janes</variation>
-   <variation index="singular_accusative">Ranger Jane</variation>
-   <variation index="plural_accusative">Ranger Janes</variation>
-  </string>
-  <string key="avatar_ranger_l5_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
-   <original>skovrideren Jane</original>
-   <variation index="indefinite_singular">skovrideren Jane</variation>
-   <variation index="definite_singular">skovrideren Jane</variation>
-   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
-   <variation index="definite_plural">skovrideren Jane</variation>
-   <variation index="singular">Skovrideren Jane</variation>
-   <variation index="plural">Skovrideren Jane</variation>
-   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
-   <variation index="definite_singular_accusative">the Ranger Jane</variation>
-   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
-   <variation index="definite_plural_accusative">the Ranger Janes</variation>
-   <variation index="singular_accusative">Ranger Jane</variation>
-   <variation index="plural_accusative">Ranger Janes</variation>
-  </string>
-  <string key="bag_spores_rare_desc.6e8f1d12e3ce4be897e308d96083b7af" hash="6e8f1d12e3ce4be897e308d96083b7af">
-   <original>Brug svampesporeposer til at bygge et svampeskur med!</original>
-  </string>
-  <string key="blackberry_rare_hint.3b4f3b9f643ba1e1eb9fadbe828cb9e6" hash="3b4f3b9f643ba1e1eb9fadbe828cb9e6">
-   <original>Brombær</original>
-  </string>
-  <string key="LOCKED_barrel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="LOCKED_barrel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="LOCKED_fence_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="LOCKED_fence_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="LOCKED_shovel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="LOCKED_shovel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
-   <original>???</original>
-  </string>
-  <string key="barn-l5_word.a1482a5d4db8428a6eb09d5617ab2e90" hash="a1482a5d4db8428a6eb09d5617ab2e90" gender="masc">
-   <original>en niveau 5-lade</original>
-   <variation index="indefinite_singular">en niveau 5-lade</variation>
-   <variation index="definite_singular">niveau 5-laden</variation>
-   <variation index="indefinite_plural">nogle niveau 5-lader</variation>
-   <variation index="definite_plural">niveau 5-laderne</variation>
-   <variation index="singular">Niveau 5-lade</variation>
-   <variation index="plural">Niveau 5-lader</variation>
-   <variation index="indefinite_singular_accusative">a Level 5 Barn</variation>
-   <variation index="definite_singular_accusative">the Level 5 Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 5 Barns</variation>
-   <variation index="definite_plural_accusative">the Level 5 Barns</variation>
-   <variation index="singular_accusative">Level 5 Barn</variation>
-   <variation index="plural_accusative">Level 5 Barns</variation>
-  </string>
-  <string key="cookies_skeleton_desc.3d76c980ce86ccf499b9addbaf598e58" hash="3d76c980ce86ccf499b9addbaf598e58">
-   <original>Skeletsmåkager er den ideelle måde at vise folk på, at selvom du har morbide tanker, er du normalt let om hjertet.</original>
-  </string>
-  <string key="Hat_word.eb553ff97d6a1fb0a194b92e8f3c819e" hash="eb553ff97d6a1fb0a194b92e8f3c819e" gender="masc">
-   <original>en hat</original>
-   <variation index="indefinite_singular">en hat</variation>
-   <variation index="definite_singular">hatten</variation>
-   <variation index="indefinite_plural">nogle hatte</variation>
-   <variation index="definite_plural">hattene</variation>
-   <variation index="singular">Hat</variation>
-   <variation index="plural">Hatte</variation>
-   <variation index="indefinite_singular_accusative">a Hat</variation>
-   <variation index="definite_singular_accusative">the Hat</variation>
-   <variation index="indefinite_plural_accusative">some Hats</variation>
-   <variation index="definite_plural_accusative">the Hats</variation>
-   <variation index="singular_accusative">Hat</variation>
-   <variation index="plural_accusative">Hats</variation>
-  </string>
-  <string key="Icon_crafting_labels_spine_book_word.12d143400e2b7b722ac5d9da17d78500" hash="12d143400e2b7b722ac5d9da17d78500" gender="masc">
-   <original>Biblioteksmærke</original>
-   <variation index="indefinite_singular">biblioteksmærke</variation>
-   <variation index="definite_singular">biblioteksmærket</variation>
-   <variation index="indefinite_plural">nogle biblioteksmærker</variation>
-   <variation index="definite_plural">biblioteksmærkerne</variation>
-   <variation index="singular">Biblioteksmærke</variation>
-   <variation index="plural">Biblioteksmærker</variation>
-   <variation index="indefinite_singular_accusative">Book Spine Labels</variation>
-   <variation index="definite_singular_accusative">the Book Spine Labels</variation>
-   <variation index="indefinite_plural_accusative">some Book Spine Labels</variation>
-   <variation index="definite_plural_accusative">the Book Spine Labels</variation>
-   <variation index="singular_accusative">Book Spine Labels</variation>
-   <variation index="plural_accusative">Book Spine Labels</variation>
-  </string>
-  <string key="cd_uglysweater_intro_two.5dbed076adeffe83964d123adcfa2dc1" hash="5dbed076adeffe83964d123adcfa2dc1">
-   <original>Jeg vil holde en grim sweater-fest. Men jeg har brug for din hjælp!</original>
-  </string>
-  <string key="bottle-glass_word.c237a23199e1742e974c86e8685f48de" hash="c237a23199e1742e974c86e8685f48de" gender="masc">
-   <original>en tom flaske</original>
-   <variation index="indefinite_singular">en tom flaske</variation>
-   <variation index="definite_singular">den tomme flaske</variation>
-   <variation index="indefinite_plural">nogle tomme flasker</variation>
-   <variation index="definite_plural">de tomme flasker</variation>
-   <variation index="singular">Tom flaske</variation>
-   <variation index="plural">Tomme flasker</variation>
-   <variation index="indefinite_singular_accusative">an Empty Bottle</variation>
-   <variation index="definite_singular_accusative">the Empty Bottle</variation>
-   <variation index="indefinite_plural_accusative">some Empty Bottles</variation>
-   <variation index="definite_plural_accusative">the Empty Bottles</variation>
-   <variation index="singular_accusative">Empty Bottle</variation>
-   <variation index="plural_accusative">Empty Bottles</variation>
-  </string>
-  <string key="bunny_biscuit_word.4ee353081f0be6d17cce3c85557c9b3e" hash="4ee353081f0be6d17cce3c85557c9b3e" gender="masc">
-   <original>en kaninkiks</original>
-   <variation index="indefinite_singular">en kaninkiks</variation>
-   <variation index="definite_singular">kaninkiksen</variation>
-   <variation index="indefinite_plural">nogle kaninkiks</variation>
-   <variation index="definite_plural">kaninkiksene</variation>
-   <variation index="singular">Kaninkiks</variation>
-   <variation index="plural">Kaninkiks</variation>
-   <variation index="indefinite_singular_accusative">a Bunny Biscuit</variation>
-   <variation index="definite_singular_accusative">the Bunny Biscuit</variation>
-   <variation index="indefinite_plural_accusative">some Bunny Biscuits</variation>
-   <variation index="definite_plural_accusative">the Bunny Biscuits</variation>
-   <variation index="singular_accusative">Bunny Biscuit</variation>
-   <variation index="plural_accusative">Bunny Biscuits</variation>
-  </string>
-  <string key="LOCKED_fence_word.e5edc54a1702a2b117d0a71e417651d0" hash="e5edc54a1702a2b117d0a71e417651d0" gender="masc">
-   <original>et hegn</original>
-   <variation index="indefinite_singular">et hegn</variation>
-   <variation index="definite_singular">hegnet</variation>
-   <variation index="indefinite_plural">nogle hegn</variation>
-   <variation index="definite_plural">hegnene</variation>
-   <variation index="singular">Hegn</variation>
-   <variation index="plural">Hegn</variation>
-   <variation index="indefinite_singular_accusative">a Fence</variation>
-   <variation index="definite_singular_accusative">the Fence</variation>
-   <variation index="indefinite_plural_accusative">some Fences</variation>
-   <variation index="definite_plural_accusative">the Fences</variation>
-   <variation index="singular_accusative">Fence</variation>
-   <variation index="plural_accusative">Fences</variation>
-  </string>
-  <string key="Skin1_word.9773984c74d4b00e8831c911b5041ae8" hash="9773984c74d4b00e8831c911b5041ae8" gender="masc">
-   <original>et skind</original>
-   <variation index="indefinite_singular">et skind</variation>
-   <variation index="definite_singular">skindet</variation>
-   <variation index="indefinite_plural">nogle skind</variation>
-   <variation index="definite_plural">skindene</variation>
-   <variation index="singular">Skind</variation>
-   <variation index="plural">Skind</variation>
-   <variation index="indefinite_singular_accusative">a Skin</variation>
-   <variation index="definite_singular_accusative">the Skin</variation>
-   <variation index="indefinite_plural_accusative">some Skins</variation>
-   <variation index="definite_plural_accusative">the Skins</variation>
-   <variation index="singular_accusative">Skin</variation>
-   <variation index="plural_accusative">Skins</variation>
-  </string>
-  <string key="bag_of_tree_soil_rare_word.b79329d386e90990ceaf03f99df5ca20" hash="b79329d386e90990ceaf03f99df5ca20" gender="masc">
-   <original>en sæk lundmuld</original>
-   <variation index="indefinite_singular">en sæk lundmuld</variation>
-   <variation index="definite_singular">sækken med lundmuld</variation>
-   <variation index="indefinite_plural">nogle sække med lundmuld</variation>
-   <variation index="definite_plural">sækkene med lundmuld</variation>
-   <variation index="singular">Sæk med lundmuld</variation>
-   <variation index="plural">Sække med lundmuld</variation>
-   <variation index="indefinite_singular_accusative">a Bag of Grove Soil</variation>
-   <variation index="definite_singular_accusative">the Bag of Grove Soil</variation>
-   <variation index="indefinite_plural_accusative">some Bags of Grove Soil</variation>
-   <variation index="definite_plural_accusative">the Bags of Grove Soil</variation>
-   <variation index="singular_accusative">Bag of Grove Soil</variation>
-   <variation index="plural_accusative">Bags of Grove Soil</variation>
-  </string>
-  <string key="chickencoop_name.91c416526c82537080fe3a41611d8f28" hash="91c416526c82537080fe3a41611d8f28">
-   <original>Hønsegård</original>
-  </string>
-  <string key="animalCount_word.792e464e8058208b50544ee4bbb91776" hash="792e464e8058208b50544ee4bbb91776" gender="masc">
-   <original>en dyreoptælning(WHAT)</original>
-   <variation index="indefinite_singular">en dyreoptælning(WHAT)</variation>
-   <variation index="definite_singular">dyreoptælningen(WHAT)</variation>
-   <variation index="indefinite_plural">nogle dyreoptælninger(WHAT)</variation>
-   <variation index="definite_plural">dyreoptælningerne(WHAT)</variation>
-   <variation index="singular">Dyreoptælning(WHAT)</variation>
-   <variation index="plural">Dyreoptælninger(WHAT)</variation>
-   <variation index="indefinite_singular_accusative">an Animal Count(WHAT)</variation>
-   <variation index="definite_singular_accusative">the Animal Count(WHAT)</variation>
-   <variation index="indefinite_plural_accusative">some Animal Count(WHAT)s</variation>
-   <variation index="definite_plural_accusative">the Animal Count(WHAT)s</variation>
-   <variation index="singular_accusative">Animal Count(WHAT)</variation>
-   <variation index="plural_accusative">Animal Count(WHAT)s</variation>
-  </string>
-  <string key="bag_of_soil_rare_desc.9faf807c322d50d1adcd1cbb7ebf897e" hash="9faf807c322d50d1adcd1cbb7ebf897e">
-   <original>Brug poser med muldjord til at opføre nye bygninger på din gård!</original>
-  </string>
-  <string key="building_word.11f788955fa149d80c2ebc76863e3639" hash="11f788955fa149d80c2ebc76863e3639" gender="masc">
-   <original>en bygning</original>
-   <variation index="indefinite_singular">en bygning</variation>
-   <variation index="definite_singular">bygningen</variation>
-   <variation index="indefinite_plural">nogle bygninger</variation>
-   <variation index="definite_plural">bygningerne</variation>
-   <variation index="singular">Bygning</variation>
-   <variation index="plural">Bygninger</variation>
-   <variation index="indefinite_singular_accusative">a Building</variation>
-   <variation index="definite_singular_accusative">the Building</variation>
-   <variation index="indefinite_plural_accusative">some Buildings</variation>
-   <variation index="definite_plural_accusative">the Buildings</variation>
-   <variation index="singular_accusative">Building</variation>
-   <variation index="plural_accusative">Buildings</variation>
-  </string>
-  <string key="adult_rabbit_word.e195bc2ba62afc70b0701730b13ed4e6" hash="e195bc2ba62afc70b0701730b13ed4e6" gender="masc">
-   <original>en voksen kanin</original>
-   <variation index="indefinite_singular">en voksen kanin</variation>
-   <variation index="definite_singular">den voksne kanin</variation>
-   <variation index="indefinite_plural">nogle voksne kaniner</variation>
-   <variation index="definite_plural">de voksne kaniner</variation>
-   <variation index="singular">Voksen kanin</variation>
-   <variation index="plural">Voksne kaniner</variation>
-   <variation index="indefinite_singular_accusative">an Adult Rabbit</variation>
-   <variation index="definite_singular_accusative">the Adult Rabbit</variation>
-   <variation index="indefinite_plural_accusative">some Adult Rabbits</variation>
-   <variation index="definite_plural_accusative">the Adult Rabbits</variation>
-   <variation index="singular_accusative">Adult Rabbit</variation>
-   <variation index="plural_accusative">Adult Rabbits</variation>
-  </string>
-  <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_caption.fc3e9792f3dc94231d8a6dd57e62a91a" hash="fc3e9792f3dc94231d8a6dd57e62a91a">
-   <original>Trælegetøj bruges under forberedelserne til trælegetøjsudstillingen!</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>caption_msg</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>a caption_msg</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>a caption_msg</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>a caption_msg</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>a caption_msg</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
-   <original>a caption_msg</original>
-  </string>
-  <string key="barn_dairy-l1_word.3fab6d320b419f3d7854add78ce1853b" hash="3fab6d320b419f3d7854add78ce1853b" gender="masc">
-   <original>et niveau 1 mejeri</original>
-   <variation index="indefinite_singular">et niveau 1 mejeri</variation>
-   <variation index="definite_singular">niveau 1 mejeriet</variation>
-   <variation index="indefinite_plural">nogle niveau 1 mejerier</variation>
-   <variation index="definite_plural">niveau 1 mejerierne</variation>
-   <variation index="singular">Niveau 1 mejeri</variation>
-   <variation index="plural">Niveau 1 mejerier</variation>
-   <variation index="indefinite_singular_accusative">a Level 1 Dairy Barn</variation>
-   <variation index="definite_singular_accusative">the Level 1 Dairy Barn</variation>
-   <variation index="indefinite_plural_accusative">some Level 1 Dairy Barns</variation>
-   <variation index="definite_plural_accusative">the Level 1 Dairy Barns</variation>
-   <variation index="singular_accusative">Level 1 Dairy Barn</variation>
-   <variation index="plural_accusative">Level 1 Dairy Barns</variation>
-  </string>
-  <string key="biofuel_word.099c1d8a6dc11476e45b08cc2c80617e" hash="099c1d8a6dc11476e45b08cc2c80617e" gender="masc">
-   <original>brændstof</original>
-   <variation index="indefinite_singular">brændstof</variation>
-   <variation index="definite_singular">brændstoffet</variation>
-   <variation index="indefinite_plural">noget brændstof</variation>
-   <variation index="definite_plural">brændstoffet</variation>
-   <variation index="singular">Brændstof</variation>
-   <variation index="plural">Brændstof</variation>
-   <variation index="indefinite_singular_accusative">a Fuel</variation>
-   <variation index="definite_singular_accusative">the Fuel</variation>
-   <variation index="indefinite_plural_accusative">some Fuel</variation>
-   <variation index="definite_plural_accusative">the Fuel</variation>
-   <variation index="singular_accusative">Fuel</variation>
-   <variation index="plural_accusative">Fuel</variation>
-  </string>
-  <string key="cannot_sell_desc.b1a5ecb377b04427d3106db29a5e1968" hash="b1a5ecb377b04427d3106db29a5e1968">
-   <original>Særlig anvendelighed, kan ikke sælges for guld</original>
-  </string>
   <string key="adult_pig_word.831ce1b0a6beb68863558dd5cb6e116c" hash="831ce1b0a6beb68863558dd5cb6e116c" gender="masc">
    <original>en gris</original>
    <variation index="indefinite_singular">en gris</variation>
@@ -690,56 +63,224 @@
    <variation index="1">Lav {resource,masc,singular} i dit værksted</variation>
    <variation index="2">Create this {resource,neuter,singular} in your Workshop</variation>
   </string>
-  <string key="Outfit1_word.49042e62e91f965574090a229260e0a6" hash="49042e62e91f965574090a229260e0a6" gender="masc">
-   <original>en mundering</original>
-   <variation index="indefinite_singular">en mundering</variation>
-   <variation index="definite_singular">munderingen</variation>
-   <variation index="indefinite_plural">nogle munderinger</variation>
-   <variation index="definite_plural">munderingerne</variation>
-   <variation index="singular">Mundering</variation>
-   <variation index="plural">Munderinger</variation>
-   <variation index="indefinite_singular_accusative">an Outfit</variation>
-   <variation index="definite_singular_accusative">the Outfit</variation>
-   <variation index="indefinite_plural_accusative">some Outfits</variation>
-   <variation index="definite_plural_accusative">the Outfits</variation>
-   <variation index="singular_accusative">Outfit</variation>
-   <variation index="plural_accusative">Outfits</variation>
+  <string key="LOCKED_barrel_word.212dfa8b63130297f42ea6defd70656a" hash="212dfa8b63130297f42ea6defd70656a" gender="masc">
+   <original>en tønde</original>
+   <variation index="indefinite_singular">en tønde</variation>
+   <variation index="definite_singular">tønden</variation>
+   <variation index="indefinite_plural">nogle tønder</variation>
+   <variation index="definite_plural">tønderne</variation>
+   <variation index="singular">Tønde</variation>
+   <variation index="plural">Tønder</variation>
+   <variation index="indefinite_singular_accusative">a Barrel</variation>
+   <variation index="definite_singular_accusative">the Barrel</variation>
+   <variation index="indefinite_plural_accusative">some Barrels</variation>
+   <variation index="definite_plural_accusative">the Barrels</variation>
+   <variation index="singular_accusative">Barrel</variation>
+   <variation index="plural_accusative">Barrels</variation>
   </string>
-  <string key="alfredo_desc.24aa4160891ed523d52a2df0881689db" hash="24aa4160891ed523d52a2df0881689db">
-   <original>Alle pastatyper elsker alfredo-sauce!</original>
+  <string key="cheese_rare_hint.84860fe84be0cda21a9667920b1913f6" hash="84860fe84be0cda21a9667920b1913f6">
+   <original>Få {resource,object,singular} ved at fodre din ged eller din ko</original>
+   <variation index="0">Få {resource,fem,singular} ved at fodre din ged eller din ko</variation>
+   <variation index="1">Få {resource,masc,singular} ved at fodre din ged eller din ko</variation>
+   <variation index="2">Feed your Goat or your Cow to obtain this {resource,neuter,singular}</variation>
   </string>
-  <string key="butter_rare_hint.e5961b0baa369b1c565601db04d82c3c" hash="e5961b0baa369b1c565601db04d82c3c">
-   <original>Smør</original>
+  <string key="cow_drop_hint.4a8eeb0c7b3fb87c0e78ef5b791b9577" hash="4a8eeb0c7b3fb87c0e78ef5b791b9577">
+   <original>Få {resource,object,singular} ved at fodre din ko</original>
+   <variation index="0">Få {resource,fem,singular} ved at fodre din ko</variation>
+   <variation index="1">Få {resource,masc,singular} ved at fodre din ko</variation>
+   <variation index="2">Feed your cow to obtain this {resource,neuter,singular}</variation>
   </string>
-  <string key="alfredo_rare_hint.40da91d4bb20258303da423c4e53f2a1" hash="40da91d4bb20258303da423c4e53f2a1">
-   <original>Alfredo</original>
+  <string key="advent_election_missingcontent_word.a55975db44dca703dfa963e020fe8296" hash="a55975db44dca703dfa963e020fe8296" gender="masc">
+   <original>en FOTW-genstand på vej</original>
+   <variation index="indefinite_singular">en FOTW-genstand på vej</variation>
+   <variation index="definite_singular">FOTW-genstanden på vej</variation>
+   <variation index="indefinite_plural">nogle FOTW-genstande på vej</variation>
+   <variation index="definite_plural">FOTW-genstandene på vej</variation>
+   <variation index="singular">FOTW-genstand på vej</variation>
+   <variation index="plural">FOTW-genstande på vej</variation>
+   <variation index="indefinite_singular_accusative">an upcoming FOTW item</variation>
+   <variation index="definite_singular_accusative">the upcoming FOTW item</variation>
+   <variation index="indefinite_plural_accusative">some upcoming FOTW items</variation>
+   <variation index="definite_plural_accusative">the upcoming FOTW items</variation>
+   <variation index="singular_accusative">upcoming FOTW item</variation>
+   <variation index="plural_accusative">upcoming FOTW items</variation>
   </string>
-  <string key="barn_dairy-construction_word.327afd26313cbc845f18f8d5348f0a81" hash="327afd26313cbc845f18f8d5348f0a81" gender="masc">
-   <original>et mejeri (under opbygning)</original>
-   <variation index="indefinite_singular">et mejeri (under opbygning)</variation>
-   <variation index="definite_singular">mejeriet (under opbygning)</variation>
-   <variation index="indefinite_plural">nogle mejerier (under opbygning)</variation>
-   <variation index="definite_plural">mejerierne (under opbygning)</variation>
-   <variation index="singular">Mejeri (under opbygning)</variation>
-   <variation index="plural">Mejerier (under opbygning)</variation>
-   <variation index="indefinite_singular_accusative">a Dairy Barn (Under Construction)</variation>
-   <variation index="definite_singular_accusative">the Dairy Barn (Under Construction)</variation>
-   <variation index="indefinite_plural_accusative">some Dairy Barn (Under Construction)s</variation>
-   <variation index="definite_plural_accusative">the Dairy Barn (Under Construction)s</variation>
-   <variation index="singular_accusative">Dairy Barn (Under Construction)</variation>
-   <variation index="plural_accusative">Dairy Barn (Under Construction)s</variation>
+  <string key="bait_hint.d5df88100d3200769f115cfabd4eb946" hash="d5df88100d3200769f115cfabd4eb946">
+   <original>Du kan finde madding, når du høster gødede vandafgrøder</original>
   </string>
-  <string key="askFriends_plural_rare_hint.5aa4a881beac39e71d1236ce19b92545" hash="5aa4a881beac39e71d1236ce19b92545">
-   <original>Bed dine venner om {resource,object,plural}</original>
-   <variation index="0">Bed dine venner om de her {resource,fem,plural}</variation>
-   <variation index="1">Bed dine venner om de her {resource,masc,plural}</variation>
-   <variation index="2">Ask your friends for these {resource,neuter,plural}</variation>
+  <string key="bedding_deer_rare_desc.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719">
+   <original>et hjorteleje</original>
   </string>
-  <string key="craft_kiln_hint.c75810ff68cb7dbf893ddf76a50f2c93" hash="c75810ff68cb7dbf893ddf76a50f2c93">
-   <original>Lav {resource,object,singular} i din keramikovn</original>
-   <variation index="0">Lav {resource,fem,singular} i din keramikovn</variation>
-   <variation index="1">Lav {resource,masc,singular} i din keramikovn</variation>
-   <variation index="2">Create this {resource,neuter,singular} in your Crafting Kiln</variation>
+  <string key="bedding_deer_rare_word.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719" gender="masc">
+   <original>et hjorteleje</original>
+   <variation index="indefinite_singular">et hjorteleje</variation>
+   <variation index="definite_singular">hjortelejet</variation>
+   <variation index="indefinite_plural">nogle hjortelejer</variation>
+   <variation index="definite_plural">hjortelejet</variation>
+   <variation index="singular">Hjorteleje</variation>
+   <variation index="plural">Hjorteleje</variation>
+   <variation index="indefinite_singular_accusative">a Deer Bedding</variation>
+   <variation index="definite_singular_accusative">the Deer Bedding</variation>
+   <variation index="indefinite_plural_accusative">some Deer Bedding</variation>
+   <variation index="definite_plural_accusative">the Deer Bedding</variation>
+   <variation index="singular_accusative">Deer Bedding</variation>
+   <variation index="plural_accusative">Deer Bedding</variation>
+  </string>
+  <string key="craft_kitchen_hint.7d0bae73e58690585685f77f3dbd7d56" hash="7d0bae73e58690585685f77f3dbd7d56">
+   <original>Lav {resource,object,singular} i dit køkken</original>
+   <variation index="0">Lav {resource,fem,singular} i dit køkken</variation>
+   <variation index="1">Lav {resource,masc,singular} i dit køkken</variation>
+   <variation index="2">Create this {resource,neuter,singular} in your Kitchen</variation>
+  </string>
+  <string key="credits_viral_desc.1a7181682e10a0e18cc4ff4005ef22f8" hash="1a7181682e10a0e18cc4ff4005ef22f8">
+   <original>Brug kredit til at aktivere forstærkere for at få endnu mere ud af dine gårdaktiviteter!</original>
+  </string>
+  <string key="bottle-glass_word.c237a23199e1742e974c86e8685f48de" hash="c237a23199e1742e974c86e8685f48de" gender="masc">
+   <original>en tom flaske</original>
+   <variation index="indefinite_singular">en tom flaske</variation>
+   <variation index="definite_singular">den tomme flaske</variation>
+   <variation index="indefinite_plural">nogle tomme flasker</variation>
+   <variation index="definite_plural">de tomme flasker</variation>
+   <variation index="singular">Tom flaske</variation>
+   <variation index="plural">Tomme flasker</variation>
+   <variation index="indefinite_singular_accusative">an Empty Bottle</variation>
+   <variation index="definite_singular_accusative">the Empty Bottle</variation>
+   <variation index="indefinite_plural_accusative">some Empty Bottles</variation>
+   <variation index="definite_plural_accusative">the Empty Bottles</variation>
+   <variation index="singular_accusative">Empty Bottle</variation>
+   <variation index="plural_accusative">Empty Bottles</variation>
+  </string>
+  <string key="bunny_biscuit_word.4ee353081f0be6d17cce3c85557c9b3e" hash="4ee353081f0be6d17cce3c85557c9b3e" gender="masc">
+   <original>en kaninkiks</original>
+   <variation index="indefinite_singular">en kaninkiks</variation>
+   <variation index="definite_singular">kaninkiksen</variation>
+   <variation index="indefinite_plural">nogle kaninkiks</variation>
+   <variation index="definite_plural">kaninkiksene</variation>
+   <variation index="singular">Kaninkiks</variation>
+   <variation index="plural">Kaninkiks</variation>
+   <variation index="indefinite_singular_accusative">a Bunny Biscuit</variation>
+   <variation index="definite_singular_accusative">the Bunny Biscuit</variation>
+   <variation index="indefinite_plural_accusative">some Bunny Biscuits</variation>
+   <variation index="definite_plural_accusative">the Bunny Biscuits</variation>
+   <variation index="singular_accusative">Bunny Biscuit</variation>
+   <variation index="plural_accusative">Bunny Biscuits</variation>
+  </string>
+  <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
+   <original>Giv og få!</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
+   <original>Giv og få!</original>
+  </string>
+  <string key="brick_rare_desc.821ede08346da454b631e7d129cdeeab" hash="821ede08346da454b631e7d129cdeeab">
+   <original>Brug mursten til at opføre nye bygninger på din gård!</original>
+  </string>
+  <string key="coins_buy_word.a56225595c08f0d7a00d4fed686da401" hash="a56225595c08f0d7a00d4fed686da401" gender="masc">
+   <original>flere mønter</original>
+   <variation index="indefinite_singular">flere mønter</variation>
+   <variation index="definite_singular">flere mønter</variation>
+   <variation index="indefinite_plural">nogle flere mønter</variation>
+   <variation index="definite_plural">flere mønter</variation>
+   <variation index="singular">Flere mønter</variation>
+   <variation index="plural">Flere mønter</variation>
+   <variation index="indefinite_singular_accusative">a More Coins</variation>
+   <variation index="definite_singular_accusative">the More Coins</variation>
+   <variation index="indefinite_plural_accusative">some More Coins</variation>
+   <variation index="definite_plural_accusative">the More Coins</variation>
+   <variation index="singular_accusative">More Coins</variation>
+   <variation index="plural_accusative">More Coins</variation>
+  </string>
+  <string key="brown_wool_rare_hint.80d27fe96af4649112be735695af8c77" hash="80d27fe96af4649112be735695af8c77">
+   <original>Få {resource,object,singular} ved at fodre dit manx loaghtan-får</original>
+   <variation index="0">Få {resource,fem,singular} ved at fodre dit manx loaghtan-får</variation>
+   <variation index="1">Få {resource,masc,singular} ved at fodre dit manx loaghtan-får</variation>
+   <variation index="2">Feed your Manx Loaghtan Sheep to obtain this {resource,neuter,singular}</variation>
+  </string>
+  <string key="cd_shakestall_intro_two.f0b0e6418e149f2e554e802c60e70a00" hash="f0b0e6418e149f2e554e802c60e70a00">
+   <original>Jeg får brug for din hjælp til at bygge en shake-bod til amtet!</original>
+  </string>
+  <string key="animalCount_word.792e464e8058208b50544ee4bbb91776" hash="792e464e8058208b50544ee4bbb91776" gender="masc">
+   <original>en dyreoptælning(WHAT)</original>
+   <variation index="indefinite_singular">en dyreoptælning(WHAT)</variation>
+   <variation index="definite_singular">dyreoptælningen(WHAT)</variation>
+   <variation index="indefinite_plural">nogle dyreoptælninger(WHAT)</variation>
+   <variation index="definite_plural">dyreoptælningerne(WHAT)</variation>
+   <variation index="singular">Dyreoptælning(WHAT)</variation>
+   <variation index="plural">Dyreoptælninger(WHAT)</variation>
+   <variation index="indefinite_singular_accusative">an Animal Count(WHAT)</variation>
+   <variation index="definite_singular_accusative">the Animal Count(WHAT)</variation>
+   <variation index="indefinite_plural_accusative">some Animal Count(WHAT)s</variation>
+   <variation index="definite_plural_accusative">the Animal Count(WHAT)s</variation>
+   <variation index="singular_accusative">Animal Count(WHAT)</variation>
+   <variation index="plural_accusative">Animal Count(WHAT)s</variation>
+  </string>
+  <string key="LOCKED_fence_word.e5edc54a1702a2b117d0a71e417651d0" hash="e5edc54a1702a2b117d0a71e417651d0" gender="masc">
+   <original>et hegn</original>
+   <variation index="indefinite_singular">et hegn</variation>
+   <variation index="definite_singular">hegnet</variation>
+   <variation index="indefinite_plural">nogle hegn</variation>
+   <variation index="definite_plural">hegnene</variation>
+   <variation index="singular">Hegn</variation>
+   <variation index="plural">Hegn</variation>
+   <variation index="indefinite_singular_accusative">a Fence</variation>
+   <variation index="definite_singular_accusative">the Fence</variation>
+   <variation index="indefinite_plural_accusative">some Fences</variation>
+   <variation index="definite_plural_accusative">the Fences</variation>
+   <variation index="singular_accusative">Fence</variation>
+   <variation index="plural_accusative">Fences</variation>
+  </string>
+  <string key="Skin1_word.9773984c74d4b00e8831c911b5041ae8" hash="9773984c74d4b00e8831c911b5041ae8" gender="masc">
+   <original>et skind</original>
+   <variation index="indefinite_singular">et skind</variation>
+   <variation index="definite_singular">skindet</variation>
+   <variation index="indefinite_plural">nogle skind</variation>
+   <variation index="definite_plural">skindene</variation>
+   <variation index="singular">Skind</variation>
+   <variation index="plural">Skind</variation>
+   <variation index="indefinite_singular_accusative">a Skin</variation>
+   <variation index="definite_singular_accusative">the Skin</variation>
+   <variation index="indefinite_plural_accusative">some Skins</variation>
+   <variation index="definite_plural_accusative">the Skins</variation>
+   <variation index="singular_accusative">Skin</variation>
+   <variation index="plural_accusative">Skins</variation>
+  </string>
+  <string key="bag_of_tree_soil_rare_word.b79329d386e90990ceaf03f99df5ca20" hash="b79329d386e90990ceaf03f99df5ca20" gender="masc">
+   <original>en sæk lundmuld</original>
+   <variation index="indefinite_singular">en sæk lundmuld</variation>
+   <variation index="definite_singular">sækken med lundmuld</variation>
+   <variation index="indefinite_plural">nogle sække med lundmuld</variation>
+   <variation index="definite_plural">sækkene med lundmuld</variation>
+   <variation index="singular">Sæk med lundmuld</variation>
+   <variation index="plural">Sække med lundmuld</variation>
+   <variation index="indefinite_singular_accusative">a Bag of Grove Soil</variation>
+   <variation index="definite_singular_accusative">the Bag of Grove Soil</variation>
+   <variation index="indefinite_plural_accusative">some Bags of Grove Soil</variation>
+   <variation index="definite_plural_accusative">the Bags of Grove Soil</variation>
+   <variation index="singular_accusative">Bag of Grove Soil</variation>
+   <variation index="plural_accusative">Bags of Grove Soil</variation>
+  </string>
+  <string key="chickencoop_name.91c416526c82537080fe3a41611d8f28" hash="91c416526c82537080fe3a41611d8f28">
+   <original>Hønsegård</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+   <original>a link_name</original>
+  </string>
+  <string key="bubblingbrew_rare_desc.ddece6a7c9609feea62c0fae7ee20249" hash="ddece6a7c9609feea62c0fae7ee20249">
+   <original>En mystisk blanding</original>
   </string>
   <string key="bhupgrade_biplane_name.6ae86f843479c493dfb0031375605eee" hash="6ae86f843479c493dfb0031375605eee">
    <original>Todækker</original>
@@ -801,32 +342,320 @@
    <variation index="1">Lav {resource,masc,singular} på din marmeladestævnehylde</variation>
    <variation index="2">Create this {resource,neuter,singular} in your Jam Jamboree Shelf</variation>
   </string>
-  <string key="adult_wool_animal_word.f85e381bd3ce2920e5e7c7cdcbd590f7" hash="f85e381bd3ce2920e5e7c7cdcbd590f7" gender="masc">
-   <original>et får eller en kanin</original>
-   <variation index="indefinite_singular">et får eller en kanin</variation>
-   <variation index="definite_singular">fåret eller kaninen</variation>
-   <variation index="indefinite_plural">nogle får eller kaniner</variation>
-   <variation index="definite_plural">fårene eller kaninerne</variation>
-   <variation index="singular">Får eller kanin</variation>
-   <variation index="plural">Får eller kaniner</variation>
-   <variation index="indefinite_singular_accusative">a Sheep or Rabbit</variation>
-   <variation index="definite_singular_accusative">the Sheep or Rabbit</variation>
-   <variation index="indefinite_plural_accusative">some Sheep or Rabbits</variation>
-   <variation index="definite_plural_accusative">the Sheep or Rabbits</variation>
-   <variation index="singular_accusative">Sheep or Rabbit</variation>
-   <variation index="plural_accusative">Sheep or Rabbits</variation>
+  <string key="Cottage_Wood_word.4acf3afc6141065eb361c7bb23fb44f5" hash="4acf3afc6141065eb361c7bb23fb44f5" gender="masc">
+   <original>et træhus</original>
+   <variation index="indefinite_singular">et træhus</variation>
+   <variation index="definite_singular">træhuset</variation>
+   <variation index="indefinite_plural">nogle træhuse</variation>
+   <variation index="definite_plural">træhusene</variation>
+   <variation index="singular">Træhus</variation>
+   <variation index="plural">Træhuse</variation>
+   <variation index="indefinite_singular_accusative">a Wood Cottage</variation>
+   <variation index="definite_singular_accusative">the Wood Cottage</variation>
+   <variation index="indefinite_plural_accusative">some Wood Cottages</variation>
+   <variation index="definite_plural_accusative">the Wood Cottages</variation>
+   <variation index="singular_accusative">Wood Cottage</variation>
+   <variation index="plural_accusative">Wood Cottages</variation>
   </string>
-  <string key="batter_rare_hint.5e2b3df405664fe964c20af8a26b4608" hash="5e2b3df405664fe964c20af8a26b4608">
-   <original>Dej</original>
+  <string key="buttermilk_desc.7883840627e9a5b93b5b91560b1e43c4" hash="7883840627e9a5b93b5b91560b1e43c4">
+   <original>Tyk og tung mælk</original>
   </string>
-  <string key="crafting_timed_jam_hint.4dcd67fccc2917b0a1850d3f4568d150" hash="4dcd67fccc2917b0a1850d3f4568d150">
-   <original>Lav {resource,object,singular} på din marmeladestævnehylde</original>
-   <variation index="0">Lav {resource,fem,singular} på din marmeladestævnehylde</variation>
-   <variation index="1">Lav {resource,masc,singular} på din marmeladestævnehylde</variation>
-   <variation index="2">Create this {resource,neuter,singular} in your Jam Shelf</variation>
+  <string key="apple_pie_desc.cc84e1525924a452241472c24cc812bf" hash="cc84e1525924a452241472c24cc812bf">
+   <original>Æbletærter er naturens herlige lækkerbisken!</original>
   </string>
-  <string key="chickenbedding_rare_desc.a055552d6d99a94b6100e8b96a759bda" hash="a055552d6d99a94b6100e8b96a759bda">
-   <original>Byg din hønsegård af hønsestrøelse!</original>
+  <string key="Cottage_Pink_word.e1f9014352e2d4fd2173d6a03422ac03" hash="e1f9014352e2d4fd2173d6a03422ac03" gender="masc">
+   <original>en lyserød hytte</original>
+   <variation index="indefinite_singular">en lyserød hytte</variation>
+   <variation index="definite_singular">den lyserøde hytte</variation>
+   <variation index="indefinite_plural">nogle lyserøde hytter</variation>
+   <variation index="definite_plural">de lyserøde hytter</variation>
+   <variation index="singular">Lyserød hytte</variation>
+   <variation index="plural">Lyserøde hytter</variation>
+   <variation index="indefinite_singular_accusative">a Pink Cottage</variation>
+   <variation index="definite_singular_accusative">the Pink Cottage</variation>
+   <variation index="indefinite_plural_accusative">some Pink Cottages</variation>
+   <variation index="definite_plural_accusative">the Pink Cottages</variation>
+   <variation index="singular_accusative">Pink Cottage</variation>
+   <variation index="plural_accusative">Pink Cottages</variation>
+  </string>
+  <string key="bottle_rare_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+   <original>en sutteflaske</original>
+   <variation index="indefinite_singular">en sutteflaske</variation>
+   <variation index="definite_singular">sutteflasken</variation>
+   <variation index="indefinite_plural">nogle sutteflasker</variation>
+   <variation index="definite_plural">sutteflaskerne</variation>
+   <variation index="singular">Sutteflaske</variation>
+   <variation index="plural">Sutteflasker</variation>
+   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+   <variation index="definite_singular_accusative">the Baby Bottle</variation>
+   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+   <variation index="definite_plural_accusative">the Baby Bottles</variation>
+   <variation index="singular_accusative">Baby Bottle</variation>
+   <variation index="plural_accusative">Baby Bottles</variation>
+  </string>
+  <string key="bottle_viral_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+   <original>en sutteflaske</original>
+   <variation index="indefinite_singular">en sutteflaske</variation>
+   <variation index="definite_singular">sutteflasken</variation>
+   <variation index="indefinite_plural">nogle sutteflasker</variation>
+   <variation index="definite_plural">sutteflaskerne</variation>
+   <variation index="singular">Sutteflaske</variation>
+   <variation index="plural">Sutteflasker</variation>
+   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+   <variation index="definite_singular_accusative">the Baby Bottle</variation>
+   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+   <variation index="definite_plural_accusative">the Baby Bottles</variation>
+   <variation index="singular_accusative">Baby Bottle</variation>
+   <variation index="plural_accusative">Baby Bottles</variation>
+  </string>
+  <string key="bottle_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+   <original>en sutteflaske</original>
+   <variation index="indefinite_singular">en sutteflaske</variation>
+   <variation index="definite_singular">sutteflasken</variation>
+   <variation index="indefinite_plural">nogle sutteflasker</variation>
+   <variation index="definite_plural">sutteflaskerne</variation>
+   <variation index="singular">Sutteflaske</variation>
+   <variation index="plural">Sutteflasker</variation>
+   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+   <variation index="definite_singular_accusative">the Baby Bottle</variation>
+   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+   <variation index="definite_plural_accusative">the Baby Bottles</variation>
+   <variation index="singular_accusative">Baby Bottle</variation>
+   <variation index="plural_accusative">Baby Bottles</variation>
+  </string>
+  <string key="Glove_word.b65b8978cb341cd532396b9c50582cd1" hash="b65b8978cb341cd532396b9c50582cd1" gender="masc">
+   <original>en handske</original>
+   <variation index="indefinite_singular">en handske</variation>
+   <variation index="definite_singular">handsken</variation>
+   <variation index="indefinite_plural">nogle handsker</variation>
+   <variation index="definite_plural">handskerne</variation>
+   <variation index="singular">Handske</variation>
+   <variation index="plural">Handsker</variation>
+   <variation index="indefinite_singular_accusative">a Glove</variation>
+   <variation index="definite_singular_accusative">the Glove</variation>
+   <variation index="indefinite_plural_accusative">some Gloves</variation>
+   <variation index="definite_plural_accusative">the Gloves</variation>
+   <variation index="singular_accusative">Glove</variation>
+   <variation index="plural_accusative">Gloves</variation>
+  </string>
+  <string key="buttermilk_rare_hint.81493544578fbe9b1f5b5698b1110576" hash="81493544578fbe9b1f5b5698b1110576">
+   <original>Kærnemælk</original>
+  </string>
+  <string key="bag_of_soil_rare_word.d3e1b146f0449a04f11b2ece8533f65d" hash="d3e1b146f0449a04f11b2ece8533f65d" gender="masc">
+   <original>en pose muldjord</original>
+   <variation index="indefinite_singular">en pose muldjord</variation>
+   <variation index="definite_singular">posen med muldjord</variation>
+   <variation index="indefinite_plural">nogle poser muldjord</variation>
+   <variation index="definite_plural">poserne med muldjord</variation>
+   <variation index="singular">Pose muldjord</variation>
+   <variation index="plural">Poser muldjord</variation>
+   <variation index="indefinite_singular_accusative">a Bag of Soil</variation>
+   <variation index="definite_singular_accusative">the Bag of Soil</variation>
+   <variation index="indefinite_plural_accusative">some Bags of Soil</variation>
+   <variation index="definite_plural_accusative">the Bags of Soil</variation>
+   <variation index="singular_accusative">Bag of Soil</variation>
+   <variation index="plural_accusative">Bags of Soil</variation>
+  </string>
+  <string key="brown_paint_rare_word.fa6b52c04c2f4e327e0465b5fed159c6" hash="fa6b52c04c2f4e327e0465b5fed159c6" gender="masc">
+   <original>en brun maling</original>
+   <variation index="indefinite_singular">en brun maling</variation>
+   <variation index="definite_singular">den brune maling</variation>
+   <variation index="indefinite_plural">noget brun maling</variation>
+   <variation index="definite_plural">den brune maling</variation>
+   <variation index="singular">Brun maling</variation>
+   <variation index="plural">Brun maling</variation>
+   <variation index="indefinite_singular_accusative">a Brown Paint</variation>
+   <variation index="definite_singular_accusative">the Brown Paint</variation>
+   <variation index="indefinite_plural_accusative">some Brown Paint</variation>
+   <variation index="definite_plural_accusative">the Brown Paint</variation>
+   <variation index="singular_accusative">Brown Paint</variation>
+   <variation index="plural_accusative">Brown Paint</variation>
+  </string>
+  <string key="bag_spores_rare_desc.6e8f1d12e3ce4be897e308d96083b7af" hash="6e8f1d12e3ce4be897e308d96083b7af">
+   <original>Brug svampesporeposer til at bygge et svampeskur med!</original>
+  </string>
+  <string key="adult_goat_word.ff52573e911aac246dc93f2b13619ead" hash="ff52573e911aac246dc93f2b13619ead" gender="masc">
+   <original>en voksen ged</original>
+   <variation index="indefinite_singular">en voksen ged</variation>
+   <variation index="definite_singular">den voksne ged</variation>
+   <variation index="indefinite_plural">nogle voksne geder</variation>
+   <variation index="definite_plural">de voksne geder</variation>
+   <variation index="singular">Voksen ged</variation>
+   <variation index="plural">Voksne geder</variation>
+   <variation index="indefinite_singular_accusative">an Adult Goat</variation>
+   <variation index="definite_singular_accusative">the Adult Goat</variation>
+   <variation index="indefinite_plural_accusative">some Adult Goats</variation>
+   <variation index="definite_plural_accusative">the Adult Goats</variation>
+   <variation index="singular_accusative">Adult Goat</variation>
+   <variation index="plural_accusative">Adult Goats</variation>
+  </string>
+  <string key="adult_dairy_animal_word.c28111240af70c582a712188d6ac852f" hash="c28111240af70c582a712188d6ac852f" gender="masc">
+   <original>et voksent malkedyr</original>
+   <variation index="indefinite_singular">et voksent malkedyr</variation>
+   <variation index="definite_singular">det voksne malkedyr</variation>
+   <variation index="indefinite_plural">nogle voksne malkedyr</variation>
+   <variation index="definite_plural">de voksne malkedyr</variation>
+   <variation index="singular">Voksent malkedyr</variation>
+   <variation index="plural">Voksne malkedyr</variation>
+   <variation index="indefinite_singular_accusative">an Adult Dairy Animal</variation>
+   <variation index="definite_singular_accusative">the Adult Dairy Animal</variation>
+   <variation index="indefinite_plural_accusative">some Adult Dairy Animals</variation>
+   <variation index="definite_plural_accusative">the Adult Dairy Animals</variation>
+   <variation index="singular_accusative">Adult Dairy Animal</variation>
+   <variation index="plural_accusative">Adult Dairy Animals</variation>
+  </string>
+  <string key="adult_sheep_word.f6fed7fed56ee662ab9fc1cbfad31e4a" hash="f6fed7fed56ee662ab9fc1cbfad31e4a" gender="masc">
+   <original>et voksent får</original>
+   <variation index="indefinite_singular">et voksent får</variation>
+   <variation index="definite_singular">det voksne får</variation>
+   <variation index="indefinite_plural">nogle voksne får</variation>
+   <variation index="definite_plural">de voksne får</variation>
+   <variation index="singular">Voksent får</variation>
+   <variation index="plural">Voksne får</variation>
+   <variation index="indefinite_singular_accusative">an Adult Sheep</variation>
+   <variation index="definite_singular_accusative">the Adult Sheep</variation>
+   <variation index="indefinite_plural_accusative">some Adult Sheep</variation>
+   <variation index="definite_plural_accusative">the Adult Sheep</variation>
+   <variation index="singular_accusative">Adult Sheep</variation>
+   <variation index="plural_accusative">Adult Sheep</variation>
+  </string>
+  <string key="coins_5_word.274ad61a10c9589256ebae131fa27d33" hash="274ad61a10c9589256ebae131fa27d33" gender="masc">
+   <original>en stak på 5 mønter</original>
+   <variation index="indefinite_singular">en stak på 5 mønter</variation>
+   <variation index="definite_singular">stakken på 5 mønter</variation>
+   <variation index="indefinite_plural">nogle stakke på 5 mønter</variation>
+   <variation index="definite_plural">stakkene på 5 mønter</variation>
+   <variation index="singular">Stak på 5 mønter</variation>
+   <variation index="plural">Stakke på 5 mønter</variation>
+   <variation index="indefinite_singular_accusative">a Stack of 5 Coins</variation>
+   <variation index="definite_singular_accusative">the Stack of 5 Coins</variation>
+   <variation index="indefinite_plural_accusative">some Stacks of 5 Coins</variation>
+   <variation index="definite_plural_accusative">the Stacks of 5 Coins</variation>
+   <variation index="singular_accusative">Stack of 5 Coins</variation>
+   <variation index="plural_accusative">Stacks of 5 Coins</variation>
+  </string>
+  <string key="ExpansionTooltip_Locked_GW.febc7042042e0a4d9282bd569e5ffa28" hash="febc7042042e0a4d9282bd569e5ffa28">
+   <original>Låses op på OP-niveau {level}</original>
+  </string>
+  <string key="LOCKED_shovel_word.107975d186bf06f84066920bfa8db0d1" hash="107975d186bf06f84066920bfa8db0d1" gender="masc">
+   <original>en skovl</original>
+   <variation index="indefinite_singular">en skovl</variation>
+   <variation index="definite_singular">skovlen</variation>
+   <variation index="indefinite_plural">nogle skovle</variation>
+   <variation index="definite_plural">skovlene</variation>
+   <variation index="singular">Skovl</variation>
+   <variation index="plural">Skovle</variation>
+   <variation index="indefinite_singular_accusative">a Shovel</variation>
+   <variation index="definite_singular_accusative">the Shovel</variation>
+   <variation index="indefinite_plural_accusative">some Shovels</variation>
+   <variation index="definite_plural_accusative">the Shovels</variation>
+   <variation index="singular_accusative">Shovel</variation>
+   <variation index="plural_accusative">Shovels</variation>
+  </string>
+  <string key="bhupgrade_biplane_word.e71ca7f27d70a6cdb0907f99528bcecc" hash="e71ca7f27d70a6cdb0907f99528bcecc" gender="masc">
+   <original>en todækker</original>
+   <variation index="indefinite_singular">en todækker</variation>
+   <variation index="definite_singular">todækkeren</variation>
+   <variation index="indefinite_plural">nogle todækkere</variation>
+   <variation index="definite_plural">todækkerne</variation>
+   <variation index="singular">Todækker</variation>
+   <variation index="plural">Todækkere</variation>
+   <variation index="indefinite_singular_accusative">a Biplane</variation>
+   <variation index="definite_singular_accusative">the Biplane</variation>
+   <variation index="indefinite_plural_accusative">some Biplanes</variation>
+   <variation index="definite_plural_accusative">the Biplanes</variation>
+   <variation index="singular_accusative">Biplane</variation>
+   <variation index="plural_accusative">Biplanes</variation>
+  </string>
+  <string key="butterflypeablossom_rare_word.a8986aedf7ecc43249c912d012f75461" hash="a8986aedf7ecc43249c912d012f75461" gender="masc">
+   <original>en sommerfuglebønne i flor</original>
+   <variation index="indefinite_singular">en sommerfuglebønne i flor</variation>
+   <variation index="definite_singular">sommerfuglebønnen i flor</variation>
+   <variation index="indefinite_plural">nogle sommerfuglebønner i flor</variation>
+   <variation index="definite_plural">sommerfuglebønnerne i flor</variation>
+   <variation index="singular">Sommerfuglebønne i flor</variation>
+   <variation index="plural">Sommerfuglebønner i flor</variation>
+   <variation index="indefinite_singular_accusative">a Butterfly Pea Blossom</variation>
+   <variation index="definite_singular_accusative">the Butterfly Pea Blossom</variation>
+   <variation index="indefinite_plural_accusative">some Butterfly Pea Blossoms</variation>
+   <variation index="definite_plural_accusative">the Butterfly Pea Blossoms</variation>
+   <variation index="singular_accusative">Butterfly Pea Blossom</variation>
+   <variation index="plural_accusative">Butterfly Pea Blossoms</variation>
+  </string>
+  <string key="adult_chicken_word.63c54a8904a2fabc6303a4f80c3f1499" hash="63c54a8904a2fabc6303a4f80c3f1499" gender="masc">
+   <original>en høne</original>
+   <variation index="indefinite_singular">en høne</variation>
+   <variation index="definite_singular">hønen</variation>
+   <variation index="indefinite_plural">nogle høns</variation>
+   <variation index="definite_plural">hønsene</variation>
+   <variation index="singular">Høne</variation>
+   <variation index="plural">Høns</variation>
+   <variation index="indefinite_singular_accusative">an Adult Chicken</variation>
+   <variation index="definite_singular_accusative">the Adult Chicken</variation>
+   <variation index="indefinite_plural_accusative">some Adult Chickens</variation>
+   <variation index="definite_plural_accusative">the Adult Chickens</variation>
+   <variation index="singular_accusative">Adult Chicken</variation>
+   <variation index="plural_accusative">Adult Chickens</variation>
+  </string>
+  <string key="avatar_gus_friend_word.23713855b87c468c9d25c380c9c4aad4" hash="23713855b87c468c9d25c380c9c4aad4" gender="masc">
+   <original>en Chef Bernard</original>
+   <variation index="indefinite_singular">en Chef Bernard</variation>
+   <variation index="definite_singular">Chef Bernard</variation>
+   <variation index="indefinite_plural">nogle Chef Bernard</variation>
+   <variation index="definite_plural">Chef Bernard</variation>
+   <variation index="singular">Chef Bernard</variation>
+   <variation index="plural">Chef Bernard</variation>
+   <variation index="indefinite_singular_accusative">a Chef Bernard</variation>
+   <variation index="definite_singular_accusative">the Chef Bernard</variation>
+   <variation index="indefinite_plural_accusative">some Chef Bernards</variation>
+   <variation index="definite_plural_accusative">the Chef Bernards</variation>
+   <variation index="singular_accusative">Chef Bernard</variation>
+   <variation index="plural_accusative">Chef Bernards</variation>
+  </string>
+  <string key="birdhouse_rare_word.21b228e8ffb616a97b875659e3b5993f" hash="21b228e8ffb616a97b875659e3b5993f" gender="masc">
+   <original>et lille fuglehus</original>
+   <variation index="indefinite_singular">et lille fuglehus</variation>
+   <variation index="definite_singular">det lille fuglehus</variation>
+   <variation index="indefinite_plural">nogle små fuglehuse</variation>
+   <variation index="definite_plural">de små fuglehuse</variation>
+   <variation index="singular">Lille fuglehus</variation>
+   <variation index="plural">Små fuglehuse</variation>
+   <variation index="indefinite_singular_accusative">a Small Birdhouse</variation>
+   <variation index="definite_singular_accusative">the Small Birdhouse</variation>
+   <variation index="indefinite_plural_accusative">some Small Birdhouses</variation>
+   <variation index="definite_plural_accusative">the Small Birdhouses</variation>
+   <variation index="singular_accusative">Small Birdhouse</variation>
+   <variation index="plural_accusative">Small Birdhouses</variation>
+  </string>
+  <string key="askFriends_rare_hint.91eeb0348598c6101235c195aad60308" hash="91eeb0348598c6101235c195aad60308">
+   <original>Bed dine venner om {resource,object,singular}</original>
+   <variation index="0">Bed dine venner om {resource,fem,singular}</variation>
+   <variation index="1">Bed dine venner om {resource,masc,singular}</variation>
+   <variation index="2">Ask your friends for this {resource,neuter,singular}</variation>
+  </string>
+  <string key="branch_baobob_rare_desc.57f1893b6c875c8a6121d2f92532c511" hash="57f1893b6c875c8a6121d2f92532c511">
+   <original>En baobab-gren</original>
+  </string>
+  <string key="complete_bh_order_word.8ac0ad86d8a861391eda03e7bb855585" hash="8ac0ad86d8a861391eda03e7bb855585" gender="masc">
+   <original>en stor høst-bestilling</original>
+   <variation index="indefinite_singular">en stor høst-bestilling</variation>
+   <variation index="definite_singular">stor høst-bestillingen</variation>
+   <variation index="indefinite_plural">nogle stor høst-bestillinger</variation>
+   <variation index="definite_plural">stor høst-bestillingerne</variation>
+   <variation index="singular">Stor høst-bestilling</variation>
+   <variation index="plural">Stor høst-bestillinger</variation>
+   <variation index="indefinite_singular_accusative">a Big Harvest Order</variation>
+   <variation index="definite_singular_accusative">the Big Harvest Order</variation>
+   <variation index="indefinite_plural_accusative">some Big Harvest Orders</variation>
+   <variation index="definite_plural_accusative">the Big Harvest Orders</variation>
+   <variation index="singular_accusative">Big Harvest Order</variation>
+   <variation index="plural_accusative">Big Harvest Orders</variation>
+  </string>
+  <string key="crafting_timed_tea_hint.f7661c0e7adbacb0a547a5ce6340565a" hash="f7661c0e7adbacb0a547a5ce6340565a">
+   <original>Lav {resource,object,singular} i din tebryggebar.</original>
+   <variation index="0">Lav {resource,fem,singular} i din tebryggebar.</variation>
+   <variation index="1">Lav {resource,masc,singular} i din tebryggebar.</variation>
+   <variation index="2">Create this {resource,neuter,singular} in your Tea Brewing Bar.</variation>
   </string>
   <string key="barn-construction_word.e3921ed47782444906429e2b86c91b51" hash="e3921ed47782444906429e2b86c91b51" gender="masc">
    <original>en lade (under opbygning)</original>
@@ -860,180 +689,6 @@
    <variation index="definite_plural_accusative">the Farm Bucks</variation>
    <variation index="singular_accusative">Farm Bucks</variation>
    <variation index="plural_accusative">Farm Bucks</variation>
-  </string>
-  <string key="LOCKED_barrel_word.212dfa8b63130297f42ea6defd70656a" hash="212dfa8b63130297f42ea6defd70656a" gender="masc">
-   <original>en tønde</original>
-   <variation index="indefinite_singular">en tønde</variation>
-   <variation index="definite_singular">tønden</variation>
-   <variation index="indefinite_plural">nogle tønder</variation>
-   <variation index="definite_plural">tønderne</variation>
-   <variation index="singular">Tønde</variation>
-   <variation index="plural">Tønder</variation>
-   <variation index="indefinite_singular_accusative">a Barrel</variation>
-   <variation index="definite_singular_accusative">the Barrel</variation>
-   <variation index="indefinite_plural_accusative">some Barrels</variation>
-   <variation index="definite_plural_accusative">the Barrels</variation>
-   <variation index="singular_accusative">Barrel</variation>
-   <variation index="plural_accusative">Barrels</variation>
-  </string>
-  <string key="cheese_rare_hint.84860fe84be0cda21a9667920b1913f6" hash="84860fe84be0cda21a9667920b1913f6">
-   <original>Få {resource,object,singular} ved at fodre din ged eller din ko</original>
-   <variation index="0">Få {resource,fem,singular} ved at fodre din ged eller din ko</variation>
-   <variation index="1">Få {resource,masc,singular} ved at fodre din ged eller din ko</variation>
-   <variation index="2">Feed your Goat or your Cow to obtain this {resource,neuter,singular}</variation>
-  </string>
-  <string key="cow_drop_hint.4a8eeb0c7b3fb87c0e78ef5b791b9577" hash="4a8eeb0c7b3fb87c0e78ef5b791b9577">
-   <original>Få {resource,object,singular} ved at fodre din ko</original>
-   <variation index="0">Få {resource,fem,singular} ved at fodre din ko</variation>
-   <variation index="1">Få {resource,masc,singular} ved at fodre din ko</variation>
-   <variation index="2">Feed your cow to obtain this {resource,neuter,singular}</variation>
-  </string>
-  <string key="Critter_useUnits.9ed59561cdbe35dd30248647a9db25f2" hash="9ed59561cdbe35dd30248647a9db25f2" gender="masc">
-   <original>en anvendelse</original>
-   <variation index="indefinite_singular">en anvendelse</variation>
-   <variation index="definite_singular">anvendelsen</variation>
-   <variation index="indefinite_plural">nogle anvendelser</variation>
-   <variation index="definite_plural">anvendelserne</variation>
-   <variation index="singular">anvendelse</variation>
-   <variation index="plural">anvendelser</variation>
-   <variation index="indefinite_singular_accusative">a use</variation>
-   <variation index="definite_singular_accusative">the use</variation>
-   <variation index="indefinite_plural_accusative">some uses</variation>
-   <variation index="definite_plural_accusative">the uses</variation>
-   <variation index="singular_accusative">use</variation>
-   <variation index="plural_accusative">uses</variation>
-  </string>
-  <string key="barn_dairy-base_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
-   <original>et mejeri</original>
-   <variation index="indefinite_singular">et mejeri</variation>
-   <variation index="definite_singular">mejeriet</variation>
-   <variation index="indefinite_plural">nogle mejerier</variation>
-   <variation index="definite_plural">mejerierne</variation>
-   <variation index="singular">Mejeri</variation>
-   <variation index="plural">Mejerier</variation>
-   <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
-   <variation index="definite_singular_accusative">the Dairy Barn</variation>
-   <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
-   <variation index="definite_plural_accusative">the Dairy Barns</variation>
-   <variation index="singular_accusative">Dairy Barn</variation>
-   <variation index="plural_accusative">Dairy Barns</variation>
-  </string>
-  <string key="barn_dairy_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
-   <original>et mejeri</original>
-   <variation index="indefinite_singular">et mejeri</variation>
-   <variation index="definite_singular">mejeriet</variation>
-   <variation index="indefinite_plural">nogle mejerier</variation>
-   <variation index="definite_plural">mejerierne</variation>
-   <variation index="singular">Mejeri</variation>
-   <variation index="plural">Mejerier</variation>
-   <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
-   <variation index="definite_singular_accusative">the Dairy Barn</variation>
-   <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
-   <variation index="definite_plural_accusative">the Dairy Barns</variation>
-   <variation index="singular_accusative">Dairy Barn</variation>
-   <variation index="plural_accusative">Dairy Barns</variation>
-  </string>
-  <string key="avatar2_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
-   <original>en avatar</original>
-   <variation index="indefinite_singular">en avatar</variation>
-   <variation index="definite_singular">avataren</variation>
-   <variation index="indefinite_plural">nogle avatarer</variation>
-   <variation index="definite_plural">avatarerne</variation>
-   <variation index="singular">Avatar</variation>
-   <variation index="plural">Avatarer</variation>
-   <variation index="indefinite_singular_accusative">an Avatar</variation>
-   <variation index="definite_singular_accusative">the Avatar</variation>
-   <variation index="indefinite_plural_accusative">some Avatars</variation>
-   <variation index="definite_plural_accusative">the Avatars</variation>
-   <variation index="singular_accusative">Avatar</variation>
-   <variation index="plural_accusative">Avatars</variation>
-  </string>
-  <string key="avatar_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
-   <original>en avatar</original>
-   <variation index="indefinite_singular">en avatar</variation>
-   <variation index="definite_singular">avataren</variation>
-   <variation index="indefinite_plural">nogle avatarer</variation>
-   <variation index="definite_plural">avatarerne</variation>
-   <variation index="singular">Avatar</variation>
-   <variation index="plural">Avatarer</variation>
-   <variation index="indefinite_singular_accusative">an Avatar</variation>
-   <variation index="definite_singular_accusative">the Avatar</variation>
-   <variation index="indefinite_plural_accusative">some Avatars</variation>
-   <variation index="definite_plural_accusative">the Avatars</variation>
-   <variation index="singular_accusative">Avatar</variation>
-   <variation index="plural_accusative">Avatars</variation>
-  </string>
-  <string key="bag_bedding_squirrel_rare_word.3bcd9861de3c294ba19da0be277bae2e" hash="3bcd9861de3c294ba19da0be277bae2e" gender="masc">
-   <original>egernstrøelse</original>
-   <variation index="indefinite_singular">egernstrøelse</variation>
-   <variation index="definite_singular">egernstrøelset</variation>
-   <variation index="indefinite_plural">noget egernstrøelse</variation>
-   <variation index="definite_plural">egernstrøelset</variation>
-   <variation index="singular">Egernstrøelse</variation>
-   <variation index="plural">Egernstrøelse</variation>
-   <variation index="indefinite_singular_accusative">a Squirrel Bedding</variation>
-   <variation index="definite_singular_accusative">the Squirrel Bedding</variation>
-   <variation index="indefinite_plural_accusative">some Squirrel Bedding</variation>
-   <variation index="definite_plural_accusative">the Squirrel Bedding</variation>
-   <variation index="singular_accusative">Squirrel Bedding</variation>
-   <variation index="plural_accusative">Squirrel Bedding</variation>
-  </string>
-  <string key="bread_banana_desc.cbc20199b9705e10e8f5754fff9f88ba" hash="cbc20199b9705e10e8f5754fff9f88ba">
-   <original>Folk går bananas over dette brød</original>
-  </string>
-  <string key="crop_rare_dry_hint.386fdfa59e85f6b16e84ccae32884dc6" hash="386fdfa59e85f6b16e84ccae32884dc6">
-   <original>Tør {resource,object,plural,indefinite} i din afgrødetørrer</original>
-   <variation index="0">Tør {resource,fem,plural,indefinite} i din afgrødetørrer</variation>
-   <variation index="1">Tør {resource,masc,plural,indefinite} i din afgrødetørrer</variation>
-   <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
-  </string>
-  <string key="Glove_word.b65b8978cb341cd532396b9c50582cd1" hash="b65b8978cb341cd532396b9c50582cd1" gender="masc">
-   <original>en handske</original>
-   <variation index="indefinite_singular">en handske</variation>
-   <variation index="definite_singular">handsken</variation>
-   <variation index="indefinite_plural">nogle handsker</variation>
-   <variation index="definite_plural">handskerne</variation>
-   <variation index="singular">Handske</variation>
-   <variation index="plural">Handsker</variation>
-   <variation index="indefinite_singular_accusative">a Glove</variation>
-   <variation index="definite_singular_accusative">the Glove</variation>
-   <variation index="indefinite_plural_accusative">some Gloves</variation>
-   <variation index="definite_plural_accusative">the Gloves</variation>
-   <variation index="singular_accusative">Glove</variation>
-   <variation index="plural_accusative">Gloves</variation>
-  </string>
-  <string key="buttermilk_rare_hint.81493544578fbe9b1f5b5698b1110576" hash="81493544578fbe9b1f5b5698b1110576">
-   <original>Kærnemælk</original>
-  </string>
-  <string key="credits_viral_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
-   <original>en kredit</original>
-   <variation index="indefinite_singular">en kredit</variation>
-   <variation index="definite_singular">kreditten</variation>
-   <variation index="indefinite_plural">nogle kreditter</variation>
-   <variation index="definite_plural">kreditterne</variation>
-   <variation index="singular">Kredit</variation>
-   <variation index="plural">Kreditter</variation>
-   <variation index="indefinite_singular_accusative">a Credit</variation>
-   <variation index="definite_singular_accusative">the Credit</variation>
-   <variation index="indefinite_plural_accusative">some Credits</variation>
-   <variation index="definite_plural_accusative">the Credits</variation>
-   <variation index="singular_accusative">Credit</variation>
-   <variation index="plural_accusative">Credits</variation>
-  </string>
-  <string key="credits_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
-   <original>en kredit</original>
-   <variation index="indefinite_singular">en kredit</variation>
-   <variation index="definite_singular">kreditten</variation>
-   <variation index="indefinite_plural">nogle kreditter</variation>
-   <variation index="definite_plural">kreditterne</variation>
-   <variation index="singular">Kredit</variation>
-   <variation index="plural">Kreditter</variation>
-   <variation index="indefinite_singular_accusative">a Credit</variation>
-   <variation index="definite_singular_accusative">the Credit</variation>
-   <variation index="indefinite_plural_accusative">some Credits</variation>
-   <variation index="definite_plural_accusative">the Credits</variation>
-   <variation index="singular_accusative">Credit</variation>
-   <variation index="plural_accusative">Credits</variation>
   </string>
   <string key="adult_duck_word.0ef34b61282c9f83a76470133ccbc4ca" hash="0ef34b61282c9f83a76470133ccbc4ca" gender="masc">
    <original>en voksen and</original>
@@ -1143,383 +798,290 @@
    <variation index="singular_accusative">Coin</variation>
    <variation index="plural_accusative">Coins</variation>
   </string>
-  <string key="advent_election_missingcontent_word.a55975db44dca703dfa963e020fe8296" hash="a55975db44dca703dfa963e020fe8296" gender="masc">
-   <original>en FOTW-genstand på vej</original>
-   <variation index="indefinite_singular">en FOTW-genstand på vej</variation>
-   <variation index="definite_singular">FOTW-genstanden på vej</variation>
-   <variation index="indefinite_plural">nogle FOTW-genstande på vej</variation>
-   <variation index="definite_plural">FOTW-genstandene på vej</variation>
-   <variation index="singular">FOTW-genstand på vej</variation>
-   <variation index="plural">FOTW-genstande på vej</variation>
-   <variation index="indefinite_singular_accusative">an upcoming FOTW item</variation>
-   <variation index="definite_singular_accusative">the upcoming FOTW item</variation>
-   <variation index="indefinite_plural_accusative">some upcoming FOTW items</variation>
-   <variation index="definite_plural_accusative">the upcoming FOTW items</variation>
-   <variation index="singular_accusative">upcoming FOTW item</variation>
-   <variation index="plural_accusative">upcoming FOTW items</variation>
+  <string key="Critter_useUnits.9ed59561cdbe35dd30248647a9db25f2" hash="9ed59561cdbe35dd30248647a9db25f2" gender="masc">
+   <original>en anvendelse</original>
+   <variation index="indefinite_singular">en anvendelse</variation>
+   <variation index="definite_singular">anvendelsen</variation>
+   <variation index="indefinite_plural">nogle anvendelser</variation>
+   <variation index="definite_plural">anvendelserne</variation>
+   <variation index="singular">anvendelse</variation>
+   <variation index="plural">anvendelser</variation>
+   <variation index="indefinite_singular_accusative">a use</variation>
+   <variation index="definite_singular_accusative">the use</variation>
+   <variation index="indefinite_plural_accusative">some uses</variation>
+   <variation index="definite_plural_accusative">the uses</variation>
+   <variation index="singular_accusative">use</variation>
+   <variation index="plural_accusative">uses</variation>
   </string>
-  <string key="bait_hint.d5df88100d3200769f115cfabd4eb946" hash="d5df88100d3200769f115cfabd4eb946">
-   <original>Du kan finde madding, når du høster gødede vandafgrøder</original>
+  <string key="barn_dairy-base_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
+   <original>et mejeri</original>
+   <variation index="indefinite_singular">et mejeri</variation>
+   <variation index="definite_singular">mejeriet</variation>
+   <variation index="indefinite_plural">nogle mejerier</variation>
+   <variation index="definite_plural">mejerierne</variation>
+   <variation index="singular">Mejeri</variation>
+   <variation index="plural">Mejerier</variation>
+   <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
+   <variation index="definite_singular_accusative">the Dairy Barn</variation>
+   <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
+   <variation index="definite_plural_accusative">the Dairy Barns</variation>
+   <variation index="singular_accusative">Dairy Barn</variation>
+   <variation index="plural_accusative">Dairy Barns</variation>
   </string>
-  <string key="bedding_deer_rare_desc.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719">
-   <original>et hjorteleje</original>
+  <string key="barn_dairy_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
+   <original>et mejeri</original>
+   <variation index="indefinite_singular">et mejeri</variation>
+   <variation index="definite_singular">mejeriet</variation>
+   <variation index="indefinite_plural">nogle mejerier</variation>
+   <variation index="definite_plural">mejerierne</variation>
+   <variation index="singular">Mejeri</variation>
+   <variation index="plural">Mejerier</variation>
+   <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
+   <variation index="definite_singular_accusative">the Dairy Barn</variation>
+   <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
+   <variation index="definite_plural_accusative">the Dairy Barns</variation>
+   <variation index="singular_accusative">Dairy Barn</variation>
+   <variation index="plural_accusative">Dairy Barns</variation>
   </string>
-  <string key="bedding_deer_rare_word.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719" gender="masc">
-   <original>et hjorteleje</original>
-   <variation index="indefinite_singular">et hjorteleje</variation>
-   <variation index="definite_singular">hjortelejet</variation>
-   <variation index="indefinite_plural">nogle hjortelejer</variation>
-   <variation index="definite_plural">hjortelejet</variation>
-   <variation index="singular">Hjorteleje</variation>
-   <variation index="plural">Hjorteleje</variation>
-   <variation index="indefinite_singular_accusative">a Deer Bedding</variation>
-   <variation index="definite_singular_accusative">the Deer Bedding</variation>
-   <variation index="indefinite_plural_accusative">some Deer Bedding</variation>
-   <variation index="definite_plural_accusative">the Deer Bedding</variation>
-   <variation index="singular_accusative">Deer Bedding</variation>
-   <variation index="plural_accusative">Deer Bedding</variation>
+  <string key="credits_viral_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
+   <original>en kredit</original>
+   <variation index="indefinite_singular">en kredit</variation>
+   <variation index="definite_singular">kreditten</variation>
+   <variation index="indefinite_plural">nogle kreditter</variation>
+   <variation index="definite_plural">kreditterne</variation>
+   <variation index="singular">Kredit</variation>
+   <variation index="plural">Kreditter</variation>
+   <variation index="indefinite_singular_accusative">a Credit</variation>
+   <variation index="definite_singular_accusative">the Credit</variation>
+   <variation index="indefinite_plural_accusative">some Credits</variation>
+   <variation index="definite_plural_accusative">the Credits</variation>
+   <variation index="singular_accusative">Credit</variation>
+   <variation index="plural_accusative">Credits</variation>
   </string>
-  <string key="craft_kitchen_hint.7d0bae73e58690585685f77f3dbd7d56" hash="7d0bae73e58690585685f77f3dbd7d56">
-   <original>Lav {resource,object,singular} i dit køkken</original>
-   <variation index="0">Lav {resource,fem,singular} i dit køkken</variation>
-   <variation index="1">Lav {resource,masc,singular} i dit køkken</variation>
-   <variation index="2">Create this {resource,neuter,singular} in your Kitchen</variation>
+  <string key="credits_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
+   <original>en kredit</original>
+   <variation index="indefinite_singular">en kredit</variation>
+   <variation index="definite_singular">kreditten</variation>
+   <variation index="indefinite_plural">nogle kreditter</variation>
+   <variation index="definite_plural">kreditterne</variation>
+   <variation index="singular">Kredit</variation>
+   <variation index="plural">Kreditter</variation>
+   <variation index="indefinite_singular_accusative">a Credit</variation>
+   <variation index="definite_singular_accusative">the Credit</variation>
+   <variation index="indefinite_plural_accusative">some Credits</variation>
+   <variation index="definite_plural_accusative">the Credits</variation>
+   <variation index="singular_accusative">Credit</variation>
+   <variation index="plural_accusative">Credits</variation>
   </string>
-  <string key="credits_viral_desc.1a7181682e10a0e18cc4ff4005ef22f8" hash="1a7181682e10a0e18cc4ff4005ef22f8">
-   <original>Brug kredit til at aktivere forstærkere for at få endnu mere ud af dine gårdaktiviteter!</original>
+  <string key="askFriends_plural_rare_hint.5aa4a881beac39e71d1236ce19b92545" hash="5aa4a881beac39e71d1236ce19b92545">
+   <original>Bed dine venner om {resource,object,plural}</original>
+   <variation index="0">Bed dine venner om de her {resource,fem,plural}</variation>
+   <variation index="1">Bed dine venner om de her {resource,masc,plural}</variation>
+   <variation index="2">Ask your friends for these {resource,neuter,plural}</variation>
   </string>
-  <string key="bonusmode_desc.616e04afb7a60ae51a566e61a1db99e0" hash="616e04afb7a60ae51a566e61a1db99e0">
-   <original>Dobbelt XP for {number} hver.</original>
+  <string key="craft_kiln_hint.c75810ff68cb7dbf893ddf76a50f2c93" hash="c75810ff68cb7dbf893ddf76a50f2c93">
+   <original>Lav {resource,object,singular} i din keramikovn</original>
+   <variation index="0">Lav {resource,fem,singular} i din keramikovn</variation>
+   <variation index="1">Lav {resource,masc,singular} i din keramikovn</variation>
+   <variation index="2">Create this {resource,neuter,singular} in your Crafting Kiln</variation>
   </string>
-  <string key="butterflypeablossom_rare_desc.03704eea642648383429244f21919037" hash="03704eea642648383429244f21919037">
-   <original>En sommerfuglebønne i flor</original>
+  <string key="bag_of_soil_rare_desc.9faf807c322d50d1adcd1cbb7ebf897e" hash="9faf807c322d50d1adcd1cbb7ebf897e">
+   <original>Brug poser med muldjord til at opføre nye bygninger på din gård!</original>
   </string>
-  <string key="GameMode_bh_waterPlane.4a740d6bf2e687c709be4704ed92e6a3" hash="4a740d6bf2e687c709be4704ed92e6a3">
-   <original>Vanding af op til ni jordstykker. Chance for at vinde bonusvand.</original>
+  <string key="building_word.11f788955fa149d80c2ebc76863e3639" hash="11f788955fa149d80c2ebc76863e3639" gender="masc">
+   <original>en bygning</original>
+   <variation index="indefinite_singular">en bygning</variation>
+   <variation index="definite_singular">bygningen</variation>
+   <variation index="indefinite_plural">nogle bygninger</variation>
+   <variation index="definite_plural">bygningerne</variation>
+   <variation index="singular">Bygning</variation>
+   <variation index="plural">Bygninger</variation>
+   <variation index="indefinite_singular_accusative">a Building</variation>
+   <variation index="definite_singular_accusative">the Building</variation>
+   <variation index="indefinite_plural_accusative">some Buildings</variation>
+   <variation index="definite_plural_accusative">the Buildings</variation>
+   <variation index="singular_accusative">Building</variation>
+   <variation index="plural_accusative">Buildings</variation>
   </string>
-  <string key="bottle_glass_hint.658d8ac0c2f78d193e8de48037f24cf5" hash="658d8ac0c2f78d193e8de48037f24cf5">
-   <original>Få denne flaske ved at spørge dine venner, eller ved at stige i niveau</original>
+  <string key="Cottage_Hay_word.e2bcf93bb21b59958bfaacba69f62bea" hash="e2bcf93bb21b59958bfaacba69f62bea" gender="masc">
+   <original>høhytte</original>
+   <variation index="indefinite_singular">høhytte</variation>
+   <variation index="definite_singular">høhytten</variation>
+   <variation index="indefinite_plural">nogle høhytter</variation>
+   <variation index="definite_plural">høhytterne</variation>
+   <variation index="singular">Høhytte</variation>
+   <variation index="plural">Høhytter</variation>
+   <variation index="indefinite_singular_accusative">a Hay Cottage</variation>
+   <variation index="definite_singular_accusative">the Hay Cottage</variation>
+   <variation index="indefinite_plural_accusative">some Hay Cottages</variation>
+   <variation index="definite_plural_accusative">the Hay Cottages</variation>
+   <variation index="singular_accusative">Hay Cottage</variation>
+   <variation index="plural_accusative">Hay Cottages</variation>
   </string>
-  <string key="cheese_desc.a9c80518d453791acabf7fcc553c6d80" hash="a9c80518d453791acabf7fcc553c6d80">
-   <original>Smil! Eller lav bare en luksussandwich...</original>
+  <string key="bag_spores_rare_word.d017ecb0577694b336e9753c6a7ea442" hash="d017ecb0577694b336e9753c6a7ea442" gender="masc">
+   <original>en sporepose</original>
+   <variation index="indefinite_singular">en sporepose</variation>
+   <variation index="definite_singular">sporeposen</variation>
+   <variation index="indefinite_plural">nogle sporeposer</variation>
+   <variation index="definite_plural">sporeposerne</variation>
+   <variation index="singular">Sporepose</variation>
+   <variation index="plural">Sporeposer</variation>
+   <variation index="indefinite_singular_accusative">a Spore Bag</variation>
+   <variation index="definite_singular_accusative">the Spore Bag</variation>
+   <variation index="indefinite_plural_accusative">some Spore Bags</variation>
+   <variation index="definite_plural_accusative">the Spore Bags</variation>
+   <variation index="singular_accusative">Spore Bag</variation>
+   <variation index="plural_accusative">Spore Bags</variation>
   </string>
-  <string key="chicken_drop_hint.856bc195f412cdbacaf3d6ad51440bc7" hash="856bc195f412cdbacaf3d6ad51440bc7">
-   <original>Få {resource,object,singular} ved at fodre din høne</original>
-   <variation index="0">Få {resource,fem,singular} ved at fodre din høne</variation>
-   <variation index="1">Få {resource,masc,singular} ved at fodre din høne</variation>
-   <variation index="2">Feed your chicken to obtain this {resource,neuter,singular}</variation>
+  <string key="bottle_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
+   <original>1 flaske hjælper dine dyreunger med at vokse!</original>
   </string>
-  <string key="GameMode_bh_FertPlane.c7d9ec4d0086d0a82c8affa934e70804" hash="c7d9ec4d0086d0a82c8affa934e70804">
-   <original>Gødning af op til ni jordstykker. Chance for at vinde bonusgødning.</original>
+  <string key="bottle_viral_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
+   <original>1 flaske hjælper dine dyreunger med at vokse!</original>
   </string>
-  <string key="chicken_word.e8fda63d9dfabcd4a172cad2329e232b" hash="e8fda63d9dfabcd4a172cad2329e232b" gender="masc">
-   <original>en kylling</original>
-   <variation index="indefinite_singular">en kylling</variation>
-   <variation index="definite_singular">kyllingen</variation>
-   <variation index="indefinite_plural">nogle kyllinger</variation>
-   <variation index="definite_plural">kyllingerne</variation>
-   <variation index="singular">Kylling</variation>
-   <variation index="plural">Kyllinger</variation>
-   <variation index="indefinite_singular_accusative">a Chicken</variation>
-   <variation index="definite_singular_accusative">the Chicken</variation>
-   <variation index="indefinite_plural_accusative">some Chickens</variation>
-   <variation index="definite_plural_accusative">the Chickens</variation>
-   <variation index="singular_accusative">Chicken</variation>
-   <variation index="plural_accusative">Chickens</variation>
+  <string key="blackberry_rare_hint.3b4f3b9f643ba1e1eb9fadbe828cb9e6" hash="3b4f3b9f643ba1e1eb9fadbe828cb9e6">
+   <original>Brombær</original>
   </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
+  <string key="Icon_crafting_labels_spine_book_word.12d143400e2b7b722ac5d9da17d78500" hash="12d143400e2b7b722ac5d9da17d78500" gender="masc">
+   <original>Biblioteksmærke</original>
+   <variation index="indefinite_singular">biblioteksmærke</variation>
+   <variation index="definite_singular">biblioteksmærket</variation>
+   <variation index="indefinite_plural">nogle biblioteksmærker</variation>
+   <variation index="definite_plural">biblioteksmærkerne</variation>
+   <variation index="singular">Biblioteksmærke</variation>
+   <variation index="plural">Biblioteksmærker</variation>
+   <variation index="indefinite_singular_accusative">Book Spine Labels</variation>
+   <variation index="definite_singular_accusative">the Book Spine Labels</variation>
+   <variation index="indefinite_plural_accusative">some Book Spine Labels</variation>
+   <variation index="definite_plural_accusative">the Book Spine Labels</variation>
+   <variation index="singular_accusative">Book Spine Labels</variation>
+   <variation index="plural_accusative">Book Spine Labels</variation>
   </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
-  </string>
-  <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
-   <original>a link_name</original>
-  </string>
-  <string key="bubblingbrew_rare_desc.ddece6a7c9609feea62c0fae7ee20249" hash="ddece6a7c9609feea62c0fae7ee20249">
-   <original>En mystisk blanding</original>
-  </string>
-  <string key="adult_peacock_word.ecc2e6848fb6d96d53a545807d01bae3" hash="ecc2e6848fb6d96d53a545807d01bae3" gender="masc">
-   <original>en voksen påfugl</original>
-   <variation index="indefinite_singular">en voksen påfugl</variation>
-   <variation index="definite_singular">den voksne påfugl</variation>
-   <variation index="indefinite_plural">nogle voksne påfugle</variation>
-   <variation index="definite_plural">de voksne påfugle</variation>
-   <variation index="singular">Voksen påfugl</variation>
-   <variation index="plural">Voksne påfugle</variation>
-   <variation index="indefinite_singular_accusative">an Adult Peacock</variation>
-   <variation index="definite_singular_accusative">the Adult Peacock</variation>
-   <variation index="indefinite_plural_accusative">some Adult Peacocks</variation>
-   <variation index="definite_plural_accusative">the Adult Peacocks</variation>
-   <variation index="singular_accusative">Adult Peacock</variation>
-   <variation index="plural_accusative">Adult Peacocks</variation>
-  </string>
-  <string key="colored_wood_stain_rare_word.f00f21cd4f30aca22a970f5d3c05ac9c" hash="f00f21cd4f30aca22a970f5d3c05ac9c" gender="masc">
-   <original>en bejdse</original>
-   <variation index="indefinite_singular">en bejdse</variation>
-   <variation index="definite_singular">bejdsen</variation>
-   <variation index="indefinite_plural">noget bejdse</variation>
-   <variation index="definite_plural">bejdsen</variation>
-   <variation index="singular">Bejdse</variation>
-   <variation index="plural">Bejdse</variation>
-   <variation index="indefinite_singular_accusative">a Wood Stain</variation>
-   <variation index="definite_singular_accusative">the Wood Stain</variation>
-   <variation index="indefinite_plural_accusative">some Wood Stain</variation>
-   <variation index="definite_plural_accusative">the Wood Stain</variation>
-   <variation index="singular_accusative">Wood Stain</variation>
-   <variation index="plural_accusative">Wood Stain</variation>
-  </string>
-  <string key="adult_chicken_word.63c54a8904a2fabc6303a4f80c3f1499" hash="63c54a8904a2fabc6303a4f80c3f1499" gender="masc">
-   <original>en høne</original>
-   <variation index="indefinite_singular">en høne</variation>
-   <variation index="definite_singular">hønen</variation>
-   <variation index="indefinite_plural">nogle høns</variation>
-   <variation index="definite_plural">hønsene</variation>
-   <variation index="singular">Høne</variation>
-   <variation index="plural">Høns</variation>
-   <variation index="indefinite_singular_accusative">an Adult Chicken</variation>
-   <variation index="definite_singular_accusative">the Adult Chicken</variation>
-   <variation index="indefinite_plural_accusative">some Adult Chickens</variation>
-   <variation index="definite_plural_accusative">the Adult Chickens</variation>
-   <variation index="singular_accusative">Adult Chicken</variation>
-   <variation index="plural_accusative">Adult Chickens</variation>
-  </string>
-  <string key="avatar_gus_friend_word.23713855b87c468c9d25c380c9c4aad4" hash="23713855b87c468c9d25c380c9c4aad4" gender="masc">
-   <original>en Chef Bernard</original>
-   <variation index="indefinite_singular">en Chef Bernard</variation>
-   <variation index="definite_singular">Chef Bernard</variation>
-   <variation index="indefinite_plural">nogle Chef Bernard</variation>
-   <variation index="definite_plural">Chef Bernard</variation>
-   <variation index="singular">Chef Bernard</variation>
-   <variation index="plural">Chef Bernard</variation>
-   <variation index="indefinite_singular_accusative">a Chef Bernard</variation>
-   <variation index="definite_singular_accusative">the Chef Bernard</variation>
-   <variation index="indefinite_plural_accusative">some Chef Bernards</variation>
-   <variation index="definite_plural_accusative">the Chef Bernards</variation>
-   <variation index="singular_accusative">Chef Bernard</variation>
-   <variation index="plural_accusative">Chef Bernards</variation>
-  </string>
-  <string key="birdhouse_rare_word.21b228e8ffb616a97b875659e3b5993f" hash="21b228e8ffb616a97b875659e3b5993f" gender="masc">
-   <original>et lille fuglehus</original>
-   <variation index="indefinite_singular">et lille fuglehus</variation>
-   <variation index="definite_singular">det lille fuglehus</variation>
-   <variation index="indefinite_plural">nogle små fuglehuse</variation>
-   <variation index="definite_plural">de små fuglehuse</variation>
-   <variation index="singular">Lille fuglehus</variation>
-   <variation index="plural">Små fuglehuse</variation>
-   <variation index="indefinite_singular_accusative">a Small Birdhouse</variation>
-   <variation index="definite_singular_accusative">the Small Birdhouse</variation>
-   <variation index="indefinite_plural_accusative">some Small Birdhouses</variation>
-   <variation index="definite_plural_accusative">the Small Birdhouses</variation>
-   <variation index="singular_accusative">Small Birdhouse</variation>
-   <variation index="plural_accusative">Small Birdhouses</variation>
-  </string>
-  <string key="ExpansionTooltip_Locked_GW.febc7042042e0a4d9282bd569e5ffa28" hash="febc7042042e0a4d9282bd569e5ffa28">
-   <original>Låses op på OP-niveau {level}</original>
-  </string>
-  <string key="LOCKED_shovel_word.107975d186bf06f84066920bfa8db0d1" hash="107975d186bf06f84066920bfa8db0d1" gender="masc">
-   <original>en skovl</original>
-   <variation index="indefinite_singular">en skovl</variation>
-   <variation index="definite_singular">skovlen</variation>
-   <variation index="indefinite_plural">nogle skovle</variation>
-   <variation index="definite_plural">skovlene</variation>
-   <variation index="singular">Skovl</variation>
-   <variation index="plural">Skovle</variation>
-   <variation index="indefinite_singular_accusative">a Shovel</variation>
-   <variation index="definite_singular_accusative">the Shovel</variation>
-   <variation index="indefinite_plural_accusative">some Shovels</variation>
-   <variation index="definite_plural_accusative">the Shovels</variation>
-   <variation index="singular_accusative">Shovel</variation>
-   <variation index="plural_accusative">Shovels</variation>
-  </string>
-  <string key="bhupgrade_biplane_word.e71ca7f27d70a6cdb0907f99528bcecc" hash="e71ca7f27d70a6cdb0907f99528bcecc" gender="masc">
-   <original>en todækker</original>
-   <variation index="indefinite_singular">en todækker</variation>
-   <variation index="definite_singular">todækkeren</variation>
-   <variation index="indefinite_plural">nogle todækkere</variation>
-   <variation index="definite_plural">todækkerne</variation>
-   <variation index="singular">Todækker</variation>
-   <variation index="plural">Todækkere</variation>
-   <variation index="indefinite_singular_accusative">a Biplane</variation>
-   <variation index="definite_singular_accusative">the Biplane</variation>
-   <variation index="indefinite_plural_accusative">some Biplanes</variation>
-   <variation index="definite_plural_accusative">the Biplanes</variation>
-   <variation index="singular_accusative">Biplane</variation>
-   <variation index="plural_accusative">Biplanes</variation>
-  </string>
-  <string key="butterflypeablossom_rare_word.a8986aedf7ecc43249c912d012f75461" hash="a8986aedf7ecc43249c912d012f75461" gender="masc">
-   <original>en sommerfuglebønne i flor</original>
-   <variation index="indefinite_singular">en sommerfuglebønne i flor</variation>
-   <variation index="definite_singular">sommerfuglebønnen i flor</variation>
-   <variation index="indefinite_plural">nogle sommerfuglebønner i flor</variation>
-   <variation index="definite_plural">sommerfuglebønnerne i flor</variation>
-   <variation index="singular">Sommerfuglebønne i flor</variation>
-   <variation index="plural">Sommerfuglebønner i flor</variation>
-   <variation index="indefinite_singular_accusative">a Butterfly Pea Blossom</variation>
-   <variation index="definite_singular_accusative">the Butterfly Pea Blossom</variation>
-   <variation index="indefinite_plural_accusative">some Butterfly Pea Blossoms</variation>
-   <variation index="definite_plural_accusative">the Butterfly Pea Blossoms</variation>
-   <variation index="singular_accusative">Butterfly Pea Blossom</variation>
-   <variation index="plural_accusative">Butterfly Pea Blossoms</variation>
-  </string>
-  <string key="bag_of_soil_rare_word.d3e1b146f0449a04f11b2ece8533f65d" hash="d3e1b146f0449a04f11b2ece8533f65d" gender="masc">
-   <original>en pose muldjord</original>
-   <variation index="indefinite_singular">en pose muldjord</variation>
-   <variation index="definite_singular">posen med muldjord</variation>
-   <variation index="indefinite_plural">nogle poser muldjord</variation>
-   <variation index="definite_plural">poserne med muldjord</variation>
-   <variation index="singular">Pose muldjord</variation>
-   <variation index="plural">Poser muldjord</variation>
-   <variation index="indefinite_singular_accusative">a Bag of Soil</variation>
-   <variation index="definite_singular_accusative">the Bag of Soil</variation>
-   <variation index="indefinite_plural_accusative">some Bags of Soil</variation>
-   <variation index="definite_plural_accusative">the Bags of Soil</variation>
-   <variation index="singular_accusative">Bag of Soil</variation>
-   <variation index="plural_accusative">Bags of Soil</variation>
-  </string>
-  <string key="brown_paint_rare_word.fa6b52c04c2f4e327e0465b5fed159c6" hash="fa6b52c04c2f4e327e0465b5fed159c6" gender="masc">
-   <original>en brun maling</original>
-   <variation index="indefinite_singular">en brun maling</variation>
-   <variation index="definite_singular">den brune maling</variation>
-   <variation index="indefinite_plural">noget brun maling</variation>
-   <variation index="definite_plural">den brune maling</variation>
-   <variation index="singular">Brun maling</variation>
-   <variation index="plural">Brun maling</variation>
-   <variation index="indefinite_singular_accusative">a Brown Paint</variation>
-   <variation index="definite_singular_accusative">the Brown Paint</variation>
-   <variation index="indefinite_plural_accusative">some Brown Paint</variation>
-   <variation index="definite_plural_accusative">the Brown Paint</variation>
-   <variation index="singular_accusative">Brown Paint</variation>
-   <variation index="plural_accusative">Brown Paint</variation>
+  <string key="cd_uglysweater_intro_two.5dbed076adeffe83964d123adcfa2dc1" hash="5dbed076adeffe83964d123adcfa2dc1">
+   <original>Jeg vil holde en grim sweater-fest. Men jeg har brug for din hjælp!</original>
   </string>
   <string key="bag_of_tree_soil_rare_desc.de94fbebe12104b1bc49d22464746a14" hash="de94fbebe12104b1bc49d22464746a14">
    <original>Brug sække med lundmuld til at anlægge din første lund!</original>
   </string>
-  <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
-   <original>Giv og få!</original>
+  <string key="chickenbedding_rare_desc.a055552d6d99a94b6100e8b96a759bda" hash="a055552d6d99a94b6100e8b96a759bda">
+   <original>Byg din hønsegård af hønsestrøelse!</original>
   </string>
-  <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
-   <original>Giv og få!</original>
+  <string key="adult_rabbit_word.e195bc2ba62afc70b0701730b13ed4e6" hash="e195bc2ba62afc70b0701730b13ed4e6" gender="masc">
+   <original>en voksen kanin</original>
+   <variation index="indefinite_singular">en voksen kanin</variation>
+   <variation index="definite_singular">den voksne kanin</variation>
+   <variation index="indefinite_plural">nogle voksne kaniner</variation>
+   <variation index="definite_plural">de voksne kaniner</variation>
+   <variation index="singular">Voksen kanin</variation>
+   <variation index="plural">Voksne kaniner</variation>
+   <variation index="indefinite_singular_accusative">an Adult Rabbit</variation>
+   <variation index="definite_singular_accusative">the Adult Rabbit</variation>
+   <variation index="indefinite_plural_accusative">some Adult Rabbits</variation>
+   <variation index="definite_plural_accusative">the Adult Rabbits</variation>
+   <variation index="singular_accusative">Adult Rabbit</variation>
+   <variation index="plural_accusative">Adult Rabbits</variation>
   </string>
-  <string key="brick_rare_desc.821ede08346da454b631e7d129cdeeab" hash="821ede08346da454b631e7d129cdeeab">
-   <original>Brug mursten til at opføre nye bygninger på din gård!</original>
+  <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_caption.fc3e9792f3dc94231d8a6dd57e62a91a" hash="fc3e9792f3dc94231d8a6dd57e62a91a">
+   <original>Trælegetøj bruges under forberedelserne til trælegetøjsudstillingen!</original>
   </string>
-  <string key="coins_buy_word.a56225595c08f0d7a00d4fed686da401" hash="a56225595c08f0d7a00d4fed686da401" gender="masc">
-   <original>flere mønter</original>
-   <variation index="indefinite_singular">flere mønter</variation>
-   <variation index="definite_singular">flere mønter</variation>
-   <variation index="indefinite_plural">nogle flere mønter</variation>
-   <variation index="definite_plural">flere mønter</variation>
-   <variation index="singular">Flere mønter</variation>
-   <variation index="plural">Flere mønter</variation>
-   <variation index="indefinite_singular_accusative">a More Coins</variation>
-   <variation index="definite_singular_accusative">the More Coins</variation>
-   <variation index="indefinite_plural_accusative">some More Coins</variation>
-   <variation index="definite_plural_accusative">the More Coins</variation>
-   <variation index="singular_accusative">More Coins</variation>
-   <variation index="plural_accusative">More Coins</variation>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>caption_msg</original>
   </string>
-  <string key="adult_sheep_word.f6fed7fed56ee662ab9fc1cbfad31e4a" hash="f6fed7fed56ee662ab9fc1cbfad31e4a" gender="masc">
-   <original>et voksent får</original>
-   <variation index="indefinite_singular">et voksent får</variation>
-   <variation index="definite_singular">det voksne får</variation>
-   <variation index="indefinite_plural">nogle voksne får</variation>
-   <variation index="definite_plural">de voksne får</variation>
-   <variation index="singular">Voksent får</variation>
-   <variation index="plural">Voksne får</variation>
-   <variation index="indefinite_singular_accusative">an Adult Sheep</variation>
-   <variation index="definite_singular_accusative">the Adult Sheep</variation>
-   <variation index="indefinite_plural_accusative">some Adult Sheep</variation>
-   <variation index="definite_plural_accusative">the Adult Sheep</variation>
-   <variation index="singular_accusative">Adult Sheep</variation>
-   <variation index="plural_accusative">Adult Sheep</variation>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>a caption_msg</original>
   </string>
-  <string key="coins_5_word.274ad61a10c9589256ebae131fa27d33" hash="274ad61a10c9589256ebae131fa27d33" gender="masc">
-   <original>en stak på 5 mønter</original>
-   <variation index="indefinite_singular">en stak på 5 mønter</variation>
-   <variation index="definite_singular">stakken på 5 mønter</variation>
-   <variation index="indefinite_plural">nogle stakke på 5 mønter</variation>
-   <variation index="definite_plural">stakkene på 5 mønter</variation>
-   <variation index="singular">Stak på 5 mønter</variation>
-   <variation index="plural">Stakke på 5 mønter</variation>
-   <variation index="indefinite_singular_accusative">a Stack of 5 Coins</variation>
-   <variation index="definite_singular_accusative">the Stack of 5 Coins</variation>
-   <variation index="indefinite_plural_accusative">some Stacks of 5 Coins</variation>
-   <variation index="definite_plural_accusative">the Stacks of 5 Coins</variation>
-   <variation index="singular_accusative">Stack of 5 Coins</variation>
-   <variation index="plural_accusative">Stacks of 5 Coins</variation>
+  <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>a caption_msg</original>
   </string>
-  <string key="Cottage_Pink_word.e1f9014352e2d4fd2173d6a03422ac03" hash="e1f9014352e2d4fd2173d6a03422ac03" gender="masc">
-   <original>en lyserød hytte</original>
-   <variation index="indefinite_singular">en lyserød hytte</variation>
-   <variation index="definite_singular">den lyserøde hytte</variation>
-   <variation index="indefinite_plural">nogle lyserøde hytter</variation>
-   <variation index="definite_plural">de lyserøde hytter</variation>
-   <variation index="singular">Lyserød hytte</variation>
-   <variation index="plural">Lyserøde hytter</variation>
-   <variation index="indefinite_singular_accusative">a Pink Cottage</variation>
-   <variation index="definite_singular_accusative">the Pink Cottage</variation>
-   <variation index="indefinite_plural_accusative">some Pink Cottages</variation>
-   <variation index="definite_plural_accusative">the Pink Cottages</variation>
-   <variation index="singular_accusative">Pink Cottage</variation>
-   <variation index="plural_accusative">Pink Cottages</variation>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>a caption_msg</original>
   </string>
-  <string key="bottle_rare_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
-   <original>en sutteflaske</original>
-   <variation index="indefinite_singular">en sutteflaske</variation>
-   <variation index="definite_singular">sutteflasken</variation>
-   <variation index="indefinite_plural">nogle sutteflasker</variation>
-   <variation index="definite_plural">sutteflaskerne</variation>
-   <variation index="singular">Sutteflaske</variation>
-   <variation index="plural">Sutteflasker</variation>
-   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
-   <variation index="definite_singular_accusative">the Baby Bottle</variation>
-   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
-   <variation index="definite_plural_accusative">the Baby Bottles</variation>
-   <variation index="singular_accusative">Baby Bottle</variation>
-   <variation index="plural_accusative">Baby Bottles</variation>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>a caption_msg</original>
   </string>
-  <string key="bottle_viral_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
-   <original>en sutteflaske</original>
-   <variation index="indefinite_singular">en sutteflaske</variation>
-   <variation index="definite_singular">sutteflasken</variation>
-   <variation index="indefinite_plural">nogle sutteflasker</variation>
-   <variation index="definite_plural">sutteflaskerne</variation>
-   <variation index="singular">Sutteflaske</variation>
-   <variation index="plural">Sutteflasker</variation>
-   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
-   <variation index="definite_singular_accusative">the Baby Bottle</variation>
-   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
-   <variation index="definite_plural_accusative">the Baby Bottles</variation>
-   <variation index="singular_accusative">Baby Bottle</variation>
-   <variation index="plural_accusative">Baby Bottles</variation>
+  <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+   <original>a caption_msg</original>
   </string>
-  <string key="bottle_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
-   <original>en sutteflaske</original>
-   <variation index="indefinite_singular">en sutteflaske</variation>
-   <variation index="definite_singular">sutteflasken</variation>
-   <variation index="indefinite_plural">nogle sutteflasker</variation>
-   <variation index="definite_plural">sutteflaskerne</variation>
-   <variation index="singular">Sutteflaske</variation>
-   <variation index="plural">Sutteflasker</variation>
-   <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
-   <variation index="definite_singular_accusative">the Baby Bottle</variation>
-   <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
-   <variation index="definite_plural_accusative">the Baby Bottles</variation>
-   <variation index="singular_accusative">Baby Bottle</variation>
-   <variation index="plural_accusative">Baby Bottles</variation>
+  <string key="barn_dairy-l1_word.3fab6d320b419f3d7854add78ce1853b" hash="3fab6d320b419f3d7854add78ce1853b" gender="masc">
+   <original>et niveau 1 mejeri</original>
+   <variation index="indefinite_singular">et niveau 1 mejeri</variation>
+   <variation index="definite_singular">niveau 1 mejeriet</variation>
+   <variation index="indefinite_plural">nogle niveau 1 mejerier</variation>
+   <variation index="definite_plural">niveau 1 mejerierne</variation>
+   <variation index="singular">Niveau 1 mejeri</variation>
+   <variation index="plural">Niveau 1 mejerier</variation>
+   <variation index="indefinite_singular_accusative">a Level 1 Dairy Barn</variation>
+   <variation index="definite_singular_accusative">the Level 1 Dairy Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 1 Dairy Barns</variation>
+   <variation index="definite_plural_accusative">the Level 1 Dairy Barns</variation>
+   <variation index="singular_accusative">Level 1 Dairy Barn</variation>
+   <variation index="plural_accusative">Level 1 Dairy Barns</variation>
   </string>
-  <string key="apple_pie_desc.cc84e1525924a452241472c24cc812bf" hash="cc84e1525924a452241472c24cc812bf">
-   <original>Æbletærter er naturens herlige lækkerbisken!</original>
+  <string key="biofuel_word.099c1d8a6dc11476e45b08cc2c80617e" hash="099c1d8a6dc11476e45b08cc2c80617e" gender="masc">
+   <original>brændstof</original>
+   <variation index="indefinite_singular">brændstof</variation>
+   <variation index="definite_singular">brændstoffet</variation>
+   <variation index="indefinite_plural">noget brændstof</variation>
+   <variation index="definite_plural">brændstoffet</variation>
+   <variation index="singular">Brændstof</variation>
+   <variation index="plural">Brændstof</variation>
+   <variation index="indefinite_singular_accusative">a Fuel</variation>
+   <variation index="definite_singular_accusative">the Fuel</variation>
+   <variation index="indefinite_plural_accusative">some Fuel</variation>
+   <variation index="definite_plural_accusative">the Fuel</variation>
+   <variation index="singular_accusative">Fuel</variation>
+   <variation index="plural_accusative">Fuel</variation>
+  </string>
+  <string key="cannot_sell_desc.b1a5ecb377b04427d3106db29a5e1968" hash="b1a5ecb377b04427d3106db29a5e1968">
+   <original>Særlig anvendelighed, kan ikke sælges for guld</original>
+  </string>
+  <string key="batter_desc.5350c166d62344e85be320ba59dc43e1" hash="5350c166d62344e85be320ba59dc43e1">
+   <original>Hæver, når den bliver bagt</original>
+  </string>
+  <string key="branch_baobob_rare_word.8b4d43b4853e21320efcbd82f9e60dbc" hash="8b4d43b4853e21320efcbd82f9e60dbc" gender="masc">
+   <original>en baobab-gren</original>
+   <variation index="indefinite_singular">en baobab-gren</variation>
+   <variation index="definite_singular">baobab-grenen</variation>
+   <variation index="indefinite_plural">nogle baobab-grene</variation>
+   <variation index="definite_plural">baobab-grenene</variation>
+   <variation index="singular">Baobab-gren</variation>
+   <variation index="plural">Baobab-grene</variation>
+   <variation index="indefinite_singular_accusative">a Baobab Branch</variation>
+   <variation index="definite_singular_accusative">the Baobab Branch</variation>
+   <variation index="indefinite_plural_accusative">some Baobab Branches</variation>
+   <variation index="definite_plural_accusative">the Baobab Branches</variation>
+   <variation index="singular_accusative">Baobab Branch</variation>
+   <variation index="plural_accusative">Baobab Branches</variation>
+  </string>
+  <string key="charm_bookmark_word.13b241cfa18c6230d1213bd86e82f40c" hash="13b241cfa18c6230d1213bd86e82f40c" gender="masc">
+   <original>Et bogmærkevedhæng</original>
+   <variation index="indefinite_singular">et bogmærkevedhæng</variation>
+   <variation index="definite_singular">bogmærkevedhænget</variation>
+   <variation index="indefinite_plural">nogle bogmærkevedhæng</variation>
+   <variation index="definite_plural">bogmærkevedhængene</variation>
+   <variation index="singular">Bogmærkevedhæng</variation>
+   <variation index="plural">Bogmærkevedhæng</variation>
+   <variation index="indefinite_singular_accusative">a Bookmark Charm</variation>
+   <variation index="definite_singular_accusative">the Bookmark Charm</variation>
+   <variation index="indefinite_plural_accusative">some Bookmark Charms</variation>
+   <variation index="definite_plural_accusative">the Bookmark Charms</variation>
+   <variation index="singular_accusative">Bookmark Charm</variation>
+   <variation index="plural_accusative">Bookmark Charms</variation>
+  </string>
+  <string key="chickencoop_word.8eb7a5320e4a52f84261816d335cd230" hash="8eb7a5320e4a52f84261816d335cd230" gender="masc">
+   <original>en hønsegård</original>
+   <variation index="indefinite_singular">en hønsegård</variation>
+   <variation index="definite_singular">hønsegården</variation>
+   <variation index="indefinite_plural">nogle hønsegårde</variation>
+   <variation index="definite_plural">hønsegårdene</variation>
+   <variation index="singular">Hønsegård</variation>
+   <variation index="plural">Hønsegårde</variation>
+   <variation index="indefinite_singular_accusative">a Chicken Coop</variation>
+   <variation index="definite_singular_accusative">the Chicken Coop</variation>
+   <variation index="indefinite_plural_accusative">some Chicken Coops</variation>
+   <variation index="definite_plural_accusative">the Chicken Coops</variation>
+   <variation index="singular_accusative">Chicken Coop</variation>
+   <variation index="plural_accusative">Chicken Coops</variation>
   </string>
   <string key="brown_egg_rare_hint.b72393ccfeab9590e9d9f277a663c049" hash="b72393ccfeab9590e9d9f277a663c049">
    <original>Få {resource,object,singular} ved at fodre din præmiehøne</original>
@@ -1556,6 +1118,444 @@
    <variation index="definite_plural_accusative">the Stacks of 20 Coins</variation>
    <variation index="singular_accusative">Stack of 20 Coins</variation>
    <variation index="plural_accusative">Stacks of 20 Coins</variation>
+  </string>
+  <string key="bonusmode_desc.616e04afb7a60ae51a566e61a1db99e0" hash="616e04afb7a60ae51a566e61a1db99e0">
+   <original>Dobbelt XP for {number} hver.</original>
+  </string>
+  <string key="butterflypeablossom_rare_desc.03704eea642648383429244f21919037" hash="03704eea642648383429244f21919037">
+   <original>En sommerfuglebønne i flor</original>
+  </string>
+  <string key="barn-l2_word.4202f67f6a5d591d43ab2ecc7b2e6470" hash="4202f67f6a5d591d43ab2ecc7b2e6470" gender="masc">
+   <original>en niveau 2 lade</original>
+   <variation index="indefinite_singular">en niveau 2 lade</variation>
+   <variation index="definite_singular">niveau 2 laden</variation>
+   <variation index="indefinite_plural">nogle niveau 2 lader</variation>
+   <variation index="definite_plural">niveau 2 laderne</variation>
+   <variation index="singular">Niveau 2 lade</variation>
+   <variation index="plural">Niveau 2 lader</variation>
+   <variation index="indefinite_singular_accusative">a Level 2 Barn</variation>
+   <variation index="definite_singular_accusative">the Level 2 Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 2 Barns</variation>
+   <variation index="definite_plural_accusative">the Level 2 Barns</variation>
+   <variation index="singular_accusative">Level 2 Barn</variation>
+   <variation index="plural_accusative">Level 2 Barns</variation>
+  </string>
+  <string key="barn_dairy-l2_word.69321f51c73f9167958dd7bc8169508b" hash="69321f51c73f9167958dd7bc8169508b" gender="masc">
+   <original>et niveau 2 mejeri</original>
+   <variation index="indefinite_singular">et niveau 2 mejeri</variation>
+   <variation index="definite_singular">niveau 2 mejeriet</variation>
+   <variation index="indefinite_plural">nogle niveau 2 mejerier</variation>
+   <variation index="definite_plural">niveau 2 mejerierne</variation>
+   <variation index="singular">Niveau 2 mejeri</variation>
+   <variation index="plural">Niveau 2 mejerier</variation>
+   <variation index="indefinite_singular_accusative">a Level 2 Dairy Barn</variation>
+   <variation index="definite_singular_accusative">the Level 2 Dairy Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 2 Dairy Barns</variation>
+   <variation index="definite_plural_accusative">the Level 2 Dairy Barns</variation>
+   <variation index="singular_accusative">Level 2 Dairy Barn</variation>
+   <variation index="plural_accusative">Level 2 Dairy Barns</variation>
+  </string>
+  <string key="barn_dairy_name.b7ff2ec61cdb0fabf1a6a13f82111006" hash="b7ff2ec61cdb0fabf1a6a13f82111006">
+   <original>Mejeri</original>
+  </string>
+  <string key="adult_cow_word.0817bf416285a19d3264cbb4395ab328" hash="0817bf416285a19d3264cbb4395ab328" gender="masc">
+   <original>en voksen ko</original>
+   <variation index="indefinite_singular">en voksen ko</variation>
+   <variation index="definite_singular">den voksne ko</variation>
+   <variation index="indefinite_plural">nogle voksne køer</variation>
+   <variation index="definite_plural">de voksne køer</variation>
+   <variation index="singular">Voksen ko</variation>
+   <variation index="plural">Voksne køer</variation>
+   <variation index="indefinite_singular_accusative">an Adult Cow</variation>
+   <variation index="definite_singular_accusative">the Adult Cow</variation>
+   <variation index="indefinite_plural_accusative">some Adult Cows</variation>
+   <variation index="definite_plural_accusative">the Adult Cows</variation>
+   <variation index="singular_accusative">Adult Cow</variation>
+   <variation index="plural_accusative">Adult Cows</variation>
+  </string>
+  <string key="barn-l4_word.a382b1638a5b4f38a004c9160a53d734" hash="a382b1638a5b4f38a004c9160a53d734" gender="masc">
+   <original>en niveau 4-lade</original>
+   <variation index="indefinite_singular">en niveau 4-lade</variation>
+   <variation index="definite_singular">niveau 4-laden</variation>
+   <variation index="indefinite_plural">nogle niveau 4-lader</variation>
+   <variation index="definite_plural">niveau 4-laderne</variation>
+   <variation index="singular">Niveau 4-lade</variation>
+   <variation index="plural">Niveau 4-lader</variation>
+   <variation index="indefinite_singular_accusative">a Level 4 Barn</variation>
+   <variation index="definite_singular_accusative">the Level 4 Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 4 Barns</variation>
+   <variation index="definite_plural_accusative">the Level 4 Barns</variation>
+   <variation index="singular_accusative">Level 4 Barn</variation>
+   <variation index="plural_accusative">Level 4 Barns</variation>
+  </string>
+  <string key="butter_desc.aab3d1ce157576cc985e2348ec4699ef" hash="aab3d1ce157576cc985e2348ec4699ef">
+   <original>Alting smager bedre med en lille smule smør!</original>
+  </string>
+  <string key="coins_buy_desc.2d878cb122db26186cc2de6dab39ed1b" hash="2d878cb122db26186cc2de6dab39ed1b">
+   <original>Køb mønter for at fylde op</original>
+  </string>
+  <string key="avatar2_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
+   <original>en avatar</original>
+   <variation index="indefinite_singular">en avatar</variation>
+   <variation index="definite_singular">avataren</variation>
+   <variation index="indefinite_plural">nogle avatarer</variation>
+   <variation index="definite_plural">avatarerne</variation>
+   <variation index="singular">Avatar</variation>
+   <variation index="plural">Avatarer</variation>
+   <variation index="indefinite_singular_accusative">an Avatar</variation>
+   <variation index="definite_singular_accusative">the Avatar</variation>
+   <variation index="indefinite_plural_accusative">some Avatars</variation>
+   <variation index="definite_plural_accusative">the Avatars</variation>
+   <variation index="singular_accusative">Avatar</variation>
+   <variation index="plural_accusative">Avatars</variation>
+  </string>
+  <string key="avatar_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
+   <original>en avatar</original>
+   <variation index="indefinite_singular">en avatar</variation>
+   <variation index="definite_singular">avataren</variation>
+   <variation index="indefinite_plural">nogle avatarer</variation>
+   <variation index="definite_plural">avatarerne</variation>
+   <variation index="singular">Avatar</variation>
+   <variation index="plural">Avatarer</variation>
+   <variation index="indefinite_singular_accusative">an Avatar</variation>
+   <variation index="definite_singular_accusative">the Avatar</variation>
+   <variation index="indefinite_plural_accusative">some Avatars</variation>
+   <variation index="definite_plural_accusative">the Avatars</variation>
+   <variation index="singular_accusative">Avatar</variation>
+   <variation index="plural_accusative">Avatars</variation>
+  </string>
+  <string key="bag_bedding_squirrel_rare_word.3bcd9861de3c294ba19da0be277bae2e" hash="3bcd9861de3c294ba19da0be277bae2e" gender="masc">
+   <original>egernstrøelse</original>
+   <variation index="indefinite_singular">egernstrøelse</variation>
+   <variation index="definite_singular">egernstrøelset</variation>
+   <variation index="indefinite_plural">noget egernstrøelse</variation>
+   <variation index="definite_plural">egernstrøelset</variation>
+   <variation index="singular">Egernstrøelse</variation>
+   <variation index="plural">Egernstrøelse</variation>
+   <variation index="indefinite_singular_accusative">a Squirrel Bedding</variation>
+   <variation index="definite_singular_accusative">the Squirrel Bedding</variation>
+   <variation index="indefinite_plural_accusative">some Squirrel Bedding</variation>
+   <variation index="definite_plural_accusative">the Squirrel Bedding</variation>
+   <variation index="singular_accusative">Squirrel Bedding</variation>
+   <variation index="plural_accusative">Squirrel Bedding</variation>
+  </string>
+  <string key="bread_banana_desc.cbc20199b9705e10e8f5754fff9f88ba" hash="cbc20199b9705e10e8f5754fff9f88ba">
+   <original>Folk går bananas over dette brød</original>
+  </string>
+  <string key="crop_rare_dry_hint.386fdfa59e85f6b16e84ccae32884dc6" hash="386fdfa59e85f6b16e84ccae32884dc6">
+   <original>Tør {resource,object,plural,indefinite} i din afgrødetørrer</original>
+   <variation index="0">Tør {resource,fem,plural,indefinite} i din afgrødetørrer</variation>
+   <variation index="1">Tør {resource,masc,plural,indefinite} i din afgrødetørrer</variation>
+   <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
+  </string>
+  <string key="askFriends_single_rare_hint.d4ef3a7bc7ad843fad0e7c883c47cda5" hash="d4ef3a7bc7ad843fad0e7c883c47cda5">
+   <original>Bed dine venner om {resource,object}</original>
+   <variation index="0">Bed dine venner om {resource,fem}</variation>
+   <variation index="1">Bed dine venner om {resource,masc}</variation>
+   <variation index="2">Ask your friends for {resource,neuter}</variation>
+  </string>
+  <string key="barn-l1_word.8f31371fa726eb677712363a15a18188" hash="8f31371fa726eb677712363a15a18188" gender="masc">
+   <original>en niveau 1 lade</original>
+   <variation index="indefinite_singular">en niveau 1 lade</variation>
+   <variation index="definite_singular">niveau 1 laden</variation>
+   <variation index="indefinite_plural">nogle niveau 1 lader</variation>
+   <variation index="definite_plural">niveau 1 laderne</variation>
+   <variation index="singular">Niveau 1 lade</variation>
+   <variation index="plural">Niveau 1 lader</variation>
+   <variation index="indefinite_singular_accusative">a Level 1 Barn</variation>
+   <variation index="definite_singular_accusative">the Level 1 Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 1 Barns</variation>
+   <variation index="definite_plural_accusative">the Level 1 Barns</variation>
+   <variation index="singular_accusative">Level 1 Barn</variation>
+   <variation index="plural_accusative">Level 1 Barns</variation>
+  </string>
+  <string key="blackberry_pie_desc.4c12c90d35729d49798dbab4d27b8d78" hash="4c12c90d35729d49798dbab4d27b8d78">
+   <original>Brombær kan godt være lidt søde, men de er altid lækre!</original>
+  </string>
+  <string key="alfredo_rare_hint.40da91d4bb20258303da423c4e53f2a1" hash="40da91d4bb20258303da423c4e53f2a1">
+   <original>Alfredo</original>
+  </string>
+  <string key="barn_dairy-construction_word.327afd26313cbc845f18f8d5348f0a81" hash="327afd26313cbc845f18f8d5348f0a81" gender="masc">
+   <original>et mejeri (under opbygning)</original>
+   <variation index="indefinite_singular">et mejeri (under opbygning)</variation>
+   <variation index="definite_singular">mejeriet (under opbygning)</variation>
+   <variation index="indefinite_plural">nogle mejerier (under opbygning)</variation>
+   <variation index="definite_plural">mejerierne (under opbygning)</variation>
+   <variation index="singular">Mejeri (under opbygning)</variation>
+   <variation index="plural">Mejerier (under opbygning)</variation>
+   <variation index="indefinite_singular_accusative">a Dairy Barn (Under Construction)</variation>
+   <variation index="definite_singular_accusative">the Dairy Barn (Under Construction)</variation>
+   <variation index="indefinite_plural_accusative">some Dairy Barn (Under Construction)s</variation>
+   <variation index="definite_plural_accusative">the Dairy Barn (Under Construction)s</variation>
+   <variation index="singular_accusative">Dairy Barn (Under Construction)</variation>
+   <variation index="plural_accusative">Dairy Barn (Under Construction)s</variation>
+  </string>
+  <string key="Outfit1_word.49042e62e91f965574090a229260e0a6" hash="49042e62e91f965574090a229260e0a6" gender="masc">
+   <original>en mundering</original>
+   <variation index="indefinite_singular">en mundering</variation>
+   <variation index="definite_singular">munderingen</variation>
+   <variation index="indefinite_plural">nogle munderinger</variation>
+   <variation index="definite_plural">munderingerne</variation>
+   <variation index="singular">Mundering</variation>
+   <variation index="plural">Munderinger</variation>
+   <variation index="indefinite_singular_accusative">an Outfit</variation>
+   <variation index="definite_singular_accusative">the Outfit</variation>
+   <variation index="indefinite_plural_accusative">some Outfits</variation>
+   <variation index="definite_plural_accusative">the Outfits</variation>
+   <variation index="singular_accusative">Outfit</variation>
+   <variation index="plural_accusative">Outfits</variation>
+  </string>
+  <string key="alfredo_desc.24aa4160891ed523d52a2df0881689db" hash="24aa4160891ed523d52a2df0881689db">
+   <original>Alle pastatyper elsker alfredo-sauce!</original>
+  </string>
+  <string key="butter_rare_hint.e5961b0baa369b1c565601db04d82c3c" hash="e5961b0baa369b1c565601db04d82c3c">
+   <original>Smør</original>
+  </string>
+  <string key="GameMode_bh_FertPlane.c7d9ec4d0086d0a82c8affa934e70804" hash="c7d9ec4d0086d0a82c8affa934e70804">
+   <original>Gødning af op til ni jordstykker. Chance for at vinde bonusgødning.</original>
+  </string>
+  <string key="chicken_word.e8fda63d9dfabcd4a172cad2329e232b" hash="e8fda63d9dfabcd4a172cad2329e232b" gender="masc">
+   <original>en kylling</original>
+   <variation index="indefinite_singular">en kylling</variation>
+   <variation index="definite_singular">kyllingen</variation>
+   <variation index="indefinite_plural">nogle kyllinger</variation>
+   <variation index="definite_plural">kyllingerne</variation>
+   <variation index="singular">Kylling</variation>
+   <variation index="plural">Kyllinger</variation>
+   <variation index="indefinite_singular_accusative">a Chicken</variation>
+   <variation index="definite_singular_accusative">the Chicken</variation>
+   <variation index="indefinite_plural_accusative">some Chickens</variation>
+   <variation index="definite_plural_accusative">the Chickens</variation>
+   <variation index="singular_accusative">Chicken</variation>
+   <variation index="plural_accusative">Chickens</variation>
+  </string>
+  <string key="Hat_word.eb553ff97d6a1fb0a194b92e8f3c819e" hash="eb553ff97d6a1fb0a194b92e8f3c819e" gender="masc">
+   <original>en hat</original>
+   <variation index="indefinite_singular">en hat</variation>
+   <variation index="definite_singular">hatten</variation>
+   <variation index="indefinite_plural">nogle hatte</variation>
+   <variation index="definite_plural">hattene</variation>
+   <variation index="singular">Hat</variation>
+   <variation index="plural">Hatte</variation>
+   <variation index="indefinite_singular_accusative">a Hat</variation>
+   <variation index="definite_singular_accusative">the Hat</variation>
+   <variation index="indefinite_plural_accusative">some Hats</variation>
+   <variation index="definite_plural_accusative">the Hats</variation>
+   <variation index="singular_accusative">Hat</variation>
+   <variation index="plural_accusative">Hats</variation>
+  </string>
+  <string key="adult_horse_word.c77530f9189b55621be03cf421b8b151" hash="c77530f9189b55621be03cf421b8b151" gender="masc">
+   <original>en voksen hest</original>
+   <variation index="indefinite_singular">en voksen hest</variation>
+   <variation index="definite_singular">den voksne hest</variation>
+   <variation index="indefinite_plural">nogle voksne heste</variation>
+   <variation index="definite_plural">de voksne heste</variation>
+   <variation index="singular">Voksen hest</variation>
+   <variation index="plural">Voksne heste</variation>
+   <variation index="indefinite_singular_accusative">an Adult Horse</variation>
+   <variation index="definite_singular_accusative">the Adult Horse</variation>
+   <variation index="indefinite_plural_accusative">some Adult Horses</variation>
+   <variation index="definite_plural_accusative">the Adult Horses</variation>
+   <variation index="singular_accusative">Adult Horse</variation>
+   <variation index="plural_accusative">Adult Horses</variation>
+  </string>
+  <string key="brick_rare_word.54f40ed334b4230fe418aa544238c46b" hash="54f40ed334b4230fe418aa544238c46b" gender="masc">
+   <original>en mursten</original>
+   <variation index="indefinite_singular">en mursten</variation>
+   <variation index="definite_singular">murstenen</variation>
+   <variation index="indefinite_plural">nogle mursten</variation>
+   <variation index="definite_plural">murstenene</variation>
+   <variation index="singular">Mursten</variation>
+   <variation index="plural">Mursten</variation>
+   <variation index="indefinite_singular_accusative">a Brick</variation>
+   <variation index="definite_singular_accusative">the Brick</variation>
+   <variation index="indefinite_plural_accusative">some Bricks</variation>
+   <variation index="definite_plural_accusative">the Bricks</variation>
+   <variation index="singular_accusative">Brick</variation>
+   <variation index="plural_accusative">Bricks</variation>
+  </string>
+  <string key="avatar_ranger_l1_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+   <original>skovrideren Jane</original>
+   <variation index="indefinite_singular">skovrideren Jane</variation>
+   <variation index="definite_singular">skovrideren Jane</variation>
+   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
+   <variation index="definite_plural">skovrideren Jane</variation>
+   <variation index="singular">Skovrideren Jane</variation>
+   <variation index="plural">Skovrideren Jane</variation>
+   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+   <variation index="definite_singular_accusative">the Ranger Jane</variation>
+   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+   <variation index="definite_plural_accusative">the Ranger Janes</variation>
+   <variation index="singular_accusative">Ranger Jane</variation>
+   <variation index="plural_accusative">Ranger Janes</variation>
+  </string>
+  <string key="avatar_ranger_l2_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+   <original>skovrideren Jane</original>
+   <variation index="indefinite_singular">skovrideren Jane</variation>
+   <variation index="definite_singular">skovrideren Jane</variation>
+   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
+   <variation index="definite_plural">skovrideren Jane</variation>
+   <variation index="singular">Skovrideren Jane</variation>
+   <variation index="plural">Skovrideren Jane</variation>
+   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+   <variation index="definite_singular_accusative">the Ranger Jane</variation>
+   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+   <variation index="definite_plural_accusative">the Ranger Janes</variation>
+   <variation index="singular_accusative">Ranger Jane</variation>
+   <variation index="plural_accusative">Ranger Janes</variation>
+  </string>
+  <string key="avatar_ranger_l3_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+   <original>skovrideren Jane</original>
+   <variation index="indefinite_singular">skovrideren Jane</variation>
+   <variation index="definite_singular">skovrideren Jane</variation>
+   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
+   <variation index="definite_plural">skovrideren Jane</variation>
+   <variation index="singular">Skovrideren Jane</variation>
+   <variation index="plural">Skovrideren Jane</variation>
+   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+   <variation index="definite_singular_accusative">the Ranger Jane</variation>
+   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+   <variation index="definite_plural_accusative">the Ranger Janes</variation>
+   <variation index="singular_accusative">Ranger Jane</variation>
+   <variation index="plural_accusative">Ranger Janes</variation>
+  </string>
+  <string key="avatar_ranger_l4_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+   <original>skovrideren Jane</original>
+   <variation index="indefinite_singular">skovrideren Jane</variation>
+   <variation index="definite_singular">skovrideren Jane</variation>
+   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
+   <variation index="definite_plural">skovrideren Jane</variation>
+   <variation index="singular">Skovrideren Jane</variation>
+   <variation index="plural">Skovrideren Jane</variation>
+   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+   <variation index="definite_singular_accusative">the Ranger Jane</variation>
+   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+   <variation index="definite_plural_accusative">the Ranger Janes</variation>
+   <variation index="singular_accusative">Ranger Jane</variation>
+   <variation index="plural_accusative">Ranger Janes</variation>
+  </string>
+  <string key="avatar_ranger_l5_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+   <original>skovrideren Jane</original>
+   <variation index="indefinite_singular">skovrideren Jane</variation>
+   <variation index="definite_singular">skovrideren Jane</variation>
+   <variation index="indefinite_plural">nogle skovrideren Jane</variation>
+   <variation index="definite_plural">skovrideren Jane</variation>
+   <variation index="singular">Skovrideren Jane</variation>
+   <variation index="plural">Skovrideren Jane</variation>
+   <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+   <variation index="definite_singular_accusative">the Ranger Jane</variation>
+   <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+   <variation index="definite_plural_accusative">the Ranger Janes</variation>
+   <variation index="singular_accusative">Ranger Jane</variation>
+   <variation index="plural_accusative">Ranger Janes</variation>
+  </string>
+  <string key="adult_wool_animal_word.f85e381bd3ce2920e5e7c7cdcbd590f7" hash="f85e381bd3ce2920e5e7c7cdcbd590f7" gender="masc">
+   <original>et får eller en kanin</original>
+   <variation index="indefinite_singular">et får eller en kanin</variation>
+   <variation index="definite_singular">fåret eller kaninen</variation>
+   <variation index="indefinite_plural">nogle får eller kaniner</variation>
+   <variation index="definite_plural">fårene eller kaninerne</variation>
+   <variation index="singular">Får eller kanin</variation>
+   <variation index="plural">Får eller kaniner</variation>
+   <variation index="indefinite_singular_accusative">a Sheep or Rabbit</variation>
+   <variation index="definite_singular_accusative">the Sheep or Rabbit</variation>
+   <variation index="indefinite_plural_accusative">some Sheep or Rabbits</variation>
+   <variation index="definite_plural_accusative">the Sheep or Rabbits</variation>
+   <variation index="singular_accusative">Sheep or Rabbit</variation>
+   <variation index="plural_accusative">Sheep or Rabbits</variation>
+  </string>
+  <string key="batter_rare_hint.5e2b3df405664fe964c20af8a26b4608" hash="5e2b3df405664fe964c20af8a26b4608">
+   <original>Dej</original>
+  </string>
+  <string key="crafting_timed_jam_hint.4dcd67fccc2917b0a1850d3f4568d150" hash="4dcd67fccc2917b0a1850d3f4568d150">
+   <original>Lav {resource,object,singular} på din marmeladestævnehylde</original>
+   <variation index="0">Lav {resource,fem,singular} på din marmeladestævnehylde</variation>
+   <variation index="1">Lav {resource,masc,singular} på din marmeladestævnehylde</variation>
+   <variation index="2">Create this {resource,neuter,singular} in your Jam Shelf</variation>
+  </string>
+  <string key="adult_peacock_word.ecc2e6848fb6d96d53a545807d01bae3" hash="ecc2e6848fb6d96d53a545807d01bae3" gender="masc">
+   <original>en voksen påfugl</original>
+   <variation index="indefinite_singular">en voksen påfugl</variation>
+   <variation index="definite_singular">den voksne påfugl</variation>
+   <variation index="indefinite_plural">nogle voksne påfugle</variation>
+   <variation index="definite_plural">de voksne påfugle</variation>
+   <variation index="singular">Voksen påfugl</variation>
+   <variation index="plural">Voksne påfugle</variation>
+   <variation index="indefinite_singular_accusative">an Adult Peacock</variation>
+   <variation index="definite_singular_accusative">the Adult Peacock</variation>
+   <variation index="indefinite_plural_accusative">some Adult Peacocks</variation>
+   <variation index="definite_plural_accusative">the Adult Peacocks</variation>
+   <variation index="singular_accusative">Adult Peacock</variation>
+   <variation index="plural_accusative">Adult Peacocks</variation>
+  </string>
+  <string key="colored_wood_stain_rare_word.f00f21cd4f30aca22a970f5d3c05ac9c" hash="f00f21cd4f30aca22a970f5d3c05ac9c" gender="masc">
+   <original>en bejdse</original>
+   <variation index="indefinite_singular">en bejdse</variation>
+   <variation index="definite_singular">bejdsen</variation>
+   <variation index="indefinite_plural">noget bejdse</variation>
+   <variation index="definite_plural">bejdsen</variation>
+   <variation index="singular">Bejdse</variation>
+   <variation index="plural">Bejdse</variation>
+   <variation index="indefinite_singular_accusative">a Wood Stain</variation>
+   <variation index="definite_singular_accusative">the Wood Stain</variation>
+   <variation index="indefinite_plural_accusative">some Wood Stain</variation>
+   <variation index="definite_plural_accusative">the Wood Stain</variation>
+   <variation index="singular_accusative">Wood Stain</variation>
+   <variation index="plural_accusative">Wood Stain</variation>
+  </string>
+  <string key="LOCKED_barrel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="LOCKED_barrel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="LOCKED_fence_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="LOCKED_fence_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="LOCKED_shovel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="LOCKED_shovel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+   <original>???</original>
+  </string>
+  <string key="barn-l5_word.a1482a5d4db8428a6eb09d5617ab2e90" hash="a1482a5d4db8428a6eb09d5617ab2e90" gender="masc">
+   <original>en niveau 5-lade</original>
+   <variation index="indefinite_singular">en niveau 5-lade</variation>
+   <variation index="definite_singular">niveau 5-laden</variation>
+   <variation index="indefinite_plural">nogle niveau 5-lader</variation>
+   <variation index="definite_plural">niveau 5-laderne</variation>
+   <variation index="singular">Niveau 5-lade</variation>
+   <variation index="plural">Niveau 5-lader</variation>
+   <variation index="indefinite_singular_accusative">a Level 5 Barn</variation>
+   <variation index="definite_singular_accusative">the Level 5 Barn</variation>
+   <variation index="indefinite_plural_accusative">some Level 5 Barns</variation>
+   <variation index="definite_plural_accusative">the Level 5 Barns</variation>
+   <variation index="singular_accusative">Level 5 Barn</variation>
+   <variation index="plural_accusative">Level 5 Barns</variation>
+  </string>
+  <string key="cookies_skeleton_desc.3d76c980ce86ccf499b9addbaf598e58" hash="3d76c980ce86ccf499b9addbaf598e58">
+   <original>Skeletsmåkager er den ideelle måde at vise folk på, at selvom du har morbide tanker, er du normalt let om hjertet.</original>
+  </string>
+  <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_caption.a3fafc6e6ec6feb17122aaeb6ebdc70b" hash="a3fafc6e6ec6feb17122aaeb6ebdc70b">
+   <original>Dekorative kabler bruges under forberedelserne til trælegetøjsudstillingen!</original>
+  </string>
+  <string key="GameMode_bh_waterPlane.4a740d6bf2e687c709be4704ed92e6a3" hash="4a740d6bf2e687c709be4704ed92e6a3">
+   <original>Vanding af op til ni jordstykker. Chance for at vinde bonusvand.</original>
+  </string>
+  <string key="bottle_glass_hint.658d8ac0c2f78d193e8de48037f24cf5" hash="658d8ac0c2f78d193e8de48037f24cf5">
+   <original>Få denne flaske ved at spørge dine venner, eller ved at stige i niveau</original>
+  </string>
+  <string key="cheese_desc.a9c80518d453791acabf7fcc553c6d80" hash="a9c80518d453791acabf7fcc553c6d80">
+   <original>Smil! Eller lav bare en luksussandwich...</original>
+  </string>
+  <string key="chicken_drop_hint.856bc195f412cdbacaf3d6ad51440bc7" hash="856bc195f412cdbacaf3d6ad51440bc7">
+   <original>Få {resource,object,singular} ved at fodre din høne</original>
+   <variation index="0">Få {resource,fem,singular} ved at fodre din høne</variation>
+   <variation index="1">Få {resource,masc,singular} ved at fodre din høne</variation>
+   <variation index="2">Feed your chicken to obtain this {resource,neuter,singular}</variation>
   </string>
  </pkg>
 </strings>
