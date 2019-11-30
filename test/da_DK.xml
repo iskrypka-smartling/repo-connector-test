@@ -11,7 +11,7 @@
    <original>Avl {total} heste på en time.</original>
   </string>
  </pkg>
-  <pkg name="Items">
+ <pkg name="Items">
   <string key="bag_spores_rare_desc.6e8f1d12e3ce4be897e308d96083b7af" hash="6e8f1d12e3ce4be897e308d96083b7af">
    <original>Brug svampesporeposer til at bygge et svampeskur med!</original>
   </string>
@@ -248,7 +248,7 @@
    <variation index="0">Tør {resource,fem,plural,indefinite} i din afgrødetørrer</variation>
    <variation index="1">Tør {resource,masc,plural,indefinite} i din afgrødetørrer</variation>
    <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
-  </string> 
+  </string>
   <string key="Cottage_Pink_word.e1f9014352e2d4fd2173d6a03422ac03" hash="e1f9014352e2d4fd2173d6a03422ac03" gender="masc">
    <original>en lyserød hytte</original>
    <variation index="indefinite_singular">en lyserød hytte</variation>

@@ -11,7 +11,7 @@
    <original>Fok {total} paarden in 1 uur.</original>
   </string>
  </pkg>
-  <pkg name="Items">
+ <pkg name="Items">
   <string key="bag_spores_rare_desc.6e8f1d12e3ce4be897e308d96083b7af" hash="6e8f1d12e3ce4be897e308d96083b7af">
    <original>Gebruik champignonzakken om een champignonschuur te bouwen!</original>
   </string>
@@ -248,7 +248,7 @@
    <variation index="0">Droog {resource,fem,plural,indefinite} in je gewasdroger</variation>
    <variation index="1">Droog {resource,masc,plural,indefinite} in je gewasdroger</variation>
    <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
-  </string> 
+  </string>
   <string key="Cottage_Pink_word.e1f9014352e2d4fd2173d6a03422ac03" hash="e1f9014352e2d4fd2173d6a03422ac03" gender="masc">
    <original>een roze huisje</original>
    <variation index="indefinite_singular">een roze huisje</variation>
@@ -1006,10 +1006,10 @@
    <original>trio boekruglabels</original>
    <variation index="indefinite_singular">een trio boekruglabels</variation>
    <variation index="definite_singular">het trio boekruglabels</variation>
-   <variation index="indefinite_plural">wat trio&apos;s boekruglabels</variation>
-   <variation index="definite_plural">de trio&apos;s boekruglabels</variation>
+   <variation index="indefinite_plural">wat trio's boekruglabels</variation>
+   <variation index="definite_plural">de trio's boekruglabels</variation>
    <variation index="singular">Trio boekruglabels</variation>
-   <variation index="plural">Trio&apos;s boekruglabels</variation>
+   <variation index="plural">Trio's boekruglabels</variation>
    <variation index="indefinite_singular_accusative">Book Spine Labels</variation>
    <variation index="definite_singular_accusative">the Book Spine Labels</variation>
    <variation index="indefinite_plural_accusative">some Book Spine Labels</variation>
