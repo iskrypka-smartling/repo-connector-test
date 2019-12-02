@@ -42,5 +42,1520 @@
                 <variation index="singular_accusative">Pink Cottage</variation>
                 <variation index="plural_accusative">Pink Cottages</variation>
             </string>
+            <string key="Cottage_Wood_word.4acf3afc6141065eb361c7bb23fb44f5" hash="4acf3afc6141065eb361c7bb23fb44f5" gender="masc">
+                <original>a Wood Cottage</original>
+                <variation index="indefinite_singular">a Wood Cottage</variation>
+                <variation index="definite_singular">the Wood Cottage</variation>
+                <variation index="indefinite_plural">some Wood Cottages</variation>
+                <variation index="definite_plural">the Wood Cottages</variation>
+                <variation index="singular">Wood Cottage</variation>
+                <variation index="plural">Wood Cottages</variation>
+                <variation index="indefinite_singular_accusative">a Wood Cottage</variation>
+                <variation index="definite_singular_accusative">the Wood Cottage</variation>
+                <variation index="indefinite_plural_accusative">some Wood Cottages</variation>
+                <variation index="definite_plural_accusative">the Wood Cottages</variation>
+                <variation index="singular_accusative">Wood Cottage</variation>
+                <variation index="plural_accusative">Wood Cottages</variation>
+            </string>
+            <string key="Critter_useUnits.9ed59561cdbe35dd30248647a9db25f2" hash="9ed59561cdbe35dd30248647a9db25f2" gender="masc">
+                <original>a use</original>
+                <variation index="indefinite_singular">a use</variation>
+                <variation index="definite_singular">the use</variation>
+                <variation index="indefinite_plural">some uses</variation>
+                <variation index="definite_plural">the uses</variation>
+                <variation index="singular">use</variation>
+                <variation index="plural">uses</variation>
+                <variation index="indefinite_singular_accusative">a use</variation>
+                <variation index="definite_singular_accusative">the use</variation>
+                <variation index="indefinite_plural_accusative">some uses</variation>
+                <variation index="definite_plural_accusative">the uses</variation>
+                <variation index="singular_accusative">use</variation>
+                <variation index="plural_accusative">uses</variation>
+            </string>
+            <string key="ExpansionTooltip_Locked_GW.febc7042042e0a4d9282bd569e5ffa28" hash="febc7042042e0a4d9282bd569e5ffa28">
+                <original>Unlocks at RP level {level}</original>
+            </string>
+            <string key="GameMode_bh_FertPlane.c7d9ec4d0086d0a82c8affa934e70804" hash="c7d9ec4d0086d0a82c8affa934e70804">
+                <original>Fertilize up to 9 plots. Chance of winning BONUS Fertilizer.</original>
+            </string>
+            <string key="GameMode_bh_waterPlane.4a740d6bf2e687c709be4704ed92e6a3" hash="4a740d6bf2e687c709be4704ed92e6a3">
+                <original>Water up to 9 plots. Chance of winning BONUS Water</original>
+            </string>
+            <string key="Glove_word.b65b8978cb341cd532396b9c50582cd1" hash="b65b8978cb341cd532396b9c50582cd1" gender="masc">
+                <original>a Glove</original>
+                <variation index="indefinite_singular">a Glove</variation>
+                <variation index="definite_singular">the Glove</variation>
+                <variation index="indefinite_plural">some Gloves</variation>
+                <variation index="definite_plural">the Gloves</variation>
+                <variation index="singular">Glove</variation>
+                <variation index="plural">Gloves</variation>
+                <variation index="indefinite_singular_accusative">a Glove</variation>
+                <variation index="definite_singular_accusative">the Glove</variation>
+                <variation index="indefinite_plural_accusative">some Gloves</variation>
+                <variation index="definite_plural_accusative">the Gloves</variation>
+                <variation index="singular_accusative">Glove</variation>
+                <variation index="plural_accusative">Gloves</variation>
+            </string>
+            <string key="Hat_word.eb553ff97d6a1fb0a194b92e8f3c819e" hash="eb553ff97d6a1fb0a194b92e8f3c819e" gender="masc">
+                <original>a Hat</original>
+                <variation index="indefinite_singular">a Hat</variation>
+                <variation index="definite_singular">the Hat</variation>
+                <variation index="indefinite_plural">some Hats</variation>
+                <variation index="definite_plural">the Hats</variation>
+                <variation index="singular">Hat</variation>
+                <variation index="plural">Hats</variation>
+                <variation index="indefinite_singular_accusative">a Hat</variation>
+                <variation index="definite_singular_accusative">the Hat</variation>
+                <variation index="indefinite_plural_accusative">some Hats</variation>
+                <variation index="definite_plural_accusative">the Hats</variation>
+                <variation index="singular_accusative">Hat</variation>
+                <variation index="plural_accusative">Hats</variation>
+            </string>
+            <string key="Icon_crafting_labels_spine_book_word.12d143400e2b7b722ac5d9da17d78500" hash="12d143400e2b7b722ac5d9da17d78500" gender="masc">
+                <original>Book Spine Labels</original>
+                <variation index="indefinite_singular">Book Spine Labels</variation>
+                <variation index="definite_singular">the Book Spine Labels</variation>
+                <variation index="indefinite_plural">some Book Spine Labels</variation>
+                <variation index="definite_plural">the Book Spine Labels</variation>
+                <variation index="singular">Book Spine Labels</variation>
+                <variation index="plural">Book Spine Labels</variation>
+                <variation index="indefinite_singular_accusative">Book Spine Labels</variation>
+                <variation index="definite_singular_accusative">the Book Spine Labels</variation>
+                <variation index="indefinite_plural_accusative">some Book Spine Labels</variation>
+                <variation index="definite_plural_accusative">the Book Spine Labels</variation>
+                <variation index="singular_accusative">Book Spine Labels</variation>
+                <variation index="plural_accusative">Book Spine Labels</variation>
+            </string>
+            <string key="LOCKED_barrel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_barrel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_barrel_word.212dfa8b63130297f42ea6defd70656a" hash="212dfa8b63130297f42ea6defd70656a" gender="masc">
+                <original>a Barrel</original>
+                <variation index="indefinite_singular">a Barrel</variation>
+                <variation index="definite_singular">the Barrel</variation>
+                <variation index="indefinite_plural">some Barrels</variation>
+                <variation index="definite_plural">the Barrels</variation>
+                <variation index="singular">Barrel</variation>
+                <variation index="plural">Barrels</variation>
+                <variation index="indefinite_singular_accusative">a Barrel</variation>
+                <variation index="definite_singular_accusative">the Barrel</variation>
+                <variation index="indefinite_plural_accusative">some Barrels</variation>
+                <variation index="definite_plural_accusative">the Barrels</variation>
+                <variation index="singular_accusative">Barrel</variation>
+                <variation index="plural_accusative">Barrels</variation>
+            </string>
+            <string key="LOCKED_fence_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_fence_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_fence_word.e5edc54a1702a2b117d0a71e417651d0" hash="e5edc54a1702a2b117d0a71e417651d0" gender="masc">
+                <original>a Fence</original>
+                <variation index="indefinite_singular">a Fence</variation>
+                <variation index="definite_singular">the Fence</variation>
+                <variation index="indefinite_plural">some Fences</variation>
+                <variation index="definite_plural">the Fences</variation>
+                <variation index="singular">Fence</variation>
+                <variation index="plural">Fences</variation>
+                <variation index="indefinite_singular_accusative">a Fence</variation>
+                <variation index="definite_singular_accusative">the Fence</variation>
+                <variation index="indefinite_plural_accusative">some Fences</variation>
+                <variation index="definite_plural_accusative">the Fences</variation>
+                <variation index="singular_accusative">Fence</variation>
+                <variation index="plural_accusative">Fences</variation>
+            </string>
+            <string key="LOCKED_shovel_1_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_shovel_2_hint.0d1b08c34858921bc7c662b228acb7ba" hash="0d1b08c34858921bc7c662b228acb7ba">
+                <original>???</original>
+            </string>
+            <string key="LOCKED_shovel_word.107975d186bf06f84066920bfa8db0d1" hash="107975d186bf06f84066920bfa8db0d1" gender="masc">
+                <original>a Shovel</original>
+                <variation index="indefinite_singular">a Shovel</variation>
+                <variation index="definite_singular">the Shovel</variation>
+                <variation index="indefinite_plural">some Shovels</variation>
+                <variation index="definite_plural">the Shovels</variation>
+                <variation index="singular">Shovel</variation>
+                <variation index="plural">Shovels</variation>
+                <variation index="indefinite_singular_accusative">a Shovel</variation>
+                <variation index="definite_singular_accusative">the Shovel</variation>
+                <variation index="indefinite_plural_accusative">some Shovels</variation>
+                <variation index="definite_plural_accusative">the Shovels</variation>
+                <variation index="singular_accusative">Shovel</variation>
+                <variation index="plural_accusative">Shovels</variation>
+            </string>
+            <string key="Outfit1_word.49042e62e91f965574090a229260e0a6" hash="49042e62e91f965574090a229260e0a6" gender="masc">
+                <original>an Outfit</original>
+                <variation index="indefinite_singular">an Outfit</variation>
+                <variation index="definite_singular">the Outfit</variation>
+                <variation index="indefinite_plural">some Outfits</variation>
+                <variation index="definite_plural">the Outfits</variation>
+                <variation index="singular">Outfit</variation>
+                <variation index="plural">Outfits</variation>
+                <variation index="indefinite_singular_accusative">an Outfit</variation>
+                <variation index="definite_singular_accusative">the Outfit</variation>
+                <variation index="indefinite_plural_accusative">some Outfits</variation>
+                <variation index="definite_plural_accusative">the Outfits</variation>
+                <variation index="singular_accusative">Outfit</variation>
+                <variation index="plural_accusative">Outfits</variation>
+            </string>
+            <string key="Skin1_word.9773984c74d4b00e8831c911b5041ae8" hash="9773984c74d4b00e8831c911b5041ae8" gender="masc">
+                <original>a Skin</original>
+                <variation index="indefinite_singular">a Skin</variation>
+                <variation index="definite_singular">the Skin</variation>
+                <variation index="indefinite_plural">some Skins</variation>
+                <variation index="definite_plural">the Skins</variation>
+                <variation index="singular">Skin</variation>
+                <variation index="plural">Skins</variation>
+                <variation index="indefinite_singular_accusative">a Skin</variation>
+                <variation index="definite_singular_accusative">the Skin</variation>
+                <variation index="indefinite_plural_accusative">some Skins</variation>
+                <variation index="definite_plural_accusative">the Skins</variation>
+                <variation index="singular_accusative">Skin</variation>
+                <variation index="plural_accusative">Skins</variation>
+            </string>
+            <string key="adult_chicken_word.63c54a8904a2fabc6303a4f80c3f1499" hash="63c54a8904a2fabc6303a4f80c3f1499" gender="masc">
+                <original>an Adult Chicken</original>
+                <variation index="indefinite_singular">an Adult Chicken</variation>
+                <variation index="definite_singular">the Adult Chicken</variation>
+                <variation index="indefinite_plural">some Adult Chickens</variation>
+                <variation index="definite_plural">the Adult Chickens</variation>
+                <variation index="singular">Adult Chicken</variation>
+                <variation index="plural">Adult Chickens</variation>
+                <variation index="indefinite_singular_accusative">an Adult Chicken</variation>
+                <variation index="definite_singular_accusative">the Adult Chicken</variation>
+                <variation index="indefinite_plural_accusative">some Adult Chickens</variation>
+                <variation index="definite_plural_accusative">the Adult Chickens</variation>
+                <variation index="singular_accusative">Adult Chicken</variation>
+                <variation index="plural_accusative">Adult Chickens</variation>
+            </string>
+            <string key="adult_cow_word.0817bf416285a19d3264cbb4395ab328" hash="0817bf416285a19d3264cbb4395ab328" gender="masc">
+                <original>an Adult Cow</original>
+                <variation index="indefinite_singular">an Adult Cow</variation>
+                <variation index="definite_singular">the Adult Cow</variation>
+                <variation index="indefinite_plural">some Adult Cows</variation>
+                <variation index="definite_plural">the Adult Cows</variation>
+                <variation index="singular">Adult Cow</variation>
+                <variation index="plural">Adult Cows</variation>
+                <variation index="indefinite_singular_accusative">an Adult Cow</variation>
+                <variation index="definite_singular_accusative">the Adult Cow</variation>
+                <variation index="indefinite_plural_accusative">some Adult Cows</variation>
+                <variation index="definite_plural_accusative">the Adult Cows</variation>
+                <variation index="singular_accusative">Adult Cow</variation>
+                <variation index="plural_accusative">Adult Cows</variation>
+            </string>
+            <string key="adult_dairy_animal_word.c28111240af70c582a712188d6ac852f" hash="c28111240af70c582a712188d6ac852f" gender="masc">
+                <original>an Adult Dairy Animal</original>
+                <variation index="indefinite_singular">an Adult Dairy Animal</variation>
+                <variation index="definite_singular">the Adult Dairy Animal</variation>
+                <variation index="indefinite_plural">some Adult Dairy Animals</variation>
+                <variation index="definite_plural">the Adult Dairy Animals</variation>
+                <variation index="singular">Adult Dairy Animal</variation>
+                <variation index="plural">Adult Dairy Animals</variation>
+                <variation index="indefinite_singular_accusative">an Adult Dairy Animal</variation>
+                <variation index="definite_singular_accusative">the Adult Dairy Animal</variation>
+                <variation index="indefinite_plural_accusative">some Adult Dairy Animals</variation>
+                <variation index="definite_plural_accusative">the Adult Dairy Animals</variation>
+                <variation index="singular_accusative">Adult Dairy Animal</variation>
+                <variation index="plural_accusative">Adult Dairy Animals</variation>
+            </string>
+            <string key="adult_duck_word.0ef34b61282c9f83a76470133ccbc4ca" hash="0ef34b61282c9f83a76470133ccbc4ca" gender="masc">
+                <original>an Adult Duck</original>
+                <variation index="indefinite_singular">an Adult Duck</variation>
+                <variation index="definite_singular">the Adult Duck</variation>
+                <variation index="indefinite_plural">some Adult Ducks</variation>
+                <variation index="definite_plural">the Adult Ducks</variation>
+                <variation index="singular">Adult Duck</variation>
+                <variation index="plural">Adult Ducks</variation>
+                <variation index="indefinite_singular_accusative">an Adult Duck</variation>
+                <variation index="definite_singular_accusative">the Adult Duck</variation>
+                <variation index="indefinite_plural_accusative">some Adult Ducks</variation>
+                <variation index="definite_plural_accusative">the Adult Ducks</variation>
+                <variation index="singular_accusative">Adult Duck</variation>
+                <variation index="plural_accusative">Adult Ducks</variation>
+            </string>
+            <string key="adult_goat_word.ff52573e911aac246dc93f2b13619ead" hash="ff52573e911aac246dc93f2b13619ead" gender="masc">
+                <original>an Adult Goat</original>
+                <variation index="indefinite_singular">an Adult Goat</variation>
+                <variation index="definite_singular">the Adult Goat</variation>
+                <variation index="indefinite_plural">some Adult Goats</variation>
+                <variation index="definite_plural">the Adult Goats</variation>
+                <variation index="singular">Adult Goat</variation>
+                <variation index="plural">Adult Goats</variation>
+                <variation index="indefinite_singular_accusative">an Adult Goat</variation>
+                <variation index="definite_singular_accusative">the Adult Goat</variation>
+                <variation index="indefinite_plural_accusative">some Adult Goats</variation>
+                <variation index="definite_plural_accusative">the Adult Goats</variation>
+                <variation index="singular_accusative">Adult Goat</variation>
+                <variation index="plural_accusative">Adult Goats</variation>
+            </string>
+            <string key="adult_horse_word.c77530f9189b55621be03cf421b8b151" hash="c77530f9189b55621be03cf421b8b151" gender="masc">
+                <original>an Adult Horse</original>
+                <variation index="indefinite_singular">an Adult Horse</variation>
+                <variation index="definite_singular">the Adult Horse</variation>
+                <variation index="indefinite_plural">some Adult Horses</variation>
+                <variation index="definite_plural">the Adult Horses</variation>
+                <variation index="singular">Adult Horse</variation>
+                <variation index="plural">Adult Horses</variation>
+                <variation index="indefinite_singular_accusative">an Adult Horse</variation>
+                <variation index="definite_singular_accusative">the Adult Horse</variation>
+                <variation index="indefinite_plural_accusative">some Adult Horses</variation>
+                <variation index="definite_plural_accusative">the Adult Horses</variation>
+                <variation index="singular_accusative">Adult Horse</variation>
+                <variation index="plural_accusative">Adult Horses</variation>
+            </string>
+            <string key="adult_peacock_word.ecc2e6848fb6d96d53a545807d01bae3" hash="ecc2e6848fb6d96d53a545807d01bae3" gender="masc">
+                <original>an Adult Peacock</original>
+                <variation index="indefinite_singular">an Adult Peacock</variation>
+                <variation index="definite_singular">the Adult Peacock</variation>
+                <variation index="indefinite_plural">some Adult Peacocks</variation>
+                <variation index="definite_plural">the Adult Peacocks</variation>
+                <variation index="singular">Adult Peacock</variation>
+                <variation index="plural">Adult Peacocks</variation>
+                <variation index="indefinite_singular_accusative">an Adult Peacock</variation>
+                <variation index="definite_singular_accusative">the Adult Peacock</variation>
+                <variation index="indefinite_plural_accusative">some Adult Peacocks</variation>
+                <variation index="definite_plural_accusative">the Adult Peacocks</variation>
+                <variation index="singular_accusative">Adult Peacock</variation>
+                <variation index="plural_accusative">Adult Peacocks</variation>
+            </string>
+            <string key="adult_pig_word.831ce1b0a6beb68863558dd5cb6e116c" hash="831ce1b0a6beb68863558dd5cb6e116c" gender="masc">
+                <original>an Adult Pig</original>
+                <variation index="indefinite_singular">an Adult Pig</variation>
+                <variation index="definite_singular">the Adult Pig</variation>
+                <variation index="indefinite_plural">some Adult Pigs</variation>
+                <variation index="definite_plural">the Adult Pigs</variation>
+                <variation index="singular">Adult Pig</variation>
+                <variation index="plural">Adult Pigs</variation>
+                <variation index="indefinite_singular_accusative">an Adult Pig</variation>
+                <variation index="definite_singular_accusative">the Adult Pig</variation>
+                <variation index="indefinite_plural_accusative">some Adult Pigs</variation>
+                <variation index="definite_plural_accusative">the Adult Pigs</variation>
+                <variation index="singular_accusative">Adult Pig</variation>
+                <variation index="plural_accusative">Adult Pigs</variation>
+            </string>
+            <string key="adult_rabbit_word.e195bc2ba62afc70b0701730b13ed4e6" hash="e195bc2ba62afc70b0701730b13ed4e6" gender="masc">
+                <original>an Adult Rabbit</original>
+                <variation index="indefinite_singular">an Adult Rabbit</variation>
+                <variation index="definite_singular">the Adult Rabbit</variation>
+                <variation index="indefinite_plural">some Adult Rabbits</variation>
+                <variation index="definite_plural">the Adult Rabbits</variation>
+                <variation index="singular">Adult Rabbit</variation>
+                <variation index="plural">Adult Rabbits</variation>
+                <variation index="indefinite_singular_accusative">an Adult Rabbit</variation>
+                <variation index="definite_singular_accusative">the Adult Rabbit</variation>
+                <variation index="indefinite_plural_accusative">some Adult Rabbits</variation>
+                <variation index="definite_plural_accusative">the Adult Rabbits</variation>
+                <variation index="singular_accusative">Adult Rabbit</variation>
+                <variation index="plural_accusative">Adult Rabbits</variation>
+            </string>
+            <string key="adult_sheep_word.f6fed7fed56ee662ab9fc1cbfad31e4a" hash="f6fed7fed56ee662ab9fc1cbfad31e4a" gender="masc">
+                <original>an Adult Sheep</original>
+                <variation index="indefinite_singular">an Adult Sheep</variation>
+                <variation index="definite_singular">the Adult Sheep</variation>
+                <variation index="indefinite_plural">some Adult Sheep</variation>
+                <variation index="definite_plural">the Adult Sheep</variation>
+                <variation index="singular">Adult Sheep</variation>
+                <variation index="plural">Adult Sheep</variation>
+                <variation index="indefinite_singular_accusative">an Adult Sheep</variation>
+                <variation index="definite_singular_accusative">the Adult Sheep</variation>
+                <variation index="indefinite_plural_accusative">some Adult Sheep</variation>
+                <variation index="definite_plural_accusative">the Adult Sheep</variation>
+                <variation index="singular_accusative">Adult Sheep</variation>
+                <variation index="plural_accusative">Adult Sheep</variation>
+            </string>
+            <string key="adult_wool_animal_word.f85e381bd3ce2920e5e7c7cdcbd590f7" hash="f85e381bd3ce2920e5e7c7cdcbd590f7" gender="masc">
+                <original>a Sheep or Rabbit</original>
+                <variation index="indefinite_singular">a Sheep or Rabbit</variation>
+                <variation index="definite_singular">the Sheep or Rabbit</variation>
+                <variation index="indefinite_plural">some Sheep or Rabbits</variation>
+                <variation index="definite_plural">the Sheep or Rabbits</variation>
+                <variation index="singular">Sheep or Rabbit</variation>
+                <variation index="plural">Sheep or Rabbits</variation>
+                <variation index="indefinite_singular_accusative">a Sheep or Rabbit</variation>
+                <variation index="definite_singular_accusative">the Sheep or Rabbit</variation>
+                <variation index="indefinite_plural_accusative">some Sheep or Rabbits</variation>
+                <variation index="definite_plural_accusative">the Sheep or Rabbits</variation>
+                <variation index="singular_accusative">Sheep or Rabbit</variation>
+                <variation index="plural_accusative">Sheep or Rabbits</variation>
+            </string>
+            <string key="advent_election_missingcontent_word.a55975db44dca703dfa963e020fe8296" hash="a55975db44dca703dfa963e020fe8296" gender="masc">
+                <original>an upcoming FOTW item</original>
+                <variation index="indefinite_singular">an upcoming FOTW item</variation>
+                <variation index="definite_singular">the upcoming FOTW item</variation>
+                <variation index="indefinite_plural">some upcoming FOTW items</variation>
+                <variation index="definite_plural">the upcoming FOTW items</variation>
+                <variation index="singular">upcoming FOTW item</variation>
+                <variation index="plural">upcoming FOTW items</variation>
+                <variation index="indefinite_singular_accusative">an upcoming FOTW item</variation>
+                <variation index="definite_singular_accusative">the upcoming FOTW item</variation>
+                <variation index="indefinite_plural_accusative">some upcoming FOTW items</variation>
+                <variation index="definite_plural_accusative">the upcoming FOTW items</variation>
+                <variation index="singular_accusative">upcoming FOTW item</variation>
+                <variation index="plural_accusative">upcoming FOTW items</variation>
+            </string>
+            <string key="alfredo_desc.24aa4160891ed523d52a2df0881689db" hash="24aa4160891ed523d52a2df0881689db">
+                <original>Alfredo sauce is loved by all pasta alike!</original>
+            </string>
+            <string key="alfredo_rare_hint.40da91d4bb20258303da423c4e53f2a1" hash="40da91d4bb20258303da423c4e53f2a1">
+                <original>Alfredo</original>
+            </string>
+            <string key="animalCount_word.792e464e8058208b50544ee4bbb91776" hash="792e464e8058208b50544ee4bbb91776" gender="masc">
+                <original>an Animal Count(WHAT)</original>
+                <variation index="indefinite_singular">an Animal Count(WHAT)</variation>
+                <variation index="definite_singular">the Animal Count(WHAT)</variation>
+                <variation index="indefinite_plural">some Animal Count(WHAT)s</variation>
+                <variation index="definite_plural">the Animal Count(WHAT)s</variation>
+                <variation index="singular">Animal Count(WHAT)</variation>
+                <variation index="plural">Animal Count(WHAT)s</variation>
+                <variation index="indefinite_singular_accusative">an Animal Count(WHAT)</variation>
+                <variation index="definite_singular_accusative">the Animal Count(WHAT)</variation>
+                <variation index="indefinite_plural_accusative">some Animal Count(WHAT)s</variation>
+                <variation index="definite_plural_accusative">the Animal Count(WHAT)s</variation>
+                <variation index="singular_accusative">Animal Count(WHAT)</variation>
+                <variation index="plural_accusative">Animal Count(WHAT)s</variation>
+            </string>
+            <string key="apple_pie_desc.cc84e1525924a452241472c24cc812bf" hash="cc84e1525924a452241472c24cc812bf">
+                <original>Apple pies are nature's delightful treat!</original>
+            </string>
+            <string key="askFriends_plural_rare_hint.5aa4a881beac39e71d1236ce19b92545" hash="5aa4a881beac39e71d1236ce19b92545">
+                <original>Ask your friends for these {resource,object,plural}</original>
+                <variation index="0">Ask your friends for these {resource,fem,plural}</variation>
+                <variation index="1">Ask your friends for these {resource,masc,plural}</variation>
+                <variation index="2">Ask your friends for these {resource,neuter,plural}</variation>
+            </string>
+            <string key="askFriends_rare_hint.91eeb0348598c6101235c195aad60308" hash="91eeb0348598c6101235c195aad60308">
+                <original>Ask your friends for this {resource,object,singular}</original>
+                <variation index="0">Ask your friends for this {resource,fem,singular}</variation>
+                <variation index="1">Ask your friends for this {resource,masc,singular}</variation>
+                <variation index="2">Ask your friends for this {resource,neuter,singular}</variation>
+            </string>
+            <string key="askFriends_single_rare_hint.d4ef3a7bc7ad843fad0e7c883c47cda5" hash="d4ef3a7bc7ad843fad0e7c883c47cda5">
+                <original>Ask your friends for {resource,object}</original>
+                <variation index="0">Ask your friends for {resource,fem}</variation>
+                <variation index="1">Ask your friends for {resource,masc}</variation>
+                <variation index="2">Ask your friends for {resource,neuter}</variation>
+            </string>
+            <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_caption.a3fafc6e6ec6feb17122aaeb6ebdc70b" hash="a3fafc6e6ec6feb17122aaeb6ebdc70b">
+                <original>Decorative Cables are used for Wooden Toys Exhibit preparations!</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_communityclashv2_cables_decorative_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
+                <original>Give and Get One!</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_caption.fc3e9792f3dc94231d8a6dd57e62a91a" hash="fc3e9792f3dc94231d8a6dd57e62a91a">
+                <original>Wooden Toys are used to for the Wooden Toys Exhibit preparation!</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_communityclashv2_toys_wooden_linkname.4defd454ee21a19fb288e3a18e22903c" hash="4defd454ee21a19fb288e3a18e22903c">
+                <original>Give and Get One!</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_beads_eye_cat_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_hat_snowman_festive_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_springsocial_sugar_snow_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_beads_eye_cat_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_hat_snowman_festive_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_caption.b7071234878f2d0d1847a57bcc8b266a" hash="b7071234878f2d0d1847a57bcc8b266a">
+                <original>a caption_msg</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_linkname.2d989c66fab5a5afeeff298a8ae4d14a" hash="2d989c66fab5a5afeeff298a8ae4d14a">
+                <original>a link_name</original>
+            </string>
+            <string key="ask_for_e_rare_ingredient_table_winterworkshop_sugar_snow_title.9915a8a3d35b04ed4c315d9081cfc43d" hash="9915a8a3d35b04ed4c315d9081cfc43d">
+                <original>a title_msg</original>
+            </string>
+            <string key="avatar2_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
+                <original>an Avatar</original>
+                <variation index="indefinite_singular">an Avatar</variation>
+                <variation index="definite_singular">the Avatar</variation>
+                <variation index="indefinite_plural">some Avatars</variation>
+                <variation index="definite_plural">the Avatars</variation>
+                <variation index="singular">Avatar</variation>
+                <variation index="plural">Avatars</variation>
+                <variation index="indefinite_singular_accusative">an Avatar</variation>
+                <variation index="definite_singular_accusative">the Avatar</variation>
+                <variation index="indefinite_plural_accusative">some Avatars</variation>
+                <variation index="definite_plural_accusative">the Avatars</variation>
+                <variation index="singular_accusative">Avatar</variation>
+                <variation index="plural_accusative">Avatars</variation>
+            </string>
+            <string key="avatar_grocer_truck_intro_word.85b4d82796156989406d559c39c7ce25" hash="85b4d82796156989406d559c39c7ce25" gender="masc">
+                <original>a Grocer Truck</original>
+                <variation index="indefinite_singular">a Grocer Truck</variation>
+                <variation index="definite_singular">the Grocer Truck</variation>
+                <variation index="indefinite_plural">some Grocer Trucks</variation>
+                <variation index="definite_plural">the Grocer Trucks</variation>
+                <variation index="singular">Grocer Truck</variation>
+                <variation index="plural">Grocer Trucks</variation>
+                <variation index="indefinite_singular_accusative">a Grocer Truck</variation>
+                <variation index="definite_singular_accusative">the Grocer Truck</variation>
+                <variation index="indefinite_plural_accusative">some Grocer Trucks</variation>
+                <variation index="definite_plural_accusative">the Grocer Trucks</variation>
+                <variation index="singular_accusative">Grocer Truck</variation>
+                <variation index="plural_accusative">Grocer Trucks</variation>
+            </string>
+            <string key="avatar_gus_friend_word.23713855b87c468c9d25c380c9c4aad4" hash="23713855b87c468c9d25c380c9c4aad4" gender="masc">
+                <original>a Chef Bernard</original>
+                <variation index="indefinite_singular">a Chef Bernard</variation>
+                <variation index="definite_singular">the Chef Bernard</variation>
+                <variation index="indefinite_plural">some Chef Bernards</variation>
+                <variation index="definite_plural">the Chef Bernards</variation>
+                <variation index="singular">Chef Bernard</variation>
+                <variation index="plural">Chef Bernards</variation>
+                <variation index="indefinite_singular_accusative">a Chef Bernard</variation>
+                <variation index="definite_singular_accusative">the Chef Bernard</variation>
+                <variation index="indefinite_plural_accusative">some Chef Bernards</variation>
+                <variation index="definite_plural_accusative">the Chef Bernards</variation>
+                <variation index="singular_accusative">Chef Bernard</variation>
+                <variation index="plural_accusative">Chef Bernards</variation>
+            </string>
+            <string key="avatar_ranger_l1_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+                <original>Ranger Jane</original>
+                <variation index="indefinite_singular">Ranger Jane</variation>
+                <variation index="definite_singular">the Ranger Jane</variation>
+                <variation index="indefinite_plural">some Ranger Janes</variation>
+                <variation index="definite_plural">the Ranger Janes</variation>
+                <variation index="singular">Ranger Jane</variation>
+                <variation index="plural">Ranger Janes</variation>
+                <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+                <variation index="definite_singular_accusative">the Ranger Jane</variation>
+                <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+                <variation index="definite_plural_accusative">the Ranger Janes</variation>
+                <variation index="singular_accusative">Ranger Jane</variation>
+                <variation index="plural_accusative">Ranger Janes</variation>
+            </string>
+            <string key="avatar_ranger_l2_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+                <original>Ranger Jane</original>
+                <variation index="indefinite_singular">Ranger Jane</variation>
+                <variation index="definite_singular">the Ranger Jane</variation>
+                <variation index="indefinite_plural">some Ranger Janes</variation>
+                <variation index="definite_plural">the Ranger Janes</variation>
+                <variation index="singular">Ranger Jane</variation>
+                <variation index="plural">Ranger Janes</variation>
+                <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+                <variation index="definite_singular_accusative">the Ranger Jane</variation>
+                <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+                <variation index="definite_plural_accusative">the Ranger Janes</variation>
+                <variation index="singular_accusative">Ranger Jane</variation>
+                <variation index="plural_accusative">Ranger Janes</variation>
+            </string>
+            <string key="avatar_ranger_l3_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+                <original>Ranger Jane</original>
+                <variation index="indefinite_singular">Ranger Jane</variation>
+                <variation index="definite_singular">the Ranger Jane</variation>
+                <variation index="indefinite_plural">some Ranger Janes</variation>
+                <variation index="definite_plural">the Ranger Janes</variation>
+                <variation index="singular">Ranger Jane</variation>
+                <variation index="plural">Ranger Janes</variation>
+                <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+                <variation index="definite_singular_accusative">the Ranger Jane</variation>
+                <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+                <variation index="definite_plural_accusative">the Ranger Janes</variation>
+                <variation index="singular_accusative">Ranger Jane</variation>
+                <variation index="plural_accusative">Ranger Janes</variation>
+            </string>
+            <string key="avatar_ranger_l4_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+                <original>Ranger Jane</original>
+                <variation index="indefinite_singular">Ranger Jane</variation>
+                <variation index="definite_singular">the Ranger Jane</variation>
+                <variation index="indefinite_plural">some Ranger Janes</variation>
+                <variation index="definite_plural">the Ranger Janes</variation>
+                <variation index="singular">Ranger Jane</variation>
+                <variation index="plural">Ranger Janes</variation>
+                <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+                <variation index="definite_singular_accusative">the Ranger Jane</variation>
+                <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+                <variation index="definite_plural_accusative">the Ranger Janes</variation>
+                <variation index="singular_accusative">Ranger Jane</variation>
+                <variation index="plural_accusative">Ranger Janes</variation>
+            </string>
+            <string key="avatar_ranger_l5_word.fcf858bc5abc1338a77956ee0be27b82" hash="fcf858bc5abc1338a77956ee0be27b82" gender="masc">
+                <original>Ranger Jane</original>
+                <variation index="indefinite_singular">Ranger Jane</variation>
+                <variation index="definite_singular">the Ranger Jane</variation>
+                <variation index="indefinite_plural">some Ranger Janes</variation>
+                <variation index="definite_plural">the Ranger Janes</variation>
+                <variation index="singular">Ranger Jane</variation>
+                <variation index="plural">Ranger Janes</variation>
+                <variation index="indefinite_singular_accusative">Ranger Jane</variation>
+                <variation index="definite_singular_accusative">the Ranger Jane</variation>
+                <variation index="indefinite_plural_accusative">some Ranger Janes</variation>
+                <variation index="definite_plural_accusative">the Ranger Janes</variation>
+                <variation index="singular_accusative">Ranger Jane</variation>
+                <variation index="plural_accusative">Ranger Janes</variation>
+            </string>
+            <string key="avatar_word.dff10164371896b99d2905b6471f2466" hash="dff10164371896b99d2905b6471f2466" gender="masc">
+                <original>an Avatar</original>
+                <variation index="indefinite_singular">an Avatar</variation>
+                <variation index="definite_singular">the Avatar</variation>
+                <variation index="indefinite_plural">some Avatars</variation>
+                <variation index="definite_plural">the Avatars</variation>
+                <variation index="singular">Avatar</variation>
+                <variation index="plural">Avatars</variation>
+                <variation index="indefinite_singular_accusative">an Avatar</variation>
+                <variation index="definite_singular_accusative">the Avatar</variation>
+                <variation index="indefinite_plural_accusative">some Avatars</variation>
+                <variation index="definite_plural_accusative">the Avatars</variation>
+                <variation index="singular_accusative">Avatar</variation>
+                <variation index="plural_accusative">Avatars</variation>
+            </string>
+            <string key="bag_bedding_squirrel_rare_word.3bcd9861de3c294ba19da0be277bae2e" hash="3bcd9861de3c294ba19da0be277bae2e" gender="masc">
+                <original>a Squirrel Bedding</original>
+                <variation index="indefinite_singular">a Squirrel Bedding</variation>
+                <variation index="definite_singular">the Squirrel Bedding</variation>
+                <variation index="indefinite_plural">some Squirrel Bedding</variation>
+                <variation index="definite_plural">the Squirrel Bedding</variation>
+                <variation index="singular">Squirrel Bedding</variation>
+                <variation index="plural">Squirrel Bedding</variation>
+                <variation index="indefinite_singular_accusative">a Squirrel Bedding</variation>
+                <variation index="definite_singular_accusative">the Squirrel Bedding</variation>
+                <variation index="indefinite_plural_accusative">some Squirrel Bedding</variation>
+                <variation index="definite_plural_accusative">the Squirrel Bedding</variation>
+                <variation index="singular_accusative">Squirrel Bedding</variation>
+                <variation index="plural_accusative">Squirrel Bedding</variation>
+            </string>
+            <string key="bag_of_soil_rare_desc.9faf807c322d50d1adcd1cbb7ebf897e" hash="9faf807c322d50d1adcd1cbb7ebf897e">
+                <original>Use Bags of Soil to construct new buildings on your farm!</original>
+            </string>
+            <string key="bag_of_soil_rare_word.d3e1b146f0449a04f11b2ece8533f65d" hash="d3e1b146f0449a04f11b2ece8533f65d" gender="masc">
+                <original>a Bag of Soil</original>
+                <variation index="indefinite_singular">a Bag of Soil</variation>
+                <variation index="definite_singular">the Bag of Soil</variation>
+                <variation index="indefinite_plural">some Bags of Soil</variation>
+                <variation index="definite_plural">the Bags of Soil</variation>
+                <variation index="singular">Bag of Soil</variation>
+                <variation index="plural">Bags of Soil</variation>
+                <variation index="indefinite_singular_accusative">a Bag of Soil</variation>
+                <variation index="definite_singular_accusative">the Bag of Soil</variation>
+                <variation index="indefinite_plural_accusative">some Bags of Soil</variation>
+                <variation index="definite_plural_accusative">the Bags of Soil</variation>
+                <variation index="singular_accusative">Bag of Soil</variation>
+                <variation index="plural_accusative">Bags of Soil</variation>
+            </string>
+            <string key="bag_of_tree_soil_rare_desc.de94fbebe12104b1bc49d22464746a14" hash="de94fbebe12104b1bc49d22464746a14">
+                <original>Use Bags of Grove Soil to construct your first Grove!</original>
+            </string>
+            <string key="bag_of_tree_soil_rare_word.b79329d386e90990ceaf03f99df5ca20" hash="b79329d386e90990ceaf03f99df5ca20" gender="masc">
+                <original>a Bag of Grove Soil</original>
+                <variation index="indefinite_singular">a Bag of Grove Soil</variation>
+                <variation index="definite_singular">the Bag of Grove Soil</variation>
+                <variation index="indefinite_plural">some Bags of Grove Soil</variation>
+                <variation index="definite_plural">the Bags of Grove Soil</variation>
+                <variation index="singular">Bag of Grove Soil</variation>
+                <variation index="plural">Bags of Grove Soil</variation>
+                <variation index="indefinite_singular_accusative">a Bag of Grove Soil</variation>
+                <variation index="definite_singular_accusative">the Bag of Grove Soil</variation>
+                <variation index="indefinite_plural_accusative">some Bags of Grove Soil</variation>
+                <variation index="definite_plural_accusative">the Bags of Grove Soil</variation>
+                <variation index="singular_accusative">Bag of Grove Soil</variation>
+                <variation index="plural_accusative">Bags of Grove Soil</variation>
+            </string>
+            <string key="bag_spores_rare_desc.6e8f1d12e3ce4be897e308d96083b7af" hash="6e8f1d12e3ce4be897e308d96083b7af">
+                <original>Use Mushroom Spore Bags to construct a Mushroom Shed!</original>
+            </string>
+            <string key="bag_spores_rare_word.d017ecb0577694b336e9753c6a7ea442" hash="d017ecb0577694b336e9753c6a7ea442" gender="masc">
+                <original>a Spore Bag</original>
+                <variation index="indefinite_singular">a Spore Bag</variation>
+                <variation index="definite_singular">the Spore Bag</variation>
+                <variation index="indefinite_plural">some Spore Bags</variation>
+                <variation index="definite_plural">the Spore Bags</variation>
+                <variation index="singular">Spore Bag</variation>
+                <variation index="plural">Spore Bags</variation>
+                <variation index="indefinite_singular_accusative">a Spore Bag</variation>
+                <variation index="definite_singular_accusative">the Spore Bag</variation>
+                <variation index="indefinite_plural_accusative">some Spore Bags</variation>
+                <variation index="definite_plural_accusative">the Spore Bags</variation>
+                <variation index="singular_accusative">Spore Bag</variation>
+                <variation index="plural_accusative">Spore Bags</variation>
+            </string>
+            <string key="bait_hint.d5df88100d3200769f115cfabd4eb946" hash="d5df88100d3200769f115cfabd4eb946">
+                <original>Earn bait by harvesting fertilized water crops</original>
+            </string>
+            <string key="barn-base_word.9c9e515bef33af70c5d93c4d9fba4f8f" hash="9c9e515bef33af70c5d93c4d9fba4f8f" gender="masc">
+                <original>a Barn</original>
+                <variation index="indefinite_singular">a Barn</variation>
+                <variation index="definite_singular">the Barn</variation>
+                <variation index="indefinite_plural">some Barns</variation>
+                <variation index="definite_plural">the Barns</variation>
+                <variation index="singular">Barn</variation>
+                <variation index="plural">Barns</variation>
+                <variation index="indefinite_singular_accusative">a Barn</variation>
+                <variation index="definite_singular_accusative">the Barn</variation>
+                <variation index="indefinite_plural_accusative">some Barns</variation>
+                <variation index="definite_plural_accusative">the Barns</variation>
+                <variation index="singular_accusative">Barn</variation>
+                <variation index="plural_accusative">Barns</variation>
+            </string>
+            <string key="barn-construction_word.e3921ed47782444906429e2b86c91b51" hash="e3921ed47782444906429e2b86c91b51" gender="masc">
+                <original>a Barn (Under Construction)</original>
+                <variation index="indefinite_singular">a Barn (Under Construction)</variation>
+                <variation index="definite_singular">the Barn (Under Construction)</variation>
+                <variation index="indefinite_plural">some Barn (Under Construction)s</variation>
+                <variation index="definite_plural">the Barn (Under Construction)s</variation>
+                <variation index="singular">Barn (Under Construction)</variation>
+                <variation index="plural">Barn (Under Construction)s</variation>
+                <variation index="indefinite_singular_accusative">a Barn (Under Construction)</variation>
+                <variation index="definite_singular_accusative">the Barn (Under Construction)</variation>
+                <variation index="indefinite_plural_accusative">some Barn (Under Construction)s</variation>
+                <variation index="definite_plural_accusative">the Barn (Under Construction)s</variation>
+                <variation index="singular_accusative">Barn (Under Construction)</variation>
+                <variation index="plural_accusative">Barn (Under Construction)s</variation>
+            </string>
+            <string key="barn-l1_word.8f31371fa726eb677712363a15a18188" hash="8f31371fa726eb677712363a15a18188" gender="masc">
+                <original>a Level 1 Barn</original>
+                <variation index="indefinite_singular">a Level 1 Barn</variation>
+                <variation index="definite_singular">the Level 1 Barn</variation>
+                <variation index="indefinite_plural">some Level 1 Barns</variation>
+                <variation index="definite_plural">the Level 1 Barns</variation>
+                <variation index="singular">Level 1 Barn</variation>
+                <variation index="plural">Level 1 Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 1 Barn</variation>
+                <variation index="definite_singular_accusative">the Level 1 Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 1 Barns</variation>
+                <variation index="definite_plural_accusative">the Level 1 Barns</variation>
+                <variation index="singular_accusative">Level 1 Barn</variation>
+                <variation index="plural_accusative">Level 1 Barns</variation>
+            </string>
+            <string key="barn-l2_word.4202f67f6a5d591d43ab2ecc7b2e6470" hash="4202f67f6a5d591d43ab2ecc7b2e6470" gender="masc">
+                <original>a Level 2 Barn</original>
+                <variation index="indefinite_singular">a Level 2 Barn</variation>
+                <variation index="definite_singular">the Level 2 Barn</variation>
+                <variation index="indefinite_plural">some Level 2 Barns</variation>
+                <variation index="definite_plural">the Level 2 Barns</variation>
+                <variation index="singular">Level 2 Barn</variation>
+                <variation index="plural">Level 2 Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 2 Barn</variation>
+                <variation index="definite_singular_accusative">the Level 2 Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 2 Barns</variation>
+                <variation index="definite_plural_accusative">the Level 2 Barns</variation>
+                <variation index="singular_accusative">Level 2 Barn</variation>
+                <variation index="plural_accusative">Level 2 Barns</variation>
+            </string>
+            <string key="barn-l3_word.38725f483283aa3c71d7678f1f22927a" hash="38725f483283aa3c71d7678f1f22927a" gender="masc">
+                <original>a Level 3 Barn</original>
+                <variation index="indefinite_singular">a Level 3 Barn</variation>
+                <variation index="definite_singular">the Level 3 Barn</variation>
+                <variation index="indefinite_plural">some Level 3 Barns</variation>
+                <variation index="definite_plural">the Level 3 Barns</variation>
+                <variation index="singular">Level 3 Barn</variation>
+                <variation index="plural">Level 3 Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 3 Barn</variation>
+                <variation index="definite_singular_accusative">the Level 3 Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 3 Barns</variation>
+                <variation index="definite_plural_accusative">the Level 3 Barns</variation>
+                <variation index="singular_accusative">Level 3 Barn</variation>
+                <variation index="plural_accusative">Level 3 Barns</variation>
+            </string>
+            <string key="barn-l4_word.a382b1638a5b4f38a004c9160a53d734" hash="a382b1638a5b4f38a004c9160a53d734" gender="masc">
+                <original>a Level 4 Barn</original>
+                <variation index="indefinite_singular">a Level 4 Barn</variation>
+                <variation index="definite_singular">the Level 4 Barn</variation>
+                <variation index="indefinite_plural">some Level 4 Barns</variation>
+                <variation index="definite_plural">the Level 4 Barns</variation>
+                <variation index="singular">Level 4 Barn</variation>
+                <variation index="plural">Level 4 Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 4 Barn</variation>
+                <variation index="definite_singular_accusative">the Level 4 Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 4 Barns</variation>
+                <variation index="definite_plural_accusative">the Level 4 Barns</variation>
+                <variation index="singular_accusative">Level 4 Barn</variation>
+                <variation index="plural_accusative">Level 4 Barns</variation>
+            </string>
+            <string key="barn-l5_word.a1482a5d4db8428a6eb09d5617ab2e90" hash="a1482a5d4db8428a6eb09d5617ab2e90" gender="masc">
+                <original>a Level 5 Barn</original>
+                <variation index="indefinite_singular">a Level 5 Barn</variation>
+                <variation index="definite_singular">the Level 5 Barn</variation>
+                <variation index="indefinite_plural">some Level 5 Barns</variation>
+                <variation index="definite_plural">the Level 5 Barns</variation>
+                <variation index="singular">Level 5 Barn</variation>
+                <variation index="plural">Level 5 Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 5 Barn</variation>
+                <variation index="definite_singular_accusative">the Level 5 Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 5 Barns</variation>
+                <variation index="definite_plural_accusative">the Level 5 Barns</variation>
+                <variation index="singular_accusative">Level 5 Barn</variation>
+                <variation index="plural_accusative">Level 5 Barns</variation>
+            </string>
+            <string key="barn_dairy-base_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
+                <original>a Dairy Barn</original>
+                <variation index="indefinite_singular">a Dairy Barn</variation>
+                <variation index="definite_singular">the Dairy Barn</variation>
+                <variation index="indefinite_plural">some Dairy Barns</variation>
+                <variation index="definite_plural">the Dairy Barns</variation>
+                <variation index="singular">Dairy Barn</variation>
+                <variation index="plural">Dairy Barns</variation>
+                <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
+                <variation index="definite_singular_accusative">the Dairy Barn</variation>
+                <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
+                <variation index="definite_plural_accusative">the Dairy Barns</variation>
+                <variation index="singular_accusative">Dairy Barn</variation>
+                <variation index="plural_accusative">Dairy Barns</variation>
+            </string>
+            <string key="barn_dairy-construction_word.327afd26313cbc845f18f8d5348f0a81" hash="327afd26313cbc845f18f8d5348f0a81" gender="masc">
+                <original>a Dairy Barn (Under Construction)</original>
+                <variation index="indefinite_singular">a Dairy Barn (Under Construction)</variation>
+                <variation index="definite_singular">the Dairy Barn (Under Construction)</variation>
+                <variation index="indefinite_plural">some Dairy Barn (Under Construction)s</variation>
+                <variation index="definite_plural">the Dairy Barn (Under Construction)s</variation>
+                <variation index="singular">Dairy Barn (Under Construction)</variation>
+                <variation index="plural">Dairy Barn (Under Construction)s</variation>
+                <variation index="indefinite_singular_accusative">a Dairy Barn (Under Construction)</variation>
+                <variation index="definite_singular_accusative">the Dairy Barn (Under Construction)</variation>
+                <variation index="indefinite_plural_accusative">some Dairy Barn (Under Construction)s</variation>
+                <variation index="definite_plural_accusative">the Dairy Barn (Under Construction)s</variation>
+                <variation index="singular_accusative">Dairy Barn (Under Construction)</variation>
+                <variation index="plural_accusative">Dairy Barn (Under Construction)s</variation>
+            </string>
+            <string key="barn_dairy-l1_word.3fab6d320b419f3d7854add78ce1853b" hash="3fab6d320b419f3d7854add78ce1853b" gender="masc">
+                <original>a Level 1 Dairy Barn</original>
+                <variation index="indefinite_singular">a Level 1 Dairy Barn</variation>
+                <variation index="definite_singular">the Level 1 Dairy Barn</variation>
+                <variation index="indefinite_plural">some Level 1 Dairy Barns</variation>
+                <variation index="definite_plural">the Level 1 Dairy Barns</variation>
+                <variation index="singular">Level 1 Dairy Barn</variation>
+                <variation index="plural">Level 1 Dairy Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 1 Dairy Barn</variation>
+                <variation index="definite_singular_accusative">the Level 1 Dairy Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 1 Dairy Barns</variation>
+                <variation index="definite_plural_accusative">the Level 1 Dairy Barns</variation>
+                <variation index="singular_accusative">Level 1 Dairy Barn</variation>
+                <variation index="plural_accusative">Level 1 Dairy Barns</variation>
+            </string>
+            <string key="barn_dairy-l2_word.69321f51c73f9167958dd7bc8169508b" hash="69321f51c73f9167958dd7bc8169508b" gender="masc">
+                <original>a Level 2 Dairy Barn</original>
+                <variation index="indefinite_singular">a Level 2 Dairy Barn</variation>
+                <variation index="definite_singular">the Level 2 Dairy Barn</variation>
+                <variation index="indefinite_plural">some Level 2 Dairy Barns</variation>
+                <variation index="definite_plural">the Level 2 Dairy Barns</variation>
+                <variation index="singular">Level 2 Dairy Barn</variation>
+                <variation index="plural">Level 2 Dairy Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 2 Dairy Barn</variation>
+                <variation index="definite_singular_accusative">the Level 2 Dairy Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 2 Dairy Barns</variation>
+                <variation index="definite_plural_accusative">the Level 2 Dairy Barns</variation>
+                <variation index="singular_accusative">Level 2 Dairy Barn</variation>
+                <variation index="plural_accusative">Level 2 Dairy Barns</variation>
+            </string>
+            <string key="barn_dairy-l3_word.cd6becbd48136334fa7ed2e1fbd0452a" hash="cd6becbd48136334fa7ed2e1fbd0452a" gender="masc">
+                <original>a Level 3 Dairy Barn</original>
+                <variation index="indefinite_singular">a Level 3 Dairy Barn</variation>
+                <variation index="definite_singular">the Level 3 Dairy Barn</variation>
+                <variation index="indefinite_plural">some Level 3 Dairy Barns</variation>
+                <variation index="definite_plural">the Level 3 Dairy Barns</variation>
+                <variation index="singular">Level 3 Dairy Barn</variation>
+                <variation index="plural">Level 3 Dairy Barns</variation>
+                <variation index="indefinite_singular_accusative">a Level 3 Dairy Barn</variation>
+                <variation index="definite_singular_accusative">the Level 3 Dairy Barn</variation>
+                <variation index="indefinite_plural_accusative">some Level 3 Dairy Barns</variation>
+                <variation index="definite_plural_accusative">the Level 3 Dairy Barns</variation>
+                <variation index="singular_accusative">Level 3 Dairy Barn</variation>
+                <variation index="plural_accusative">Level 3 Dairy Barns</variation>
+            </string>
+            <string key="barn_dairy_name.b7ff2ec61cdb0fabf1a6a13f82111006" hash="b7ff2ec61cdb0fabf1a6a13f82111006">
+                <original>Dairy Barn</original>
+            </string>
+            <string key="barn_dairy_word.3ec139c2c483529c8f6b4de3ee460001" hash="3ec139c2c483529c8f6b4de3ee460001" gender="masc">
+                <original>a Dairy Barn</original>
+                <variation index="indefinite_singular">a Dairy Barn</variation>
+                <variation index="definite_singular">the Dairy Barn</variation>
+                <variation index="indefinite_plural">some Dairy Barns</variation>
+                <variation index="definite_plural">the Dairy Barns</variation>
+                <variation index="singular">Dairy Barn</variation>
+                <variation index="plural">Dairy Barns</variation>
+                <variation index="indefinite_singular_accusative">a Dairy Barn</variation>
+                <variation index="definite_singular_accusative">the Dairy Barn</variation>
+                <variation index="indefinite_plural_accusative">some Dairy Barns</variation>
+                <variation index="definite_plural_accusative">the Dairy Barns</variation>
+                <variation index="singular_accusative">Dairy Barn</variation>
+                <variation index="plural_accusative">Dairy Barns</variation>
+            </string>
+            <string key="batter_desc.5350c166d62344e85be320ba59dc43e1" hash="5350c166d62344e85be320ba59dc43e1">
+                <original>Rises when baked</original>
+            </string>
+            <string key="batter_rare_hint.5e2b3df405664fe964c20af8a26b4608" hash="5e2b3df405664fe964c20af8a26b4608">
+                <original>Batter</original>
+            </string>
+            <string key="bedding_deer_rare_desc.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719">
+                <original>a Deer Bedding</original>
+            </string>
+            <string key="bedding_deer_rare_word.66dff8dc90bfcd6f8ef85b9746e4c719" hash="66dff8dc90bfcd6f8ef85b9746e4c719" gender="masc">
+                <original>a Deer Bedding</original>
+                <variation index="indefinite_singular">a Deer Bedding</variation>
+                <variation index="definite_singular">the Deer Bedding</variation>
+                <variation index="indefinite_plural">some Deer Bedding</variation>
+                <variation index="definite_plural">the Deer Bedding</variation>
+                <variation index="singular">Deer Bedding</variation>
+                <variation index="plural">Deer Bedding</variation>
+                <variation index="indefinite_singular_accusative">a Deer Bedding</variation>
+                <variation index="definite_singular_accusative">the Deer Bedding</variation>
+                <variation index="indefinite_plural_accusative">some Deer Bedding</variation>
+                <variation index="definite_plural_accusative">the Deer Bedding</variation>
+                <variation index="singular_accusative">Deer Bedding</variation>
+                <variation index="plural_accusative">Deer Bedding</variation>
+            </string>
+            <string key="bhupgrade_biplane_name.6ae86f843479c493dfb0031375605eee" hash="6ae86f843479c493dfb0031375605eee">
+                <original>Biplane</original>
+            </string>
+            <string key="bhupgrade_biplane_word.e71ca7f27d70a6cdb0907f99528bcecc" hash="e71ca7f27d70a6cdb0907f99528bcecc" gender="masc">
+                <original>a Biplane</original>
+                <variation index="indefinite_singular">a Biplane</variation>
+                <variation index="definite_singular">the Biplane</variation>
+                <variation index="indefinite_plural">some Biplanes</variation>
+                <variation index="definite_plural">the Biplanes</variation>
+                <variation index="singular">Biplane</variation>
+                <variation index="plural">Biplanes</variation>
+                <variation index="indefinite_singular_accusative">a Biplane</variation>
+                <variation index="definite_singular_accusative">the Biplane</variation>
+                <variation index="indefinite_plural_accusative">some Biplanes</variation>
+                <variation index="definite_plural_accusative">the Biplanes</variation>
+                <variation index="singular_accusative">Biplane</variation>
+                <variation index="plural_accusative">Biplanes</variation>
+            </string>
+            <string key="biofuel_word.099c1d8a6dc11476e45b08cc2c80617e" hash="099c1d8a6dc11476e45b08cc2c80617e" gender="masc">
+                <original>a Fuel</original>
+                <variation index="indefinite_singular">a Fuel</variation>
+                <variation index="definite_singular">the Fuel</variation>
+                <variation index="indefinite_plural">some Fuel</variation>
+                <variation index="definite_plural">the Fuel</variation>
+                <variation index="singular">Fuel</variation>
+                <variation index="plural">Fuel</variation>
+                <variation index="indefinite_singular_accusative">a Fuel</variation>
+                <variation index="definite_singular_accusative">the Fuel</variation>
+                <variation index="indefinite_plural_accusative">some Fuel</variation>
+                <variation index="definite_plural_accusative">the Fuel</variation>
+                <variation index="singular_accusative">Fuel</variation>
+                <variation index="plural_accusative">Fuel</variation>
+            </string>
+            <string key="birdhouse_rare_word.21b228e8ffb616a97b875659e3b5993f" hash="21b228e8ffb616a97b875659e3b5993f" gender="masc">
+                <original>a Small Birdhouse</original>
+                <variation index="indefinite_singular">a Small Birdhouse</variation>
+                <variation index="definite_singular">the Small Birdhouse</variation>
+                <variation index="indefinite_plural">some Small Birdhouses</variation>
+                <variation index="definite_plural">the Small Birdhouses</variation>
+                <variation index="singular">Small Birdhouse</variation>
+                <variation index="plural">Small Birdhouses</variation>
+                <variation index="indefinite_singular_accusative">a Small Birdhouse</variation>
+                <variation index="definite_singular_accusative">the Small Birdhouse</variation>
+                <variation index="indefinite_plural_accusative">some Small Birdhouses</variation>
+                <variation index="definite_plural_accusative">the Small Birdhouses</variation>
+                <variation index="singular_accusative">Small Birdhouse</variation>
+                <variation index="plural_accusative">Small Birdhouses</variation>
+            </string>
+            <string key="blackberry_pie_desc.4c12c90d35729d49798dbab4d27b8d78" hash="4c12c90d35729d49798dbab4d27b8d78">
+                <original>Blackberries are slightly sweet, but always tasty!</original>
+            </string>
+            <string key="blackberry_rare_hint.3b4f3b9f643ba1e1eb9fadbe828cb9e6" hash="3b4f3b9f643ba1e1eb9fadbe828cb9e6">
+                <original>Blackberries</original>
+            </string>
+            <string key="bonusmode_desc.616e04afb7a60ae51a566e61a1db99e0" hash="616e04afb7a60ae51a566e61a1db99e0">
+                <original>Double XP for {number} each.</original>
+            </string>
+            <string key="bottle-glass_word.c237a23199e1742e974c86e8685f48de" hash="c237a23199e1742e974c86e8685f48de" gender="masc">
+                <original>an Empty Bottle</original>
+                <variation index="indefinite_singular">an Empty Bottle</variation>
+                <variation index="definite_singular">the Empty Bottle</variation>
+                <variation index="indefinite_plural">some Empty Bottles</variation>
+                <variation index="definite_plural">the Empty Bottles</variation>
+                <variation index="singular">Empty Bottle</variation>
+                <variation index="plural">Empty Bottles</variation>
+                <variation index="indefinite_singular_accusative">an Empty Bottle</variation>
+                <variation index="definite_singular_accusative">the Empty Bottle</variation>
+                <variation index="indefinite_plural_accusative">some Empty Bottles</variation>
+                <variation index="definite_plural_accusative">the Empty Bottles</variation>
+                <variation index="singular_accusative">Empty Bottle</variation>
+                <variation index="plural_accusative">Empty Bottles</variation>
+            </string>
+            <string key="bottle_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
+                <original>1 bottle to help baby animals grow!</original>
+            </string>
+            <string key="bottle_glass_hint.658d8ac0c2f78d193e8de48037f24cf5" hash="658d8ac0c2f78d193e8de48037f24cf5">
+                <original>Ask friends or level up to obtain this bottle</original>
+            </string>
+            <string key="bottle_rare_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+                <original>a Baby Bottle</original>
+                <variation index="indefinite_singular">a Baby Bottle</variation>
+                <variation index="definite_singular">the Baby Bottle</variation>
+                <variation index="indefinite_plural">some Baby Bottles</variation>
+                <variation index="definite_plural">the Baby Bottles</variation>
+                <variation index="singular">Baby Bottle</variation>
+                <variation index="plural">Baby Bottles</variation>
+                <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+                <variation index="definite_singular_accusative">the Baby Bottle</variation>
+                <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+                <variation index="definite_plural_accusative">the Baby Bottles</variation>
+                <variation index="singular_accusative">Baby Bottle</variation>
+                <variation index="plural_accusative">Baby Bottles</variation>
+            </string>
+            <string key="bottle_viral_desc.f52107dd0e9f73e1b4877b5170251507" hash="f52107dd0e9f73e1b4877b5170251507">
+                <original>1 bottle to help baby animals grow!</original>
+            </string>
+            <string key="bottle_viral_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+                <original>a Baby Bottle</original>
+                <variation index="indefinite_singular">a Baby Bottle</variation>
+                <variation index="definite_singular">the Baby Bottle</variation>
+                <variation index="indefinite_plural">some Baby Bottles</variation>
+                <variation index="definite_plural">the Baby Bottles</variation>
+                <variation index="singular">Baby Bottle</variation>
+                <variation index="plural">Baby Bottles</variation>
+                <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+                <variation index="definite_singular_accusative">the Baby Bottle</variation>
+                <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+                <variation index="definite_plural_accusative">the Baby Bottles</variation>
+                <variation index="singular_accusative">Baby Bottle</variation>
+                <variation index="plural_accusative">Baby Bottles</variation>
+            </string>
+            <string key="bottle_word.793a4668956276f8928298ef5c1004cc" hash="793a4668956276f8928298ef5c1004cc" gender="masc">
+                <original>a Baby Bottle</original>
+                <variation index="indefinite_singular">a Baby Bottle</variation>
+                <variation index="definite_singular">the Baby Bottle</variation>
+                <variation index="indefinite_plural">some Baby Bottles</variation>
+                <variation index="definite_plural">the Baby Bottles</variation>
+                <variation index="singular">Baby Bottle</variation>
+                <variation index="plural">Baby Bottles</variation>
+                <variation index="indefinite_singular_accusative">a Baby Bottle</variation>
+                <variation index="definite_singular_accusative">the Baby Bottle</variation>
+                <variation index="indefinite_plural_accusative">some Baby Bottles</variation>
+                <variation index="definite_plural_accusative">the Baby Bottles</variation>
+                <variation index="singular_accusative">Baby Bottle</variation>
+                <variation index="plural_accusative">Baby Bottles</variation>
+            </string>
+            <string key="branch_baobob_rare_desc.57f1893b6c875c8a6121d2f92532c511" hash="57f1893b6c875c8a6121d2f92532c511">
+                <original>A Baobab Branch</original>
+            </string>
+            <string key="branch_baobob_rare_word.8b4d43b4853e21320efcbd82f9e60dbc" hash="8b4d43b4853e21320efcbd82f9e60dbc" gender="masc">
+                <original>a Baobab Branch</original>
+                <variation index="indefinite_singular">a Baobab Branch</variation>
+                <variation index="definite_singular">the Baobab Branch</variation>
+                <variation index="indefinite_plural">some Baobab Branches</variation>
+                <variation index="definite_plural">the Baobab Branches</variation>
+                <variation index="singular">Baobab Branch</variation>
+                <variation index="plural">Baobab Branches</variation>
+                <variation index="indefinite_singular_accusative">a Baobab Branch</variation>
+                <variation index="definite_singular_accusative">the Baobab Branch</variation>
+                <variation index="indefinite_plural_accusative">some Baobab Branches</variation>
+                <variation index="definite_plural_accusative">the Baobab Branches</variation>
+                <variation index="singular_accusative">Baobab Branch</variation>
+                <variation index="plural_accusative">Baobab Branches</variation>
+            </string>
+            <string key="bread_banana_desc.cbc20199b9705e10e8f5754fff9f88ba" hash="cbc20199b9705e10e8f5754fff9f88ba">
+                <original>People go bananas for this bread</original>
+            </string>
+            <string key="brick_rare_desc.821ede08346da454b631e7d129cdeeab" hash="821ede08346da454b631e7d129cdeeab">
+                <original>Use bricks to construct new buildings on your farm!</original>
+            </string>
+            <string key="brick_rare_word.54f40ed334b4230fe418aa544238c46b" hash="54f40ed334b4230fe418aa544238c46b" gender="masc">
+                <original>a Brick</original>
+                <variation index="indefinite_singular">a Brick</variation>
+                <variation index="definite_singular">the Brick</variation>
+                <variation index="indefinite_plural">some Bricks</variation>
+                <variation index="definite_plural">the Bricks</variation>
+                <variation index="singular">Brick</variation>
+                <variation index="plural">Bricks</variation>
+                <variation index="indefinite_singular_accusative">a Brick</variation>
+                <variation index="definite_singular_accusative">the Brick</variation>
+                <variation index="indefinite_plural_accusative">some Bricks</variation>
+                <variation index="definite_plural_accusative">the Bricks</variation>
+                <variation index="singular_accusative">Brick</variation>
+                <variation index="plural_accusative">Bricks</variation>
+            </string>
+            <string key="brown_egg_rare_hint.b72393ccfeab9590e9d9f277a663c049" hash="b72393ccfeab9590e9d9f277a663c049">
+                <original>Feed your prized chicken to obtain this {resource,object,singular}</original>
+                <variation index="0">Feed your prized chicken to obtain this {resource,fem,singular}</variation>
+                <variation index="1">Feed your prized chicken to obtain this {resource,masc,singular}</variation>
+                <variation index="2">Feed your prized chicken to obtain this {resource,neuter,singular}</variation>
+            </string>
+            <string key="brown_paint_rare_desc.a351c451c9e4afb7245f88cab2f5165e" hash="a351c451c9e4afb7245f88cab2f5165e">
+                <original>Use Brown Paint to paint things brown!</original>
+            </string>
+            <string key="brown_paint_rare_word.fa6b52c04c2f4e327e0465b5fed159c6" hash="fa6b52c04c2f4e327e0465b5fed159c6" gender="masc">
+                <original>a Brown Paint</original>
+                <variation index="indefinite_singular">a Brown Paint</variation>
+                <variation index="definite_singular">the Brown Paint</variation>
+                <variation index="indefinite_plural">some Brown Paint</variation>
+                <variation index="definite_plural">the Brown Paint</variation>
+                <variation index="singular">Brown Paint</variation>
+                <variation index="plural">Brown Paint</variation>
+                <variation index="indefinite_singular_accusative">a Brown Paint</variation>
+                <variation index="definite_singular_accusative">the Brown Paint</variation>
+                <variation index="indefinite_plural_accusative">some Brown Paint</variation>
+                <variation index="definite_plural_accusative">the Brown Paint</variation>
+                <variation index="singular_accusative">Brown Paint</variation>
+                <variation index="plural_accusative">Brown Paint</variation>
+            </string>
+            <string key="brown_wool_rare_hint.80d27fe96af4649112be735695af8c77" hash="80d27fe96af4649112be735695af8c77">
+                <original>Feed your Manx Loaghtan Sheep to obtain this {resource,object,singular}</original>
+                <variation index="0">Feed your Manx Loaghtan Sheep to obtain this {resource,fem,singular}</variation>
+                <variation index="1">Feed your Manx Loaghtan Sheep to obtain this {resource,masc,singular}</variation>
+                <variation index="2">Feed your Manx Loaghtan Sheep to obtain this {resource,neuter,singular}</variation>
+            </string>
+            <string key="bubblingbrew_rare_desc.ddece6a7c9609feea62c0fae7ee20249" hash="ddece6a7c9609feea62c0fae7ee20249">
+                <original>A mysteric mix</original>
+            </string>
+            <string key="bubblingbrew_rare_word.7472ebb49ae49eba536e4786cfb9112a" hash="7472ebb49ae49eba536e4786cfb9112a" gender="masc">
+                <original>a Bubbling Brew</original>
+                <variation index="indefinite_singular">a Bubbling Brew</variation>
+                <variation index="definite_singular">the Bubbling Brew</variation>
+                <variation index="indefinite_plural">some Bubbling Brews</variation>
+                <variation index="definite_plural">the Bubbling Brews</variation>
+                <variation index="singular">Bubbling Brew</variation>
+                <variation index="plural">Bubbling Brews</variation>
+                <variation index="indefinite_singular_accusative">a Bubbling Brew</variation>
+                <variation index="definite_singular_accusative">the Bubbling Brew</variation>
+                <variation index="indefinite_plural_accusative">some Bubbling Brews</variation>
+                <variation index="definite_plural_accusative">the Bubbling Brews</variation>
+                <variation index="singular_accusative">Bubbling Brew</variation>
+                <variation index="plural_accusative">Bubbling Brews</variation>
+            </string>
+            <string key="building_word.11f788955fa149d80c2ebc76863e3639" hash="11f788955fa149d80c2ebc76863e3639" gender="masc">
+                <original>a Building</original>
+                <variation index="indefinite_singular">a Building</variation>
+                <variation index="definite_singular">the Building</variation>
+                <variation index="indefinite_plural">some Buildings</variation>
+                <variation index="definite_plural">the Buildings</variation>
+                <variation index="singular">Building</variation>
+                <variation index="plural">Buildings</variation>
+                <variation index="indefinite_singular_accusative">a Building</variation>
+                <variation index="definite_singular_accusative">the Building</variation>
+                <variation index="indefinite_plural_accusative">some Buildings</variation>
+                <variation index="definite_plural_accusative">the Buildings</variation>
+                <variation index="singular_accusative">Building</variation>
+                <variation index="plural_accusative">Buildings</variation>
+            </string>
+            <string key="bunny_biscuit_word.4ee353081f0be6d17cce3c85557c9b3e" hash="4ee353081f0be6d17cce3c85557c9b3e" gender="masc">
+                <original>a Bunny Biscuit</original>
+                <variation index="indefinite_singular">a Bunny Biscuit</variation>
+                <variation index="definite_singular">the Bunny Biscuit</variation>
+                <variation index="indefinite_plural">some Bunny Biscuits</variation>
+                <variation index="definite_plural">the Bunny Biscuits</variation>
+                <variation index="singular">Bunny Biscuit</variation>
+                <variation index="plural">Bunny Biscuits</variation>
+                <variation index="indefinite_singular_accusative">a Bunny Biscuit</variation>
+                <variation index="definite_singular_accusative">the Bunny Biscuit</variation>
+                <variation index="indefinite_plural_accusative">some Bunny Biscuits</variation>
+                <variation index="definite_plural_accusative">the Bunny Biscuits</variation>
+                <variation index="singular_accusative">Bunny Biscuit</variation>
+                <variation index="plural_accusative">Bunny Biscuits</variation>
+            </string>
+            <string key="butter_desc.aab3d1ce157576cc985e2348ec4699ef" hash="aab3d1ce157576cc985e2348ec4699ef">
+                <original>With a little butter, everything tastes that much better!</original>
+            </string>
+            <string key="butter_rare_hint.e5961b0baa369b1c565601db04d82c3c" hash="e5961b0baa369b1c565601db04d82c3c">
+                <original>Butter</original>
+            </string>
+            <string key="butterflypeablossom_rare_desc.03704eea642648383429244f21919037" hash="03704eea642648383429244f21919037">
+                <original>A Butterfly Pea Blossom</original>
+            </string>
+            <string key="butterflypeablossom_rare_word.a8986aedf7ecc43249c912d012f75461" hash="a8986aedf7ecc43249c912d012f75461" gender="masc">
+                <original>a Butterfly Pea Blossom</original>
+                <variation index="indefinite_singular">a Butterfly Pea Blossom</variation>
+                <variation index="definite_singular">the Butterfly Pea Blossom</variation>
+                <variation index="indefinite_plural">some Butterfly Pea Blossoms</variation>
+                <variation index="definite_plural">the Butterfly Pea Blossoms</variation>
+                <variation index="singular">Butterfly Pea Blossom</variation>
+                <variation index="plural">Butterfly Pea Blossoms</variation>
+                <variation index="indefinite_singular_accusative">a Butterfly Pea Blossom</variation>
+                <variation index="definite_singular_accusative">the Butterfly Pea Blossom</variation>
+                <variation index="indefinite_plural_accusative">some Butterfly Pea Blossoms</variation>
+                <variation index="definite_plural_accusative">the Butterfly Pea Blossoms</variation>
+                <variation index="singular_accusative">Butterfly Pea Blossom</variation>
+                <variation index="plural_accusative">Butterfly Pea Blossoms</variation>
+            </string>
+            <string key="buttermilk_desc.7883840627e9a5b93b5b91560b1e43c4" hash="7883840627e9a5b93b5b91560b1e43c4">
+                <original>Thick, heavy milk</original>
+            </string>
+            <string key="buttermilk_rare_hint.81493544578fbe9b1f5b5698b1110576" hash="81493544578fbe9b1f5b5698b1110576">
+                <original>Buttermilk</original>
+            </string>
+            <string key="cake_carrot_desc.7ef4bd6d65b8850540ee1232d018ac6e" hash="7ef4bd6d65b8850540ee1232d018ac6e">
+                <original>A delicious treat, for brunch or for dessert</original>
+            </string>
+            <string key="cannot_sell_desc.b1a5ecb377b04427d3106db29a5e1968" hash="b1a5ecb377b04427d3106db29a5e1968">
+                <original>Spec Usage, Can't be sold for gold</original>
+            </string>
+            <string key="cash_word.b803d070ea132044f1771c1ee8d7bdd8" hash="b803d070ea132044f1771c1ee8d7bdd8" gender="masc">
+                <original>a Farm Bucks</original>
+                <variation index="indefinite_singular">a Farm Bucks</variation>
+                <variation index="definite_singular">the Farm Bucks</variation>
+                <variation index="indefinite_plural">some Farm Bucks</variation>
+                <variation index="definite_plural">the Farm Bucks</variation>
+                <variation index="singular">Farm Bucks</variation>
+                <variation index="plural">Farm Bucks</variation>
+                <variation index="indefinite_singular_accusative">a Farm Bucks</variation>
+                <variation index="definite_singular_accusative">the Farm Bucks</variation>
+                <variation index="indefinite_plural_accusative">some Farm Bucks</variation>
+                <variation index="definite_plural_accusative">the Farm Bucks</variation>
+                <variation index="singular_accusative">Farm Bucks</variation>
+                <variation index="plural_accusative">Farm Bucks</variation>
+            </string>
+            <string key="cd_shakestall_intro_two.f0b0e6418e149f2e554e802c60e70a00" hash="f0b0e6418e149f2e554e802c60e70a00">
+                <original>I'll need your help setting up a Shake Stall for the county!</original>
+            </string>
+            <string key="cd_uglysweater_intro_two.5dbed076adeffe83964d123adcfa2dc1" hash="5dbed076adeffe83964d123adcfa2dc1">
+                <original>I'm gonna organize an ugly sweater party. But I'll need your help!</original>
+            </string>
+            <string key="charm_bookmark_word.13b241cfa18c6230d1213bd86e82f40c" hash="13b241cfa18c6230d1213bd86e82f40c" gender="masc">
+                <original>a Bookmark Charm</original>
+                <variation index="indefinite_singular">a Bookmark Charm</variation>
+                <variation index="definite_singular">the Bookmark Charm</variation>
+                <variation index="indefinite_plural">some Bookmark Charms</variation>
+                <variation index="definite_plural">the Bookmark Charms</variation>
+                <variation index="singular">Bookmark Charm</variation>
+                <variation index="plural">Bookmark Charms</variation>
+                <variation index="indefinite_singular_accusative">a Bookmark Charm</variation>
+                <variation index="definite_singular_accusative">the Bookmark Charm</variation>
+                <variation index="indefinite_plural_accusative">some Bookmark Charms</variation>
+                <variation index="definite_plural_accusative">the Bookmark Charms</variation>
+                <variation index="singular_accusative">Bookmark Charm</variation>
+                <variation index="plural_accusative">Bookmark Charms</variation>
+            </string>
+            <string key="cheese_desc.a9c80518d453791acabf7fcc553c6d80" hash="a9c80518d453791acabf7fcc553c6d80">
+                <original>Say cheese! Or just make a fancy sandwich...</original>
+            </string>
+            <string key="cheese_rare_hint.84860fe84be0cda21a9667920b1913f6" hash="84860fe84be0cda21a9667920b1913f6">
+                <original>Feed your Goat or your Cow to obtain this {resource,object,singular}</original>
+                <variation index="0">Feed your Goat or your Cow to obtain this {resource,fem,singular}</variation>
+                <variation index="1">Feed your Goat or your Cow to obtain this {resource,masc,singular}</variation>
+                <variation index="2">Feed your Goat or your Cow to obtain this {resource,neuter,singular}</variation>
+            </string>
+            <string key="chicken_drop_hint.856bc195f412cdbacaf3d6ad51440bc7" hash="856bc195f412cdbacaf3d6ad51440bc7">
+                <original>Feed your chicken to obtain this {resource,object,singular}</original>
+                <variation index="0">Feed your chicken to obtain this {resource,fem,singular}</variation>
+                <variation index="1">Feed your chicken to obtain this {resource,masc,singular}</variation>
+                <variation index="2">Feed your chicken to obtain this {resource,neuter,singular}</variation>
+            </string>
+            <string key="chicken_word.e8fda63d9dfabcd4a172cad2329e232b" hash="e8fda63d9dfabcd4a172cad2329e232b" gender="masc">
+                <original>a Chicken</original>
+                <variation index="indefinite_singular">a Chicken</variation>
+                <variation index="definite_singular">the Chicken</variation>
+                <variation index="indefinite_plural">some Chickens</variation>
+                <variation index="definite_plural">the Chickens</variation>
+                <variation index="singular">Chicken</variation>
+                <variation index="plural">Chickens</variation>
+                <variation index="indefinite_singular_accusative">a Chicken</variation>
+                <variation index="definite_singular_accusative">the Chicken</variation>
+                <variation index="indefinite_plural_accusative">some Chickens</variation>
+                <variation index="definite_plural_accusative">the Chickens</variation>
+                <variation index="singular_accusative">Chicken</variation>
+                <variation index="plural_accusative">Chickens</variation>
+            </string>
+            <string key="chickenbedding_rare_desc.a055552d6d99a94b6100e8b96a759bda" hash="a055552d6d99a94b6100e8b96a759bda">
+                <original>Use Chicken Beddings to construct your Chicken Coop!</original>
+            </string>
+            <string key="chickenbedding_rare_word.1140f0312b5593b0767b3e27a53a86b8" hash="1140f0312b5593b0767b3e27a53a86b8" gender="masc">
+                <original>a Chicken Bedding</original>
+                <variation index="indefinite_singular">a Chicken Bedding</variation>
+                <variation index="definite_singular">the Chicken Bedding</variation>
+                <variation index="indefinite_plural">some Chicken Bedding</variation>
+                <variation index="definite_plural">the Chicken Bedding</variation>
+                <variation index="singular">Chicken Bedding</variation>
+                <variation index="plural">Chicken Bedding</variation>
+                <variation index="indefinite_singular_accusative">a Chicken Bedding</variation>
+                <variation index="definite_singular_accusative">the Chicken Bedding</variation>
+                <variation index="indefinite_plural_accusative">some Chicken Bedding</variation>
+                <variation index="definite_plural_accusative">the Chicken Bedding</variation>
+                <variation index="singular_accusative">Chicken Bedding</variation>
+                <variation index="plural_accusative">Chicken Bedding</variation>
+            </string>
+            <string key="chickencoop_name.91c416526c82537080fe3a41611d8f28" hash="91c416526c82537080fe3a41611d8f28">
+                <original>Chicken Coop</original>
+            </string>
+            <string key="chickencoop_word.8eb7a5320e4a52f84261816d335cd230" hash="8eb7a5320e4a52f84261816d335cd230" gender="masc">
+                <original>a Chicken Coop</original>
+                <variation index="indefinite_singular">a Chicken Coop</variation>
+                <variation index="definite_singular">the Chicken Coop</variation>
+                <variation index="indefinite_plural">some Chicken Coops</variation>
+                <variation index="definite_plural">the Chicken Coops</variation>
+                <variation index="singular">Chicken Coop</variation>
+                <variation index="plural">Chicken Coops</variation>
+                <variation index="indefinite_singular_accusative">a Chicken Coop</variation>
+                <variation index="definite_singular_accusative">the Chicken Coop</variation>
+                <variation index="indefinite_plural_accusative">some Chicken Coops</variation>
+                <variation index="definite_plural_accusative">the Chicken Coops</variation>
+                <variation index="singular_accusative">Chicken Coop</variation>
+                <variation index="plural_accusative">Chicken Coops</variation>
+            </string>
+            <string key="coins_20_word.46d33c74fccc84830a6eaf60d670ee44" hash="46d33c74fccc84830a6eaf60d670ee44" gender="masc">
+                <original>a Stack of 20 Coins</original>
+                <variation index="indefinite_singular">a Stack of 20 Coins</variation>
+                <variation index="definite_singular">the Stack of 20 Coins</variation>
+                <variation index="indefinite_plural">some Stacks of 20 Coins</variation>
+                <variation index="definite_plural">the Stacks of 20 Coins</variation>
+                <variation index="singular">Stack of 20 Coins</variation>
+                <variation index="plural">Stacks of 20 Coins</variation>
+                <variation index="indefinite_singular_accusative">a Stack of 20 Coins</variation>
+                <variation index="definite_singular_accusative">the Stack of 20 Coins</variation>
+                <variation index="indefinite_plural_accusative">some Stacks of 20 Coins</variation>
+                <variation index="definite_plural_accusative">the Stacks of 20 Coins</variation>
+                <variation index="singular_accusative">Stack of 20 Coins</variation>
+                <variation index="plural_accusative">Stacks of 20 Coins</variation>
+            </string>
+            <string key="coins_5_word.274ad61a10c9589256ebae131fa27d33" hash="274ad61a10c9589256ebae131fa27d33" gender="masc">
+                <original>a Stack of 5 Coins</original>
+                <variation index="indefinite_singular">a Stack of 5 Coins</variation>
+                <variation index="definite_singular">the Stack of 5 Coins</variation>
+                <variation index="indefinite_plural">some Stacks of 5 Coins</variation>
+                <variation index="definite_plural">the Stacks of 5 Coins</variation>
+                <variation index="singular">Stack of 5 Coins</variation>
+                <variation index="plural">Stacks of 5 Coins</variation>
+                <variation index="indefinite_singular_accusative">a Stack of 5 Coins</variation>
+                <variation index="definite_singular_accusative">the Stack of 5 Coins</variation>
+                <variation index="indefinite_plural_accusative">some Stacks of 5 Coins</variation>
+                <variation index="definite_plural_accusative">the Stacks of 5 Coins</variation>
+                <variation index="singular_accusative">Stack of 5 Coins</variation>
+                <variation index="plural_accusative">Stacks of 5 Coins</variation>
+            </string>
+            <string key="coins_buy_desc.2d878cb122db26186cc2de6dab39ed1b" hash="2d878cb122db26186cc2de6dab39ed1b">
+                <original>Buy Coins to replenish</original>
+            </string>
+            <string key="coins_buy_word.a56225595c08f0d7a00d4fed686da401" hash="a56225595c08f0d7a00d4fed686da401" gender="masc">
+                <original>a More Coins</original>
+                <variation index="indefinite_singular">a More Coins</variation>
+                <variation index="definite_singular">the More Coins</variation>
+                <variation index="indefinite_plural">some More Coins</variation>
+                <variation index="definite_plural">the More Coins</variation>
+                <variation index="singular">More Coins</variation>
+                <variation index="plural">More Coins</variation>
+                <variation index="indefinite_singular_accusative">a More Coins</variation>
+                <variation index="definite_singular_accusative">the More Coins</variation>
+                <variation index="indefinite_plural_accusative">some More Coins</variation>
+                <variation index="definite_plural_accusative">the More Coins</variation>
+                <variation index="singular_accusative">More Coins</variation>
+                <variation index="plural_accusative">More Coins</variation>
+            </string>
+            <string key="coins_large_word.2aba6cfd9c01e28153fd3303c060d8b1" hash="2aba6cfd9c01e28153fd3303c060d8b1" gender="masc">
+                <original>a Coin</original>
+                <variation index="indefinite_singular">a Coin</variation>
+                <variation index="definite_singular">the Coin</variation>
+                <variation index="indefinite_plural">some Coins</variation>
+                <variation index="definite_plural">the Coins</variation>
+                <variation index="singular">Coin</variation>
+                <variation index="plural">Coins</variation>
+                <variation index="indefinite_singular_accusative">a Coin</variation>
+                <variation index="definite_singular_accusative">the Coin</variation>
+                <variation index="indefinite_plural_accusative">some Coins</variation>
+                <variation index="definite_plural_accusative">the Coins</variation>
+                <variation index="singular_accusative">Coin</variation>
+                <variation index="plural_accusative">Coins</variation>
+            </string>
+            <string key="coins_medium_word.2aba6cfd9c01e28153fd3303c060d8b1" hash="2aba6cfd9c01e28153fd3303c060d8b1" gender="masc">
+                <original>a Coin</original>
+                <variation index="indefinite_singular">a Coin</variation>
+                <variation index="definite_singular">the Coin</variation>
+                <variation index="indefinite_plural">some Coins</variation>
+                <variation index="definite_plural">the Coins</variation>
+                <variation index="singular">Coin</variation>
+                <variation index="plural">Coins</variation>
+                <variation index="indefinite_singular_accusative">a Coin</variation>
+                <variation index="definite_singular_accusative">the Coin</variation>
+                <variation index="indefinite_plural_accusative">some Coins</variation>
+                <variation index="definite_plural_accusative">the Coins</variation>
+                <variation index="singular_accusative">Coin</variation>
+                <variation index="plural_accusative">Coins</variation>
+            </string>
+            <string key="coins_small_word.2aba6cfd9c01e28153fd3303c060d8b1" hash="2aba6cfd9c01e28153fd3303c060d8b1" gender="masc">
+                <original>a Coin</original>
+                <variation index="indefinite_singular">a Coin</variation>
+                <variation index="definite_singular">the Coin</variation>
+                <variation index="indefinite_plural">some Coins</variation>
+                <variation index="definite_plural">the Coins</variation>
+                <variation index="singular">Coin</variation>
+                <variation index="plural">Coins</variation>
+                <variation index="indefinite_singular_accusative">a Coin</variation>
+                <variation index="definite_singular_accusative">the Coin</variation>
+                <variation index="indefinite_plural_accusative">some Coins</variation>
+                <variation index="definite_plural_accusative">the Coins</variation>
+                <variation index="singular_accusative">Coin</variation>
+                <variation index="plural_accusative">Coins</variation>
+            </string>
+            <string key="coins_word.2aba6cfd9c01e28153fd3303c060d8b1" hash="2aba6cfd9c01e28153fd3303c060d8b1" gender="masc">
+                <original>a Coin</original>
+                <variation index="indefinite_singular">a Coin</variation>
+                <variation index="definite_singular">the Coin</variation>
+                <variation index="indefinite_plural">some Coins</variation>
+                <variation index="definite_plural">the Coins</variation>
+                <variation index="singular">Coin</variation>
+                <variation index="plural">Coins</variation>
+                <variation index="indefinite_singular_accusative">a Coin</variation>
+                <variation index="definite_singular_accusative">the Coin</variation>
+                <variation index="indefinite_plural_accusative">some Coins</variation>
+                <variation index="definite_plural_accusative">the Coins</variation>
+                <variation index="singular_accusative">Coin</variation>
+                <variation index="plural_accusative">Coins</variation>
+            </string>
+            <string key="colored_wood_stain_rare_word.f00f21cd4f30aca22a970f5d3c05ac9c" hash="f00f21cd4f30aca22a970f5d3c05ac9c" gender="masc">
+                <original>a Wood Stain</original>
+                <variation index="indefinite_singular">a Wood Stain</variation>
+                <variation index="definite_singular">the Wood Stain</variation>
+                <variation index="indefinite_plural">some Wood Stain</variation>
+                <variation index="definite_plural">the Wood Stain</variation>
+                <variation index="singular">Wood Stain</variation>
+                <variation index="plural">Wood Stain</variation>
+                <variation index="indefinite_singular_accusative">a Wood Stain</variation>
+                <variation index="definite_singular_accusative">the Wood Stain</variation>
+                <variation index="indefinite_plural_accusative">some Wood Stain</variation>
+                <variation index="definite_plural_accusative">the Wood Stain</variation>
+                <variation index="singular_accusative">Wood Stain</variation>
+                <variation index="plural_accusative">Wood Stain</variation>
+            </string>
+            <string key="complete_bh_order_word.8ac0ad86d8a861391eda03e7bb855585" hash="8ac0ad86d8a861391eda03e7bb855585" gender="masc">
+                <original>a Big Harvest Order</original>
+                <variation index="indefinite_singular">a Big Harvest Order</variation>
+                <variation index="definite_singular">the Big Harvest Order</variation>
+                <variation index="indefinite_plural">some Big Harvest Orders</variation>
+                <variation index="definite_plural">the Big Harvest Orders</variation>
+                <variation index="singular">Big Harvest Order</variation>
+                <variation index="plural">Big Harvest Orders</variation>
+                <variation index="indefinite_singular_accusative">a Big Harvest Order</variation>
+                <variation index="definite_singular_accusative">the Big Harvest Order</variation>
+                <variation index="indefinite_plural_accusative">some Big Harvest Orders</variation>
+                <variation index="definite_plural_accusative">the Big Harvest Orders</variation>
+                <variation index="singular_accusative">Big Harvest Order</variation>
+                <variation index="plural_accusative">Big Harvest Orders</variation>
+            </string>
+            <string key="cookies_skeleton_desc.3d76c980ce86ccf499b9addbaf598e58" hash="3d76c980ce86ccf499b9addbaf598e58">
+                <original>Skeleton cookies are the ideal way to let people know that even though you have morbid thoughts, you're still light-hearted in general.</original>
+            </string>
+            <string key="cow_drop_hint.4a8eeb0c7b3fb87c0e78ef5b791b9577" hash="4a8eeb0c7b3fb87c0e78ef5b791b9577">
+                <original>Feed your cow to obtain this {resource,object,singular}</original>
+                <variation index="0">Feed your cow to obtain this {resource,fem,singular}</variation>
+                <variation index="1">Feed your cow to obtain this {resource,masc,singular}</variation>
+                <variation index="2">Feed your cow to obtain this {resource,neuter,singular}</variation>
+            </string>
+            <string key="craft_kiln_hint.c75810ff68cb7dbf893ddf76a50f2c93" hash="c75810ff68cb7dbf893ddf76a50f2c93">
+                <original>Create this {resource,object,singular} in your Crafting Kiln</original>
+                <variation index="0">Create this {resource,fem,singular} in your Crafting Kiln</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Crafting Kiln</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Crafting Kiln</variation>
+            </string>
+            <string key="craft_kitchen_hint.7d0bae73e58690585685f77f3dbd7d56" hash="7d0bae73e58690585685f77f3dbd7d56">
+                <original>Create this {resource,object,singular} in your Kitchen</original>
+                <variation index="0">Create this {resource,fem,singular} in your Kitchen</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Kitchen</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Kitchen</variation>
+            </string>
+            <string key="craft_workshop_hint.373ee774b782e01b4215abf43bafc39d" hash="373ee774b782e01b4215abf43bafc39d">
+                <original>Create this {resource,object,singular} in your Workshop</original>
+                <variation index="0">Create this {resource,fem,singular} in your Workshop</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Workshop</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Workshop</variation>
+            </string>
+            <string key="crafting_timed_hint.df89356a63869a2cfd25e98f75b2e9bf" hash="df89356a63869a2cfd25e98f75b2e9bf">
+                <original>Create this {resource,object,singular} in your Jam Jamboree Shelf</original>
+                <variation index="0">Create this {resource,fem,singular} in your Jam Jamboree Shelf</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Jam Jamboree Shelf</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Jam Jamboree Shelf</variation>
+            </string>
+            <string key="crafting_timed_jam_hint.4dcd67fccc2917b0a1850d3f4568d150" hash="4dcd67fccc2917b0a1850d3f4568d150">
+                <original>Create this {resource,object,singular} in your Jam Shelf</original>
+                <variation index="0">Create this {resource,fem,singular} in your Jam Shelf</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Jam Shelf</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Jam Shelf</variation>
+            </string>
+            <string key="crafting_timed_tea_hint.f7661c0e7adbacb0a547a5ce6340565a" hash="f7661c0e7adbacb0a547a5ce6340565a">
+                <original>Create this {resource,object,singular} in your Tea Brewing Bar.</original>
+                <variation index="0">Create this {resource,fem,singular} in your Tea Brewing Bar.</variation>
+                <variation index="1">Create this {resource,masc,singular} in your Tea Brewing Bar.</variation>
+                <variation index="2">Create this {resource,neuter,singular} in your Tea Brewing Bar.</variation>
+            </string>
+            <string key="crate_rocks_rare_desc.cc2b0b4df1e059b708d4c43d509921ee" hash="cc2b0b4df1e059b708d4c43d509921ee">
+                <original>a Crate of Rocks</original>
+            </string>
+            <string key="crate_rocks_rare_word.cc2b0b4df1e059b708d4c43d509921ee" hash="cc2b0b4df1e059b708d4c43d509921ee" gender="masc">
+                <original>a Crate of Rocks</original>
+                <variation index="indefinite_singular">a Crate of Rocks</variation>
+                <variation index="definite_singular">the Crate of Rocks</variation>
+                <variation index="indefinite_plural">some Crates of Rocks</variation>
+                <variation index="definite_plural">the Crates of Rocks</variation>
+                <variation index="singular">Crate of Rocks</variation>
+                <variation index="plural">Crates of Rocks</variation>
+                <variation index="indefinite_singular_accusative">a Crate of Rocks</variation>
+                <variation index="definite_singular_accusative">the Crate of Rocks</variation>
+                <variation index="indefinite_plural_accusative">some Crates of Rocks</variation>
+                <variation index="definite_plural_accusative">the Crates of Rocks</variation>
+                <variation index="singular_accusative">Crate of Rocks</variation>
+                <variation index="plural_accusative">Crates of Rocks</variation>
+            </string>
+            <string key="credits_viral_desc.1a7181682e10a0e18cc4ff4005ef22f8" hash="1a7181682e10a0e18cc4ff4005ef22f8">
+                <original>Exchange Credits to activate Boosts and supercharge your farm actions.</original>
+            </string>
+            <string key="credits_viral_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
+                <original>a Credit</original>
+                <variation index="indefinite_singular">a Credit</variation>
+                <variation index="definite_singular">the Credit</variation>
+                <variation index="indefinite_plural">some Credits</variation>
+                <variation index="definite_plural">the Credits</variation>
+                <variation index="singular">Credit</variation>
+                <variation index="plural">Credits</variation>
+                <variation index="indefinite_singular_accusative">a Credit</variation>
+                <variation index="definite_singular_accusative">the Credit</variation>
+                <variation index="indefinite_plural_accusative">some Credits</variation>
+                <variation index="definite_plural_accusative">the Credits</variation>
+                <variation index="singular_accusative">Credit</variation>
+                <variation index="plural_accusative">Credits</variation>
+            </string>
+            <string key="credits_word.5804a7e826f931850478855b46ef355a" hash="5804a7e826f931850478855b46ef355a" gender="masc">
+                <original>a Credit</original>
+                <variation index="indefinite_singular">a Credit</variation>
+                <variation index="definite_singular">the Credit</variation>
+                <variation index="indefinite_plural">some Credits</variation>
+                <variation index="definite_plural">the Credits</variation>
+                <variation index="singular">Credit</variation>
+                <variation index="plural">Credits</variation>
+                <variation index="indefinite_singular_accusative">a Credit</variation>
+                <variation index="definite_singular_accusative">the Credit</variation>
+                <variation index="indefinite_plural_accusative">some Credits</variation>
+                <variation index="definite_plural_accusative">the Credits</variation>
+                <variation index="singular_accusative">Credit</variation>
+                <variation index="plural_accusative">Credits</variation>
+            </string>
+            <string key="crop_rare_dry_hint.386fdfa59e85f6b16e84ccae32884dc6" hash="386fdfa59e85f6b16e84ccae32884dc6">
+                <original>Dry {resource,object,plural,indefinite} in your Crop Dryer</original>
+                <variation index="0">Dry {resource,fem,plural,indefinite} in your Crop Dryer</variation>
+                <variation index="1">Dry {resource,masc,plural,indefinite} in your Crop Dryer</variation>
+                <variation index="2">Dry {resource,neuter,plural,indefinite} in your Crop Dryer</variation>
+            </string>
         </pkg>
     </strings>
